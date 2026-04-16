@@ -6,86 +6,46 @@
     <title>Resonance Signal</title>
     <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
     <style>
-        :root { --bg: #080810; --surface: #0e0e1a; --surface2: #13131f; --border: rgba(255,255,255,0.06); --border-bright: rgba(255,255,255,0.12); --text: #e8e6f0; --text-2: #7a7890; --text-3: #3a3850; --accent: #7b6cff; --accent-2: #ff6b6b; --accent-3: #4ecdc4; --accent-4: #ffd93d; --accent-5: #6bcb77; --hot: #ff6b6b; --warm: #ffd93d; --cool: #4ecdc4; --cold: #7b6cff; }
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        html { scroll-behavior: smooth; }
-        body { font-family: 'Syne', sans-serif; background: var(--bg); color: var(--text); overflow-x: hidden; min-height: 100vh; }
-        body::after { content: ''; position: fixed; inset: 0; background: repeating-linear-gradient(0deg, transparent, transparent 3px, rgba(0,0,0,0.03) 3px, rgba(0,0,0,0.03) 4px); pointer-events: none; z-index: 9000; }
-        nav { position: fixed; top: 0; left: 0; right: 0; z-index: 8000; display: flex; align-items: center; justify-content: space-between; padding: 16px 40px; background: rgba(8,8,16,0.85); backdrop-filter: blur(20px); border-bottom: 1px solid var(--border); }
-        .nav-logo { display: flex; align-items: center; gap: 10px; }
-        .logo-mark { width: 28px; height: 28px; position: relative; }
-        .logo-mark svg { width: 100%; height: 100%; }
-        .logo-text { font-size: 0.95rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--text); }
-        .logo-text span { color: var(--accent); }
-        .nav-status { display: flex; align-items: center; gap: 6px; font-family: 'DM Mono', monospace; font-size: 0.65rem; color: var(--text-2); letter-spacing: 0.08em; }
-        .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--accent-5); animation: livepulse 2s ease-in-out infinite; }
-        @keyframes livepulse { 0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(107,203,119,0.4); } 50% { opacity: 0.7; box-shadow: 0 0 0 4px rgba(107,203,119,0); } }
-        .nav-right { display: flex; align-items: center; gap: 24px; }
-        .nav-link { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.1em; color: var(--text-3); text-decoration: none; text-transform: uppercase; transition: color 0.2s; cursor: pointer; }
-        .nav-link:hover { color: var(--text-2); }
-        .hero { min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 120px 40px 80px; position: relative; overflow: hidden; text-align: center; }
-        .hero-bg { position: absolute; inset: 0; pointer-events: none; }
-        .hero-orb { position: absolute; border-radius: 50%; filter: blur(80px); }
-        .hero-orb-1 { width: 600px; height: 600px; background: radial-gradient(circle, rgba(123,108,255,0.12) 0%, transparent 70%); top: -200px; left: -100px; }
-        .hero-orb-2 { width: 500px; height: 500px; background: radial-gradient(circle, rgba(78,205,196,0.08) 0%, transparent 70%); bottom: -100px; right: -100px; }
-        .hero-grid { position: absolute; inset: 0; background-image: linear-gradient(rgba(123,108,255,0.03) 1px, transparent 1px), linear-gradient(90deg, rgba(123,108,255,0.03) 1px, transparent 1px); background-size: 80px 80px; }
-        .hero-title { font-size: clamp(3rem, 8vw, 6.5rem); font-weight: 800; line-height: 0.92; letter-spacing: -0.03em; margin-bottom: 28px; }
-        .hero-title .line-2 { color: transparent; -webkit-text-stroke: 1px rgba(123,108,255,0.4); }
-        .hero-title .line-3 { color: var(--accent); }
-        .hero-desc { max-width: 520px; color: var(--text-2); line-height: 1.7; margin-bottom: 48px; }
-        .hero-stats { display: flex; gap: 40px; justify-content: center; flex-wrap: wrap; }
-        .hero-stat-num { font-size: 2rem; font-weight: 800; color: var(--text); }
-        .hero-stat-num .unit { font-size: 0.9rem; color: var(--accent); }
-        .hero-stat-label { font-family: 'DM Mono', monospace; font-size: 0.6rem; color: var(--text-3); text-transform: uppercase; }
-        section { padding: 100px 40px; position: relative; }
-        .section-inner { max-width: 1100px; margin: 0 auto; }
-        .section-tag { font-family: 'DM Mono', monospace; font-size: 0.6rem; color: var(--accent); text-transform: uppercase; margin-bottom: 16px; }
-        .section-title { font-size: clamp(1.8rem, 4vw, 3rem); font-weight: 700; margin-bottom: 16px; }
-        .section-sub { font-size: 1rem; color: var(--text-2); line-height: 1.7; max-width: 560px; margin-bottom: 56px; }
-        .map-layout { display: grid; grid-template-columns: 1fr 320px; gap: 32px; align-items: start; }
-        @media (max-width: 900px) { .map-layout { grid-template-columns: 1fr; } }
-        .map-container { position: relative; border: 1px solid var(--border); border-radius: 12px; overflow: hidden; background: var(--bg); }
-        .map-header { padding: 14px 18px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; }
-        .map-title { font-family: 'DM Mono', monospace; font-size: 0.62rem; color: var(--text-2); text-transform: uppercase; }
-        #world-map { width: 100%; height: 400px; display: block; cursor: crosshair; }
-        .map-legend { padding: 12px 18px; border-top: 1px solid var(--border); display: flex; align-items: center; gap: 20px; flex-wrap: wrap; }
-        .legend-item { display: flex; align-items: center; gap: 6px; font-family: 'DM Mono', monospace; font-size: 0.58rem; color: var(--text-3); }
-        .legend-dot { width: 8px; height: 8px; border-radius: 50%; }
-        .sidebar-card { background: var(--bg); border: 1px solid var(--border); border-radius: 10px; padding: 18px; margin-bottom: 16px; }
-        .sidebar-card-title { font-family: 'DM Mono', monospace; font-size: 0.58rem; color: var(--text-3); text-transform: uppercase; margin-bottom: 14px; }
-        .country-name { font-size: 1.2rem; font-weight: 700; color: var(--text); }
-        .genre-bar-list { display: flex; flex-direction: column; gap: 8px; }
-        .genre-bar-top { display: flex; justify-content: space-between; align-items: center; }
-        .genre-bar-name { font-size: 0.78rem; font-weight: 600; }
-        .genre-bar-track { height: 3px; background: var(--border); border-radius: 2px; overflow: hidden; }
-        .genre-bar-fill { height: 100%; transition: width 0.6s ease; }
-        .gap-chart-wrap { border: 1px solid var(--border); border-radius: 12px; overflow: hidden; background: var(--surface); }
-        .gap-chart-header { padding: 16px 20px; border-bottom: 1px solid var(--border); display: grid; grid-template-columns: 1fr 100px 100px 120px; gap: 8px; }
-        .gap-col-label { font-family: 'DM Mono', monospace; font-size: 0.58rem; color: var(--text-3); text-transform: uppercase; }
-        .gap-row { display: grid; grid-template-columns: 1fr 100px 100px 120px; gap: 8px; align-items: center; padding: 10px 20px; border-bottom: 1px solid rgba(255,255,255,0.03); }
-        .signal-pill { font-family: 'DM Mono', monospace; font-size: 0.6rem; padding: 3px 10px; border-radius: 20px; text-align: center; }
-        .signal-pill.aligned { background: rgba(107,203,119,0.12); color: var(--accent-5); border: 1px solid rgba(107,203,119,0.25); }
-        .velocity-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2px; }
-        .velocity-card { background: var(--bg); border: 1px solid var(--border); padding: 24px; position: relative; }
-        .velocity-card.rising::before { content:''; position:absolute; top:0; left:0; right:0; height:2px; background: var(--accent-5); }
-        .emerging-table { width: 100%; border-collapse: collapse; border: 1px solid var(--border); }
-        .emerging-table th { font-family: 'DM Mono', monospace; font-size: 0.58rem; color: var(--text-3); padding: 12px 16px; text-align: left; background: rgba(255,255,255,0.03); }
-        .emerging-table td { padding: 12px 16px; font-size: 0.82rem; border-bottom: 1px solid rgba(255,255,255,0.03); }
-        .map-tooltip { position: absolute; background: var(--surface2); border: 1px solid var(--border-bright); border-radius: 6px; padding: 8px 12px; font-family: 'DM Mono', monospace; font-size: 0.62rem; color: var(--text); pointer-events: none; display: none; z-index: 100; }
-        .reveal { opacity: 0; transform: translateY(20px); transition: all 0.6s ease-out; }
-        .reveal.in { opacity: 1; transform: translateY(0); }
+        :root{--bg:#080810;--surface:#0e0e1a;--surface2:#13131f;--border:rgba(255,255,255,0.06);--border-bright:rgba(255,255,255,0.12);--text:#e8e6f0;--text-2:#7a7890;--text-3:#3a3850;--accent:#7b6cff;--accent-2:#ff6b6b;--accent-3:#4ecdc4;--accent-4:#ffd93d;--accent-5:#6bcb77;--hot:#ff6b6b;--warm:#ffd93d;--cool:#4ecdc4;--cold:#7b6cff}
+        *{box-sizing:border-box;margin:0;padding:0}
+        html{scroll-behavior:smooth}
+        body{font-family:'Syne',sans-serif;background:var(--bg);color:var(--text);overflow-x:hidden;min-height:100vh}
+        body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(0,0,0,0.03) 3px,rgba(0,0,0,0.03) 4px);pointer-events:none;z-index:9000}
+        nav{position:fixed;top:0;left:0;right:0;z-index:8000;display:flex;align-items:center;justify-content:space-between;padding:16px 40px;background:rgba(8,8,16,0.85);backdrop-filter:blur(20px);border-bottom:1px solid var(--border)}
+        .nav-logo{display:flex;align-items:center;gap:10px}
+        .logo-text{font-size:0.95rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--text)}
+        .logo-text span{color:var(--accent)}
+        .nav-status{display:flex;align-items:center;gap:6px;font-family:'DM Mono',monospace;font-size:0.65rem;color:var(--text-2);letter-spacing:0.08em}
+        .live-dot{width:6px;height:6px;border-radius:50%;background:var(--accent-5);animation:livepulse 2s ease-in-out infinite}
+        @keyframes livepulse{0%,100%{opacity:1;box-shadow:0 0 0 0 rgba(107,203,119,0.4)}50%{opacity:0.7;box-shadow:0 0 0 4px rgba(107,203,119,0)}}
+        .nav-right{display:flex;align-items:center;gap:24px}.nav-link{font-family:'DM Mono',monospace;font-size:0.65rem;letter-spacing:0.1em;color:var(--text-3);text-decoration:none;text-transform:uppercase;cursor:pointer}
+        .hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:120px 40px 80px;position:relative;text-align:center}
+        .hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(123,108,255,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(123,108,255,0.03) 1px,transparent 1px);background-size:80px 80px;z-index:-1}
+        .hero-title{font-size:clamp(3rem,8vw,6.5rem);font-weight:800;line-height:0.92;margin-bottom:28px}
+        .hero-title .line-2{color:transparent;-webkit-text-stroke:1px rgba(123,108,255,0.4)}
+        .hero-desc{max-width:520px;color:var(--text-2);line-height:1.7;margin-bottom:48px}
+        section{padding:100px 40px}.section-inner{max-width:1100px;margin:0 auto}
+        .map-layout{display:grid;grid-template-columns:1fr 320px;gap:32px;align-items:start}
+        .map-container{border:1px solid var(--border);border-radius:12px;overflow:hidden;background:var(--bg);position:relative}
+        #world-map{width:100%;height:400px;display:block;cursor:crosshair}
+        .sidebar-card{background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:18px;margin-bottom:16px}
+        .country-name{font-size:1.2rem;font-weight:700;margin-bottom:2px}
+        .genre-bar-track{height:3px;background:var(--border);border-radius:2px;overflow:hidden;margin-top:4px}
+        .genre-bar-fill{height:100%;transition:width 0.6s ease}
+        .gap-chart-wrap{border:1px solid var(--border);border-radius:12px;overflow:hidden;background:var(--surface)}
+        .gap-row{display:grid;grid-template-columns:1fr 100px 100px 120px;padding:10px 20px;border-bottom:1px solid rgba(255,255,255,0.03)}
+        .signal-pill{font-family:'DM Mono',monospace;font-size:0.6rem;padding:3px 10px;border-radius:20px;border:1px solid transparent}
+        .signal-pill.aligned{background:rgba(107,203,119,0.1);color:var(--accent-5);border-color:rgba(107,203,119,0.2)}
+        .velocity-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:2px}
+        .velocity-card{background:var(--bg);border:1px solid var(--border);padding:24px}
+        .emerging-table{width:100%;border-collapse:collapse}.emerging-table th{padding:12px;text-align:left;color:var(--text-3);font-family:'DM Mono',monospace;font-size:0.6rem}
+        .emerging-table td{padding:12px;border-bottom:1px solid rgba(255,255,255,0.03);font-size:0.82rem}
+        .map-tooltip{position:absolute;background:var(--surface2);border:1px solid var(--border-bright);padding:8px;font-family:'DM Mono',monospace;font-size:0.6rem;display:none;pointer-events:none;z-index:100}
     </style>
 </head>
 <body>
     <nav>
-        <div class="nav-logo">
-            <div class="logo-mark">
-                <svg viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <circle cx="14" cy="14" r="5" fill="#7b6cff" opacity="0.9"/><circle cx="14" cy="14" r="9" stroke="#7b6cff" stroke-width="0.8" opacity="0.4"/><circle cx="14" cy="14" r="13" stroke="#7b6cff" stroke-width="0.5" opacity="0.2"/>
-                </svg>
-            </div>
-            <span class="logo-text">RESONANCE <span>SIGNAL</span></span>
-        </div>
+        <div class="nav-logo"><span class="logo-text">RESONANCE <span>SIGNAL</span></span></div>
         <div class="nav-status"><div class="live-dot"></div>LIVE · UPDATED DAILY</div>
         <div class="nav-right">
             <span class="nav-link" onclick="document.getElementById('map-section').scrollIntoView({behavior:'smooth'})">Global Map</span>
@@ -94,34 +54,27 @@
     </nav>
 
     <div class="hero">
-        <div class="hero-bg"><div class="hero-grid"></div><div class="hero-orb hero-orb-1"></div><div class="hero-orb hero-orb-2"></div></div>
+        <div class="hero-grid"></div>
         <h1 class="hero-title"><span class="line-1">WHERE MUSIC</span><span class="line-2">MOVES BEFORE</span><span class="line-3">IT CHARTS</span></h1>
         <p class="hero-desc">Connecting DJ play signals with commercial purchase data across electronic music markets.</p>
-        <div class="hero-stats">
-            <div class="hero-stat"><div class="hero-stat-num">34<span class="unit">k+</span></div><div class="hero-stat-label">DJ sets analysed</div></div>
-            <div class="hero-stat"><div class="hero-stat-num">180<span class="unit">+</span></div><div class="hero-stat-label">Markets tracked</div></div>
-        </div>
     </div>
 
     <section id="map-section">
         <div class="section-inner">
-            <div class="section-tag reveal">Global Signal Map</div>
-            <h2 class="section-title reveal">Genre heat by market</h2>
-            <div class="map-layout reveal">
+            <h2 style="margin-bottom:32px">Global Signal Map</h2>
+            <div class="map-layout">
                 <div class="map-container">
-                    <div class="map-header"><span class="map-title">Global Activity · Rolling 30 days</span><span class="map-meta" id="map-timestamp"></span></div>
                     <canvas id="world-map"></canvas>
-                    <div class="map-tooltip" id="map-tooltip"></div>
+                    <div id="map-tooltip" class="map-tooltip"></div>
                 </div>
                 <div class="map-sidebar">
                     <div class="sidebar-card">
-                        <div class="sidebar-card-title">Selected market</div>
-                        <div class="country-name" id="sel-country">Loading...</div>
-                        <div class="country-sub" id="sel-country-sub"></div>
-                        <div class="genre-bar-list" id="sel-genre-bars"></div>
+                        <div id="sel-country" class="country-name">Select Market</div>
+                        <div id="sel-country-sub" style="font-size:0.6rem;color:var(--text-3);margin-bottom:12px"></div>
+                        <div id="sel-genre-bars" class="genre-bar-list"></div>
                     </div>
                     <div class="sidebar-card">
-                        <div class="sidebar-card-title">Leading signals</div>
+                        <div style="font-family:'DM Mono',monospace;font-size:0.6rem;color:var(--text-3);margin-bottom:12px">LEADING SIGNALS</div>
                         <div id="leading-signals"></div>
                     </div>
                 </div>
@@ -131,28 +84,23 @@
 
     <section id="gap-section">
         <div class="section-inner">
-            <h2 class="section-title reveal">Play / Buy Gap</h2>
-            <div class="gap-chart-wrap reveal">
-                <div class="gap-chart-header">
-                    <div class="gap-col-label">Artist</div><div class="gap-col-label">DJ Rank</div><div class="gap-col-label">Sales Rank</div><div class="gap-col-label">Signal</div>
-                </div>
-                <div id="gap-rows"></div>
-            </div>
+            <h2 style="margin-bottom:32px">Play / Buy Gap</h2>
+            <div class="gap-chart-wrap" id="gap-rows"></div>
         </div>
     </section>
 
     <section id="velocity-section">
         <div class="section-inner">
-            <h2 class="section-title reveal">Trend Velocity</h2>
+            <h2 style="margin-bottom:32px">Trend Velocity</h2>
             <div class="velocity-grid" id="velocity-grid"></div>
         </div>
     </section>
 
     <section id="emerging-section">
         <div class="section-inner">
-            <h2 class="section-title reveal">Emerging</h2>
+            <h2 style="margin-bottom:32px">Emerging Artists</h2>
             <table class="emerging-table">
-                <thead><tr><th>Track</th><th>Artist</th><th>Label</th><th>Plays</th><th>Heat</th><th>Market</th></tr></thead>
+                <thead><tr><th>Artist</th><th>Label</th><th>Plays</th><th>Heat</th></tr></thead>
                 <tbody id="emerging-tbody"></tbody>
             </table>
         </div>
@@ -161,19 +109,6 @@
     <script>
         const SIGNAL_LABELS = { aligned: 'Aligned', 'dj-play': 'DJ-led', 'fan-buy': 'Fan-driven', underground: 'Underground' };
         let GAP_DATA = [], VELOCITY_DATA = [], GEO_DATA = [], EMERGING_DATA = [], COUNTRIES = [];
-        let _mapCanvasReady = false;
-
-        function updateSidebar(country) {
-            if (!country) return;
-            document.getElementById('sel-country').textContent = country.name;
-            document.getElementById('sel-country-sub').textContent = `${country.sets} sets logged · last 30d`;
-            const bars = document.getElementById('sel-genre-bars');
-            bars.innerHTML = country.genres.map(g => `
-                <div class="genre-bar-row">
-                    <div class="genre-bar-top"><span class="genre-bar-name">${g.n}</span><span class="genre-bar-val">${g.v}%</span></div>
-                    <div class="genre-bar-track"><div class="genre-bar-fill" style="width:${g.v}%;background:${g.c}"></div></div>
-                </div>`).join('');
-        }
 
         async function loadData() {
             try {
@@ -189,51 +124,57 @@
                     fetch(base+'signals.json').then(r => r.json())
                 ]);
 
-                [GAP_DATA, VELOCITY_DATA, GEO_DATA, EMERGING_DATA, COUNTRIES] = results;
+                GAP_DATA = results[0]; VELOCITY_DATA = results[1]; GEO_DATA = results[2];
+                EMERGING_DATA = results[3]; COUNTRIES = results[4]; 
                 const signals = results[5];
 
-                renderAll(signals);
-                if (COUNTRIES.length) updateSidebar(COUNTRIES[0]);
-                initMapCanvas();
-                console.log("Data loaded successfully.");
+                renderData(signals);
+                _startMapCanvas(); // Start map after data is ready
             } catch (e) {
                 console.error('Resonance Signal: Data load failed', e);
             }
         }
 
-        function renderAll(signals) {
+        function renderData(signals) {
             document.getElementById('gap-rows').innerHTML = GAP_DATA.map(r => `
                 <div class="gap-row">
-                    <div class="gap-artist"><span class="gap-artist-name">${r.artist}</span><span class="gap-artist-genre">${r.genre}</span></div>
-                    <div class="rank-badge ${r.playRank?'present':'absent'}">${r.playRank?'#'+r.playRank:'—'}</div>
-                    <div class="rank-badge ${r.buyRank?'present':'absent'}">${r.buyRank?'#'+r.buyRank:'—'}</div>
-                    <div class="gap-signal"><span class="signal-pill ${r.signal}">${SIGNAL_LABELS[r.signal]}</span></div>
+                    <div><strong>${r.artist}</strong><br><small style="color:var(--text-3)">${r.genre}</small></div>
+                    <div style="font-family:'DM Mono'">${r.playRank ? '#'+r.playRank : '—'}</div>
+                    <div style="font-family:'DM Mono'">${r.buyRank ? '#'+r.buyRank : '—'}</div>
+                    <div><span class="signal-pill ${r.signal}">${SIGNAL_LABELS[r.signal]}</span></div>
                 </div>`).join('');
 
             document.getElementById('velocity-grid').innerHTML = VELOCITY_DATA.map(v => `
-                <div class="velocity-card ${v.status}">
-                    <div class="velocity-genre">${v.genre}</div>
-                    <div class="velocity-status ${v.status}">${v.status.toUpperCase()}</div>
-                    <div class="velocity-bar-labels"><span>DJ PLAY</span><span>${v.playPct}%</span></div>
-                    <div class="velocity-bar"><div class="velocity-fill" style="width:${v.playPct}%;background:var(--cool)"></div></div>
-                    <div style="font-size:0.6rem; color:var(--text-3); margin-top:8px;">${v.delta}</div>
+                <div class="velocity-card">
+                    <div style="font-weight:700">${v.genre}</div>
+                    <div style="font-size:0.6rem;color:var(--accent-5);margin-bottom:8px">${v.status.toUpperCase()}</div>
+                    <div style="font-size:0.7rem;color:var(--text-2)">Play: ${v.playPct}% | Buy: ${v.buyPct}%</div>
                 </div>`).join('');
 
             document.getElementById('emerging-tbody').innerHTML = EMERGING_DATA.map(t => `
-                <tr>
-                    <td>${t.title}</td><td>${t.artist}</td><td>${t.label}</td><td>${t.plays}</td>
-                    <td>${Math.round(t.heat*100)}%</td><td>${t.market}</td>
-                </tr>`).join('');
+                <tr><td>${t.artist}</td><td>${t.label}</td><td>${t.plays}</td><td>${Math.round(t.heat*100)}%</td></tr>
+            `).join('');
 
             document.getElementById('leading-signals').innerHTML = signals.map(s => `
-                <div style="display:flex;align-items:center;gap:10px;margin-bottom:8px;">
+                <div style="display:flex;align-items:center;gap:10px;margin-bottom:10px">
                     <div style="width:6px;height:6px;border-radius:50%;background:${s.c}"></div>
-                    <div><div style="font-size:0.75rem;font-weight:600;">${s.text}</div><div style="font-size:0.55rem;color:var(--text-3);">${s.sub}</div></div>
+                    <div><div style="font-size:0.75rem;font-weight:600">${s.text}</div><div style="font-size:0.55rem;color:var(--text-3)">${s.sub}</div></div>
+                </div>`).join('');
+            
+            if(COUNTRIES.length > 0) updateSidebar(COUNTRIES[0]);
+        }
+
+        function updateSidebar(country) {
+            document.getElementById('sel-country').textContent = country.name;
+            document.getElementById('sel-country-sub').textContent = `${country.sets} sets logged`;
+            document.getElementById('sel-genre-bars').innerHTML = country.genres.map(g => `
+                <div style="margin-bottom:8px">
+                    <div style="display:flex;justify-content:space-between;font-size:0.7rem"><span>${g.n}</span><span>${g.v}%</span></div>
+                    <div class="genre-bar-track"><div class="genre-bar-fill" style="width:${g.v}%;background:${g.c}"></div></div>
                 </div>`).join('');
         }
 
-        function initMapCanvas() {
-            if (_mapCanvasReady) return;
+        function _startMapCanvas() {
             const canvas = document.getElementById('world-map');
             const ctx = canvas.getContext('2d');
             const tooltip = document.getElementById('map-tooltip');
@@ -247,41 +188,59 @@
                 {name:'Brazil', code:'BR', x:0.29, y:0.62, r:22, c:'#ffd93d'}
             ];
 
-            function resize() {
-                W = canvas.parentNode.offsetWidth;
-                H = 400;
+            function init() {
+                W = canvas.offsetWidth; H = canvas.offsetHeight;
                 canvas.width = W * window.devicePixelRatio;
                 canvas.height = H * window.devicePixelRatio;
-                canvas.style.width = W + 'px';
-                canvas.style.height = H + 'px';
                 ctx.scale(window.devicePixelRatio, window.devicePixelRatio);
             }
 
-            function draw() {
+            function draw(ts) {
                 ctx.clearRect(0,0,W,H);
+                const t = ts/1000;
                 REGIONS.forEach(r => {
-                    const x = r.x * W; const y = r.y * H;
-                    ctx.beginPath(); ctx.arc(x, y, r.r, 0, Math.PI*2);
-                    ctx.fillStyle = r.c; ctx.globalAlpha = 0.3; ctx.fill();
-                    ctx.globalAlpha = 1; ctx.strokeStyle = r.c; ctx.stroke();
-                    ctx.font = '9px Syne'; ctx.textAlign = 'center'; ctx.fillText(r.code, x, y + r.r + 12);
+                    const pulse = Math.sin(t + r.x*10)*0.1 + 0.9;
+                    ctx.beginPath();
+                    ctx.arc(r.x*W, r.y*H, r.r * pulse, 0, Math.PI*2);
+                    ctx.fillStyle = r.c; ctx.globalAlpha = 0.2; ctx.fill();
+                    ctx.strokeStyle = r.c; ctx.globalAlpha = 0.6; ctx.stroke();
+                    ctx.globalAlpha = 1; ctx.fillStyle = r.c; ctx.font = '9px Syne';
+                    ctx.textAlign = 'center'; ctx.fillText(r.code, r.x*W, r.y*H + r.r + 12);
                 });
                 requestAnimationFrame(draw);
             }
 
-            window.addEventListener('resize', resize);
-            resize(); draw(); _mapCanvasReady = true;
+            canvas.addEventListener('mousemove', e => {
+                const rect = canvas.getBoundingClientRect();
+                const mx = e.clientX - rect.left; const my = e.clientY - rect.top;
+                let hit = null;
+                REGIONS.forEach(r => {
+                    if(Math.hypot(mx - r.x*W, my - r.y*H) < r.r + 5) hit = r;
+                });
+                if(hit) {
+                    tooltip.style.display = 'block'; tooltip.style.left = (mx+10)+'px'; tooltip.style.top = (my-10)+'px';
+                    tooltip.textContent = hit.name; canvas.style.cursor = 'pointer';
+                } else {
+                    tooltip.style.display = 'none'; canvas.style.cursor = 'crosshair';
+                }
+            });
+
+            canvas.addEventListener('click', e => {
+                const rect = canvas.getBoundingClientRect();
+                const mx = e.clientX - rect.left; const my = e.clientY - rect.top;
+                REGIONS.forEach(r => {
+                    if(Math.hypot(mx - r.x*W, my - r.y*H) < r.r + 5) {
+                        const c = COUNTRIES.find(c => c.code === r.code);
+                        if(c) updateSidebar(c);
+                    }
+                });
+            });
+
+            init(); requestAnimationFrame(draw);
+            window.addEventListener('resize', init);
         }
 
-        const revealObs = new IntersectionObserver(entries => {
-            entries.forEach(e => { if(e.isIntersecting) e.target.classList.add('in'); });
-        }, { threshold: 0.1 });
-
-        window.onload = () => {
-            loadData();
-            document.querySelectorAll('.reveal').forEach(el => revealObs.observe(el));
-            document.getElementById('map-timestamp').textContent = new Date().toLocaleDateString('en-GB', {day:'numeric', month:'short', year:'numeric'});
-        };
+        window.addEventListener('DOMContentLoaded', loadData);
     </script>
 </body>
 </html>
