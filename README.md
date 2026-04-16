@@ -2,7 +2,7 @@
 
 Electronic music intelligence.
 
-**[resonancesignal.github.io](https://nztdev.github.io/resonance-signal)**
+**[resonancesignal](https://nztdev.github.io/resonance-signal)**
 
 ---
 
