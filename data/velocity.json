@@ -1,0 +1,79 @@
+[
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 61,
+    "buyPct": 38,
+    "leaders": [
+      "SPFDJ",
+      "Sara Landry",
+      "Alignment",
+      "Tom"
+    ],
+    "delta": "+18% this month"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 74,
+    "buyPct": 55,
+    "leaders": [
+      "Black Coffee",
+      "Da Capo",
+      "Themba",
+      "Enoo Napa"
+    ],
+    "delta": "+12% this month"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "peaking",
+    "playPct": 88,
+    "buyPct": 72,
+    "leaders": [
+      "ARTBAT",
+      "Anyma",
+      "Massano",
+      "Ben Bohmer"
+    ],
+    "delta": "Plateau forming"
+  },
+  {
+    "genre": "Tech House",
+    "status": "peaking",
+    "playPct": 91,
+    "buyPct": 89,
+    "leaders": [
+      "Max Styler",
+      "Chris Lake",
+      "John Summit",
+      "CID"
+    ],
+    "delta": "Market leader"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 44,
+    "buyPct": 28,
+    "leaders": [
+      "Ame",
+      "Dixon",
+      "Henrik Schwarz",
+      "Move D"
+    ],
+    "delta": "+31% this month"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "cooling",
+    "playPct": 31,
+    "buyPct": 22,
+    "leaders": [
+      "Ricardo Villalobos",
+      "Trikk",
+      "Zip"
+    ],
+    "delta": "-8% this month"
+  }
+]
