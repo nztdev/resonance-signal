@@ -1,40 +1,14 @@
 [
   {
-    "genre": "Tech House",
+    "genre": "Melodic Techno",
     "status": "peaking",
     "playPct": 100,
     "buyPct": 100,
     "leaders": [
-      "Alan Fitzpatrick",
-      "Gesaffelstein",
-      "Adriatique",
-      "Tech Mama"
-    ],
-    "delta": "Market leader"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Tobz"
-    ],
-    "delta": "Market leader"
-  },
-  {
-    "genre": "Techno",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
-    "leaders": [
-      "Gesaffelstein",
-      "Underworld",
-      "Alan Fitzpatrick",
-      "mchvlsm"
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Nikita Berdnik"
     ],
     "delta": "Market leader"
   },
@@ -65,27 +39,67 @@
     "delta": "Market leader"
   },
   {
-    "genre": "Hard Techno",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 0,
-    "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "Isyti"
-    ],
-    "delta": "Market leader"
-  },
-  {
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "status": "peaking",
     "playPct": 100,
     "buyPct": 100,
     "leaders": [
-      "Kasablanca",
+      "thds",
+      "Stavroz",
       "Tinlicker",
-      "HNTR",
-      "Nikita Berdnik"
+      "M-Sol DEEP"
+    ],
+    "delta": "Market leader"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Tobz"
+    ],
+    "delta": "Market leader"
+  },
+  {
+    "genre": "House",
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Midorii"
+    ],
+    "delta": "Market leader"
+  },
+  {
+    "genre": "Tech House",
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Gesaffelstein",
+      "Adriatique",
+      "Tech Mama"
+    ],
+    "delta": "Market leader"
+  },
+  {
+    "genre": "Techno",
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
+    "leaders": [
+      "Gesaffelstein",
+      "Underworld",
+      "Alan Fitzpatrick",
+      "mchvlsm"
     ],
     "delta": "Market leader"
   },
@@ -103,28 +117,14 @@
     "delta": "Market leader"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Hard Techno",
     "status": "peaking",
     "playPct": 100,
-    "buyPct": 100,
+    "buyPct": 0,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "M-Sol DEEP"
-    ],
-    "delta": "Market leader"
-  },
-  {
-    "genre": "House",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Midorii"
+      "The Prophet",
+      "Yoshiko",
+      "Isyti"
     ],
     "delta": "Market leader"
   }
