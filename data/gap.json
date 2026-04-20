@@ -1,85 +1,141 @@
 [
   {
-    "artist": "Max Styler",
-    "genre": "Tech House",
+    "artist": "Gesaffelstein",
+    "genre": "Techno",
     "playRank": 1,
-    "buyRank": 2,
-    "signal": "aligned"
+    "buyRank": null,
+    "signal": "dj-play"
   },
   {
-    "artist": "ARTBAT",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Underworld",
+    "genre": "Techno",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Tinlicker",
     "genre": "Melodic Techno",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Mau P",
-    "genre": "Tech House",
-    "playRank": 9,
-    "buyRank": 1,
-    "signal": "fan-buy"
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
   },
   {
-    "artist": "Chris Lake",
+    "artist": "Lost Frequencies",
+    "genre": "Deep House",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Jansons",
+    "genre": "House",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Armin van Buuren",
+    "genre": "Trance",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Alan Fitzpatrick",
+    "genre": "Techno",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Adriatique",
     "genre": "Tech House",
     "playRank": 3,
-    "buyRank": 3,
-    "signal": "aligned"
-  },
-  {
-    "artist": "Anyma",
-    "genre": "Melodic Techno",
-    "playRank": 7,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "GENESI",
+    "artist": "HNTR",
     "genre": "Melodic Techno",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Massano",
-    "genre": "Techno",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Prospa",
-    "genre": "Tech House",
-    "playRank": null,
-    "buyRank": 5,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "CID",
-    "genre": "Tech House",
-    "playRank": 11,
-    "buyRank": 8,
-    "signal": "aligned"
-  },
-  {
-    "artist": "HUGEL",
-    "genre": "Tech House",
-    "playRank": 6,
+    "playRank": 3,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Cloonee",
-    "genre": "Tech House",
-    "playRank": null,
-    "buyRank": 7,
-    "signal": "fan-buy"
+    "artist": "Maesic",
+    "genre": "Afro House",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "dj-play"
   },
   {
-    "artist": "John Summit",
-    "genre": "Tech House",
-    "playRank": 10,
+    "artist": "Kerri Chandler",
+    "genre": "Deep House",
+    "playRank": 3,
     "buyRank": null,
     "signal": "dj-play"
   }

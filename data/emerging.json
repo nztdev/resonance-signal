@@ -1,66 +1,82 @@
 [
   {
-    "title": "Massano",
-    "artist": "Techno / Melodic",
-    "label": "Afterlife",
-    "plays": 847,
-    "heat": 0.91,
-    "market": "DE"
+    "title": "Gesaffelstein",
+    "artist": "Techno",
+    "label": "Independent / TBC",
+    "plays": 10,
+    "heat": 0.95,
+    "market": "EU"
   },
   {
-    "title": "GENESI",
+    "title": "Kasablanca",
     "artist": "Melodic Techno",
-    "label": "Afterlife / independent",
-    "plays": 712,
-    "heat": 0.87,
+    "label": "Independent / TBC",
+    "plays": 10,
+    "heat": 0.95,
     "market": "IT"
   },
   {
-    "title": "Enrico Sangiuliano",
-    "artist": "Techno",
-    "label": "Drumcode",
-    "plays": 634,
-    "heat": 0.83,
-    "market": "NL"
-  },
-  {
-    "title": "Sara Landry",
-    "artist": "Hard Techno / Industrial",
-    "label": "Terminal Underground",
-    "plays": 591,
-    "heat": 0.79,
-    "market": "US"
-  },
-  {
-    "title": "Alignment",
+    "title": "The Prophet",
     "artist": "Hard Techno",
-    "label": "Alignment Music",
-    "plays": 544,
-    "heat": 0.76,
+    "label": "Independent / TBC",
+    "plays": 10,
+    "heat": 0.95,
     "market": "DE"
   },
   {
-    "title": "Themba",
-    "artist": "Afro House / Deep House",
-    "label": "3BEX / Armada",
-    "plays": 498,
-    "heat": 0.72,
+    "title": "RAFFA GUIDO",
+    "artist": "Afro House",
+    "label": "Independent / TBC",
+    "plays": 10,
+    "heat": 0.95,
     "market": "ZA"
   },
   {
-    "title": "Mathame",
-    "artist": "Melodic Techno",
-    "label": "Afterlife",
-    "plays": 467,
-    "heat": 0.69,
-    "market": "IT"
+    "title": "nbsplv",
+    "artist": "Deep House",
+    "label": "Independent / TBC",
+    "plays": 10,
+    "heat": 0.95,
+    "market": "US"
   },
   {
-    "title": "Phase",
-    "artist": "Techno / Industrial",
-    "label": "Infrastructure",
-    "plays": 421,
-    "heat": 0.65,
-    "market": "GB"
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "label": "Independent / TBC",
+    "plays": 10,
+    "heat": 0.95,
+    "market": "EU"
+  },
+  {
+    "title": "Angelo Ferreri",
+    "artist": "House",
+    "label": "Independent / TBC",
+    "plays": 10,
+    "heat": 0.95,
+    "market": "US"
+  },
+  {
+    "title": "Tiësto",
+    "artist": "Trance",
+    "label": "Independent / TBC",
+    "plays": 10,
+    "heat": 0.95,
+    "market": "EU"
+  },
+  {
+    "title": "Underworld",
+    "artist": "Techno",
+    "label": "Independent / TBC",
+    "plays": 20,
+    "heat": 0.9,
+    "market": "EU"
+  },
+  {
+    "title": "Tinlicker",
+    "artist": "Melodic Techno",
+    "label": "Independent / TBC",
+    "plays": 20,
+    "heat": 0.9,
+    "market": "IT"
   }
 ]

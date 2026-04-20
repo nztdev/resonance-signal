@@ -10,7 +10,7 @@
       },
       {
         "n": "Hard Techno",
-        "m": "↑ +22%",
+        "m": "↑ rising",
         "mc": "momentum-up"
       },
       {
@@ -24,7 +24,7 @@
         "mc": "momentum-flat"
       }
     ],
-    "insight": "Berlin scene driving Hard Techno resurgence. Signal appearing in Warsaw and Prague 3-4 weeks later."
+    "insight": "Berlin scene driving Hard Techno resurgence. Signal appearing in Warsaw and Prague 3–4 weeks later."
   },
   {
     "country": "Colombia",
@@ -41,12 +41,12 @@
         "mc": "momentum-up"
       },
       {
-        "n": "Cumbia / Fusion",
-        "m": "new",
-        "mc": "momentum-new"
+        "n": "Tech House",
+        "m": "→ stable",
+        "mc": "momentum-flat"
       },
       {
-        "n": "Tech House",
+        "n": "Deep House",
         "m": "→ stable",
         "mc": "momentum-flat"
       }
@@ -78,7 +78,7 @@
         "mc": "momentum-new"
       }
     ],
-    "insight": "Joburg scene consistently leads European Afro House trends by 6-8 weeks. Currently pioneering hybrid Amapiano-Organic sub-genre."
+    "insight": "Joburg scene consistently leads European Afro House trends by 6–8 weeks."
   },
   {
     "country": "Japan",
@@ -105,34 +105,7 @@
         "mc": "momentum-flat"
       }
     ],
-    "insight": "Tokyo minimal scene diverging significantly from European trends. Independent trajectory — watch for cross-pollination signals."
-  },
-  {
-    "country": "Brazil",
-    "flag": "🇧🇷",
-    "genres": [
-      {
-        "n": "Tech House",
-        "m": "dominant",
-        "mc": "momentum-flat"
-      },
-      {
-        "n": "Afro House",
-        "m": "↑ +28%",
-        "mc": "momentum-up"
-      },
-      {
-        "n": "Melodic",
-        "m": "↑ growing",
-        "mc": "momentum-up"
-      },
-      {
-        "n": "Funk / House fusion",
-        "m": "new",
-        "mc": "momentum-new"
-      }
-    ],
-    "insight": "Sao Paulo emerging as a primary signal source for Afro House crossover into Latin markets."
+    "insight": "Tokyo minimal scene diverging from European trends. Independent trajectory."
   },
   {
     "country": "UK",
@@ -159,6 +132,33 @@
         "mc": "momentum-up"
       }
     ],
-    "insight": "London Hard Techno growth accelerating — 6 weeks behind Berlin trajectory. Classical lagging market."
+    "insight": "London Hard Techno growth accelerating — 6 weeks behind Berlin trajectory."
+  },
+  {
+    "country": "Brazil",
+    "flag": "🇧🇷",
+    "genres": [
+      {
+        "n": "Tech House",
+        "m": "dominant",
+        "mc": "momentum-flat"
+      },
+      {
+        "n": "Afro House",
+        "m": "↑ +28%",
+        "mc": "momentum-up"
+      },
+      {
+        "n": "Melodic",
+        "m": "↑ growing",
+        "mc": "momentum-up"
+      },
+      {
+        "n": "Deep House",
+        "m": "→ stable",
+        "mc": "momentum-flat"
+      }
+    ],
+    "insight": "Sao Paulo emerging as a primary signal source for Afro House crossover into Latin markets."
   }
 ]

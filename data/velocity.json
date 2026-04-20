@@ -1,79 +1,131 @@
 [
   {
-    "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 61,
-    "buyPct": 38,
+    "genre": "Tech House",
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
     "leaders": [
-      "SPFDJ",
-      "Sara Landry",
-      "Alignment",
-      "Tom"
+      "Alan Fitzpatrick",
+      "Gesaffelstein",
+      "Adriatique",
+      "Tech Mama"
     ],
-    "delta": "+18% this month"
+    "delta": "Market leader"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Tobz"
+    ],
+    "delta": "Market leader"
+  },
+  {
+    "genre": "Techno",
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
+    "leaders": [
+      "Gesaffelstein",
+      "Underworld",
+      "Alan Fitzpatrick",
+      "mchvlsm"
+    ],
+    "delta": "Market leader"
+  },
+  {
+    "genre": "Deep House",
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Joshua Twycross"
+    ],
+    "delta": "Market leader"
   },
   {
     "genre": "Afro House",
-    "status": "rising",
-    "playPct": 74,
-    "buyPct": 55,
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
     "leaders": [
-      "Black Coffee",
-      "Da Capo",
-      "Themba",
-      "Enoo Napa"
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Reflexiones y Alabanzas"
     ],
-    "delta": "+12% this month"
+    "delta": "Market leader"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 0,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "Isyti"
+    ],
+    "delta": "Market leader"
   },
   {
     "genre": "Melodic Techno",
     "status": "peaking",
-    "playPct": 88,
-    "buyPct": 72,
+    "playPct": 100,
+    "buyPct": 100,
     "leaders": [
-      "ARTBAT",
-      "Anyma",
-      "Massano",
-      "Ben Bohmer"
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Nikita Berdnik"
     ],
-    "delta": "Plateau forming"
+    "delta": "Market leader"
   },
   {
-    "genre": "Tech House",
+    "genre": "Trance",
     "status": "peaking",
-    "playPct": 91,
-    "buyPct": 89,
+    "playPct": 100,
+    "buyPct": 100,
     "leaders": [
-      "Max Styler",
-      "Chris Lake",
-      "John Summit",
-      "CID"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Lost States"
     ],
     "delta": "Market leader"
   },
   {
     "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 44,
-    "buyPct": 28,
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
     "leaders": [
-      "Ame",
-      "Dixon",
-      "Henrik Schwarz",
-      "Move D"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "M-Sol DEEP"
     ],
-    "delta": "+31% this month"
+    "delta": "Market leader"
   },
   {
-    "genre": "Minimal / Deep Tech",
-    "status": "cooling",
-    "playPct": 31,
-    "buyPct": 22,
+    "genre": "House",
+    "status": "peaking",
+    "playPct": 100,
+    "buyPct": 100,
     "leaders": [
-      "Ricardo Villalobos",
-      "Trikk",
-      "Zip"
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Midorii"
     ],
-    "delta": "-8% this month"
+    "delta": "Market leader"
   }
 ]
