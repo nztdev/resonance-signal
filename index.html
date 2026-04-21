@@ -74,7 +74,7 @@ ${g.genres.map(gr => `<div class="geo-genre-row"><span class="geo-genre-name">${
 <tr> <td class="track-title-cell">${t.title}</td> <td class="track-artist-cell">${t.artist}</td> <td class="track-label-cell">${t.label}</td> <td class="dj-play-cell">${t.plays.toLocaleString()}</td> <td> <div class="heat-cell"> <div class="heat-bar"><div class="heat-fill" style="width:${t.heat*100}%"></div></div> <span class="heat-num">${Math.round(t.heat*100)}</span> </div> </td> <td><span class="origin-pill">${t.market}</span></td> </tr>
 `).join('');const revealObs=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting)e.target.classList.add('in');});},{threshold:0.05});function initReveal(){document.querySelectorAll('.reveal').forEach(el=>{revealObs.unobserve(el);revealObs.observe(el);});}
 initReveal();setTimeout(initReveal,100);setTimeout(initReveal,400);const now=new Date();document.getElementById('map-timestamp').textContent=now.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'});
-document.addEventListener('DOMContentLoaded',loadData);
+if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',loadData);}else{loadData();}
 </script>
 </body>
 </html>
