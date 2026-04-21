@@ -1,131 +1,132 @@
 [
   {
-    "genre": "Melodic Techno",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Nikita Berdnik"
-    ],
-    "delta": "Market leader"
-  },
-  {
-    "genre": "Deep House",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Joshua Twycross"
-    ],
-    "delta": "Market leader"
-  },
-  {
-    "genre": "Afro House",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Reflexiones y Alabanzas"
-    ],
-    "delta": "Market leader"
-  },
-  {
     "genre": "Organic / Downtempo",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 49,
     "leaders": [
       "thds",
       "Stavroz",
       "Tinlicker",
-      "M-Sol DEEP"
+      "Birds Of Mind"
     ],
-    "delta": "Market leader"
+    "delta": "Building"
   },
   {
-    "genre": "Minimal / Deep Tech",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 49,
     "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Tobz"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Ben Böhmer"
     ],
-    "delta": "Market leader"
-  },
-  {
-    "genre": "House",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Midorii"
-    ],
-    "delta": "Market leader"
-  },
-  {
-    "genre": "Tech House",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Gesaffelstein",
-      "Adriatique",
-      "Tech Mama"
-    ],
-    "delta": "Market leader"
-  },
-  {
-    "genre": "Techno",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
-    "leaders": [
-      "Gesaffelstein",
-      "Underworld",
-      "Alan Fitzpatrick",
-      "mchvlsm"
-    ],
-    "delta": "Market leader"
+    "delta": "Building"
   },
   {
     "genre": "Trance",
-    "status": "peaking",
-    "playPct": 100,
-    "buyPct": 100,
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 42,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "Lost States"
+      "Alice Deejay"
     ],
-    "delta": "Market leader"
+    "delta": "Building"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 44,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "thds"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 44,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Pierce Fulton"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Techno",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 49,
+    "leaders": [
+      "Gesaffelstein",
+      "Underworld",
+      "Alan Fitzpatrick",
+      "Daft Punk"
+    ],
+    "delta": "Building"
   },
   {
     "genre": "Hard Techno",
-    "status": "peaking",
-    "playPct": 100,
+    "status": "rising",
+    "playPct": 51,
     "buyPct": 0,
     "leaders": [
       "The Prophet",
       "Yoshiko",
-      "Isyti"
+      "Isyti",
+      "The Bucketheads"
     ],
-    "delta": "Market leader"
+    "delta": "Building"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 48,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Goom Gum"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 44,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Gesaffelstein",
+      "Adriatique",
+      "Jamie Jones"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 29,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Christian Löffler"
+    ],
+    "delta": "Building"
   }
 ]

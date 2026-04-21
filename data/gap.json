@@ -1,21 +1,7 @@
 [
   {
-    "artist": "Gesaffelstein",
-    "genre": "Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
+    "artist": "thds",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -28,8 +14,15 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -42,29 +35,36 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Gesaffelstein",
+    "genre": "Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Underworld",
-    "genre": "Techno",
-    "playRank": 2,
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Tinlicker",
+    "artist": "Kasablanca",
     "genre": "Melodic Techno",
-    "playRank": 2,
+    "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
@@ -77,15 +77,15 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Armin van Buuren",
+    "genre": "Trance",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
@@ -98,36 +98,29 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Armin van Buuren",
-    "genre": "Trance",
+    "artist": "Underworld",
+    "genre": "Techno",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Techno",
-    "playRank": 3,
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
+    "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Adriatique",
-    "genre": "Tech House",
-    "playRank": 3,
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "HNTR",
-    "genre": "Melodic Techno",
-    "playRank": 3,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Maesic",
-    "genre": "Afro House",
+    "artist": "Tinlicker",
+    "genre": "Organic / Downtempo",
     "playRank": 3,
     "buyRank": null,
     "signal": "dj-play"
@@ -135,6 +128,13 @@
   {
     "artist": "Kerri Chandler",
     "genre": "Deep House",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Niki",
+    "genre": "Trance",
     "playRank": 3,
     "buyRank": null,
     "signal": "dj-play"

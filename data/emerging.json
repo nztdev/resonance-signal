@@ -2,81 +2,81 @@
   {
     "title": "Gesaffelstein",
     "artist": "Techno",
-    "label": "Independent / TBC",
-    "plays": 10,
+    "label": "Not on Beatport charts",
+    "plays": 1200,
     "heat": 0.95,
-    "market": "EU"
+    "market": "DE"
   },
   {
     "title": "Kasablanca",
     "artist": "Melodic Techno",
-    "label": "Independent / TBC",
-    "plays": 10,
+    "label": "Not on Beatport charts",
+    "plays": 1200,
     "heat": 0.95,
     "market": "IT"
   },
   {
     "title": "The Prophet",
     "artist": "Hard Techno",
-    "label": "Independent / TBC",
-    "plays": 10,
+    "label": "Not on Beatport charts",
+    "plays": 1200,
     "heat": 0.95,
     "market": "DE"
   },
   {
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
-    "label": "Independent / TBC",
-    "plays": 10,
+    "label": "Not on Beatport charts",
+    "plays": 1200,
     "heat": 0.95,
     "market": "ZA"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
-    "label": "Independent / TBC",
-    "plays": 10,
+    "label": "Not on Beatport charts",
+    "plays": 1200,
     "heat": 0.95,
     "market": "US"
   },
   {
     "title": "Sara Landry",
     "artist": "Minimal / Deep Tech",
-    "label": "Independent / TBC",
-    "plays": 10,
+    "label": "Not on Beatport charts",
+    "plays": 1200,
     "heat": 0.95,
-    "market": "EU"
+    "market": "NL"
   },
   {
     "title": "Angelo Ferreri",
     "artist": "House",
-    "label": "Independent / TBC",
-    "plays": 10,
+    "label": "Not on Beatport charts",
+    "plays": 1200,
     "heat": 0.95,
     "market": "US"
   },
   {
     "title": "Tiësto",
     "artist": "Trance",
-    "label": "Independent / TBC",
-    "plays": 10,
+    "label": "Not on Beatport charts",
+    "plays": 1200,
     "heat": 0.95,
-    "market": "EU"
+    "market": "NL"
   },
   {
     "title": "Underworld",
     "artist": "Techno",
-    "label": "Independent / TBC",
-    "plays": 20,
-    "heat": 0.9,
-    "market": "EU"
+    "label": "Not on Beatport charts",
+    "plays": 1120,
+    "heat": 0.93,
+    "market": "DE"
   },
   {
     "title": "Tinlicker",
     "artist": "Melodic Techno",
-    "label": "Independent / TBC",
-    "plays": 20,
-    "heat": 0.9,
+    "label": "Not on Beatport charts",
+    "plays": 1120,
+    "heat": 0.93,
     "market": "IT"
   }
 ]
