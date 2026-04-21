@@ -1,27 +1,14 @@
 [
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 49,
+    "buyPct": 47,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Birds Of Mind"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 49,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Ben Böhmer"
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "thds"
     ],
     "delta": "Building"
   },
@@ -39,45 +26,6 @@
     "delta": "Building"
   },
   {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 44,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "thds"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 44,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Pierce Fulton"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 49,
-    "leaders": [
-      "Gesaffelstein",
-      "Underworld",
-      "Alan Fitzpatrick",
-      "Daft Punk"
-    ],
-    "delta": "Building"
-  },
-  {
     "genre": "Hard Techno",
     "status": "rising",
     "playPct": 51,
@@ -91,15 +39,28 @@
     "delta": "Building"
   },
   {
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 48,
+    "buyPct": 50,
     "leaders": [
-      "Kasablanca",
+      "thds",
+      "Stavroz",
       "Tinlicker",
-      "HNTR",
-      "Goom Gum"
+      "Birds Of Mind"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 47,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Pierce Fulton"
     ],
     "delta": "Building"
   },
@@ -117,15 +78,54 @@
     "delta": "Building"
   },
   {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 48,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Goom Gum"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 50,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Ben Böhmer"
+    ],
+    "delta": "Building"
+  },
+  {
     "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 29,
+    "buyPct": 40,
     "leaders": [
       "Sara Landry",
       "Anna",
       "Boris Brejcha",
       "Christian Löffler"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Techno",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 50,
+    "leaders": [
+      "Gesaffelstein",
+      "Underworld",
+      "Alan Fitzpatrick",
+      "Daft Punk"
     ],
     "delta": "Building"
   }

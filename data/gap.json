@@ -1,14 +1,7 @@
 [
   {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -21,8 +14,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -35,15 +28,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -56,6 +42,13 @@
     "signal": "dj-play"
   },
   {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
     "artist": "Sara Landry",
     "genre": "Minimal / Deep Tech",
     "playRank": 1,
@@ -63,15 +56,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Lost Frequencies",
-    "genre": "Deep House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
@@ -84,8 +70,15 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
@@ -98,15 +91,15 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Underworld",
-    "genre": "Techno",
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
+    "artist": "Lost Frequencies",
+    "genre": "Deep House",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
@@ -119,15 +112,15 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
-    "playRank": 3,
+    "artist": "Underworld",
+    "genre": "Techno",
+    "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Kerri Chandler",
-    "genre": "Deep House",
+    "artist": "Maesic",
+    "genre": "Afro House",
     "playRank": 3,
     "buyRank": null,
     "signal": "dj-play"
@@ -135,6 +128,13 @@
   {
     "artist": "Niki",
     "genre": "Trance",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Isyti",
+    "genre": "Hard Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "dj-play"

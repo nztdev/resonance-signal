@@ -1,11 +1,6 @@
 [
   {
-    "text": "Organic / Downtempo",
-    "sub": "Building",
-    "c": "#6bcb77"
-  },
-  {
-    "text": "Deep House",
+    "text": "Afro House",
     "sub": "Building",
     "c": "#6bcb77"
   },
@@ -15,7 +10,12 @@
     "c": "#6bcb77"
   },
   {
-    "text": "Afro House",
+    "text": "Hard Techno",
+    "sub": "Building",
+    "c": "#6bcb77"
+  },
+  {
+    "text": "Organic / Downtempo",
     "sub": "Building",
     "c": "#6bcb77"
   }
