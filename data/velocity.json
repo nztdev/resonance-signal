@@ -1,40 +1,14 @@
 [
   {
-    "genre": "Afro House",
+    "genre": "Deep House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 47,
+    "buyPct": 51,
     "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "thds"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 42,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Alice Deejay"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 0,
-    "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "Isyti",
-      "The Bucketheads"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Ben Böhmer"
     ],
     "delta": "Building"
   },
@@ -52,15 +26,54 @@
     "delta": "Building"
   },
   {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 40,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Max Cooper"
+    ],
+    "delta": "Building"
+  },
+  {
     "genre": "House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 47,
+    "buyPct": 48,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
       "Midnight City",
       "Pierce Fulton"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 0,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "Isyti",
+      "The Bucketheads"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 47,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Badbwoy"
     ],
     "delta": "Building"
   },
@@ -71,9 +84,22 @@
     "buyPct": 44,
     "leaders": [
       "Alan Fitzpatrick",
-      "Gesaffelstein",
       "Adriatique",
+      "Gesaffelstein",
       "Jamie Jones"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 42,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Alice Deejay"
     ],
     "delta": "Building"
   },
@@ -91,41 +117,15 @@
     "delta": "Building"
   },
   {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 50,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Ben Böhmer"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 40,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Christian Löffler"
-    ],
-    "delta": "Building"
-  },
-  {
     "genre": "Techno",
     "status": "rising",
-    "playPct": 51,
+    "playPct": 50,
     "buyPct": 50,
     "leaders": [
-      "Gesaffelstein",
-      "Underworld",
-      "Alan Fitzpatrick",
-      "Daft Punk"
+      "Psyk",
+      "Morbe",
+      "Unklevon",
+      "Teo"
     ],
     "delta": "Building"
   }

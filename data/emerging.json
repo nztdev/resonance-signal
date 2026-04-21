@@ -1,11 +1,19 @@
 [
   {
-    "title": "Gesaffelstein",
+    "title": "Psyk",
     "artist": "Techno",
     "label": "Not on Beatport charts",
     "plays": 1200,
     "heat": 0.95,
     "market": "DE"
+  },
+  {
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "label": "Not on Beatport charts",
+    "plays": 1200,
+    "heat": 0.95,
+    "market": "GB"
   },
   {
     "title": "Kasablanca",
@@ -64,19 +72,11 @@
     "market": "NL"
   },
   {
-    "title": "Underworld",
+    "title": "Morbe",
     "artist": "Techno",
     "label": "Not on Beatport charts",
     "plays": 1120,
     "heat": 0.93,
     "market": "DE"
-  },
-  {
-    "title": "Tinlicker",
-    "artist": "Melodic Techno",
-    "label": "Not on Beatport charts",
-    "plays": 1120,
-    "heat": 0.93,
-    "market": "IT"
   }
 ]
