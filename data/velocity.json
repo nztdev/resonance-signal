@@ -1,27 +1,27 @@
 [
   {
-    "genre": "Deep House",
+    "genre": "Melodic Techno",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 51,
+    "buyPct": 44,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Ben Böhmer"
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Goom Gum"
     ],
     "delta": "Building"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Tech House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 50,
+    "buyPct": 49,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Birds Of Mind"
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Gesaffelstein",
+      "Jamie Jones"
     ],
     "delta": "Building"
   },
@@ -29,25 +29,12 @@
     "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 40,
+    "buyPct": 44,
     "leaders": [
       "Sara Landry",
       "Anna",
       "Boris Brejcha",
       "Max Cooper"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 48,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Pierce Fulton"
     ],
     "delta": "Building"
   },
@@ -65,10 +52,36 @@
     "delta": "Building"
   },
   {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 38,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Pierce Fulton"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 48,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Ben Böhmer"
+    ],
+    "delta": "Building"
+  },
+  {
     "genre": "Afro House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 47,
+    "buyPct": 48,
     "leaders": [
       "RAFFA GUIDO",
       "Mobi Dixon",
@@ -78,15 +91,15 @@
     "delta": "Building"
   },
   {
-    "genre": "Tech House",
+    "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 44,
+    "buyPct": 50,
     "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Gesaffelstein",
-      "Jamie Jones"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Birds Of Mind"
     ],
     "delta": "Building"
   },
@@ -94,7 +107,7 @@
     "genre": "Trance",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 42,
+    "buyPct": 45,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
@@ -104,23 +117,10 @@
     "delta": "Building"
   },
   {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 48,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Goom Gum"
-    ],
-    "delta": "Building"
-  },
-  {
     "genre": "Techno",
     "status": "rising",
     "playPct": 50,
-    "buyPct": 50,
+    "buyPct": 48,
     "leaders": [
       "Psyk",
       "Morbe",
