@@ -1,22 +1,9 @@
 [
   {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 44,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Goom Gum"
-    ],
-    "delta": "Building"
-  },
-  {
     "genre": "Tech House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 49,
+    "buyPct": 43,
     "leaders": [
       "Alan Fitzpatrick",
       "Adriatique",
@@ -26,15 +13,67 @@
     "delta": "Building"
   },
   {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 34,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Alice Deejay"
+    ],
+    "delta": "Building"
+  },
+  {
     "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 44,
+    "buyPct": 46,
     "leaders": [
       "Sara Landry",
       "Anna",
       "Boris Brejcha",
       "Max Cooper"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 50,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Badbwoy"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 51,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Birds Of Mind"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 50,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Pierce Fulton"
     ],
     "delta": "Building"
   },
@@ -52,15 +91,15 @@
     "delta": "Building"
   },
   {
-    "genre": "House",
+    "genre": "Melodic Techno",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 38,
+    "buyPct": 49,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Pierce Fulton"
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Goom Gum"
     ],
     "delta": "Building"
   },
@@ -68,51 +107,12 @@
     "genre": "Deep House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 48,
+    "buyPct": 49,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
       "Kerri Chandler",
       "Ben Böhmer"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 48,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Badbwoy"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 50,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Birds Of Mind"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 45,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Alice Deejay"
     ],
     "delta": "Building"
   },
