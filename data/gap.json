@@ -1,5 +1,19 @@
 [
   {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
     "artist": "Alan Fitzpatrick",
     "genre": "Tech House",
     "playRank": 1,
@@ -14,36 +28,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
     "artist": "The Prophet",
     "genre": "Hard Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -56,8 +42,15 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -66,6 +59,20 @@
     "artist": "Tiësto",
     "genre": "Trance",
     "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Tinlicker",
+    "genre": "Melodic Techno",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Jansons",
+    "genre": "House",
+    "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
   },
@@ -84,15 +91,15 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Jansons",
-    "genre": "House",
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
@@ -119,13 +126,6 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
     "artist": "Armin van Buuren",
     "genre": "Trance",
     "playRank": 2,
@@ -133,8 +133,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "HNTR",
+    "genre": "Melodic Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "dj-play"

@@ -1,9 +1,35 @@
 [
   {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 49,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Goom Gum"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 48,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Pierce Fulton"
+    ],
+    "delta": "Building"
+  },
+  {
     "genre": "Tech House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 44,
+    "buyPct": 48,
     "leaders": [
       "Alan Fitzpatrick",
       "Adriatique",
@@ -16,25 +42,12 @@
     "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 49,
+    "buyPct": 42,
     "leaders": [
       "Sara Landry",
       "Anna",
       "Boris Brejcha",
       "Max Cooper"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 45,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Pierce Fulton"
     ],
     "delta": "Building"
   },
@@ -48,6 +61,19 @@
       "Yoshiko",
       "Isyti",
       "The Bucketheads"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 51,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Badbwoy"
     ],
     "delta": "Building"
   },
@@ -78,36 +104,10 @@
     "delta": "Building"
   },
   {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 51,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Badbwoy"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 49,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Goom Gum"
-    ],
-    "delta": "Building"
-  },
-  {
     "genre": "Trance",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 50,
+    "buyPct": 38,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
@@ -120,7 +120,7 @@
     "genre": "Techno",
     "status": "rising",
     "playPct": 50,
-    "buyPct": 51,
+    "buyPct": 50,
     "leaders": [
       "Psyk",
       "Morbe",
