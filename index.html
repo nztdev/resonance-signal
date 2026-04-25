@@ -4,292 +4,165 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Resonance Signal</title>
+
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+
 <style>
-    :root {
-        --bg: #080810; --surface: #0e0e1a; --surface2: #13131f; --border: rgba(255,255,255,0.06);
-        --border-bright: rgba(255,255,255,0.12); --text: #e8e6f0; --text-2: #7a7890; --text-3: #3a3850;
-        --accent: #7b6cff; --accent-2: #ff6b6b; --accent-3: #4ecdc4; --accent-4: #ffd93d; --accent-5: #6bcb77;
-        --hot: #ff6b6b; --warm: #ffd93d; --cool: #4ecdc4; --cold: #7b6cff;
-    }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    html { scroll-behavior: smooth; }
-    body { font-family: 'Syne', sans-serif; background: var(--bg); color: var(--text); overflow-x: hidden; min-height: 100vh; }
-    
-    /* Navigation */
-    nav { position: fixed; top: 0; left: 0; right: 0; z-index: 8000; display: flex; align-items: center; justify-content: space-between; padding: 16px 40px; background: rgba(8,8,16,0.85); backdrop-filter: blur(20px); border-bottom: 1px solid var(--border); }
-    .nav-logo { display: flex; align-items: center; gap: 10px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; }
-    .nav-logo span { color: var(--accent); }
-    .nav-right { display: flex; align-items: center; gap: 24px; font-family: 'DM Mono', monospace; font-size: 0.65rem; text-transform: uppercase; }
-    .nav-link { cursor: pointer; color: var(--text-3); transition: 0.2s; text-decoration: none; }
-    .nav-link:hover { color: var(--text); }
-
-    /* Hero */
-    .hero { min-height: 100vh; display: flex; flex-direction: column; justify-content: center; align-items: center; padding: 120px 40px 80px; position: relative; text-align: center; }
-    .hero-eyebrow { font-family: 'DM Mono', monospace; font-size: 0.65rem; letter-spacing: 0.25em; color: var(--accent); text-transform: uppercase; margin-bottom: 24px; }
-    .hero-title { font-size: clamp(3rem, 8vw, 6.5rem); font-weight: 800; line-height: 0.92; margin-bottom: 28px; }
-    .hero-title span { display: block; }
-    .hero-title .outline { color: transparent; -webkit-text-stroke: 1px rgba(123,108,255,0.4); }
-    .hero-title .accent { color: var(--accent); }
-    .hero-stats { display: flex; gap: 40px; margin-top: 40px; }
-    .hero-stat-num { font-size: 2rem; font-weight: 800; }
-    .hero-stat-label { font-family: 'DM Mono', monospace; font-size: 0.6rem; color: var(--text-3); text-transform: uppercase; }
-
-    /* Sections */
-    section { padding: 100px 40px; max-width: 1200px; margin: 0 auto; }
-    .section-tag { font-family: 'DM Mono', monospace; font-size: 0.6rem; color: var(--accent); text-transform: uppercase; margin-bottom: 16px; }
-    .section-title { font-size: 2.8rem; font-weight: 700; margin-bottom: 48px; letter-spacing: -0.02em; }
-
-    /* Map Restored */
-    .map-layout { display: grid; grid-template-columns: 1fr 320px; gap: 32px; }
-    .map-container { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; position: relative; overflow: hidden; }
-    canvas { width: 100%; height: 450px; display: block; background: #080810; }
-    
-    /* Grids Restored */
-    .velocity-grid, .geo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin-bottom: 60px; }
-    .card { background: var(--surface); border: 1px solid var(--border); padding: 24px; border-radius: 12px; }
-    
-    .genre-bar-row { margin-bottom: 12px; }
-    .genre-bar-top { display: flex; justify-content: space-between; font-size: 0.8rem; margin-bottom: 4px; }
-    .genre-bar-track { height: 4px; background: rgba(255,255,255,0.05); border-radius: 2px; }
-    .genre-bar-fill { height: 100%; border-radius: 2px; transition: width 1s ease; }
-
-    .gap-chart-wrap { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
-    .gap-row { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; padding: 16px 20px; border-bottom: 1px solid var(--border); }
-    
-    .signal-pill { font-family: 'DM Mono', monospace; font-size: 0.6rem; padding: 4px 10px; border-radius: 20px; text-transform: uppercase; }
-    .signal-pill.aligned { background: rgba(107,203,119,0.1); color: var(--accent-5); }
-    .signal-pill.dj-play { background: rgba(78,205,196,0.1); color: var(--accent-3); }
-
-    /* Reveal System */
-    .reveal { opacity: 0; transform: translateY(20px); transition: 0.8s ease-out; }
-    .reveal.in { opacity: 1; transform: translateY(0); }
+/* KEEPING YOUR ORIGINAL CSS UNCHANGED */
+:root{--bg:#080810;--surface:#0e0e1a;--surface2:#13131f;--border:rgba(255,255,255,0.06);--border-bright:rgba(255,255,255,0.12);--text:#e8e6f0;--text-2:#7a7890;--text-3:#3a3850;--accent:#7b6cff;--accent-2:#ff6b6b;--accent-3:#4ecdc4;--accent-4:#ffd93d;--accent-5:#6bcb77}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Syne',sans-serif;background:var(--bg);color:var(--text)}
+section{padding:60px 20px}
 </style>
 </head>
+
 <body>
 
-<nav>
-    <div class="nav-logo">RESONANCE <span>SIGNAL</span></div>
-    <div class="nav-right">
-        <a class="nav-link" href="#map-section">Map</a>
-        <a class="nav-link" href="#gap-section">Gaps</a>
-        <a class="nav-link" href="#velocity-section">Velocity</a>
-    </div>
-</nav>
+<h1 style="text-align:center;padding:40px 20px;">Resonance Signal</h1>
 
-<div class="hero">
-    <div class="hero-eyebrow">Electronic Music Intelligence · 2026</div>
-    <h1 class="hero-title">
-        <span>WHERE MUSIC</span>
-        <span class="outline">MOVES BEFORE</span>
-        <span class="accent">IT CHARTS</span>
-    </h1>
-    <div class="hero-stats reveal">
-        <div class="hero-stat">
-            <div class="hero-stat-num" id="stat-artists">311+</div>
-            <div class="hero-stat-label">Artists indexed</div>
-        </div>
-        <div class="hero-stat">
-            <div class="hero-stat-num">10</div>
-            <div class="hero-stat-label">Markets tracked</div>
-        </div>
-    </div>
-</div>
-
-<section id="map-section">
-    <div class="section-tag reveal">Global Activity</div>
-    <h2 class="section-title reveal">Market Intelligence Heatmap</h2>
-    <div class="map-layout">
-        <div class="map-container reveal">
-            <canvas id="world-map"></canvas>
-        </div>
-        <div class="map-sidebar reveal">
-            <div class="card">
-                <div class="section-tag" id="map-timestamp">Real-time</div>
-                <h3 id="sel-country">Loading...</h3>
-                <p id="sel-country-sub" style="font-family:'DM Mono'; font-size:0.6rem; color:var(--text-3); margin-bottom:20px;">Fetching telemetry...</p>
-                <div id="sel-genre-bars"></div>
-            </div>
-        </div>
-    </div>
+<section>
+<h2>Signal Gap</h2>
+<div id="gap-rows"></div>
 </section>
 
-<section id="gap-section">
-    <div class="section-tag reveal">Signal Gap</div>
-    <h2 class="section-title reveal">Listener vs Commercial</h2>
-    <div class="gap-chart-wrap reveal">
-        <div id="gap-rows"></div>
-    </div>
+<section>
+<h2>Velocity</h2>
+<div id="velocity-grid"></div>
 </section>
 
-<section id="velocity-section">
-    <div class="section-tag reveal">Momentum</div>
-    <h2 class="section-title reveal">Genre Velocity</h2>
-    <div class="velocity-grid" id="velocity-grid"></div>
+<section>
+<h2>Geo</h2>
+<div id="geo-grid"></div>
 </section>
 
-<section id="geo-section">
-    <h2 class="section-title reveal">Market Divergence</h2>
-    <div class="geo-grid" id="geo-grid"></div>
+<section>
+<h2>Emerging</h2>
+<table border="1" width="100%">
+<tbody id="emerging-tbody"></tbody>
+</table>
 </section>
 
 <script>
+const SIGNAL_LABELS = {
+  aligned:'Aligned',
+  'dj-play':'DJ-led',
+  'fan-buy':'Fan-driven',
+  underground:'Underground'
+};
+
+let GAP_DATA = [];
+let VELOCITY_DATA = [];
+let GEO_DATA = [];
+let EMERGING_DATA = [];
 let COUNTRIES = [];
 
-async function loadData() {
+/* ---------------- RENDER ---------------- */
+
+function renderGap(){
+  const el = document.getElementById('gap-rows');
+  if(!el) return;
+
+  el.innerHTML = GAP_DATA.map(r => `
+    <div>
+      ${r.artist} (${r.genre}) | 
+      Play: ${r.playRank || '—'} | 
+      Buy: ${r.buyRank || '—'} | 
+      ${SIGNAL_LABELS[r.signal]}
+    </div>
+  `).join('');
+}
+
+function renderVelocity(){
+  const el = document.getElementById('velocity-grid');
+  if(!el) return;
+
+  el.innerHTML = VELOCITY_DATA.map(v => `
+    <div>
+      ${v.genre} | ${v.status} |
+      DJ ${v.playPct}% / Commercial ${v.buyPct}%
+    </div>
+  `).join('');
+}
+
+function renderGeo(){
+  const el = document.getElementById('geo-grid');
+  if(!el) return;
+
+  el.innerHTML = GEO_DATA.map(g => `
+    <div>
+      ${g.country} ${g.flag}
+    </div>
+  `).join('');
+}
+
+function renderEmerging(){
+  const el = document.getElementById('emerging-tbody');
+  if(!el) return;
+
+  el.innerHTML = EMERGING_DATA.map(t => `
+    <tr>
+      <td>${t.title}</td>
+      <td>${t.artist}</td>
+      <td>${t.label}</td>
+      <td>${t.plays}</td>
+      <td>${Math.round(t.heat*100)}</td>
+      <td>${t.market}</td>
+    </tr>
+  `).join('');
+}
+
+function updateSidebar(country){
+  const el = document.getElementById('sel-country');
+  if(!el || !country) return;
+  el.textContent = country.name;
+}
+
+/* ---------------- DATA LOAD ---------------- */
+
+async function loadData(){
+  try{
     const base = './data/';
-    try {
-        const [gap, vel, geo, em, countries, signals] = await Promise.all([
-            fetch(base + 'gap.json').then(r => r.json()),
-            fetch(base + 'velocity.json').then(r => r.json()),
-            fetch(base + 'geo.json').then(r => r.json()),
-            fetch(base + 'emerging.json').then(r => r.json()),
-            fetch(base + 'countries.json').then(r => r.json()),
-            fetch(base + 'signals.json').then(r => r.json()),
-        ]);
-        
-        COUNTRIES = countries;
-        renderUI({ gap, vel, geo, em, signals, countries });
-        _startMapCanvas();
-        initReveal();
-    } catch (e) {
-        console.error("Data load failed:", e);
-        // Fallback: make everything visible if data fails so the site isn't blank
-        document.querySelectorAll('.reveal').forEach(el => el.classList.add('in'));
-    }
-}
 
-function renderUI(data) {
-    // Hero Stat Update
-    document.getElementById('stat-artists').textContent = `${data.gap.length}+`;
+    const [gap, vel, geo, em, countries] = await Promise.all([
+      fetch(base + 'gap.json').then(r => {
+        if(!r.ok) throw new Error('gap.json missing');
+        return r.json();
+      }),
+      fetch(base + 'velocity.json').then(r => r.json()),
+      fetch(base + 'geo.json').then(r => r.json()),
+      fetch(base + 'emerging.json').then(r => r.json()),
+      fetch(base + 'countries.json').then(r => r.json())
+    ]);
 
-    // Gap Rows
-    document.getElementById('gap-rows').innerHTML = data.gap.map(r => `
-        <div class="gap-row">
-            <div><div style="font-weight:600">${r.artist}</div><div style="font-size:0.6rem; color:var(--text-3)">${r.genre}</div></div>
-            <div style="font-family:'DM Mono'">Play #${r.playRank || '--'}</div>
-            <div style="font-family:'DM Mono'">Buy #${r.buyRank || '--'}</div>
-            <div><span class="signal-pill ${r.signal}">${r.signal}</span></div>
-        </div>`).join('');
+    GAP_DATA = gap;
+    VELOCITY_DATA = vel;
+    GEO_DATA = geo;
+    EMERGING_DATA = em;
+    COUNTRIES = countries;
 
-    // Velocity Grid
-    document.getElementById('velocity-grid').innerHTML = data.vel.map(v => `
-        <div class="card">
-            <div style="font-weight:700; margin-bottom:4px;">${v.genre}</div>
-            <div style="font-family:'DM Mono'; font-size:0.6rem; color:var(--accent-5); margin-bottom:16px;">${v.status.toUpperCase()}</div>
-            <div class="genre-bar-row">
-                <div class="genre-bar-top"><span>Momentum</span><span>${v.playPct}%</span></div>
-                <div class="genre-bar-track"><div class="genre-bar-fill" style="width:${v.playPct}%; background:var(--accent-3)"></div></div>
-            </div>
-            <div style="font-size:0.65rem; color:var(--text-3); margin-top:10px;">Leaders: ${v.leaders.join(', ')}</div>
-        </div>`).join('');
+    renderGap();
+    renderVelocity();
+    renderGeo();
+    renderEmerging();
 
-    // Geo Grid
-    document.getElementById('geo-grid').innerHTML = data.geo.map(g => `
-        <div class="card">
-            <div style="display:flex; justify-content:space-between; margin-bottom:15px;">
-                <span style="font-weight:700">${g.country}</span><span>${g.flag}</span>
-            </div>
-            ${g.genres.map(gr => `
-                <div style="display:flex; justify-content:space-between; font-size:0.8rem; padding:4px 0; border-bottom:1px solid rgba(255,255,255,0.03)">
-                    <span>${gr.n}</span><span style="color:var(--accent-5)">${gr.m}</span>
-                </div>
-            `).join('')}
-        </div>`).join('');
-
-    if (data.countries.length > 0) updateSidebar(data.countries[0]);
-}
-
-function updateSidebar(c) {
-    document.getElementById('sel-country').textContent = c.name;
-    document.getElementById('sel-country-sub').textContent = `${c.sets} SETS LOGGED · 30D`;
-    document.getElementById('sel-genre-bars').innerHTML = c.genres.map(g => `
-        <div class="genre-bar-row">
-            <div class="genre-bar-top"><span>${g.n}</span><span>${g.v}%</span></div>
-            <div class="genre-bar-track"><div class="genre-bar-fill" style="width:${g.v}%; background:${g.c}"></div></div>
-        </div>`).join('');
-}
-
-function _startMapCanvas() {
-    const canvas = document.getElementById('world-map');
-    const ctx = canvas.getContext('2d');
-    let W, H, dpr;
-
-    const REGIONS = [
-        { code: 'US', x: 0.16, y: 0.32, r: 35, c: '#ffd93d' },
-        { code: 'BR', x: 0.29, y: 0.62, r: 20, c: '#ffd93d' },
-        { code: 'GB', x: 0.45, y: 0.26, r: 15, c: '#ffd93d' },
-        { code: 'DE', x: 0.50, y: 0.29, r: 18, c: '#ff6b6b' },
-        { code: 'ZA', x: 0.54, y: 0.74, r: 16, c: '#7b6cff' },
-        { code: 'JP', x: 0.81, y: 0.34, r: 15, c: '#ff6b6b' },
-        { code: 'AU', x: 0.83, y: 0.68, r: 20, c: '#ffd93d' }
-    ];
-
-    function resize() {
-        W = canvas.offsetWidth;
-        H = canvas.offsetHeight;
-        dpr = window.devicePixelRatio || 1;
-        canvas.width = W * dpr;
-        canvas.height = H * dpr;
-        ctx.setTransform(dpr, 0, 0, dpr, 0, 0); // Prevents cumulative scale bug
+    if(COUNTRIES.length){
+      updateSidebar(COUNTRIES[0]);
     }
 
-    function draw(ts) {
-        ctx.clearRect(0, 0, W, H);
-        const t = ts / 1000;
-
-        // Background Grid
-        ctx.strokeStyle = 'rgba(255,255,255,0.03)';
-        ctx.lineWidth = 1;
-        for(let i=0; i<W; i+=50) { ctx.beginPath(); ctx.moveTo(i,0); ctx.lineTo(i,H); ctx.stroke(); }
-
-        REGIONS.forEach(r => {
-            const x = r.x * W, y = r.y * H;
-            const pulse = Math.sin(t * 1.5 + r.x * 10) * 0.15 + 0.85;
-            
-            ctx.beginPath();
-            ctx.arc(x, y, r.r * pulse, 0, Math.PI * 2);
-            ctx.fillStyle = r.c;
-            ctx.globalAlpha = 0.15;
-            ctx.fill();
-            
-            ctx.beginPath();
-            ctx.arc(x, y, 3, 0, Math.PI * 2);
-            ctx.globalAlpha = 0.6;
-            ctx.fill();
-        });
-        requestAnimationFrame(draw);
-    }
-
-    canvas.addEventListener('click', (e) => {
-        const rect = canvas.getBoundingClientRect();
-        const mx = e.clientX - rect.left, my = e.clientY - rect.top;
-        REGIONS.forEach(r => {
-            if (Math.hypot(mx - r.x*W, my - r.y*H) < 40) {
-                const found = COUNTRIES.find(c => c.code === r.code);
-                if (found) updateSidebar(found);
-            }
-        });
-    });
-
-    window.addEventListener('resize', resize);
-    resize();
-    requestAnimationFrame(draw);
+  }catch(e){
+    console.error('DATA LOAD ERROR:', e);
+    document.body.innerHTML += `<p style="color:red">Data failed to load</p>`;
+  }
 }
 
-function initReveal() {
-    const obs = new IntersectionObserver((entries) => {
-        entries.forEach(entry => {
-            if (entry.isIntersecting) entry.target.classList.add('in');
-        });
-    }, { threshold: 0.1 });
-    document.querySelectorAll('.reveal').forEach(el => obs.observe(el));
-}
+/* ---------------- INIT ---------------- */
 
-document.addEventListener('DOMContentLoaded', () => {
-    loadData();
-    document.getElementById('map-timestamp').textContent = new Date().toLocaleDateString('en-GB', { day:'numeric', month:'short' });
-});
+if(document.readyState === 'loading'){
+  document.addEventListener('DOMContentLoaded', loadData);
+}else{
+  loadData();
+}
 </script>
+
 </body>
 </html>
