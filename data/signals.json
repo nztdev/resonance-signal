@@ -1,11 +1,6 @@
 [
   {
-    "text": "Minimal / Deep Tech",
-    "sub": "Building",
-    "c": "#6bcb77"
-  },
-  {
-    "text": "Deep House",
+    "text": "Trance",
     "sub": "Building",
     "c": "#6bcb77"
   },
@@ -15,7 +10,12 @@
     "c": "#6bcb77"
   },
   {
-    "text": "Melodic Techno",
+    "text": "Tech House",
+    "sub": "Building",
+    "c": "#6bcb77"
+  },
+  {
+    "text": "Afro House",
     "sub": "Building",
     "c": "#6bcb77"
   }

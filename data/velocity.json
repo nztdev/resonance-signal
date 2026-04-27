@@ -1,27 +1,14 @@
 [
   {
-    "genre": "Minimal / Deep Tech",
+    "genre": "Trance",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 50,
+    "buyPct": 46,
     "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Max Cooper"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 40,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Ben Böhmer"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Alice Deejay"
     ],
     "delta": "Building"
   },
@@ -39,28 +26,15 @@
     "delta": "Building"
   },
   {
-    "genre": "Melodic Techno",
+    "genre": "Tech House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 49,
+    "buyPct": 48,
     "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Goom Gum"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 42,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Alice Deejay"
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Gesaffelstein",
+      "Jamie Jones"
     ],
     "delta": "Building"
   },
@@ -78,15 +52,15 @@
     "delta": "Building"
   },
   {
-    "genre": "Tech House",
+    "genre": "Deep House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 47,
+    "buyPct": 51,
     "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Gesaffelstein",
-      "Jamie Jones"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Ben Böhmer"
     ],
     "delta": "Building"
   },
@@ -107,7 +81,7 @@
     "genre": "House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 45,
+    "buyPct": 50,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
@@ -117,10 +91,36 @@
     "delta": "Building"
   },
   {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 46,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Goom Gum"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 47,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Max Cooper"
+    ],
+    "delta": "Building"
+  },
+  {
     "genre": "Techno",
     "status": "rising",
     "playPct": 50,
-    "buyPct": 45,
+    "buyPct": 44,
     "leaders": [
       "Psyk",
       "Morbe",

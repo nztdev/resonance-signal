@@ -1,14 +1,7 @@
 [
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -21,22 +14,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -49,8 +28,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -63,15 +42,29 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 2,
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Lost Frequencies",
-    "genre": "Deep House",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Armin van Buuren",
+    "genre": "Trance",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
@@ -84,22 +77,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Morbe",
-    "genre": "Techno",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Tinlicker",
-    "genre": "Melodic Techno",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Armin van Buuren",
-    "genre": "Trance",
+    "artist": "Adriatique",
+    "genre": "Tech House",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
@@ -112,8 +91,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Adriatique",
-    "genre": "Tech House",
+    "artist": "Lost Frequencies",
+    "genre": "Deep House",
     "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
@@ -133,8 +112,29 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Boris Brejcha",
+    "artist": "Anna",
     "genre": "Minimal / Deep Tech",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Morbe",
+    "genre": "Techno",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Isyti",
+    "genre": "Hard Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "dj-play"
