@@ -1,14 +1,79 @@
 [
   {
-    "genre": "Trance",
+    "genre": "Afro House",
     "status": "rising",
     "playPct": 51,
     "buyPct": 46,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Badbwoy"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 47,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Max Cooper"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 40,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Goom Gum"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 51,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
       "Niki",
       "Alice Deejay"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 49,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Birds Of Mind"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 51,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Ben Böhmer"
     ],
     "delta": "Building"
   },
@@ -29,51 +94,12 @@
     "genre": "Tech House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 48,
+    "buyPct": 47,
     "leaders": [
       "Alan Fitzpatrick",
       "Adriatique",
       "Gesaffelstein",
       "Jamie Jones"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 50,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Badbwoy"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 51,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Ben Böhmer"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 50,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Birds Of Mind"
     ],
     "delta": "Building"
   },
@@ -91,36 +117,10 @@
     "delta": "Building"
   },
   {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 46,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Goom Gum"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 47,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Max Cooper"
-    ],
-    "delta": "Building"
-  },
-  {
     "genre": "Techno",
     "status": "rising",
     "playPct": 50,
-    "buyPct": 44,
+    "buyPct": 38,
     "leaders": [
       "Psyk",
       "Morbe",
