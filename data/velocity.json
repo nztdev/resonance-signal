@@ -1,48 +1,9 @@
 [
   {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 46,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Badbwoy"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 47,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Max Cooper"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 40,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Goom Gum"
-    ],
-    "delta": "Building"
-  },
-  {
     "genre": "Trance",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 51,
+    "buyPct": 31,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
@@ -52,15 +13,15 @@
     "delta": "Building"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Tech House",
     "status": "rising",
     "playPct": 51,
     "buyPct": 49,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Birds Of Mind"
+      "Adriatique",
+      "Alan Fitzpatrick",
+      "Gesaffelstein",
+      "Jamie Jones"
     ],
     "delta": "Building"
   },
@@ -68,12 +29,25 @@
     "genre": "Deep House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 51,
+    "buyPct": 47,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
       "Kerri Chandler",
-      "Ben Böhmer"
+      "Midland"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 46,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Birds Of Mind"
     ],
     "delta": "Building"
   },
@@ -91,23 +65,10 @@
     "delta": "Building"
   },
   {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 47,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Gesaffelstein",
-      "Jamie Jones"
-    ],
-    "delta": "Building"
-  },
-  {
     "genre": "House",
     "status": "rising",
     "playPct": 51,
-    "buyPct": 50,
+    "buyPct": 44,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
@@ -117,10 +78,49 @@
     "delta": "Building"
   },
   {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 50,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Anyma"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 49,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Badbwoy"
+    ],
+    "delta": "Building"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 51,
+    "buyPct": 47,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Boris Brejcha"
+    ],
+    "delta": "Building"
+  },
+  {
     "genre": "Techno",
     "status": "rising",
     "playPct": 50,
-    "buyPct": 38,
+    "buyPct": 41,
     "leaders": [
       "Psyk",
       "Morbe",

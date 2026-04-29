@@ -1,26 +1,5 @@
 [
   {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
     "artist": "Tiësto",
     "genre": "Trance",
     "playRank": 1,
@@ -35,8 +14,22 @@
     "signal": "dj-play"
   },
   {
+    "artist": "Adriatique",
+    "genre": "Tech House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
     "artist": "nbsplv",
     "genre": "Deep House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "thds",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
@@ -49,16 +42,79 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 1,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Armin van Buuren",
+    "genre": "Trance",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Morbe",
+    "genre": "Techno",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Lost Frequencies",
+    "genre": "Deep House",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Jansons",
+    "genre": "House",
+    "playRank": 2,
     "buyRank": null,
     "signal": "dj-play"
   },
@@ -77,64 +133,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Tinlicker",
-    "genre": "Melodic Techno",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Armin van Buuren",
+    "artist": "Niki",
     "genre": "Trance",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Morbe",
-    "genre": "Techno",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Lost Frequencies",
-    "genre": "Deep House",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Adriatique",
-    "genre": "Tech House",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Jansons",
-    "genre": "House",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Maesic",
-    "genre": "Afro House",
     "playRank": 3,
     "buyRank": null,
     "signal": "dj-play"
