@@ -1,31 +1,5 @@
 [
   {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "JCH UP"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Mindgame"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Afro House",
     "status": "rising",
     "playPct": 56,
@@ -52,41 +26,14 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Minimal / Deep Tech",
+    "genre": "Hard Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 25,
     "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Aldo Cadiz"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "WHIPPED CREAM"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 71,
-    "leaders": [
-      "Adriatique",
-      "Alan Fitzpatrick",
-      "Gesaffelstein",
-      "Droozyy"
+      "The Prophet",
+      "Yoshiko",
+      "Isyti"
     ],
     "delta": "Strong momentum"
   },
@@ -104,14 +51,15 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Hard Techno",
+    "genre": "Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 25,
+    "buyPct": 88,
     "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "Isyti"
+      "Psyk",
+      "Morbe",
+      "Unklevon",
+      "JCH UP"
     ],
     "delta": "Strong momentum"
   },
@@ -125,6 +73,58 @@
       "Stavroz",
       "Tinlicker",
       "Blue Cell"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Aldo Cadiz"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 71,
+    "leaders": [
+      "Adriatique",
+      "Alan Fitzpatrick",
+      "Gesaffelstein",
+      "Droozyy"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Mindgame"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "WHIPPED CREAM"
     ],
     "delta": "Strong momentum"
   }

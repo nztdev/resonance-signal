@@ -1,19 +1,5 @@
 [
   {
-    "artist": "JCH UP",
-    "genre": "Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Mindgame",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
     "artist": "Cafe De Anatolia",
     "genre": "Afro House",
     "playRank": null,
@@ -28,22 +14,15 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "Aldo Cadiz",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
     "artist": "WHIPPED CREAM",
-    "genre": "House",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Droozyy",
-    "genre": "Tech House",
+    "artist": "JCH UP",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
@@ -56,17 +35,24 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "FehlTon",
-    "genre": "Techno",
+    "artist": "Aldo Cadiz",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
-    "buyRank": 2,
+    "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Noctem Vox",
+    "artist": "Droozyy",
+    "genre": "Tech House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Mindgame",
     "genre": "Deep House",
     "playRank": null,
-    "buyRank": 2,
+    "buyRank": 1,
     "signal": "fan-buy"
   },
   {
@@ -84,22 +70,15 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "Will Hofbauer",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "fabiom_dj",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
     "artist": "ChoupLaPiss",
     "genre": "Melodic Techno",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "FehlTon",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
@@ -112,17 +91,24 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "CERES",
-    "genre": "Techno",
+    "artist": "Will Hofbauer",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
-    "buyRank": 3,
+    "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "SPANK REC",
+    "artist": "Noctem Vox",
     "genre": "Deep House",
     "playRank": null,
-    "buyRank": 3,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "fabiom_dj",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 2,
     "signal": "fan-buy"
   },
   {
@@ -135,6 +121,20 @@
   {
     "artist": "Sonic-Deelight",
     "genre": "Trance",
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Rabo",
+    "genre": "Melodic Techno",
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "CERES",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
