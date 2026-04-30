@@ -1,142 +1,142 @@
 [
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Psyk",
+    "artist": "JCH UP",
     "genre": "Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
   },
   {
-    "artist": "Adriatique",
-    "genre": "Tech House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "nbsplv",
+    "artist": "Mindgame",
     "genre": "Deep House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
   },
   {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
+    "artist": "Cafe De Anatolia",
+    "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
+    "artist": "DJ X-BASS",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
   },
   {
-    "artist": "Angelo Ferreri",
+    "artist": "Aldo Cadiz",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "WHIPPED CREAM",
     "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
   },
   {
-    "artist": "Kasablanca",
+    "artist": "Droozyy",
+    "genre": "Tech House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Blue Cell",
+    "genre": "Organic / Downtempo",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "FehlTon",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Noctem Vox",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Neema du Sol",
+    "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Ellie Fontaine",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Will Hofbauer",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "fabiom_dj",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "ChoupLaPiss",
     "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
   },
   {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Armin van Buuren",
-    "genre": "Trance",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Morbe",
-    "genre": "Techno",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Lost Frequencies",
-    "genre": "Deep House",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Stavroz",
+    "artist": "Niko Garcia",
     "genre": "Organic / Downtempo",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
   },
   {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
+    "artist": "CERES",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy"
   },
   {
-    "artist": "Jansons",
-    "genre": "House",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
+    "artist": "SPANK REC",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy"
   },
   {
-    "artist": "Mobi Dixon",
+    "artist": "Origen Tostado",
     "genre": "Afro House",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy"
   },
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Niki",
+    "artist": "Sonic-Deelight",
     "genre": "Trance",
-    "playRank": 3,
-    "buyRank": null,
-    "signal": "dj-play"
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy"
   }
 ]

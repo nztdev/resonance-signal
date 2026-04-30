@@ -1,132 +1,131 @@
 [
   {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 31,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Alice Deejay"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 49,
-    "leaders": [
-      "Adriatique",
-      "Alan Fitzpatrick",
-      "Gesaffelstein",
-      "Jamie Jones"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 47,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Midland"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 46,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Birds Of Mind"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 0,
-    "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "Isyti",
-      "The Bucketheads"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 44,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Pierce Fulton"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 50,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Anyma"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 49,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Badbwoy"
-    ],
-    "delta": "Building"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 51,
-    "buyPct": 47,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Boris Brejcha"
-    ],
-    "delta": "Building"
-  },
-  {
     "genre": "Techno",
     "status": "rising",
-    "playPct": 50,
-    "buyPct": 41,
+    "playPct": 56,
+    "buyPct": 88,
     "leaders": [
       "Psyk",
       "Morbe",
       "Unklevon",
-      "Teo"
+      "JCH UP"
     ],
-    "delta": "Building"
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Mindgame"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Cafe De Anatolia"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 63,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "DJ X-BASS"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Aldo Cadiz"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "WHIPPED CREAM"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 71,
+    "leaders": [
+      "Adriatique",
+      "Alan Fitzpatrick",
+      "Gesaffelstein",
+      "Droozyy"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 63,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "WHIPPED CREAM"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "Isyti"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Blue Cell"
+    ],
+    "delta": "Strong momentum"
   }
 ]
