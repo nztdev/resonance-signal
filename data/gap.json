@@ -1,7 +1,49 @@
 [
   {
-    "artist": "LBRX",
+    "artist": "Joshua Twycross",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "TETRIK MINDS",
+    "genre": "Melodic Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "MIYOSI Fumi",
+    "genre": "Organic / Downtempo",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Dubphone",
+    "genre": "Tech House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Sweet World",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "NOISECTRL",
     "genre": "Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Ayyuna",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
@@ -14,126 +56,84 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "Ben Monday",
-    "genre": "Organic / Downtempo",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "EEEIA",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "All Fred",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "The Bongo Man",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Nae:Tek",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
     "artist": "Nixiro",
     "genre": "Deep House",
     "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Velvet Hertz",
-    "genre": "Techno",
-    "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Magic Ninja",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Salvo Migliorini",
-    "genre": "Organic / Downtempo",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Benny Benassi",
+    "artist": "Zetto-X",
     "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Armand Vibe",
-    "genre": "Afro House",
+    "artist": "Tatsh",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Jak Jaxon",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Deemkeyne",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Pause",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Pressure Rhythm",
+    "artist": "Oziriz",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Mattia L",
+    "artist": "Peter Ponno",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "NOX3N",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "George Bolton's Trancendental",
     "genre": "Techno",
     "playRank": null,
-    "buyRank": 3,
+    "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Johnny Spaziale",
+    "artist": "Phil Rosetti",
+    "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Calvin Solberg",
     "genre": "Trance",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Lumnia",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "Krestovsky",
+    "artist": "THECELIK",
+    "genre": "Melodic Techno",
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Ben Monday",
     "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 3,
