@@ -1,7 +1,42 @@
 [
   {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 2,
+    "buyRank": 26,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Adriatique",
+    "genre": "Tech House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -21,78 +56,50 @@
     "signal": "underground"
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "thds",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Ayyuna",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Joshua Twycross",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "NOISECTRL",
-    "genre": "Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "TETRIK MINDS",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Dubphone",
+    "artist": "No Reclaim",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "MIYOSI Fumi",
-    "genre": "Organic / Downtempo",
+    "artist": "Raw Topo",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Bahia de Roses",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Exia",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Abstrak",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "George Bolton's Trancendental",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
