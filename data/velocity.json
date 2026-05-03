@@ -1,35 +1,9 @@
 [
   {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Adriatique",
-      "Alan Fitzpatrick",
-      "Gesaffelstein",
-      "No Reclaim"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 57,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Raw Topo"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 60,
+    "buyPct": 88,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
@@ -55,11 +29,12 @@
     "genre": "Hard Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 25,
+    "buyPct": 88,
     "leaders": [
       "The Prophet",
       "Yoshiko",
-      "Isyti"
+      "Isyti",
+      "Various"
     ],
     "delta": "Strong momentum"
   },
@@ -67,7 +42,7 @@
     "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 48,
+    "buyPct": 88,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
@@ -77,10 +52,49 @@
     "delta": "Strong momentum"
   },
   {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 57,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Raw Topo"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Adriatique",
+      "Alan Fitzpatrick",
+      "Gesaffelstein",
+      "No Reclaim"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 67,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "WILLEM"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
     "genre": "Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 48,
+    "buyPct": 88,
     "leaders": [
       "Psyk",
       "Morbe",
@@ -99,19 +113,6 @@
       "Stavroz",
       "Tinlicker",
       "MIYOSI Fumi"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 67,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "WILLEM"
     ],
     "delta": "Strong momentum"
   },

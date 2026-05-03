@@ -7,20 +7,6 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Adriatique",
-    "genre": "Tech House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
     "artist": "Angelo Ferreri",
     "genre": "House",
     "playRank": 1,
@@ -49,6 +35,20 @@
     "signal": "underground"
   },
   {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
     "artist": "Psyk",
     "genre": "Techno",
     "playRank": 1,
@@ -56,25 +56,11 @@
     "signal": "underground"
   },
   {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
-  },
-  {
-    "artist": "No Reclaim",
-    "genre": "Tech House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Raw Topo",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
   },
   {
     "artist": "Bahia de Roses",
@@ -91,6 +77,13 @@
     "signal": "fan-buy"
   },
   {
+    "artist": "Various",
+    "genre": "Hard Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
     "artist": "Abstrak",
     "genre": "Deep House",
     "playRank": null,
@@ -98,8 +91,15 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "George Bolton's Trancendental",
-    "genre": "Techno",
+    "artist": "Raw Topo",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "No Reclaim",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
