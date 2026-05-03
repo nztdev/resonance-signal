@@ -7,27 +7,6 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
     "artist": "nbsplv",
     "genre": "Deep House",
     "playRank": 1,
@@ -42,8 +21,8 @@
     "signal": "underground"
   },
   {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -56,32 +35,32 @@
     "signal": "underground"
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Bahia de Roses",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
-    "artist": "Exia",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Various",
+    "artist": "The Prophet",
     "genre": "Hard Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
     "artist": "Abstrak",
@@ -98,8 +77,29 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "No Reclaim",
-    "genre": "Tech House",
+    "artist": "Bahia de Roses",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "George Bolton's Trancendental",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Exia",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "WILLEM",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"

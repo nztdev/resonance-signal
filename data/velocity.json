@@ -1,44 +1,5 @@
 [
   {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Bahia de Roses"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 77,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Exia"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "Isyti",
-      "Various"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
@@ -55,7 +16,7 @@
     "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 57,
+    "buyPct": 88,
     "leaders": [
       "Sara Landry",
       "Anna",
@@ -65,28 +26,15 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Tech House",
+    "genre": "House",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Adriatique",
-      "Alan Fitzpatrick",
-      "Gesaffelstein",
-      "No Reclaim"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 67,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "WILLEM"
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Bahia de Roses"
     ],
     "delta": "Strong momentum"
   },
@@ -104,15 +52,41 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Trance",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 78,
+    "buyPct": 76,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "MIYOSI Fumi"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Exia"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 67,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "WILLEM"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "Isyti",
+      "Various"
     ],
     "delta": "Strong momentum"
   },
@@ -126,6 +100,32 @@
       "Tinlicker",
       "HNTR",
       "Arcaida Pradana"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "MIYOSI Fumi"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Adriatique",
+      "Alan Fitzpatrick",
+      "Gesaffelstein",
+      "No Reclaim"
     ],
     "delta": "Strong momentum"
   }
