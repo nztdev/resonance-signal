@@ -3,47 +3,19 @@
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
     "playRank": 2,
-    "buyRank": 26,
+    "buyRank": 105,
     "signal": "dj-play"
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
+    "artist": "Face",
+    "genre": "Hard Techno",
+    "playRank": 12,
+    "buyRank": 38,
+    "signal": "dj-play"
   },
   {
     "artist": "Sara Landry",
     "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -63,43 +35,78 @@
     "signal": "underground"
   },
   {
-    "artist": "Abstrak",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
-    "artist": "Raw Topo",
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Numa Gomez",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Bahia de Roses",
-    "genre": "House",
+    "artist": "Various",
+    "genre": "Hard Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "George Bolton's Trancendental",
-    "genre": "Techno",
+    "artist": "Deejay Sepy",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Exia",
+    "artist": "LOGO HAWJ",
     "genre": "Trance",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "WILLEM",
+    "artist": "Luz Morena",
     "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "KPN",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
