@@ -3,7 +3,7 @@
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
     "playRank": 2,
-    "buyRank": 105,
+    "buyRank": 97,
     "signal": "dj-play"
   },
   {
@@ -14,39 +14,11 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
+    "artist": "House Boulevard",
+    "genre": "House",
+    "playRank": 13,
+    "buyRank": 21,
+    "signal": "dj-play"
   },
   {
     "artist": "Angelo Ferreri",
@@ -63,6 +35,34 @@
     "signal": "underground"
   },
   {
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
     "artist": "Psyk",
     "genre": "Techno",
     "playRank": 1,
@@ -70,22 +70,36 @@
     "signal": "underground"
   },
   {
-    "artist": "Numa Gomez",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Various",
-    "genre": "Hard Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Deejay Sepy",
+    "artist": "Kasablanca",
     "genre": "Melodic Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Róshildur",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Mou5ZyZZ",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Cafe De Anatolia",
+    "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "MAIl",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
@@ -98,15 +112,8 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "Luz Morena",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "KPN",
-    "genre": "House",
+    "artist": "Class-A Deviants",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"

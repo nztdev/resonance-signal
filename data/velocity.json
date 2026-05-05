@@ -1,40 +1,53 @@
 [
   {
-    "genre": "Minimal / Deep Tech",
+    "genre": "House",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Numa Gomez"
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Róshildur"
     ],
     "delta": "Strong momentum"
   },
   {
-    "genre": "Hard Techno",
+    "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "Isyti",
-      "Various"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Mou5ZyZZ"
     ],
     "delta": "Strong momentum"
   },
   {
-    "genre": "Melodic Techno",
+    "genre": "Afro House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 28,
+    "buyPct": 88,
     "leaders": [
-      "Kasablanca",
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Cafe De Anatolia"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "thds",
+      "Stavroz",
       "Tinlicker",
-      "HNTR",
-      "Deejay Sepy"
+      "MAIl"
     ],
     "delta": "Strong momentum"
   },
@@ -52,67 +65,15 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 79,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Luz Morena"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "House",
+    "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "KPN"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "MIYOSI Fumi"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Shastriya Pattern"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "Alkemikal Munks"
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Class-A Deviants"
     ],
     "delta": "Strong momentum"
   },
@@ -125,7 +86,46 @@
       "Adriatique",
       "Alan Fitzpatrick",
       "Gesaffelstein",
-      "LOST IN THE ECHO"
+      "ARSANIT Tech"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "Isyti",
+      "Various"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Unklevon",
+      "Ruden"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 83,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Cafe De Anatolia"
     ],
     "delta": "Strong momentum"
   }
