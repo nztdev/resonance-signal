@@ -3,8 +3,15 @@
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
     "playRank": 2,
-    "buyRank": 97,
+    "buyRank": 87,
     "signal": "dj-play"
+  },
+  {
+    "artist": "Above & Beyond",
+    "genre": "Trance",
+    "playRank": 8,
+    "buyRank": 9,
+    "signal": "aligned"
   },
   {
     "artist": "Face",
@@ -14,29 +21,8 @@
     "signal": "dj-play"
   },
   {
-    "artist": "House Boulevard",
-    "genre": "House",
-    "playRank": 13,
-    "buyRank": 21,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -49,22 +35,22 @@
     "signal": "underground"
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "thds",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -77,22 +63,29 @@
     "signal": "underground"
   },
   {
-    "artist": "Róshildur",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Angelo Ferreri",
     "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Tobz",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Mou5ZyZZ",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Cafe De Anatolia",
-    "genre": "Afro House",
+    "artist": "Roman Messer",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
@@ -105,15 +98,22 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "LOGO HAWJ",
-    "genre": "Trance",
+    "artist": "Stoychev",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Class-A Deviants",
-    "genre": "Minimal / Deep Tech",
+    "artist": "NOISECTRL",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "VOID DEEP",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"

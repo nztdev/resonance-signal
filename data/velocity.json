@@ -1,47 +1,34 @@
 [
   {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
+    "genre": "Trance",
+    "status": "peaking",
+    "playPct": 88,
     "buyPct": 88,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Róshildur"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Roman Messer"
     ],
-    "delta": "Strong momentum"
+    "delta": "Market leader"
   },
   {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 25,
     "buyPct": 88,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Mou5ZyZZ"
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Tobz"
     ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Cafe De Anatolia"
-    ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
   },
   {
     "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
+    "status": "emerging",
+    "playPct": 25,
     "buyPct": 88,
     "leaders": [
       "thds",
@@ -49,51 +36,51 @@
       "Tinlicker",
       "MAIl"
     ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
   },
   {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 85,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Stoychev"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "NOISECTRL"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 25,
     "buyPct": 25,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "LOGO HAWJ"
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "VOID DEEP"
     ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Class-A Deviants"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Adriatique",
-      "Alan Fitzpatrick",
-      "Gesaffelstein",
-      "ARSANIT Tech"
-    ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
   },
   {
     "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 56,
+    "status": "emerging",
+    "playPct": 25,
     "buyPct": 88,
     "leaders": [
       "The Prophet",
@@ -101,32 +88,45 @@
       "Isyti",
       "Various"
     ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
+  },
+  {
+    "genre": "House",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Sweet World"
+    ],
+    "delta": "Early signal"
   },
   {
     "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
+    "status": "emerging",
+    "playPct": 25,
     "buyPct": 88,
     "leaders": [
       "Psyk",
       "Morbe",
       "Unklevon",
-      "Ruden"
+      "Optik"
     ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
   },
   {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 83,
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
     "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Cafe De Anatolia"
+      "Adriatique",
+      "Alan Fitzpatrick",
+      "Jamie Jones",
+      "Seumas Norv"
     ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
   }
 ]

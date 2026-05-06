@@ -1,33 +1,25 @@
 [
   {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
+    "title": "Adriatique",
+    "artist": "Tech House",
     "label": "Independent",
-    "plays": 1496,
+    "plays": 1546,
     "heat": 0.95,
-    "market": "IT"
+    "market": "GB"
   },
   {
     "title": "The Prophet",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1445,
+    "plays": 1380,
     "heat": 0.95,
     "market": "DE"
   },
   {
-    "title": "Sara Landry",
-    "artist": "Minimal / Deep Tech",
+    "title": "nbsplv",
+    "artist": "Deep House",
     "label": "Independent",
     "plays": 1426,
-    "heat": 0.95,
-    "market": "NL"
-  },
-  {
-    "title": "Angelo Ferreri",
-    "artist": "House",
-    "label": "Independent",
-    "plays": 1696,
     "heat": 0.95,
     "market": "US"
   },
@@ -35,7 +27,7 @@
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1685,
+    "plays": 1415,
     "heat": 0.95,
     "market": "NL"
   },
@@ -43,40 +35,48 @@
     "title": "Psyk",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1508,
+    "plays": 1384,
     "heat": 0.94,
     "market": "DE"
+  },
+  {
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
+    "label": "Independent",
+    "plays": 1544,
+    "heat": 0.94,
+    "market": "IT"
   },
   {
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1617,
+    "plays": 1682,
     "heat": 0.94,
     "market": "ZA"
   },
   {
-    "title": "nbsplv",
-    "artist": "Deep House",
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
     "label": "Independent",
-    "plays": 1643,
+    "plays": 1603,
+    "heat": 0.94,
+    "market": "NL"
+  },
+  {
+    "title": "Angelo Ferreri",
+    "artist": "House",
+    "label": "Independent",
+    "plays": 1434,
     "heat": 0.94,
     "market": "US"
   },
   {
-    "title": "Jansons",
-    "artist": "House",
+    "title": "Lost Frequencies",
+    "artist": "Deep House",
     "label": "Independent",
-    "plays": 1385,
+    "plays": 1535,
     "heat": 0.93,
     "market": "US"
-  },
-  {
-    "title": "Morbe",
-    "artist": "Techno",
-    "label": "Independent",
-    "plays": 1626,
-    "heat": 0.92,
-    "market": "DE"
   }
 ]
