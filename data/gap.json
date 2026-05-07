@@ -3,22 +3,15 @@
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
     "playRank": 2,
-    "buyRank": 87,
+    "buyRank": 85,
     "signal": "dj-play"
   },
   {
-    "artist": "Above & Beyond",
+    "artist": "Armin van Buuren",
     "genre": "Trance",
-    "playRank": 8,
-    "buyRank": 9,
+    "playRank": 2,
+    "buyRank": 6,
     "signal": "aligned"
-  },
-  {
-    "artist": "Face",
-    "genre": "Hard Techno",
-    "playRank": 12,
-    "buyRank": 38,
-    "signal": "dj-play"
   },
   {
     "artist": "Sara Landry",
@@ -28,29 +21,8 @@
     "signal": "underground"
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
     "artist": "RAFFA GUIDO",
     "genre": "Afro House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -70,6 +42,20 @@
     "signal": "underground"
   },
   {
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
     "artist": "Angelo Ferreri",
     "genre": "House",
     "playRank": 1,
@@ -77,43 +63,50 @@
     "signal": "underground"
   },
   {
-    "artist": "Tobz",
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "gsxtavo.",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Roman Messer",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "MAIl",
-    "genre": "Organic / Downtempo",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Stoychev",
+    "artist": "Cafe De Anatolia",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "NOISECTRL",
-    "genre": "Deep House",
+    "artist": "ChoupLaPiss",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "VOID DEEP",
-    "genre": "Melodic Techno",
+    "artist": "Various",
+    "genre": "Hard Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Lorenzo Chi",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Geija MSC",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"

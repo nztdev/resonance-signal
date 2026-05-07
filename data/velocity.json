@@ -3,12 +3,12 @@
     "genre": "Trance",
     "status": "peaking",
     "playPct": 88,
-    "buyPct": 88,
+    "buyPct": 40,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "Roman Messer"
+      "That Man"
     ],
     "delta": "Market leader"
   },
@@ -21,20 +21,7 @@
       "Sara Landry",
       "Anna",
       "Boris Brejcha",
-      "Tobz"
-    ],
-    "delta": "Early signal"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 25,
-    "buyPct": 88,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "MAIl"
+      "gsxtavo."
     ],
     "delta": "Early signal"
   },
@@ -42,25 +29,12 @@
     "genre": "Afro House",
     "status": "emerging",
     "playPct": 25,
-    "buyPct": 85,
+    "buyPct": 80,
     "leaders": [
       "RAFFA GUIDO",
       "Mobi Dixon",
       "Maesic",
-      "Stoychev"
-    ],
-    "delta": "Early signal"
-  },
-  {
-    "genre": "Deep House",
-    "status": "emerging",
-    "playPct": 25,
-    "buyPct": 88,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "NOISECTRL"
+      "Cafe De Anatolia"
     ],
     "delta": "Early signal"
   },
@@ -73,7 +47,7 @@
       "Kasablanca",
       "Tinlicker",
       "HNTR",
-      "VOID DEEP"
+      "ChoupLaPiss"
     ],
     "delta": "Early signal"
   },
@@ -91,19 +65,6 @@
     "delta": "Early signal"
   },
   {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 25,
-    "buyPct": 88,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Sweet World"
-    ],
-    "delta": "Early signal"
-  },
-  {
     "genre": "Techno",
     "status": "emerging",
     "playPct": 25,
@@ -112,7 +73,20 @@
       "Psyk",
       "Morbe",
       "Unklevon",
-      "Optik"
+      "Lorenzo Chi"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Geija MSC"
     ],
     "delta": "Early signal"
   },
@@ -125,7 +99,33 @@
       "Adriatique",
       "Alan Fitzpatrick",
       "Jamie Jones",
-      "Seumas Norv"
+      "Ersan Erguner"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "House",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Juçara Marçal"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Origen Tostado"
     ],
     "delta": "Early signal"
   }
