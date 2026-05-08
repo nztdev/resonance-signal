@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Signal Feed — Resonance Signal</title>
+<meta name="description" content="What's moving in electronic music this week. Underground signals before they chart.">
+<meta property="og:title" content="Signal Feed — Resonance Signal">
+<meta property="og:description" content="What's moving in electronic music this week. Underground signals before they chart.">
+<meta property="og:type" content="website">
+<link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#080810;--surface:#0e0e1a;--surface2:#13131f;--border:rgba(255,255,255,0.06);--border-bright:rgba(255,255,255,0.12);--text:#e8e6f0;--text-2:#7a7890;--text-3:#3a3850;--accent:#7b6cff;--accent-2:#ff6b6b;--accent-3:#4ecdc4;--accent-4:#ffd93d;--accent-5:#6bcb77;--hot:#ff6b6b;--warm:#ffd93d;--cool:#4ecdc4;--cold:#7b6cff}*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}body{font-family:'Syne',sans-serif;background:var(--bg);color:var(--text);overflow-x:hidden;min-height:100vh}body::after{content:'';position:fixed;inset:0;background:repeating-linear-gradient(0deg,transparent,transparent 3px,rgba(0,0,0,0.03) 3px,rgba(0,0,0,0.03) 4px);pointer-events:none;z-index:9000}nav{position:fixed;top:0;left:0;right:0;z-index:8000;display:flex;align-items:center;justify-content:space-between;padding:16px 40px;background:rgba(8,8,16,0.85);backdrop-filter:blur(20px);border-bottom:1px solid var(--border)}.nav-logo{display:flex;align-items:center;gap:10px}.logo-mark{width:28px;height:28px;position:relative}.logo-mark svg{width:100%;height:100%}.logo-text{font-size:0.95rem;font-weight:700;letter-spacing:0.12em;text-transform:uppercase;color:var(--text)}.logo-text span{color:var(--accent)}.nav-status{display:flex;align-items:center;gap:6px;font-family:'DM Mono',monospace;font-size:0.65rem;color:var(--text-2);letter-spacing:0.08em}.live-dot{width:6px;height:6px;border-radius:50%;background:var(--accent-5);animation:livepulse 2s ease-in-out infinite}@keyframes livepulse{0%,100%{opacity:1;box-shadow:0 0 0 0 rgba(107,203,119,0.4)}50%{opacity:0.7;box-shadow:0 0 0 4px rgba(107,203,119,0)}}.nav-right{display:flex;align-items:center;gap:24px}.nav-link{font-family:'DM Mono',monospace;font-size:0.65rem;letter-spacing:0.1em;color:var(--text-3);text-decoration:none;text-transform:uppercase;transition:color 0.2s;cursor:pointer}.nav-link:hover{color:var(--text-2)}.hero{min-height:100vh;display:flex;flex-direction:column;justify-content:center;align-items:center;padding:120px 40px 80px;position:relative;overflow:hidden;text-align:center}.hero-bg{position:absolute;inset:0;pointer-events:none}.hero-orb{position:absolute;border-radius:50%;filter:blur(80px)}.hero-orb-1{width:600px;height:600px;background:radial-gradient(circle,rgba(123,108,255,0.12) 0%,transparent 70%);top:-200px;left:-100px}.hero-orb-2{width:500px;height:500px;background:radial-gradient(circle,rgba(78,205,196,0.08) 0%,transparent 70%);bottom:-100px;right:-100px}.hero-orb-3{width:300px;height:300px;background:radial-gradient(circle,rgba(255,107,107,0.07) 0%,transparent 70%);top:50%;left:60%}.hero-grid{position:absolute;inset:0;background-image:linear-gradient(rgba(123,108,255,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(123,108,255,0.03) 1px,transparent 1px);background-size:80px 80px}.hero-eyebrow{font-family:'DM Mono',monospace;font-size:0.65rem;letter-spacing:0.25em;color:var(--accent);text-transform:uppercase;margin-bottom:24px;opacity:0;animation:fadeUp 0.8s ease-out 0.2s forwards}.hero-title{font-size:clamp(3rem,8vw,6.5rem);font-weight:800;line-height:0.92;letter-spacing:-0.03em;margin-bottom:28px;opacity:0;animation:fadeUp 0.8s ease-out 0.4s forwards}.hero-title .line-1{color:var(--text);display:block}.hero-title .line-2{color:transparent;-webkit-text-stroke:1px rgba(123,108,255,0.4);display:block}.hero-title .line-3{color:var(--accent);display:block}.hero-desc{max-width:520px;font-size:clamp(0.9rem,2vw,1.05rem);font-weight:400;color:var(--text-2);line-height:1.7;margin-bottom:48px;opacity:0;animation:fadeUp 0.8s ease-out 0.6s forwards}.hero-stats{display:flex;gap:40px;justify-content:center;flex-wrap:wrap;opacity:0;animation:fadeUp 0.8s ease-out 0.8s forwards}.hero-stat{text-align:center}.hero-stat-num{font-size:2rem;font-weight:800;color:var(--text);line-height:1;margin-bottom:4px}.hero-stat-num .unit{font-size:0.9rem;color:var(--accent)}.hero-stat-label{font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.12em;color:var(--text-3);text-transform:uppercase}.hero-scroll{position:absolute;bottom:30px;left:50%;transform:translateX(-50%);font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.2em;color:var(--text-3);animation:bounce 2s ease-in-out infinite}@keyframes bounce{0%,100%{transform:translateX(-50%) translateY(0)}50%{transform:translateX(-50%) translateY(6px)}}@keyframes fadeUp{from{opacity:0;transform:translateY(20px)}to{opacity:1;transform:translateY(0)}}section{padding:100px 40px;position:relative}.section-inner{max-width:1100px;margin:0 auto}.section-tag{font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.2em;color:var(--accent);text-transform:uppercase;margin-bottom:16px}.section-title{font-size:clamp(1.8rem,4vw,3rem);font-weight:700;letter-spacing:-0.02em;line-height:1.1;margin-bottom:16px}.section-sub{font-size:1rem;color:var(--text-2);line-height:1.7;max-width:560px;margin-bottom:56px}#map-section{background:var(--surface);border-top:1px solid var(--border);border-bottom:1px solid var(--border)}.map-layout{display:grid;grid-template-columns:1fr 320px;gap:32px;align-items:start}@media (max-width:900px){.map-layout{grid-template-columns:1fr}}.map-container{position:relative;border:1px solid var(--border);border-radius:12px;overflow:hidden;background:var(--bg)}.map-header{padding:14px 18px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between}.map-title{font-family:'DM Mono',monospace;font-size:0.62rem;letter-spacing:0.12em;color:var(--text-2);text-transform:uppercase}.map-meta{font-family:'DM Mono',monospace;font-size:0.58rem;color:var(--text-3);letter-spacing:0.08em}#world-map{width:100%;height:400px;display:block}.map-legend{padding:12px 18px;border-top:1px solid var(--border);display:flex;align-items:center;gap:20px;flex-wrap:wrap}.legend-item{display:flex;align-items:center;gap:6px;font-family:'DM Mono',monospace;font-size:0.58rem;color:var(--text-3);letter-spacing:0.08em}.legend-dot{width:8px;height:8px;border-radius:50%}.map-sidebar{display:flex;flex-direction:column;gap:16px}.sidebar-card{background:var(--bg);border:1px solid var(--border);border-radius:10px;padding:18px}.sidebar-card-title{font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.12em;color:var(--text-3);text-transform:uppercase;margin-bottom:14px}.country-selected{margin-bottom:16px}.country-name{font-size:1.2rem;font-weight:700;color:var(--text);margin-bottom:2px}.country-sub{font-family:'DM Mono',monospace;font-size:0.6rem;color:var(--text-3);letter-spacing:0.08em}.genre-bar-list{display:flex;flex-direction:column;gap:8px}.genre-bar-row{display:flex;flex-direction:column;gap:3px}.genre-bar-top{display:flex;justify-content:space-between;align-items:center}.genre-bar-name{font-size:0.78rem;font-weight:600;color:var(--text)}.genre-bar-val{font-family:'DM Mono',monospace;font-size:0.6rem;color:var(--text-2)}.genre-bar-track{height:3px;background:var(--border);border-radius:2px;overflow:hidden}.genre-bar-fill{height:100%;border-radius:2px;transition:width 0.6s ease}#gap-section{background:var(--bg)}.gap-intro{display:grid;grid-template-columns:1fr 1fr;gap:2px;margin-bottom:32px}@media (max-width:700px){.gap-intro{grid-template-columns:1fr}}.gap-intro-cell{background:var(--surface);padding:28px 24px;border:1px solid var(--border)}.gap-intro-cell h4{font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;margin-bottom:8px}.gap-intro-cell p{font-family:'DM Mono',monospace;font-size:0.75rem;color:var(--text-2);line-height:1.6}.gap-chart-wrap{border:1px solid var(--border);border-radius:12px;overflow:hidden;background:var(--surface)}.gap-chart-header{padding:16px 20px;border-bottom:1px solid var(--border);display:grid;grid-template-columns:1fr 100px 100px 120px;gap:8px;align-items:center}.gap-col-label{font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.1em;color:var(--text-3);text-transform:uppercase}.gap-rows{padding:8px 0}.gap-row{display:grid;grid-template-columns:1fr 100px 100px 120px;gap:8px;align-items:center;padding:10px 20px;border-bottom:1px solid rgba(255,255,255,0.03);transition:background 0.15s;cursor:default}.gap-row:last-child{border-bottom:none}.gap-row:hover{background:rgba(255,255,255,0.025)}.gap-artist{display:flex;flex-direction:column;gap:2px}.gap-artist-name{font-size:0.85rem;font-weight:600;color:var(--text)}.gap-artist-genre{font-family:'DM Mono',monospace;font-size:0.58rem;color:var(--text-3);letter-spacing:0.06em}.rank-badge{font-family:'DM Mono',monospace;font-size:0.72rem;font-weight:500;text-align:center}.rank-badge.present{color:var(--text-2)}.rank-badge.absent{color:var(--text-3);font-style:italic}.gap-signal{display:flex;align-items:center;gap:6px}.signal-pill{font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.06em;padding:3px 10px;border-radius:20px;white-space:nowrap}.signal-pill.aligned{background:rgba(107,203,119,0.12);color:var(--accent-5);border:1px solid rgba(107,203,119,0.25)}.signal-pill.fan-buy{background:rgba(255,211,61,0.1);color:var(--warm);border:1px solid rgba(255,211,61,0.2)}.signal-pill.dj-play{background:rgba(78,205,196,0.1);color:var(--cool);border:1px solid rgba(78,205,196,0.2)}.signal-pill.underground{background:rgba(123,108,255,0.1);color:var(--accent);border:1px solid rgba(123,108,255,0.2)}#velocity-section{background:var(--surface);border-top:1px solid var(--border);border-bottom:1px solid var(--border)}.velocity-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:2px}.velocity-card{background:var(--bg);border:1px solid var(--border);padding:24px;position:relative;overflow:hidden;transition:border-color 0.3s}.velocity-card:hover{border-color:var(--border-bright)}.velocity-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px}.velocity-card.rising::before{background:var(--accent-5)}.velocity-card.peaking::before{background:var(--hot)}.velocity-card.cooling::before{background:var(--accent)}.velocity-card.emerging::before{background:var(--warm)}.velocity-genre{font-size:1rem;font-weight:700;color:var(--text);margin-bottom:4px}.velocity-status{font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.12em;text-transform:uppercase;margin-bottom:16px}.velocity-status.rising{color:var(--accent-5)}.velocity-status.peaking{color:var(--hot)}.velocity-status.cooling{color:var(--accent)}.velocity-status.emerging{color:var(--warm)}.velocity-bar-wrap{margin-bottom:14px}.velocity-bar-labels{display:flex;justify-content:space-between;font-family:'DM Mono',monospace;font-size:0.56rem;color:var(--text-3);margin-bottom:5px;letter-spacing:0.06em}.velocity-bar{height:4px;background:rgba(255,255,255,0.06);border-radius:2px;overflow:hidden;margin-bottom:4px}.velocity-fill{height:100%;border-radius:2px;position:relative}.velocity-fill::after{content:'';position:absolute;right:0;top:50%;transform:translateY(-50%);width:6px;height:6px;border-radius:50%;background:inherit}.velocity-leaders{display:flex;flex-wrap:wrap;gap:5px;margin-top:12px}.velocity-leader{font-family:'DM Mono',monospace;font-size:0.58rem;color:var(--text-3);background:rgba(255,255,255,0.04);border:1px solid var(--border);padding:2px 8px;border-radius:3px;letter-spacing:0.04em}#geo-section{background:var(--bg)}.geo-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:2px;margin-top:48px}.geo-card{border:1px solid var(--border);background:var(--surface);padding:0;overflow:hidden}.geo-card-head{padding:18px 20px 14px;border-bottom:1px solid var(--border);display:flex;align-items:center;justify-content:space-between}.geo-country{font-size:1rem;font-weight:700;color:var(--text)}.geo-flag{font-size:1.4rem}.geo-card-body{padding:16px 20px}.geo-genre-row{display:flex;align-items:center;justify-content:space-between;padding:6px 0;border-bottom:1px solid rgba(255,255,255,0.03)}.geo-genre-row:last-child{border-bottom:none}.geo-genre-name{font-size:0.8rem;font-weight:500;color:var(--text)}.geo-genre-momentum{display:flex;align-items:center;gap:6px;font-family:'DM Mono',monospace;font-size:0.62rem}.momentum-up{color:var(--accent-5)}.momentum-flat{color:var(--text-3)}.momentum-down{color:var(--hot)}.momentum-new{color:var(--warm)}.geo-insight{margin-top:14px;padding:10px 12px;background:rgba(123,108,255,0.06);border:1px solid rgba(123,108,255,0.15);border-radius:4px;font-family:'DM Mono',monospace;font-size:0.62rem;color:rgba(123,108,255,0.8);line-height:1.55;font-style:italic}#emerging-section{background:var(--surface);border-top:1px solid var(--border)}.emerging-table{width:100%;border-collapse:collapse;border:1px solid var(--border);border-radius:10px;overflow:hidden}.emerging-table thead tr{background:rgba(255,255,255,0.03);border-bottom:1px solid var(--border)}.emerging-table th{font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.12em;color:var(--text-3);text-transform:uppercase;padding:12px 16px;text-align:left;font-weight:400}.emerging-table tbody tr{border-bottom:1px solid rgba(255,255,255,0.03);transition:background 0.15s}.emerging-table tbody tr:last-child{border-bottom:none}.emerging-table tbody tr:hover{background:rgba(255,255,255,0.02)}.emerging-table td{padding:12px 16px;font-size:0.82rem;color:var(--text);vertical-align:middle}.track-title-cell{font-weight:600}.track-artist-cell{color:var(--text-2);font-weight:400}.track-label-cell{font-family:'DM Mono',monospace;font-size:0.65rem;color:var(--text-3);letter-spacing:0.04em}.dj-play-cell{font-family:'DM Mono',monospace;font-size:0.7rem;color:var(--cool)}.heat-cell{display:flex;align-items:center;gap:6px}.heat-bar{width:60px;height:3px;background:rgba(255,255,255,0.06);border-radius:2px;overflow:hidden}.heat-fill{height:100%;border-radius:2px;background:linear-gradient(90deg,var(--accent),var(--hot))}.heat-num{font-family:'DM Mono',monospace;font-size:0.62rem;color:var(--text-2);min-width:28px}.origin-pill{font-family:'DM Mono',monospace;font-size:0.58rem;padding:2px 8px;border-radius:20px;background:rgba(78,205,196,0.1);color:var(--cool);border:1px solid rgba(78,205,196,0.2);white-space:nowrap}#close-section{background:var(--bg);text-align:center;padding:120px 40px}.close-title{font-size:clamp(2rem,5vw,4rem);font-weight:800;letter-spacing:-0.03em;line-height:1.05;margin-bottom:24px}.close-title .dim{color:var(--text-3)}.close-title .bright{color:var(--text)}.close-title .accent{color:var(--accent)}.close-sub{max-width:480px;margin:0 auto 48px;font-size:1rem;color:var(--text-2);line-height:1.7}.close-meta{font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.15em;color:var(--text-3);text-transform:uppercase}footer{padding:24px 40px;border-top:1px solid var(--border);display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:12px}.footer-left{font-family:'DM Mono',monospace;font-size:0.58rem;color:var(--text-3);letter-spacing:0.1em}.footer-right{font-family:'DM Mono',monospace;font-size:0.58rem;color:var(--text-3);letter-spacing:0.1em}#world-map{cursor:crosshair}.map-tooltip{position:absolute;background:var(--surface2);border:1px solid var(--border-bright);border-radius:6px;padding:8px 12px;font-family:'DM Mono',monospace;font-size:0.62rem;color:var(--text);pointer-events:none;display:none;z-index:100;white-space:nowrap;letter-spacing:0.04em}.reveal{opacity:1;transform:none}.reveal.in{opacity:1;transform:none}.reveal-d1{}.reveal-d2{}.reveal-d3{}.reveal-d4{}#velocity-grid,#geo-grid,#gap-rows,#emerging-tbody,#sel-genre-bars,#leading-signals,#ap-bond{opacity:1!important;transform:none!important}
+.filter-bar{position:sticky;top:57px;z-index:7000;background:rgba(8,8,16,0.95);backdrop-filter:blur(20px);border-bottom:1px solid var(--border);padding:10px 40px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.filter-label{font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.12em;color:var(--text-3);text-transform:uppercase;white-space:nowrap}
+.filter-pills{display:flex;gap:6px;flex-wrap:wrap;flex:1}
+.filter-pill{font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.06em;padding:4px 10px;border-radius:20px;border:1px solid var(--border);color:var(--text-3);cursor:pointer;transition:all 0.15s;white-space:nowrap;background:transparent}
+.filter-pill:hover{border-color:var(--border-bright);color:var(--text-2)}
+.filter-pill.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.filter-pill.market.active{background:var(--cool);border-color:var(--cool);color:var(--bg)}
+.filter-divider{width:1px;height:20px;background:var(--border);flex-shrink:0}
+.filter-reset{font-family:'DM Mono',monospace;font-size:0.55rem;letter-spacing:0.1em;color:var(--text-3);cursor:pointer;padding:4px 8px;border-radius:3px;transition:color 0.15s;text-transform:uppercase}
+.filter-reset:hover{color:var(--text-2)}
+.share-btn{font-family:'DM Mono',monospace;font-size:0.55rem;letter-spacing:0.1em;color:var(--text-3);cursor:pointer;padding:4px 10px;border:1px solid var(--border);border-radius:3px;transition:all 0.15s;text-transform:uppercase;white-space:nowrap}
+.share-btn:hover{border-color:var(--border-bright);color:var(--text-2)}
+.share-btn.copied{border-color:var(--accent-5);color:var(--accent-5)}
+
+
+/* ── Feed page specific ── */
+.feed-hero{padding:120px 40px 60px;text-align:center;border-bottom:1px solid var(--border);background:var(--surface)}
+.feed-eyebrow{font-family:'DM Mono',monospace;font-size:0.65rem;letter-spacing:0.25em;color:var(--accent);text-transform:uppercase;margin-bottom:16px}
+.feed-title{font-size:clamp(2.5rem,6vw,5rem);font-weight:800;letter-spacing:-0.03em;line-height:0.95;margin-bottom:16px}
+.feed-title .dim{color:var(--text-3)}
+.feed-title .bright{color:var(--text)}
+.feed-title .accent{color:var(--accent)}
+.feed-date{font-family:'DM Mono',monospace;font-size:0.65rem;letter-spacing:0.12em;color:var(--text-3);margin-bottom:32px}
+.feed-desc{max-width:480px;margin:0 auto 40px;font-size:1rem;color:var(--text-2);line-height:1.7}
+.email-form{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-bottom:16px}
+.email-input{font-family:'DM Mono',monospace;font-size:0.8rem;padding:10px 16px;background:var(--bg);border:1px solid var(--border-bright);color:var(--text);border-radius:4px;width:280px;outline:none;transition:border-color 0.2s}
+.email-input:focus{border-color:var(--accent)}
+.email-input::placeholder{color:var(--text-3)}
+.email-submit{font-family:'DM Mono',monospace;font-size:0.7rem;letter-spacing:0.1em;text-transform:uppercase;padding:10px 20px;background:var(--accent);color:#fff;border:none;border-radius:4px;cursor:pointer;transition:opacity 0.2s;white-space:nowrap}
+.email-submit:hover{opacity:0.85}
+.email-submit.success{background:var(--accent-5)}
+.email-note{font-family:'DM Mono',monospace;font-size:0.58rem;color:var(--text-3);letter-spacing:0.06em}
+.feed-nav{display:flex;gap:6px;justify-content:center;padding:16px 40px;border-bottom:1px solid var(--border);background:var(--bg);position:sticky;top:57px;z-index:7000;flex-wrap:wrap}
+.feed-nav-link{font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.1em;color:var(--text-3);padding:5px 12px;border:1px solid var(--border);border-radius:20px;cursor:pointer;transition:all 0.15s;text-transform:uppercase}
+.feed-nav-link:hover,.feed-nav-link.active{border-color:var(--accent);color:var(--accent)}
+.feed-body{max-width:860px;margin:0 auto;padding:60px 40px}
+.feed-week{margin-bottom:80px}
+.feed-week-label{font-family:'DM Mono',monospace;font-size:0.6rem;letter-spacing:0.2em;color:var(--text-3);text-transform:uppercase;margin-bottom:32px;padding-bottom:12px;border-bottom:1px solid var(--border)}
+.signal-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:28px;margin-bottom:16px;transition:border-color 0.2s;position:relative;overflow:hidden}
+.signal-card:hover{border-color:var(--border-bright)}
+.signal-card::before{content:'';position:absolute;top:0;left:0;right:0;height:2px}
+.signal-card.rising::before{background:var(--accent-5)}
+.signal-card.underground::before{background:var(--accent)}
+.signal-card.breaking::before{background:var(--hot)}
+.signal-card.diverging::before{background:var(--warm)}
+.signal-type{display:inline-flex;align-items:center;gap:6px;font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.1em;text-transform:uppercase;margin-bottom:14px}
+.signal-type-dot{width:6px;height:6px;border-radius:50%}
+.signal-type.rising .signal-type-dot{background:var(--accent-5)}
+.signal-type.rising{color:var(--accent-5)}
+.signal-type.underground .signal-type-dot{background:var(--accent)}
+.signal-type.underground{color:var(--accent)}
+.signal-type.breaking .signal-type-dot{background:var(--hot)}
+.signal-type.breaking{color:var(--hot)}
+.signal-type.diverging .signal-type-dot{background:var(--warm)}
+.signal-type.diverging{color:var(--warm)}
+.signal-headline{font-size:1.25rem;font-weight:700;color:var(--text);line-height:1.2;margin-bottom:10px;letter-spacing:-0.01em}
+.signal-body{font-size:0.9rem;color:var(--text-2);line-height:1.7;margin-bottom:16px}
+.signal-meta{display:flex;gap:16px;flex-wrap:wrap;align-items:center}
+.signal-tag{font-family:'DM Mono',monospace;font-size:0.58rem;letter-spacing:0.06em;padding:3px 10px;border-radius:20px;background:rgba(123,108,255,0.08);color:var(--accent);border:1px solid rgba(123,108,255,0.2)}
+.signal-data{font-family:'DM Mono',monospace;font-size:0.6rem;color:var(--text-3);letter-spacing:0.06em}
+.signal-artists{display:flex;gap:6px;flex-wrap:wrap;margin-top:14px;padding-top:14px;border-top:1px solid var(--border)}
+.signal-artist{font-family:'DM Mono',monospace;font-size:0.62rem;color:var(--text-2);background:rgba(255,255,255,0.04);border:1px solid var(--border);padding:3px 10px;border-radius:3px}
+.digest-section{margin-bottom:48px}
+.digest-section-title{font-size:0.75rem;font-weight:600;letter-spacing:0.08em;text-transform:uppercase;color:var(--text-3);margin-bottom:20px}
+.movers-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:2px;margin-bottom:32px}
+.mover-card{background:var(--surface);border:1px solid var(--border);padding:16px 18px}
+.mover-rank{font-family:'DM Mono',monospace;font-size:0.55rem;color:var(--text-3);letter-spacing:0.1em;margin-bottom:6px}
+.mover-name{font-size:0.9rem;font-weight:700;color:var(--text);margin-bottom:2px}
+.mover-genre{font-family:'DM Mono',monospace;font-size:0.6rem;color:var(--text-3);letter-spacing:0.04em;margin-bottom:8px}
+.mover-signal{display:flex;align-items:center;gap:6px;font-family:'DM Mono',monospace;font-size:0.6rem}
+.mover-bar{flex:1;height:2px;background:rgba(255,255,255,0.06);border-radius:1px;overflow:hidden}
+.mover-fill{height:100%;border-radius:1px}
+.empty-state{text-align:center;padding:60px 40px;color:var(--text-3);font-family:'DM Mono',monospace;font-size:0.7rem;letter-spacing:0.08em}
+.feed-cta{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:40px;text-align:center;margin-top:48px}
+.feed-cta-title{font-size:1.5rem;font-weight:700;color:var(--text);margin-bottom:12px}
+.feed-cta-sub{color:var(--text-2);margin-bottom:24px;font-size:0.9rem;line-height:1.6}
+.back-link{display:inline-flex;align-items:center;gap:8px;font-family:'DM Mono',monospace;font-size:0.62rem;letter-spacing:0.1em;color:var(--text-3);text-decoration:none;text-transform:uppercase;transition:color 0.2s}
+.back-link:hover{color:var(--text-2)}
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="nav-logo">
+    <div class="logo-mark">
+      <svg viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="14" cy="14" r="5" fill="#7b6cff" opacity="0.9"/>
+        <circle cx="14" cy="14" r="9" stroke="#7b6cff" stroke-width="0.8" opacity="0.4"/>
+        <circle cx="14" cy="14" r="13" stroke="#7b6cff" stroke-width="0.5" opacity="0.2"/>
+        <circle cx="6" cy="10" r="2" fill="#4ecdc4" opacity="0.8"/>
+        <circle cx="21" cy="8" r="1.5" fill="#ff6b6b" opacity="0.7"/>
+        <circle cx="20" cy="20" r="2.5" fill="#ffd93d" opacity="0.6"/>
+        <line x1="14" y1="14" x2="6" y2="10" stroke="#4ecdc4" stroke-width="0.6" opacity="0.5"/>
+        <line x1="14" y1="14" x2="21" y2="8" stroke="#ff6b6b" stroke-width="0.6" opacity="0.4"/>
+        <line x1="14" y1="14" x2="20" y2="20" stroke="#ffd93d" stroke-width="0.6" opacity="0.4"/>
+      </svg>
+    </div>
+    <span class="logo-text">RESONANCE <span>SIGNAL</span></span>
+  </div>
+  <div class="nav-status">
+    <div class="live-dot"></div>
+    SIGNAL FEED · UPDATED WEEKLY
+  </div>
+  <div class="nav-right">
+    <a href="./index.html" class="nav-link">← Intelligence</a>
+    <span class="nav-link" onclick="document.getElementById('feed-rising').scrollIntoView({behavior:'smooth'})">Rising</span>
+    <span class="nav-link" onclick="document.getElementById('feed-underground').scrollIntoView({behavior:'smooth'})">Underground</span>
+    <span class="nav-link" onclick="document.getElementById('feed-markets').scrollIntoView({behavior:'smooth'})">Markets</span>
+  </div>
+</nav>
+
+<div class="feed-hero">
+  <div class="feed-eyebrow">Signal Feed · Electronic Music Intelligence</div>
+  <h1 class="feed-title">
+    <span class="dim">What's moving</span><br>
+    <span class="bright">before it</span><br>
+    <span class="accent">charts.</span>
+  </h1>
+  <div class="feed-date" id="feed-date">Loading...</div>
+  <p class="feed-desc">The weekly underground signal digest. What DJs are playing, what fans are buying, where the gap is widening. Plain language. Real data.</p>
+  <div class="email-form">
+    <input class="email-input" type="email" id="email-input" placeholder="your@email.com">
+    <button class="email-submit" id="email-submit" onclick="handleSubscribe()">Get the weekly signal</button>
+  </div>
+  <div class="email-note">No noise. One signal. Unsubscribe anytime.</div>
+</div>
+
+<div class="feed-nav">
+  <span class="feed-nav-link active" onclick="scrollTo('feed-rising',this)">Rising genres</span>
+  <span class="feed-nav-link" onclick="scrollTo('feed-underground',this)">Underground artists</span>
+  <span class="feed-nav-link" onclick="scrollTo('feed-markets',this)">Market divergence</span>
+  <span class="feed-nav-link" onclick="scrollTo('feed-gap',this)">Signal gap</span>
+</div>
+
+<div class="feed-body">
+
+  <div class="feed-week">
+    <div class="feed-week-label" id="feed-week-label">This week</div>
+
+    <!-- Rising Genres -->
+    <div id="feed-rising" class="digest-section">
+      <div class="digest-section-title">Genres gaining momentum</div>
+      <div id="rising-cards"></div>
+    </div>
+
+    <!-- Underground Artists -->
+    <div id="feed-underground" class="digest-section">
+      <div class="digest-section-title">Underground before they chart</div>
+      <div class="movers-grid" id="underground-grid"></div>
+    </div>
+
+    <!-- Market Divergence -->
+    <div id="feed-markets" class="digest-section">
+      <div class="digest-section-title">Where signals are leading</div>
+      <div id="market-cards"></div>
+    </div>
+
+    <!-- Signal Gap -->
+    <div id="feed-gap" class="digest-section">
+      <div class="digest-section-title">The gap this week</div>
+      <div id="gap-cards"></div>
+    </div>
+
+    <!-- CTA -->
+    <div class="feed-cta">
+      <div class="feed-cta-title">Get this in your inbox every week</div>
+      <p class="feed-cta-sub">The signal digest for DJs, A&Rs, promoters, and anyone who wants to hear what's coming before it arrives.</p>
+      <div class="email-form">
+        <input class="email-input" type="email" id="email-input-2" placeholder="your@email.com">
+        <button class="email-submit" onclick="handleSubscribe2()">Subscribe free</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<footer>
+  <div class="footer-left">RESONANCE SIGNAL · SIGNAL FEED · 2026</div>
+  <div class="footer-right">DATA: BEATPORT · JUNO · LAST.FM · Updated daily · <a href="./index.html" style="color:inherit;text-decoration:none">← Full intelligence view</a></div>
+</footer>
+
+<script>
+const BASE = './data/';
+let VELOCITY = [], EMERGING = [], GEO = [], GAP = [], SIGNALS = [];
+
+// ── Data loading ──────────────────────────────────────────────
+async function loadFeedData() {
+  try {
+    const [vel, em, geo, gap, signals] = await Promise.all([
+      fetch(BASE + 'velocity.json').then(r => r.json()),
+      fetch(BASE + 'emerging.json').then(r => r.json()),
+      fetch(BASE + 'geo.json').then(r => r.json()),
+      fetch(BASE + 'gap.json').then(r => r.json()),
+      fetch(BASE + 'signals.json').then(r => r.json()),
+    ]);
+    VELOCITY = vel; EMERGING = em; GEO = geo; GAP = gap; SIGNALS = signals;
+    renderFeed();
+  } catch(e) {
+    console.error('Feed load failed:', e);
+  }
+}
+
+// ── Date ─────────────────────────────────────────────────────
+function setDates() {
+  const now = new Date();
+  const opts = { day: 'numeric', month: 'long', year: 'numeric' };
+  document.getElementById('feed-date').textContent =
+    'Week of ' + now.toLocaleDateString('en-GB', opts);
+  document.getElementById('feed-week-label').textContent =
+    'Week of ' + now.toLocaleDateString('en-GB', { day:'numeric', month:'long', year:'numeric' });
+}
+
+// ── Signal type to plain language ────────────────────────────
+const SIGNAL_COPY = {
+  aligned:    { label:'Aligned signal', type:'breaking',    dot:'var(--hot)' },
+  'dj-play':  { label:'Listener-led',   type:'underground', dot:'var(--accent)' },
+  'fan-buy':  { label:'Purchase-driven', type:'rising',     dot:'var(--accent-5)' },
+  underground:{ label:'Underground',    type:'underground', dot:'var(--accent)' },
+};
+
+// ── Render rising genres ──────────────────────────────────────
+function renderRising() {
+  const el = document.getElementById('rising-cards');
+  if (!el) return;
+  const top = VELOCITY.slice(0, 4);
+  if (!top.length) { el.innerHTML = '<div class="empty-state">Data loading...</div>'; return; }
+
+  el.innerHTML = top.map(v => {
+    const statusType = v.status === 'peaking' ? 'breaking' : v.status === 'rising' ? 'rising' : 'underground';
+    const diff = v.playPct - v.buyPct;
+    const gapText = diff > 10
+      ? `Listener signal running ${diff}% ahead of commercial — underground momentum building.`
+      : diff < -10
+      ? `Commercial activity running ${Math.abs(diff)}% ahead of listener signal — mainstream crossover happening.`
+      : `Listener and commercial signals aligned — genre is confirmed hot.`;
+
+    return `<div class="signal-card ${statusType}">
+      <div class="signal-type ${statusType}">
+        <div class="signal-type-dot"></div>
+        ${v.status.toUpperCase()}
+      </div>
+      <div class="signal-headline">${v.genre} is ${v.status === 'peaking' ? 'at peak momentum' : v.status === 'rising' ? 'building fast' : v.status === 'cooling' ? 'cooling off' : 'an early signal'}</div>
+      <div class="signal-body">${gapText} ${v.delta}.</div>
+      <div class="signal-meta">
+        <span class="signal-tag">${v.genre}</span>
+        <span class="signal-data">LISTENER ${v.playPct}% · COMMERCIAL ${v.buyPct}%</span>
+      </div>
+      <div class="signal-artists">
+        ${(v.leaders || []).map(l => `<span class="signal-artist">${l}</span>`).join('')}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── Render underground artists ────────────────────────────────
+function renderUnderground() {
+  const el = document.getElementById('underground-grid');
+  if (!el) return;
+  if (!EMERGING.length) { el.innerHTML = '<div class="empty-state">Data loading...</div>'; return; }
+
+  el.innerHTML = EMERGING.map((t, i) => {
+    const heatPct = Math.round(t.heat * 100);
+    const heatColor = heatPct >= 90 ? 'var(--hot)' : heatPct >= 75 ? 'var(--accent)' : 'var(--cool)';
+    return `<div class="mover-card">
+      <div class="mover-rank">EMERGING #${i + 1}</div>
+      <div class="mover-name">${t.title}</div>
+      <div class="mover-genre">${t.artist}</div>
+      <div class="mover-signal">
+        <div class="mover-bar"><div class="mover-fill" style="width:${heatPct}%;background:${heatColor}"></div></div>
+        <span style="font-family:DM Mono,monospace;font-size:0.6rem;color:var(--text-3)">${heatPct}</span>
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── Render market divergence ──────────────────────────────────
+function renderMarkets() {
+  const el = document.getElementById('market-cards');
+  if (!el) return;
+  if (!GEO.length) { el.innerHTML = '<div class="empty-state">Data loading...</div>'; return; }
+
+  el.innerHTML = GEO.slice(0, 4).map(g => {
+    const lead = g.genres.find(gr => gr.mc === 'momentum-up');
+    const dominant = g.genres[0];
+    return `<div class="signal-card diverging">
+      <div class="signal-type diverging">
+        <div class="signal-type-dot"></div>
+        MARKET SIGNAL · ${g.flag} ${g.country.toUpperCase()}
+      </div>
+      <div class="signal-headline">${g.country}: ${lead ? lead.n + ' rising' : dominant.n + ' dominant'}</div>
+      <div class="signal-body">${g.insight}</div>
+      <div class="signal-meta">
+        ${g.genres.map(gr => `<span class="signal-tag">${gr.n}</span>`).join('')}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── Render signal gap ─────────────────────────────────────────
+function renderGapFeed() {
+  const el = document.getElementById('gap-cards');
+  if (!el) return;
+  const interesting = GAP.filter(r => r.signal !== 'fan-buy').slice(0, 4);
+  if (!interesting.length) { el.innerHTML = '<div class="empty-state">Data loading...</div>'; return; }
+
+  el.innerHTML = interesting.map(r => {
+    const sc = SIGNAL_COPY[r.signal] || SIGNAL_COPY['dj-play'];
+    const desc = r.signal === 'underground'
+      ? `${r.artist} has strong listener momentum in ${r.genre} (#${r.playRank} on listener charts) but no commercial chart presence yet. Classic pre-breakout pattern.`
+      : r.signal === 'aligned'
+      ? `${r.artist} is aligned — appearing at #${r.playRank} on listener charts and #${r.buyRank} commercially. Both signals confirming.`
+      : `${r.artist} is appearing at #${r.playRank} on listener charts in ${r.genre}. Watch this one.`;
+
+    return `<div class="signal-card ${sc.type}">
+      <div class="signal-type ${sc.type}">
+        <div class="signal-type-dot" style="background:${sc.dot}"></div>
+        ${sc.label.toUpperCase()}
+      </div>
+      <div class="signal-headline">${r.artist}</div>
+      <div class="signal-body">${desc}</div>
+      <div class="signal-meta">
+        <span class="signal-tag">${r.genre}</span>
+        ${r.playRank ? `<span class="signal-data">LISTENER #${r.playRank}</span>` : ''}
+        ${r.buyRank ? `<span class="signal-data">COMMERCIAL #${r.buyRank}</span>` : ''}
+      </div>
+    </div>`;
+  }).join('');
+}
+
+// ── Email subscription ────────────────────────────────────────
+function handleSubscribe() {
+  const input = document.getElementById('email-input');
+  const btn = document.getElementById('email-submit');
+  const email = input.value.trim();
+  if (!email || !email.includes('@')) {
+    input.style.borderColor = 'var(--hot)';
+    setTimeout(() => input.style.borderColor = '', 1500);
+    return;
+  }
+  // Store locally + show confirmation
+  // Replace BUTTONDOWN_URL with your Buttondown form URL when ready
+  const BUTTONDOWN_URL = 'https://buttondown.com/api/emails/embed-subscribe/resonancesignal';
+  const form = document.createElement('form');
+  form.action = BUTTONDOWN_URL;
+  form.method = 'post';
+  form.target = 'popupwindow';
+  const emailField = document.createElement('input');
+  emailField.type = 'hidden';
+  emailField.name = 'email';
+  emailField.value = email;
+  form.appendChild(emailField);
+  document.body.appendChild(form);
+  form.submit();
+  document.body.removeChild(form);
+  btn.textContent = '✓ You're in';
+  btn.classList.add('success');
+  input.value = '';
+  localStorage.setItem('rs_subscribed', '1');
+}
+
+function handleSubscribe2() {
+  const input = document.getElementById('email-input-2');
+  input.id = 'email-input';
+  handleSubscribe();
+  input.id = 'email-input-2';
+}
+
+// ── Feed nav scroll ───────────────────────────────────────────
+function scrollTo(id, el) {
+  document.getElementById(id)?.scrollIntoView({behavior:'smooth'});
+  document.querySelectorAll('.feed-nav-link').forEach(l => l.classList.remove('active'));
+  if(el) el.classList.add('active');
+}
+
+// ── Render all ────────────────────────────────────────────────
+function renderFeed() {
+  setDates();
+  renderRising();
+  renderUnderground();
+  renderMarkets();
+  renderGapFeed();
+  // Hide subscribe button if already subscribed
+  if(localStorage.getItem('rs_subscribed')) {
+    document.querySelectorAll('.email-submit').forEach(b => {
+      b.textContent = '✓ Subscribed';
+      b.classList.add('success');
+    });
+  }
+}
+
+if(document.readyState === 'loading') {
+  document.addEventListener('DOMContentLoaded', loadFeedData);
+} else {
+  loadFeedData();
+}
+</script>
+
+</body>
+</html>
