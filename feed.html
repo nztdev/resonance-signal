@@ -133,7 +133,7 @@
   <p class="feed-desc">The weekly underground signal digest. What DJs are playing, what fans are buying, where the gap is widening. Plain language. Real data.</p>
   <div class="email-form">
     <input class="email-input" type="email" id="email-input" placeholder="your@email.com">
-    <button class="email-submit" id="email-submit" onclick="if(typeof handleSubscribe!=='undefined')handleSubscribe();else setTimeout(handleSubscribe,100)">Get the weekly signal</button>
+    <button class="email-submit" id="email-submit" id="sub-btn-1">Get the weekly signal</button>
   </div>
   <div class="email-note">No noise. One signal. Unsubscribe anytime.</div>
 </div>
@@ -180,7 +180,7 @@
       <p class="feed-cta-sub">The signal digest for DJs, A&Rs, promoters, and anyone who wants to hear what's coming before it arrives.</p>
       <div class="email-form">
         <input class="email-input" type="email" id="email-input-2" placeholder="your@email.com">
-        <button class="email-submit" onclick="if(typeof handleSubscribe2!=='undefined')handleSubscribe2();else setTimeout(handleSubscribe2,100)">Subscribe free</button>
+        <button class="email-submit" id="sub-btn-2">Subscribe free</button>
       </div>
     </div>
 
@@ -365,7 +365,7 @@ function handleSubscribe() {
   document.body.appendChild(form);
   form.submit();
   document.body.removeChild(form);
-  btn.textContent = '✓ You're in';
+  btn.textContent = '✓ Subscribed';
   btn.classList.add('success');
   input.value = '';
   localStorage.setItem('rs_subscribed', '1');
@@ -401,10 +401,16 @@ function renderFeed() {
   }
 }
 
+function setupSubscribe() {
+  var b1 = document.getElementById('sub-btn-1');
+  var b2 = document.getElementById('sub-btn-2');
+  if(b1) b1.onclick = handleSubscribe;
+  if(b2) b2.onclick = handleSubscribe2;
+}
 if(document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', loadFeedData);
+  document.addEventListener('DOMContentLoaded', function(){ loadFeedData(); setupSubscribe(); });
 } else {
-  loadFeedData();
+  loadFeedData(); setupSubscribe();
 }
 </script>
 
