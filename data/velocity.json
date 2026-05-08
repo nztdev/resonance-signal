@@ -1,60 +1,86 @@
 [
   {
-    "genre": "Trance",
-    "status": "peaking",
-    "playPct": 88,
-    "buyPct": 40,
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "That Man"
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Moonfeld"
     ],
-    "delta": "Market leader"
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Amplify (MX)"
+    ],
+    "delta": "Strong momentum"
   },
   {
     "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 25,
+    "status": "rising",
+    "playPct": 56,
     "buyPct": 88,
     "leaders": [
       "Sara Landry",
       "Anna",
       "Boris Brejcha",
-      "gsxtavo."
+      "NDX Music"
     ],
-    "delta": "Early signal"
+    "delta": "Strong momentum"
   },
   {
     "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 25,
-    "buyPct": 80,
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
     "leaders": [
       "RAFFA GUIDO",
       "Mobi Dixon",
       "Maesic",
-      "Cafe De Anatolia"
+      "Milliofran Mas"
     ],
-    "delta": "Early signal"
+    "delta": "Strong momentum"
   },
   {
     "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 25,
-    "buyPct": 25,
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 66,
     "leaders": [
       "Kasablanca",
       "Tinlicker",
       "HNTR",
-      "ChoupLaPiss"
+      "Dacore"
     ],
-    "delta": "Early signal"
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "9ms"
+    ],
+    "delta": "Strong momentum"
   },
   {
     "genre": "Hard Techno",
-    "status": "emerging",
-    "playPct": 25,
+    "status": "rising",
+    "playPct": 56,
     "buyPct": 88,
     "leaders": [
       "The Prophet",
@@ -62,71 +88,45 @@
       "Isyti",
       "Various"
     ],
-    "delta": "Early signal"
+    "delta": "Strong momentum"
   },
   {
     "genre": "Techno",
-    "status": "emerging",
-    "playPct": 25,
+    "status": "rising",
+    "playPct": 56,
     "buyPct": 88,
     "leaders": [
       "Psyk",
       "Morbe",
       "Unklevon",
-      "Lorenzo Chi"
+      "Dan Soden"
     ],
-    "delta": "Early signal"
-  },
-  {
-    "genre": "Deep House",
-    "status": "emerging",
-    "playPct": 25,
-    "buyPct": 88,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Geija MSC"
-    ],
-    "delta": "Early signal"
+    "delta": "Strong momentum"
   },
   {
     "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 25,
-    "buyPct": 88,
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
     "leaders": [
       "Adriatique",
       "Alan Fitzpatrick",
       "Jamie Jones",
-      "Ersan Erguner"
+      "Tony Thomas"
     ],
-    "delta": "Early signal"
+    "delta": "Strong momentum"
   },
   {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 25,
-    "buyPct": 88,
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 51,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Juçara Marçal"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Daveros"
     ],
-    "delta": "Early signal"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 25,
-    "buyPct": 88,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Origen Tostado"
-    ],
-    "delta": "Early signal"
+    "delta": "Strong momentum"
   }
 ]

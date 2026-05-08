@@ -1,17 +1,17 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 2,
-    "buyRank": 85,
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": 28,
     "signal": "dj-play"
   },
   {
-    "artist": "Armin van Buuren",
-    "genre": "Trance",
-    "playRank": 2,
-    "buyRank": 6,
-    "signal": "aligned"
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
     "artist": "Sara Landry",
@@ -49,20 +49,6 @@
     "signal": "underground"
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
     "artist": "Tiësto",
     "genre": "Trance",
     "playRank": 1,
@@ -70,43 +56,50 @@
     "signal": "underground"
   },
   {
-    "artist": "gsxtavo.",
+    "artist": "Jansons",
+    "genre": "House",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Moonfeld",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Amplify (MX)",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "NDX Music",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Cafe De Anatolia",
+    "artist": "Milliofran Mas",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "ChoupLaPiss",
+    "artist": "Dacore",
     "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Various",
-    "genre": "Hard Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Lorenzo Chi",
-    "genre": "Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Geija MSC",
-    "genre": "Deep House",
+    "artist": "9ms",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
