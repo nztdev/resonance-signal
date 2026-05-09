@@ -135,10 +135,10 @@
 </div>
 
 <div class="feed-nav">
-  <span class="feed-nav-link active" onclick="scrollTo('feed-rising',this)">Rising genres</span>
-  <span class="feed-nav-link" onclick="scrollTo('feed-underground',this)">Underground artists</span>
-  <span class="feed-nav-link" onclick="scrollTo('feed-markets',this)">Market divergence</span>
-  <span class="feed-nav-link" onclick="scrollTo('feed-gap',this)">Signal gap</span>
+  <span class="feed-nav-link active" onclick="feedScrollTo('feed-rising',this)">Rising genres</span>
+  <span class="feed-nav-link" onclick="feedScrollTo('feed-underground',this)">Underground artists</span>
+  <span class="feed-nav-link" onclick="feedScrollTo('feed-markets',this)">Market divergence</span>
+  <span class="feed-nav-link" onclick="feedScrollTo('feed-gap',this)">Signal gap</span>
 </div>
 
 <div class="feed-body">
@@ -338,8 +338,14 @@ function renderGapFeed() {
 
 // ── Email subscription ────────────────────────────────────────
 
-  // Store locally + show confirmation
-  // Replace BUTTONDOWN_URL with your Buttondown form URL when ready
+function handleSubscribe() {
+  const input = document.getElementById('email-input-2');
+  const btn = document.getElementById('sub-btn-2');
+  const email = input ? input.value.trim() : '';
+  if (!email || !email.includes('@')) {
+    if(input) { input.style.borderColor = 'var(--hot)'; setTimeout(() => input.style.borderColor = '', 1500); }
+    return;
+  }
   const BUTTONDOWN_URL = 'https://buttondown.com/api/emails/embed-subscribe/resonancesignal';
   const form = document.createElement('form');
   form.action = BUTTONDOWN_URL;
@@ -353,21 +359,13 @@ function renderGapFeed() {
   document.body.appendChild(form);
   form.submit();
   document.body.removeChild(form);
-  btn.textContent = '✓ Subscribed';
-  btn.classList.add('success');
+  if(btn) { btn.textContent = 'Subscribed'; btn.classList.add('success'); }
   input.value = '';
   localStorage.setItem('rs_subscribed', '1');
 }
 
-function handleSubscribe() {
-  const input = document.getElementById('email-input-2');
-  input.id = 'email-input';
-  handleSubscribe();
-  input.id = 'email-input-2';
-}
-
 // ── Feed nav scroll ───────────────────────────────────────────
-function scrollTo(id, el) {
+function feedScrollTo(id, el) {
   document.getElementById(id)?.scrollIntoView({behavior:'smooth'});
   document.querySelectorAll('.feed-nav-link').forEach(l => l.classList.remove('active'));
   if(el) el.classList.add('active');
