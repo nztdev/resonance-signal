@@ -1,10 +1,5 @@
 [
   {
-    "text": "House",
-    "sub": "Strong momentum",
-    "c": "#6bcb77"
-  },
-  {
     "text": "Deep House",
     "sub": "Strong momentum",
     "c": "#6bcb77"
@@ -15,7 +10,12 @@
     "c": "#6bcb77"
   },
   {
-    "text": "Afro House",
+    "text": "Organic / Downtempo",
+    "sub": "Strong momentum",
+    "c": "#6bcb77"
+  },
+  {
+    "text": "Trance",
     "sub": "Strong momentum",
     "c": "#6bcb77"
   }

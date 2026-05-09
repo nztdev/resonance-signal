@@ -1,9 +1,9 @@
 [
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": 28,
+    "artist": "Slow Nomaden",
+    "genre": "Organic / Downtempo",
+    "playRank": 5,
+    "buyRank": 14,
     "signal": "dj-play"
   },
   {
@@ -21,29 +21,8 @@
     "signal": "underground"
   },
   {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "thds",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -56,50 +35,71 @@
     "signal": "underground"
   },
   {
-    "artist": "Jansons",
-    "genre": "House",
-    "playRank": 2,
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Moonfeld",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
-    "artist": "Amplify (MX)",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Pleiadians",
     "genre": "Deep House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "NDX Music",
+    "artist": "Curly Gala",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Milliofran Mas",
-    "genre": "Afro House",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Dacore",
+    "artist": "Shusaku",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Argo74",
     "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "9ms",
-    "genre": "Organic / Downtempo",
+    "artist": "AMORFO",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
