@@ -1,14 +1,14 @@
 [
   {
-    "artist": "Slow Nomaden",
-    "genre": "Organic / Downtempo",
-    "playRank": 5,
-    "buyRank": 14,
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 2,
+    "buyRank": 24,
     "signal": "dj-play"
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -21,22 +21,15 @@
     "signal": "underground"
   },
   {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
     "artist": "thds",
     "genre": "Organic / Downtempo",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -49,59 +42,66 @@
     "signal": "underground"
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Adriatique",
+    "genre": "Tech House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Pleiadians",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
-    "artist": "Curly Gala",
+    "artist": "Various",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Tibetania",
+    "artist": "Luscius",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "St. David",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Matt Gunn",
     "genre": "Organic / Downtempo",
     "playRank": null,
-    "buyRank": 1,
+    "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Shusaku",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Argo74",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "AMORFO",
+    "artist": "Disguised",
     "genre": "Techno",
     "playRank": null,
-    "buyRank": 1,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Space Ghost",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 2,
     "signal": "fan-buy"
   }
 ]
