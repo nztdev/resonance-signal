@@ -1,28 +1,21 @@
 [
   {
-    "artist": "Alan Fitzpatrick",
+    "artist": "Jay Robinson",
     "genre": "Tech House",
-    "playRank": 2,
+    "playRank": 14,
     "buyRank": 24,
     "signal": "dj-play"
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
+    "artist": "Thakzin",
+    "genre": "Afro House",
+    "playRank": 15,
+    "buyRank": 2,
+    "signal": "fan-buy"
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -30,6 +23,13 @@
   {
     "artist": "thds",
     "genre": "Organic / Downtempo",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -49,8 +49,8 @@
     "signal": "underground"
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -63,45 +63,52 @@
     "signal": "underground"
   },
   {
-    "artist": "Various",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Fran Garro",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Luscius",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "St. David",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Matt Gunn",
+    "artist": "9ms",
     "genre": "Organic / Downtempo",
     "playRank": null,
-    "buyRank": 2,
+    "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Disguised",
+    "artist": "AGBER (ES)",
     "genre": "Techno",
     "playRank": null,
-    "buyRank": 2,
+    "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Space Ghost",
-    "genre": "Deep House",
+    "artist": "No Shape",
+    "genre": "Tech House",
     "playRank": null,
-    "buyRank": 2,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Trancewave Project",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Oggi",
+    "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 1,
     "signal": "fan-buy"
   }
 ]
