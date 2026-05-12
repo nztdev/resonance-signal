@@ -1,21 +1,7 @@
 [
   {
-    "artist": "Jay Robinson",
-    "genre": "Tech House",
-    "playRank": 14,
-    "buyRank": 24,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Thakzin",
-    "genre": "Afro House",
-    "playRank": 15,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -35,6 +21,13 @@
     "signal": "underground"
   },
   {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
     "artist": "Psyk",
     "genre": "Techno",
     "playRank": 1,
@@ -42,15 +35,15 @@
     "signal": "underground"
   },
   {
-    "artist": "Adriatique",
-    "genre": "Tech House",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -63,15 +56,8 @@
     "signal": "underground"
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Fran Garro",
-    "genre": "Melodic Techno",
+    "artist": "Star Children",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
@@ -84,29 +70,29 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "AGBER (ES)",
+    "artist": "Galezard Project",
+    "genre": "Melodic Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Shemesh Vibes",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "No Shape",
-    "genre": "Tech House",
+    "artist": "Xplore",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Trancewave Project",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Oggi",
-    "genre": "Afro House",
+    "artist": "Magoam",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"

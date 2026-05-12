@@ -1,25 +1,33 @@
 [
   {
-    "title": "Psyk",
-    "artist": "Techno",
+    "title": "Angelo Ferreri",
+    "artist": "House",
+    "label": "Independent",
+    "plays": 1520,
+    "heat": 0.95,
+    "market": "US"
+  },
+  {
+    "title": "Tiësto",
+    "artist": "Trance",
     "label": "Independent",
     "plays": 1605,
     "heat": 0.95,
-    "market": "DE"
+    "market": "NL"
   },
   {
     "title": "Adriatique",
     "artist": "Tech House",
     "label": "Independent",
-    "plays": 1636,
-    "heat": 0.95,
+    "plays": 1443,
+    "heat": 0.94,
     "market": "GB"
   },
   {
     "title": "Kasablanca",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1478,
+    "plays": 1619,
     "heat": 0.94,
     "market": "IT"
   },
@@ -27,7 +35,7 @@
     "title": "The Prophet",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1397,
+    "plays": 1537,
     "heat": 0.94,
     "market": "DE"
   },
@@ -35,7 +43,7 @@
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1453,
+    "plays": 1393,
     "heat": 0.94,
     "market": "ZA"
   },
@@ -43,7 +51,7 @@
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1499,
+    "plays": 1488,
     "heat": 0.94,
     "market": "US"
   },
@@ -51,32 +59,24 @@
     "title": "Sara Landry",
     "artist": "Minimal / Deep Tech",
     "label": "Independent",
-    "plays": 1692,
+    "plays": 1513,
     "heat": 0.94,
     "market": "NL"
   },
   {
-    "title": "Angelo Ferreri",
-    "artist": "House",
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
     "label": "Independent",
-    "plays": 1384,
-    "heat": 0.94,
-    "market": "US"
-  },
-  {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "label": "Independent",
-    "plays": 1399,
-    "heat": 0.94,
-    "market": "NL"
-  },
-  {
-    "title": "Mobi Dixon",
-    "artist": "Afro House",
-    "label": "Independent",
-    "plays": 1410,
+    "plays": 1480,
     "heat": 0.93,
-    "market": "ZA"
+    "market": "GB"
+  },
+  {
+    "title": "Stavroz",
+    "artist": "Organic / Downtempo",
+    "label": "Independent",
+    "plays": 1390,
+    "heat": 0.93,
+    "market": "CO"
   }
 ]
