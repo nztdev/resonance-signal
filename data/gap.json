@@ -1,10 +1,10 @@
 [
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
+    "artist": "Avant.OCS",
+    "genre": "Techno",
+    "playRank": 3,
+    "buyRank": 37,
+    "signal": "dj-play"
   },
   {
     "artist": "thds",
@@ -14,8 +14,29 @@
     "signal": "underground"
   },
   {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
     "artist": "The Prophet",
     "genre": "Hard Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -42,27 +63,6 @@
     "signal": "underground"
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Star Children",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
     "artist": "9ms",
     "genre": "Organic / Downtempo",
     "playRank": null,
@@ -70,14 +70,28 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "Galezard Project",
+    "artist": "Abstract Prime",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Andre The Sun",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Hannes Bruniic",
     "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Shemesh Vibes",
+    "artist": "Surivan",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
@@ -86,13 +100,6 @@
   {
     "artist": "Xplore",
     "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Magoam",
-    "genre": "Deep House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"

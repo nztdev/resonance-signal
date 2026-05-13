@@ -1,18 +1,5 @@
 [
   {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 81,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Star Children"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 56,
@@ -26,57 +13,6 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 25,
-    "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "Isyti"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Galezard Project"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 85,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "Shemesh Vibes"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 85,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Xplore"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
@@ -85,7 +21,7 @@
       "nbsplv",
       "Lost Frequencies",
       "Kerri Chandler",
-      "Magoam"
+      "Abstract Prime"
     ],
     "delta": "Strong momentum"
   },
@@ -98,7 +34,84 @@
       "RAFFA GUIDO",
       "Mobi Dixon",
       "Maesic",
-      "Cafe De Anatolia"
+      "Tibetania"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "The Bucketheads"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Andre The Sun"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 69,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Hannes Bruniic"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 84,
+    "leaders": [
+      "Psyk",
+      "Unklevon",
+      "Avant.OCS",
+      "Surivan"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Xplore"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 83,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Apex Pulse"
     ],
     "delta": "Strong momentum"
   },
@@ -108,23 +121,10 @@
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Adriatique",
       "Alan Fitzpatrick",
+      "Adriatique",
       "Jamie Jones",
-      "DPPeriod"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 80,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Morggan"
+      "MEK NØVA"
     ],
     "delta": "Strong momentum"
   }
