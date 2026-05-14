@@ -1,21 +1,7 @@
 [
   {
-    "artist": "Avant.OCS",
-    "genre": "Techno",
-    "playRank": 3,
-    "buyRank": 37,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -28,29 +14,8 @@
     "signal": "underground"
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
     "artist": "Kasablanca",
     "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -63,43 +28,71 @@
     "signal": "underground"
   },
   {
-    "artist": "9ms",
-    "genre": "Organic / Downtempo",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
-    "artist": "Abstract Prime",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
-    "artist": "Andre The Sun",
+    "artist": "Tiësto",
     "genre": "Trance",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Dan Soden",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Hannes Bruniic",
+    "artist": "Cafe De Anatolia",
+    "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Fran Garro",
     "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Surivan",
-    "genre": "Techno",
+    "artist": "Nae:Tek",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Xplore",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Lark & Ivy of the Moors",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Ascendant Vierge",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
