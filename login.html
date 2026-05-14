@@ -29,7 +29,8 @@
 .auth-logo-text span{color:var(--accent)}
 .auth-card{background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:40px}
 .auth-tabs{display:flex;margin-bottom:32px;border-bottom:1px solid var(--border)}
-.auth-tab{font-family:"DM Mono",monospace;font-size:0.65rem;letter-spacing:0.1em;text-transform:uppercase;padding:0 0 12px;margin-right:24px;cursor:pointer;color:var(--text-3);border-bottom:2px solid transparent;transition:all 0.2s}
+.auth-tab{font-family:"DM Mono",monospace;font-size:0.65rem;letter-spacing:0.1em;text-transform:uppercase;padding:0 0 12px;margin-right:24px;cursor:pointer;color:var(--text-2);border-bottom:2px solid transparent;transition:all 0.2s}
+.auth-tab:hover{color:var(--text)}
 .auth-tab.active{color:var(--text);border-bottom-color:var(--accent)}
 .form-group{margin-bottom:20px}
 .form-label{display:block;font-family:"DM Mono",monospace;font-size:0.6rem;letter-spacing:0.1em;color:var(--text-2);text-transform:uppercase;margin-bottom:8px}
@@ -162,7 +163,7 @@ sb.auth.getUser().then(({ data: { user } }) => {
 });
 
 // Check for #register hash
-if (window.location.hash === '#register') switchTab('register');
+if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',function(){if(window.location.hash==='#register')switchTab('register');});}else{if(window.location.hash==='#register')switchTab('register');}
 
 // Enter key support
 document.addEventListener('keydown', e => {
