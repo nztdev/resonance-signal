@@ -1,10 +1,17 @@
 [
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
+    "playRank": 2,
+    "buyRank": 30,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 6,
+    "buyRank": 133,
+    "signal": "dj-play"
   },
   {
     "artist": "RAFFA GUIDO",
@@ -14,29 +21,15 @@
     "signal": "underground"
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -49,6 +42,27 @@
     "signal": "underground"
   },
   {
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
     "artist": "nbsplv",
     "genre": "Deep House",
     "playRank": 1,
@@ -56,43 +70,43 @@
     "signal": "underground"
   },
   {
-    "artist": "Dan Soden",
-    "genre": "Tech House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Cafe De Anatolia",
+    "artist": "Thutmose",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Fran Garro",
-    "genre": "Melodic Techno",
+    "artist": "Vortex",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Nae:Tek",
-    "genre": "Minimal / Deep Tech",
+    "artist": "WazNotMe",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Lark & Ivy of the Moors",
-    "genre": "House",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Ascendant Vierge",
+    "artist": "Grimes77",
     "genre": "Trance",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Various",
+    "genre": "Hard Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
