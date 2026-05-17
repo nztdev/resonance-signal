@@ -1,11 +1,6 @@
 [
   {
-    "text": "Organic / Downtempo",
-    "sub": "Strong momentum",
-    "c": "#6bcb77"
-  },
-  {
-    "text": "Melodic Techno",
+    "text": "House",
     "sub": "Strong momentum",
     "c": "#6bcb77"
   },
@@ -15,7 +10,12 @@
     "c": "#6bcb77"
   },
   {
-    "text": "Techno",
+    "text": "Tech House",
+    "sub": "Strong momentum",
+    "c": "#6bcb77"
+  },
+  {
+    "text": "Deep House",
     "sub": "Strong momentum",
     "c": "#6bcb77"
   }

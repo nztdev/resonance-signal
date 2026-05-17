@@ -3,8 +3,50 @@
     "artist": "Stavroz",
     "genre": "Organic / Downtempo",
     "playRank": 2,
-    "buyRank": 39,
+    "buyRank": 47,
     "signal": "dj-play"
+  },
+  {
+    "artist": "Tinlicker",
+    "genre": "Organic / Downtempo",
+    "playRank": 3,
+    "buyRank": 7,
+    "signal": "aligned"
+  },
+  {
+    "artist": "Boris Brejcha",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 3,
+    "buyRank": 58,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
     "artist": "thds",
@@ -21,34 +63,6 @@
     "signal": "underground"
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
     "artist": "The Prophet",
     "genre": "Hard Techno",
     "playRank": 1,
@@ -56,50 +70,50 @@
     "signal": "underground"
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Parra for Cuva",
-    "genre": "Organic / Downtempo",
+    "artist": "Y星人儿歌",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "RAWKODE",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "DJMaurus",
+    "artist": "mcconnellmark",
     "genre": "Trance",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "X4U",
-    "genre": "Techno",
+    "artist": "Rizzo (Col)",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Naze",
+    "artist": "Magoam",
     "genre": "Deep House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "DNFTD",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Jason Still",
+    "genre": "Melodic Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Various",
+    "genre": "Hard Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
