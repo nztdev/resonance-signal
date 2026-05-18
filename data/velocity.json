@@ -1,40 +1,14 @@
 [
   {
-    "genre": "House",
+    "genre": "Afro House",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Y星人儿歌"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 25,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "mcconnellmark"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "Rizzo (Col)"
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "No Reclaim"
     ],
     "delta": "Strong momentum"
   },
@@ -47,33 +21,20 @@
       "nbsplv",
       "Lost Frequencies",
       "Kerri Chandler",
-      "Magoam"
+      "Olilith"
     ],
     "delta": "Strong momentum"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Techno",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Parra for Cuva"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 50,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Jason Still"
+      "Psyk",
+      "Unklevon",
+      "Avant.OCS",
+      "AMORFO"
     ],
     "delta": "Strong momentum"
   },
@@ -91,32 +52,6 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 79,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Ogere"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Psyk",
-      "Unklevon",
-      "Avant.OCS",
-      "Buben"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 56,
@@ -125,7 +60,72 @@
       "Sara Landry",
       "Anna",
       "Boris Brejcha",
-      "Elektro Vendetta"
+      "Nicole the Divine Oracle"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Kai Muckenheim"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Jason Still"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Technomate"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones",
+      "Tech Mama"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Parra for Cuva"
     ],
     "delta": "Strong momentum"
   }

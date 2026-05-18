@@ -1,9 +1,25 @@
 [
   {
+    "title": "Psyk",
+    "artist": "Techno",
+    "label": "Independent",
+    "plays": 1616,
+    "heat": 0.95,
+    "market": "DE"
+  },
+  {
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "label": "Independent",
+    "plays": 1646,
+    "heat": 0.95,
+    "market": "GB"
+  },
+  {
     "title": "The Prophet",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1526,
+    "plays": 1475,
     "heat": 0.95,
     "market": "DE"
   },
@@ -11,7 +27,7 @@
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1556,
+    "plays": 1591,
     "heat": 0.95,
     "market": "US"
   },
@@ -19,7 +35,7 @@
     "title": "Sara Landry",
     "artist": "Minimal / Deep Tech",
     "label": "Independent",
-    "plays": 1700,
+    "plays": 1571,
     "heat": 0.95,
     "market": "NL"
   },
@@ -27,31 +43,23 @@
     "title": "Angelo Ferreri",
     "artist": "House",
     "label": "Independent",
-    "plays": 1415,
+    "plays": 1355,
     "heat": 0.95,
     "market": "US"
   },
   {
-    "title": "Psyk",
-    "artist": "Techno",
+    "title": "Tiësto",
+    "artist": "Trance",
     "label": "Independent",
-    "plays": 1399,
-    "heat": 0.94,
-    "market": "DE"
-  },
-  {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "label": "Independent",
-    "plays": 1749,
-    "heat": 0.94,
-    "market": "GB"
+    "plays": 1370,
+    "heat": 0.95,
+    "market": "NL"
   },
   {
     "title": "Kasablanca",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1558,
+    "plays": 1593,
     "heat": 0.94,
     "market": "IT"
   },
@@ -59,23 +67,15 @@
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1678,
+    "plays": 1488,
     "heat": 0.94,
     "market": "ZA"
-  },
-  {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "label": "Independent",
-    "plays": 1517,
-    "heat": 0.94,
-    "market": "NL"
   },
   {
     "title": "Unklevon",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1551,
+    "plays": 1466,
     "heat": 0.92,
     "market": "DE"
   }

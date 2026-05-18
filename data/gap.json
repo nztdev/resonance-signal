@@ -1,42 +1,21 @@
 [
   {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 2,
-    "buyRank": 47,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
-    "playRank": 3,
-    "buyRank": 7,
-    "signal": "aligned"
-  },
-  {
     "artist": "Boris Brejcha",
     "genre": "Minimal / Deep Tech",
     "playRank": 3,
-    "buyRank": 58,
+    "buyRank": 56,
     "signal": "dj-play"
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 6,
+    "buyRank": 130,
+    "signal": "dj-play"
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -49,15 +28,8 @@
     "signal": "underground"
   },
   {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -70,43 +42,50 @@
     "signal": "underground"
   },
   {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Y星人儿歌",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "mcconnellmark",
+    "artist": "Tiësto",
     "genre": "Trance",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "No Reclaim",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Rizzo (Col)",
-    "genre": "Tech House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Magoam",
+    "artist": "Olilith",
     "genre": "Deep House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Jason Still",
-    "genre": "Melodic Techno",
+    "artist": "AMORFO",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
@@ -114,6 +93,20 @@
   {
     "artist": "Various",
     "genre": "Hard Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Nicole the Divine Oracle",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Kai Muckenheim",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
