@@ -3,19 +3,26 @@
     "artist": "Boris Brejcha",
     "genre": "Minimal / Deep Tech",
     "playRank": 3,
-    "buyRank": 56,
+    "buyRank": 52,
     "signal": "dj-play"
   },
   {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 6,
-    "buyRank": 130,
-    "signal": "dj-play"
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -35,13 +42,6 @@
     "signal": "underground"
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
     "artist": "Sara Landry",
     "genre": "Minimal / Deep Tech",
     "playRank": 1,
@@ -49,43 +49,22 @@
     "signal": "underground"
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Kasablanca",
+    "artist": "thds",
+    "genre": "Organic / Downtempo",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Fran Garro",
     "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "No Reclaim",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Olilith",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "AMORFO",
-    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
@@ -98,15 +77,29 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "Nicole the Divine Oracle",
+    "artist": "Manaia Music",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Cabbal",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Tobz",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Kai Muckenheim",
-    "genre": "Trance",
+    "artist": "Oziriz",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"

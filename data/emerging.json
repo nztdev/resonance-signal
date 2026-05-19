@@ -1,25 +1,17 @@
 [
   {
-    "title": "Psyk",
-    "artist": "Techno",
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1616,
+    "plays": 1650,
     "heat": 0.95,
-    "market": "DE"
-  },
-  {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "label": "Independent",
-    "plays": 1646,
-    "heat": 0.95,
-    "market": "GB"
+    "market": "IT"
   },
   {
     "title": "The Prophet",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1475,
+    "plays": 1541,
     "heat": 0.95,
     "market": "DE"
   },
@@ -27,23 +19,7 @@
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1591,
-    "heat": 0.95,
-    "market": "US"
-  },
-  {
-    "title": "Sara Landry",
-    "artist": "Minimal / Deep Tech",
-    "label": "Independent",
-    "plays": 1571,
-    "heat": 0.95,
-    "market": "NL"
-  },
-  {
-    "title": "Angelo Ferreri",
-    "artist": "House",
-    "label": "Independent",
-    "plays": 1355,
+    "plays": 1566,
     "heat": 0.95,
     "market": "US"
   },
@@ -51,31 +27,55 @@
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1370,
+    "plays": 1510,
     "heat": 0.95,
     "market": "NL"
   },
   {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
+    "title": "Psyk",
+    "artist": "Techno",
     "label": "Independent",
-    "plays": 1593,
+    "plays": 1694,
     "heat": 0.94,
-    "market": "IT"
+    "market": "DE"
+  },
+  {
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "label": "Independent",
+    "plays": 1639,
+    "heat": 0.94,
+    "market": "GB"
   },
   {
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1488,
+    "plays": 1469,
     "heat": 0.94,
     "market": "ZA"
+  },
+  {
+    "title": "Angelo Ferreri",
+    "artist": "House",
+    "label": "Independent",
+    "plays": 1614,
+    "heat": 0.94,
+    "market": "US"
+  },
+  {
+    "title": "Yoshiko",
+    "artist": "Hard Techno",
+    "label": "Independent",
+    "plays": 1655,
+    "heat": 0.93,
+    "market": "DE"
   },
   {
     "title": "Unklevon",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1466,
+    "plays": 1631,
     "heat": 0.92,
     "market": "DE"
   }
