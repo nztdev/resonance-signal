@@ -1,31 +1,17 @@
 [
   {
-    "artist": "Boris Brejcha",
+    "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 3,
-    "buyRank": 52,
+    "playRank": 2,
+    "buyRank": 45,
     "signal": "dj-play"
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
+    "artist": "Boris Brejcha",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 3,
+    "buyRank": 69,
+    "signal": "dj-play"
   },
   {
     "artist": "nbsplv",
@@ -42,8 +28,36 @@
     "signal": "underground"
   },
   {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
     "artist": "Sara Landry",
     "genre": "Minimal / Deep Tech",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "RAFFA GUIDO",
+    "genre": "Afro House",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -56,50 +70,43 @@
     "signal": "underground"
   },
   {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Fran Garro",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Various",
-    "genre": "Hard Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Manaia Music",
+    "artist": "Abstrak",
     "genre": "Deep House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Cabbal",
+    "artist": "Savoir musical",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Tobz",
+    "artist": "IDÜS",
+    "genre": "Melodic Techno",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "No Reclaim",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Oziriz",
-    "genre": "Tech House",
+    "artist": "Midorii",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Ger Electronic",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"

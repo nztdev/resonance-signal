@@ -1,25 +1,33 @@
 [
   {
+    "title": "Psyk",
+    "artist": "Techno",
+    "label": "Independent",
+    "plays": 1716,
+    "heat": 0.95,
+    "market": "DE"
+  },
+  {
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "label": "Independent",
+    "plays": 1626,
+    "heat": 0.95,
+    "market": "GB"
+  },
+  {
     "title": "Kasablanca",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1650,
+    "plays": 1460,
     "heat": 0.95,
     "market": "IT"
-  },
-  {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
-    "label": "Independent",
-    "plays": 1541,
-    "heat": 0.95,
-    "market": "DE"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1566,
+    "plays": 1715,
     "heat": 0.95,
     "market": "US"
   },
@@ -27,31 +35,23 @@
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1510,
+    "plays": 1435,
     "heat": 0.95,
     "market": "NL"
   },
   {
-    "title": "Psyk",
-    "artist": "Techno",
+    "title": "The Prophet",
+    "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1694,
+    "plays": 1359,
     "heat": 0.94,
     "market": "DE"
-  },
-  {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "label": "Independent",
-    "plays": 1639,
-    "heat": 0.94,
-    "market": "GB"
   },
   {
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1469,
+    "plays": 1537,
     "heat": 0.94,
     "market": "ZA"
   },
@@ -59,24 +59,24 @@
     "title": "Angelo Ferreri",
     "artist": "House",
     "label": "Independent",
-    "plays": 1614,
+    "plays": 1494,
     "heat": 0.94,
     "market": "US"
   },
   {
-    "title": "Yoshiko",
-    "artist": "Hard Techno",
+    "title": "Stavroz",
+    "artist": "Organic / Downtempo",
     "label": "Independent",
-    "plays": 1655,
+    "plays": 1490,
     "heat": 0.93,
-    "market": "DE"
+    "market": "CO"
   },
   {
-    "title": "Unklevon",
-    "artist": "Techno",
+    "title": "Armin van Buuren",
+    "artist": "Trance",
     "label": "Independent",
-    "plays": 1631,
-    "heat": 0.92,
-    "market": "DE"
+    "plays": 1335,
+    "heat": 0.93,
+    "market": "NL"
   }
 ]
