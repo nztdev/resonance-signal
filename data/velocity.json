@@ -1,132 +1,132 @@
 [
   {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Abstrak"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Psyk",
-      "Avant.OCS",
-      "Morbe",
-      "Savoir musical"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "IDÜS"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "No Reclaim"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
+    "status": "peaking",
+    "playPct": 88,
+    "buyPct": 88,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
       "Midnight City",
-      "Midorii"
+      "Radio Oumuamua"
     ],
-    "delta": "Strong momentum"
+    "delta": "Market leader"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Cafe De Anatolia"
+    ],
+    "delta": "Early signal"
   },
   {
     "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
     "leaders": [
       "RAFFA GUIDO",
       "Mobi Dixon",
       "Maesic",
-      "Ger Electronic"
+      "DJ Satelite"
     ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
+    "leaders": [
+      "Psyk",
+      "Avant.OCS",
+      "Morbe",
+      "Filip Grönlund"
+    ],
+    "delta": "Early signal"
   },
   {
     "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
     "leaders": [
       "The Prophet",
       "Yoshiko",
       "The Bucketheads",
       "Various"
     ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
   },
   {
     "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
     "leaders": [
       "Alan Fitzpatrick",
       "Adriatique",
       "Jamie Jones",
-      "Sergii Petrenko"
+      "The Bongo Man"
     ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Parra for Cuva"
-    ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
   },
   {
     "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "DJ Pete Ashmore"
+      "Evil Shadow"
     ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 25,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Fran Garro"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "No Reclaim"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 88,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Carneiro music"
+    ],
+    "delta": "Early signal"
   }
 ]

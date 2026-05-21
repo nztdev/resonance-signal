@@ -1,114 +1,142 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 2,
-    "buyRank": 45,
+    "artist": "Tinlicker",
+    "genre": "Organic / Downtempo",
+    "playRank": 1,
+    "buyRank": 81,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 3,
+    "buyRank": 162,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 10,
+    "buyRank": 62,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Jamie Jones",
+    "genre": "Tech House",
+    "playRank": 24,
+    "buyRank": 47,
     "signal": "dj-play"
   },
   {
     "artist": "Boris Brejcha",
     "genre": "Minimal / Deep Tech",
-    "playRank": 3,
-    "buyRank": 69,
+    "playRank": 27,
+    "buyRank": 388,
     "signal": "dj-play"
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
+    "artist": "Bedouin",
+    "genre": "Organic / Downtempo",
+    "playRank": 79,
+    "buyRank": 30,
+    "signal": "fan-buy"
   },
   {
-    "artist": "Psyk",
+    "artist": "Teo",
     "genre": "Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
+    "playRank": 41,
+    "buyRank": 257,
+    "signal": "dj-play"
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
+    "artist": "Above & Beyond",
+    "genre": "Trance",
+    "playRank": 74,
+    "buyRank": 388,
+    "signal": "dj-play"
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
-    "playRank": 1,
+    "artist": "thds",
+    "genre": "Organic / Downtempo",
+    "playRank": 2,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "The Prophet",
     "genre": "Hard Techno",
-    "playRank": 1,
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "Alan Fitzpatrick",
     "genre": "Tech House",
-    "playRank": 1,
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Abstrak",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play"
   },
   {
-    "artist": "Savoir musical",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 7,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 8,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Dan Soden",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "IDÜS",
+    "artist": "Filip Grönlund",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "The Bongo Man",
+    "genre": "Tech House",
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Evil Shadow",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Fran Garro",
     "genre": "Melodic Techno",
     "playRank": null,
-    "buyRank": 1,
+    "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "No Reclaim",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Carneiro music",
+    "genre": "Deep House",
     "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Midorii",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Ger Electronic",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 1,
+    "buyRank": 6,
     "signal": "fan-buy"
   }
 ]
