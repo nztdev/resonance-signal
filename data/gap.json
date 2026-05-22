@@ -1,63 +1,35 @@
 [
   {
-    "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
-    "playRank": 1,
-    "buyRank": 81,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 3,
-    "buyRank": 162,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 10,
-    "buyRank": 62,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Jamie Jones",
-    "genre": "Tech House",
-    "playRank": 24,
-    "buyRank": 47,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Boris Brejcha",
+    "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 27,
-    "buyRank": 388,
+    "playRank": 16,
+    "buyRank": 103,
     "signal": "dj-play"
   },
   {
-    "artist": "Bedouin",
-    "genre": "Organic / Downtempo",
-    "playRank": 79,
-    "buyRank": 30,
-    "signal": "fan-buy"
+    "artist": "Kerri Chandler",
+    "genre": "Deep House",
+    "playRank": 22,
+    "buyRank": 36,
+    "signal": "dj-play"
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 41,
-    "buyRank": 257,
+    "playRank": 47,
+    "buyRank": 225,
     "signal": "dj-play"
   },
   {
-    "artist": "Above & Beyond",
-    "genre": "Trance",
-    "playRank": 74,
-    "buyRank": 388,
-    "signal": "dj-play"
+    "artist": "Tinlicker",
+    "genre": "Organic / Downtempo",
+    "playRank": 1,
+    "buyRank": null,
+    "signal": "underground"
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground"
@@ -65,76 +37,69 @@
   {
     "artist": "The Prophet",
     "genre": "Hard Techno",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 7,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Sara Landry",
+    "artist": "Melt",
     "genre": "Minimal / Deep Tech",
-    "playRank": 8,
-    "buyRank": null,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Dan Soden",
-    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Filip Grönlund",
-    "genre": "Techno",
+    "artist": "Tom Wax",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "The Bongo Man",
-    "genre": "Tech House",
+    "artist": "Claudio Giordano",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "Evil Shadow",
-    "genre": "Trance",
+    "artist": "Space Alchemist",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "Fran Garro",
-    "genre": "Melodic Techno",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Carneiro music",
-    "genre": "Deep House",
+    "artist": "ACA (YU)",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"
