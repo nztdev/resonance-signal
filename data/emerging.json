@@ -1,82 +1,82 @@
 [
   {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "label": "Independent",
-    "plays": 1695,
-    "heat": 0.95,
-    "market": "GB"
-  },
-  {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
-    "label": "Independent",
-    "plays": 1486,
-    "heat": 0.95,
-    "market": "DE"
-  },
-  {
-    "title": "Sara Landry",
-    "artist": "Minimal / Deep Tech",
-    "label": "Independent",
-    "plays": 1626,
-    "heat": 0.95,
-    "market": "NL"
-  },
-  {
-    "title": "Angelo Ferreri",
-    "artist": "House",
-    "label": "Independent",
-    "plays": 1590,
-    "heat": 0.95,
-    "market": "US"
-  },
-  {
     "title": "Psyk",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1572,
-    "heat": 0.94,
+    "plays": 1616,
+    "heat": 0.95,
     "market": "DE"
+  },
+  {
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "label": "Independent",
+    "plays": 1575,
+    "heat": 0.95,
+    "market": "GB"
   },
   {
     "title": "Kasablanca",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1357,
-    "heat": 0.94,
+    "plays": 1691,
+    "heat": 0.95,
     "market": "IT"
   },
   {
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1618,
-    "heat": 0.94,
+    "plays": 1400,
+    "heat": 0.95,
     "market": "ZA"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1354,
-    "heat": 0.94,
+    "plays": 1380,
+    "heat": 0.95,
     "market": "US"
+  },
+  {
+    "title": "The Prophet",
+    "artist": "Hard Techno",
+    "label": "Independent",
+    "plays": 1744,
+    "heat": 0.94,
+    "market": "DE"
+  },
+  {
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "label": "Independent",
+    "plays": 1583,
+    "heat": 0.94,
+    "market": "NL"
   },
   {
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1682,
+    "plays": 1529,
     "heat": 0.94,
     "market": "NL"
   },
   {
-    "title": "Adriatique",
-    "artist": "Tech House",
+    "title": "Lost Frequencies",
+    "artist": "Deep House",
     "label": "Independent",
-    "plays": 1315,
+    "plays": 1275,
     "heat": 0.93,
-    "market": "GB"
+    "market": "US"
+  },
+  {
+    "title": "Stavroz",
+    "artist": "Organic / Downtempo",
+    "label": "Independent",
+    "plays": 1355,
+    "heat": 0.93,
+    "market": "CO"
   }
 ]

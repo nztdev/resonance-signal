@@ -1,23 +1,30 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 16,
-    "buyRank": 103,
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 4,
+    "buyRank": 258,
     "signal": "dj-play"
   },
   {
     "artist": "Kerri Chandler",
     "genre": "Deep House",
-    "playRank": 22,
-    "buyRank": 36,
+    "playRank": 20,
+    "buyRank": 33,
     "signal": "dj-play"
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 47,
-    "buyRank": 225,
+    "playRank": 46,
+    "buyRank": 213,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 49,
+    "buyRank": 238,
     "signal": "dj-play"
   },
   {
@@ -29,28 +36,21 @@
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 3,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "nbsplv",
     "genre": "Deep House",
-    "playRank": 4,
+    "playRank": 3,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground"
@@ -63,43 +63,50 @@
     "signal": "dj-play"
   },
   {
-    "artist": "Melt",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 7,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "ARSANIT Tech",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Tom Wax",
-    "genre": "Melodic Techno",
+    "artist": "Oziriz",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Claudio Giordano",
-    "genre": "Afro House",
+    "artist": "Buben",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "Space Alchemist",
+    "artist": "Abstrak",
     "genre": "Deep House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "Tibetania",
-    "genre": "Organic / Downtempo",
+    "artist": "Desert",
+    "genre": "House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "ACA (YU)",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"
