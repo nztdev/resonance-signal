@@ -1,82 +1,82 @@
 [
   {
-    "title": "Psyk",
-    "artist": "Techno",
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
     "label": "Independent",
-    "plays": 1616,
+    "plays": 1510,
+    "heat": 0.95,
+    "market": "GB"
+  },
+  {
+    "title": "The Prophet",
+    "artist": "Hard Techno",
+    "label": "Independent",
+    "plays": 1650,
     "heat": 0.95,
     "market": "DE"
   },
   {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
+    "title": "Tiësto",
+    "artist": "Trance",
     "label": "Independent",
-    "plays": 1575,
+    "plays": 1445,
     "heat": 0.95,
-    "market": "GB"
+    "market": "NL"
+  },
+  {
+    "title": "Psyk",
+    "artist": "Techno",
+    "label": "Independent",
+    "plays": 1539,
+    "heat": 0.94,
+    "market": "DE"
   },
   {
     "title": "Kasablanca",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1691,
-    "heat": 0.95,
+    "plays": 1364,
+    "heat": 0.94,
     "market": "IT"
   },
   {
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1400,
-    "heat": 0.95,
+    "plays": 1622,
+    "heat": 0.94,
     "market": "ZA"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1380,
-    "heat": 0.95,
-    "market": "US"
-  },
-  {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
-    "label": "Independent",
-    "plays": 1744,
+    "plays": 1719,
     "heat": 0.94,
-    "market": "DE"
+    "market": "US"
   },
   {
     "title": "Sara Landry",
     "artist": "Minimal / Deep Tech",
     "label": "Independent",
-    "plays": 1583,
+    "plays": 1564,
     "heat": 0.94,
     "market": "NL"
   },
   {
-    "title": "Tiësto",
-    "artist": "Trance",
+    "title": "Angelo Ferreri",
+    "artist": "House",
     "label": "Independent",
-    "plays": 1529,
+    "plays": 1612,
     "heat": 0.94,
-    "market": "NL"
-  },
-  {
-    "title": "Lost Frequencies",
-    "artist": "Deep House",
-    "label": "Independent",
-    "plays": 1275,
-    "heat": 0.93,
     "market": "US"
   },
   {
-    "title": "Stavroz",
-    "artist": "Organic / Downtempo",
+    "title": "Tinlicker",
+    "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1355,
+    "plays": 1455,
     "heat": 0.93,
-    "market": "CO"
+    "market": "IT"
   }
 ]
