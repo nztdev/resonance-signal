@@ -1,23 +1,23 @@
 [
   {
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 13,
+    "buyRank": 378,
+    "signal": "dj-play"
+  },
+  {
     "artist": "Kerri Chandler",
     "genre": "Deep House",
-    "playRank": 22,
-    "buyRank": 80,
+    "playRank": 20,
+    "buyRank": 102,
     "signal": "dj-play"
   },
   {
-    "artist": "Niki",
+    "artist": "Alice Deejay",
     "genre": "Trance",
-    "playRank": 25,
-    "buyRank": 67,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Mython",
-    "genre": "Techno",
-    "playRank": 68,
-    "buyRank": 462,
+    "playRank": 33,
+    "buyRank": 156,
     "signal": "dj-play"
   },
   {
@@ -35,71 +35,71 @@
     "signal": "underground"
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 3,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
     "artist": "nbsplv",
     "genre": "Deep House",
-    "playRank": 5,
+    "playRank": 3,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "Sara Landry",
     "genre": "Minimal / Deep Tech",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Sergii Petrenko",
-    "genre": "Techno",
+    "artist": "ARSANIT Tech",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Dura",
-    "genre": "House",
+    "artist": "Toxeed",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Oziriz",
-    "genre": "House",
+    "artist": "No Reclaim",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "opipo",
-    "genre": "Techno",
+    "artist": "JuanPe K",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "GUB J",
-    "genre": "House",
+    "artist": "Danny Ocean",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Abstrak",
-    "genre": "Deep House",
+    "artist": "Homo Novo",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"
