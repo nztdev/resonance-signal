@@ -22,12 +22,20 @@
 .share-btn:hover{border-color:var(--border-bright);color:var(--text-2)}
 .share-btn.copied{border-color:var(--accent-5);color:var(--accent-5)}
 
+
+.hamburger{display:none;flex-direction:column;gap:4px;cursor:pointer;padding:4px;background:none;border:none}
+.hamburger span{display:block;width:20px;height:2px;background:var(--text);border-radius:2px;transition:all 0.2s}
+.mobile-menu{display:none;position:fixed;top:57px;left:0;right:0;background:rgba(8,8,16,0.98);backdrop-filter:blur(20px);border-bottom:1px solid var(--border);z-index:7999;padding:20px;flex-direction:column;gap:4px}
+.mobile-menu.open{display:flex}
+.mobile-menu-link{font-family:"DM Mono",monospace;font-size:0.75rem;letter-spacing:0.1em;color:var(--text-2);text-decoration:none;text-transform:uppercase;padding:12px 0;border-bottom:1px solid var(--border);display:block;transition:color 0.2s}
+.mobile-menu-link:last-child{border-bottom:none}
+.mobile-menu-link:hover{color:var(--text)}
+.mobile-menu-link.accent{color:var(--accent-5)}
 @media(max-width:768px){
   nav{padding:12px 16px}
   .nav-status{display:none}
-  .nav-right{gap:10px}
-  .nav-right .nav-link{font-size:0.58rem;padding:3px 7px}
-  .nav-right a.nav-link[href*="feed"]{display:none}
+  .nav-right{display:none}
+  .hamburger{display:flex}
   .filter-bar-toggle{padding:8px 16px}
   .filter-bar-content{padding:0 16px 10px}
 }
@@ -52,8 +60,20 @@ LIVE · UPDATED DAILY
     <a href="./feed.html" class="nav-link">Signal Feed</a>
     <a href="./community.html" class="nav-link">Community</a>
     <div id="nav-auth" style="display:flex;align-items:center;gap:12px"></div>
-  </div> <span class="nav-link" onclick="document.getElementById('map-section').scrollIntoView({behavior:'smooth'})">Global Map</span> <span class="nav-link" onclick="document.getElementById('gap-section').scrollIntoView({behavior:'smooth'})">Signal Gap</span> <span class="nav-link" onclick="document.getElementById('velocity-section').scrollIntoView({behavior:'smooth'})">Velocity</span> <span class="nav-link" onclick="document.getElementById('emerging-section').scrollIntoView({behavior:'smooth'})">Emerging</span> </div>
-</nav><div class="filter-bar" id="filter-bar">
+  </div>
+  <button class="hamburger" id="hamburger" aria-label="Menu">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+<div class="mobile-menu" id="mobile-menu">
+  <a href="./feed.html" class="mobile-menu-link">Signal Feed</a>
+  <a href="./community.html" class="mobile-menu-link">Community</a>
+  <a href="#map-section" class="mobile-menu-link" onclick="document.getElementById('map-section').scrollIntoView({behavior:'smooth'});document.getElementById('mobile-menu').classList.remove('open')">Global Map</a>
+  <a href="#gap-section" class="mobile-menu-link" onclick="document.getElementById('gap-section').scrollIntoView({behavior:'smooth'});document.getElementById('mobile-menu').classList.remove('open')">Signal Gap</a>
+  <a href="#velocity-section" class="mobile-menu-link" onclick="document.getElementById('velocity-section').scrollIntoView({behavior:'smooth'});document.getElementById('mobile-menu').classList.remove('open')">Velocity</a>
+  <a href="#emerging-section" class="mobile-menu-link" onclick="document.getElementById('emerging-section').scrollIntoView({behavior:'smooth'});document.getElementById('mobile-menu').classList.remove('open')">Emerging</a>
+  <div id="mobile-nav-auth"></div>
+</div><div class="filter-bar" id="filter-bar">
   <div class="filter-bar-toggle" onclick="toggleFilterBar()">
     <div class="filter-bar-toggle-label">
       Filters <span class="active-count" id="active-count" style="display:none">0</span>
@@ -249,6 +269,7 @@ initReveal();setTimeout(initReveal,100);setTimeout(initReveal,400);const now=new
   sbc.auth.getUser().then(function(r) {
     var user = r.data && r.data.user;
     var el = document.getElementById('nav-auth');
+    var mel = document.getElementById('mobile-nav-auth');
     if (!el) return;
     if (user) {
       sbc.from('profiles').select('display_name').eq('id', user.id).single().then(function(p) {
@@ -259,9 +280,27 @@ initReveal();setTimeout(initReveal,100);setTimeout(initReveal,400);const now=new
     } else {
       el.innerHTML = '<a href="./login.html" class="nav-link">Sign in</a>' +
         '<a href="./login.html#register" class="nav-link" style="color:var(--accent-5);border:1px solid rgba(107,203,119,0.3);padding:4px 10px;border-radius:3px">Join</a>';
+      if(mel) mel.innerHTML = '<a href="./login.html" class="mobile-menu-link">Sign in</a><a href="./login.html#register" class="mobile-menu-link accent">Join community</a>';
     }
   });
 })();
+
+// Hamburger menu
+(function() {
+  var btn = document.getElementById('hamburger');
+  var menu = document.getElementById('mobile-menu');
+  if (!btn || !menu) return;
+  btn.addEventListener('click', function() {
+    menu.classList.toggle('open');
+  });
+  // Close on outside click
+  document.addEventListener('click', function(e) {
+    if (!btn.contains(e.target) && !menu.contains(e.target)) {
+      menu.classList.remove('open');
+    }
+  });
+})();
+
 if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',loadData);}else{loadData();}
 </script>
 </body>
