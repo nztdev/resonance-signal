@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Football GOAT Gacha Contributors
+Copyright (c) 2026 Resonance Signal Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,6 +22,5 @@ SOFTWARE.
 
 ---
 
-NOTE: This licence applies to the software code only (all .html, .css, and .js
-files). The content in the /data directory is governed separately by
-CONTENT_LICENSE.md.
+NOTE: This licence applies to the software code only (all .html, and .json
+files).
