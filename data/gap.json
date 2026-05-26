@@ -1,42 +1,42 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 13,
-    "buyRank": 378,
+    "artist": "Maesic",
+    "genre": "Afro House",
+    "playRank": 20,
+    "buyRank": 224,
     "signal": "dj-play"
   },
   {
     "artist": "Kerri Chandler",
     "genre": "Deep House",
-    "playRank": 20,
-    "buyRank": 102,
+    "playRank": 28,
+    "buyRank": 95,
     "signal": "dj-play"
   },
   {
-    "artist": "Alice Deejay",
-    "genre": "Trance",
-    "playRank": 33,
-    "buyRank": 156,
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 42,
+    "buyRank": 328,
     "signal": "dj-play"
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground"
@@ -49,57 +49,57 @@
     "signal": "underground"
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Cafe De Anatolia",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Toxeed",
-    "genre": "Deep House",
+    "artist": "Tibetania",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "No Reclaim",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Sol.",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "JuanPe K",
-    "genre": "Tech House",
+    "artist": "FXTR",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "Danny Ocean",
+    "artist": "OneTooFreeFor",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Homo Novo",
-    "genre": "Techno",
+    "artist": "Contrefacon",
+    "genre": "House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"
