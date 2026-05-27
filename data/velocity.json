@@ -1,14 +1,40 @@
 [
   {
-    "genre": "Afro House",
+    "genre": "Trance",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 56,
+    "buyPct": 88,
     "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Sol."
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "DJ Lava"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Amplified By Night"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Pierce Fulton",
+      "NetBeat"
     ],
     "delta": "Strong momentum"
   },
@@ -16,7 +42,7 @@
     "genre": "Hard Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 56,
+    "buyPct": 88,
     "leaders": [
       "The Prophet",
       "Yoshiko",
@@ -26,93 +52,15 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "FXTR"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 56,
+    "buyPct": 88,
     "leaders": [
       "Psyk",
-      "Avant.OCS",
       "Morbe",
-      "OneTooFreeFor"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Contrefacon"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Venetica"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Fran Garro"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Tibetania"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Psilocybe Project"
+      "Avant.OCS",
+      "Arcada Musica"
     ],
     "delta": "Strong momentum"
   },
@@ -120,12 +68,64 @@
     "genre": "Tech House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 56,
+    "buyPct": 88,
     "leaders": [
       "Alan Fitzpatrick",
       "Adriatique",
       "Jamie Jones",
-      "Tech Mama"
+      "Vektek"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "Maesic",
+      "Sol."
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Chemical Velocity"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Abstrak"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "COSMOSUN"
     ],
     "delta": "Strong momentum"
   }

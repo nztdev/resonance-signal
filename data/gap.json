@@ -1,28 +1,28 @@
 [
   {
-    "artist": "Maesic",
-    "genre": "Afro House",
-    "playRank": 20,
-    "buyRank": 224,
-    "signal": "dj-play"
-  },
-  {
     "artist": "Kerri Chandler",
     "genre": "Deep House",
-    "playRank": 28,
-    "buyRank": 95,
+    "playRank": 27,
+    "buyRank": 118,
     "signal": "dj-play"
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 42,
-    "buyRank": 328,
+    "playRank": 43,
+    "buyRank": 430,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Darude",
+    "genre": "Trance",
+    "playRank": 78,
+    "buyRank": 128,
     "signal": "dj-play"
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -35,8 +35,8 @@
     "signal": "underground"
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground"
@@ -49,57 +49,57 @@
     "signal": "underground"
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Afro House",
+    "artist": "Sergii Petrenko",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Seumas Norv",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 2,
     "signal": "fan-buy"
   },
   {
     "artist": "Tibetania",
     "genre": "Afro House",
     "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Sol.",
-    "genre": "Afro House",
-    "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "FXTR",
-    "genre": "Minimal / Deep Tech",
+    "artist": "DJ Lava",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "OneTooFreeFor",
-    "genre": "Techno",
+    "artist": "NetBeat",
+    "genre": "House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Contrefacon",
-    "genre": "House",
+    "artist": "Arcada Musica",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"

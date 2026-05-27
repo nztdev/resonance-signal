@@ -1,25 +1,17 @@
 [
   {
-    "title": "Psyk",
-    "artist": "Techno",
+    "title": "The Prophet",
+    "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1515,
+    "plays": 1380,
     "heat": 0.95,
     "market": "DE"
   },
   {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
+    "title": "nbsplv",
+    "artist": "Deep House",
     "label": "Independent",
-    "plays": 1695,
-    "heat": 0.95,
-    "market": "IT"
-  },
-  {
-    "title": "Angelo Ferreri",
-    "artist": "House",
-    "label": "Independent",
-    "plays": 1636,
+    "plays": 1401,
     "heat": 0.95,
     "market": "US"
   },
@@ -27,56 +19,64 @@
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1736,
+    "plays": 1565,
     "heat": 0.95,
     "market": "NL"
+  },
+  {
+    "title": "Psyk",
+    "artist": "Techno",
+    "label": "Independent",
+    "plays": 1703,
+    "heat": 0.94,
+    "market": "DE"
   },
   {
     "title": "Alan Fitzpatrick",
     "artist": "Tech House",
     "label": "Independent",
-    "plays": 1567,
+    "plays": 1589,
     "heat": 0.94,
     "market": "GB"
   },
   {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1529,
+    "plays": 1468,
     "heat": 0.94,
-    "market": "DE"
+    "market": "IT"
   },
   {
-    "title": "RAFFA GUIDO",
+    "title": "Mobi Dixon",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1513,
+    "plays": 1374,
     "heat": 0.94,
     "market": "ZA"
-  },
-  {
-    "title": "nbsplv",
-    "artist": "Deep House",
-    "label": "Independent",
-    "plays": 1642,
-    "heat": 0.94,
-    "market": "US"
   },
   {
     "title": "Sara Landry",
     "artist": "Minimal / Deep Tech",
     "label": "Independent",
-    "plays": 1547,
+    "plays": 1749,
     "heat": 0.94,
     "market": "NL"
   },
   {
-    "title": "Avant.OCS",
-    "artist": "Techno",
+    "title": "Angelo Ferreri",
+    "artist": "House",
     "label": "Independent",
-    "plays": 1455,
+    "plays": 1504,
+    "heat": 0.94,
+    "market": "US"
+  },
+  {
+    "title": "Armin van Buuren",
+    "artist": "Trance",
+    "label": "Independent",
+    "plays": 1405,
     "heat": 0.93,
-    "market": "DE"
+    "market": "NL"
   }
 ]
