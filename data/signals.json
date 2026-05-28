@@ -1,22 +1,22 @@
 [
   {
-    "text": "Trance",
-    "sub": "Strong momentum",
-    "c": "#6bcb77"
+    "text": "House",
+    "sub": "Market leader",
+    "c": "#ff6b6b"
   },
   {
     "text": "Minimal / Deep Tech",
-    "sub": "Strong momentum",
-    "c": "#6bcb77"
+    "sub": "Early signal",
+    "c": "#ffd93d"
   },
   {
-    "text": "House",
-    "sub": "Strong momentum",
-    "c": "#6bcb77"
+    "text": "Organic / Downtempo",
+    "sub": "Early signal",
+    "c": "#ffd93d"
   },
   {
-    "text": "Hard Techno",
-    "sub": "Strong momentum",
-    "c": "#6bcb77"
+    "text": "Afro House",
+    "sub": "Early signal",
+    "c": "#ffd93d"
   }
 ]

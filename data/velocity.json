@@ -1,132 +1,132 @@
 [
   {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "DJ Lava"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Amplified By Night"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
+    "status": "peaking",
+    "playPct": 88,
+    "buyPct": 56,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
       "Pierce Fulton",
-      "NetBeat"
+      "fabiom_dj"
     ],
-    "delta": "Strong momentum"
+    "delta": "Market leader"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 56,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "The Editor"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 56,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Cafe De Anatolia"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 56,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "Maesic",
+      "Cafe De Anatolia"
+    ],
+    "delta": "Early signal"
   },
   {
     "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 56,
     "leaders": [
       "The Prophet",
       "Yoshiko",
       "The Bucketheads",
       "Various"
     ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Arcada Musica"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "Vektek"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "Maesic",
-      "Sol."
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Chemical Velocity"
-    ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
   },
   {
     "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 56,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
       "Kerri Chandler",
       "Abstrak"
     ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
   },
   {
     "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 25,
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 56,
     "leaders": [
       "Kasablanca",
       "Tinlicker",
       "HNTR",
-      "COSMOSUN"
+      "Rinzen"
     ],
-    "delta": "Strong momentum"
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 56,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "R-Geiz"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 56,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Momarz"
+    ],
+    "delta": "Early signal"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 25,
+    "buyPct": 56,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones",
+      "Dan Soden"
+    ],
+    "delta": "Early signal"
   }
 ]
