@@ -1,126 +1,126 @@
 [
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 5,
-    "buyRank": 51,
+    "artist": "thds",
+    "genre": "Afro House",
+    "playRank": 2,
+    "buyRank": 198,
     "signal": "dj-play"
   },
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 13,
-    "buyRank": 76,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 14,
-    "buyRank": 212,
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 8,
+    "buyRank": 355,
     "signal": "dj-play"
   },
   {
     "artist": "Kerri Chandler",
     "genre": "Deep House",
-    "playRank": 24,
-    "buyRank": 215,
+    "playRank": 25,
+    "buyRank": 376,
     "signal": "dj-play"
   },
   {
-    "artist": "Badbwoy",
-    "genre": "Afro House",
-    "playRank": 32,
-    "buyRank": 184,
+    "artist": "Christian Löffler",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 39,
+    "buyRank": 201,
     "signal": "dj-play"
   },
   {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 61,
-    "buyRank": 99,
+    "artist": "Korolova",
+    "genre": "Melodic Techno",
+    "playRank": 74,
+    "buyRank": 373,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Cavi",
+    "genre": "House",
+    "playRank": 76,
+    "buyRank": 440,
     "signal": "dj-play"
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 3,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "Mobi Dixon",
     "genre": "Afro House",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 7,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Organic / Downtempo",
+    "artist": "Dan Soden",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "The Editor",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Jaques Le Noir",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "fabiom_dj",
-    "genre": "House",
+    "artist": "DYNOHUNTER",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "Dan Soden",
-    "genre": "House",
+    "artist": "Bahar Movahed",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "Abstrak",
-    "genre": "Deep House",
+    "artist": "Matt Timms",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Rinzen",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Grimes77",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"
