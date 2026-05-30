@@ -1,27 +1,14 @@
 [
   {
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "Maesic",
-      "Bahar Movahed"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Matt Timms"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Tibetania"
     ],
     "delta": "Strong momentum"
   },
@@ -34,7 +21,7 @@
       "Alan Fitzpatrick",
       "Adriatique",
       "Jamie Jones",
-      "Jaques Le Noir"
+      "ARSANIT Tech"
     ],
     "delta": "Strong momentum"
   },
@@ -52,15 +39,15 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Techno",
+    "genre": "Melodic Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 31,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Greta Gratos"
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Kirill Guk"
     ],
     "delta": "Strong momentum"
   },
@@ -73,20 +60,7 @@
       "nbsplv",
       "Lost Frequencies",
       "Kerri Chandler",
-      "Terrasun"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Baril"
+      "Doga Karatas"
     ],
     "delta": "Strong momentum"
   },
@@ -104,6 +78,45 @@
     "delta": "Strong momentum"
   },
   {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "No Reclaim"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 61,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "Maesic",
+      "Mickey Boy El Contagio Tropical De Tabasco"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Ugur Project"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
     "genre": "House",
     "status": "rising",
     "playPct": 56,
@@ -112,20 +125,7 @@
       "Angelo Ferreri",
       "Jansons",
       "Pierce Fulton",
-      "Brand"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Tibetania"
+      "theholeofmark"
     ],
     "delta": "Strong momentum"
   }
