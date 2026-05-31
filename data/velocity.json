@@ -1,66 +1,14 @@
 [
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Techno",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Tibetania"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "ARSANIT Tech"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 25,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Grimes77"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 31,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Kirill Guk"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Doga Karatas"
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Buben"
     ],
     "delta": "Strong momentum"
   },
@@ -78,6 +26,71 @@
     "delta": "Strong momentum"
   },
   {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Pierce Fulton",
+      "SF Studio Internacional"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "VΛLIR"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "Maesic",
+      "Mickey Boy El Contagio Tropical De Tabasco"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Doga Karatas"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 84,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Joris Van Dalen"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
     "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 56,
@@ -91,41 +104,28 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 61,
-    "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "Maesic",
-      "Mickey Boy El Contagio Tropical De Tabasco"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
+    "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Ugur Project"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Caural"
     ],
     "delta": "Strong momentum"
   },
   {
-    "genre": "House",
+    "genre": "Tech House",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Pierce Fulton",
-      "theholeofmark"
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones",
+      "L.porsche"
     ],
     "delta": "Strong momentum"
   }
