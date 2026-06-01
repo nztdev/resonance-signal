@@ -1,58 +1,58 @@
 [
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 10,
-    "buyRank": 328,
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 3,
+    "buyRank": 192,
     "signal": "dj-play"
   },
   {
-    "artist": "Morbe",
-    "genre": "Techno",
-    "playRank": 13,
-    "buyRank": 180,
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 6,
+    "buyRank": 192,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 7,
+    "buyRank": 192,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 8,
+    "buyRank": 192,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Midland",
+    "genre": "Deep House",
+    "playRank": 12,
+    "buyRank": 192,
     "signal": "dj-play"
   },
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 18,
-    "buyRank": 251,
+    "playRank": 14,
+    "buyRank": 192,
     "signal": "dj-play"
   },
   {
-    "artist": "Goom Gum",
-    "genre": "Melodic Techno",
-    "playRank": 35,
-    "buyRank": 239,
+    "artist": "Jansons",
+    "genre": "House",
+    "playRank": 15,
+    "buyRank": 192,
     "signal": "dj-play"
   },
   {
-    "artist": "Boris Brejcha",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 36,
-    "buyRank": 180,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Forty Cats",
-    "genre": "Organic / Downtempo",
-    "playRank": 54,
-    "buyRank": 180,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 61,
-    "buyRank": 466,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
-    "playRank": 71,
-    "buyRank": 239,
+    "artist": "Morbe",
+    "genre": "Techno",
+    "playRank": 17,
+    "buyRank": 330,
     "signal": "dj-play"
   },
   {
@@ -70,71 +70,71 @@
     "signal": "underground"
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 3,
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "The Prophet",
     "genre": "Hard Techno",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 6,
+    "playRank": 9,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Diego Celi",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 10,
+    "buyRank": null,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "ARSANIT Tech",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Oziriz",
-    "genre": "House",
+    "artist": "Front",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Q-Green",
-    "genre": "Techno",
+    "artist": "Surbahar",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "SF Studio Internacional",
-    "genre": "House",
+    "artist": "Alabanza Musical",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "VΛLIR",
-    "genre": "Trance",
+    "artist": "Rkyv",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Mickey Boy El Contagio Tropical De Tabasco",
-    "genre": "Afro House",
+    "artist": "Christian Belt",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"

@@ -1,57 +1,33 @@
 [
   {
-    "title": "Psyk",
-    "artist": "Techno",
+    "title": "The Prophet",
+    "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1636,
+    "plays": 1621,
     "heat": 0.95,
     "market": "DE"
   },
   {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
+    "title": "Psyk",
+    "artist": "Techno",
     "label": "Independent",
-    "plays": 1516,
-    "heat": 0.95,
-    "market": "IT"
+    "plays": 1648,
+    "heat": 0.94,
+    "market": "DE"
   },
   {
     "title": "Mobi Dixon",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1370,
-    "heat": 0.95,
+    "plays": 1502,
+    "heat": 0.94,
     "market": "ZA"
-  },
-  {
-    "title": "Angelo Ferreri",
-    "artist": "House",
-    "label": "Independent",
-    "plays": 1410,
-    "heat": 0.95,
-    "market": "US"
-  },
-  {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "label": "Independent",
-    "plays": 1627,
-    "heat": 0.94,
-    "market": "GB"
-  },
-  {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
-    "label": "Independent",
-    "plays": 1563,
-    "heat": 0.94,
-    "market": "DE"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1469,
+    "plays": 1544,
     "heat": 0.94,
     "market": "US"
   },
@@ -59,24 +35,48 @@
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1422,
+    "plays": 1449,
     "heat": 0.94,
     "market": "NL"
-  },
-  {
-    "title": "Adriatique",
-    "artist": "Tech House",
-    "label": "Independent",
-    "plays": 1527,
-    "heat": 0.92,
-    "market": "GB"
   },
   {
     "title": "Tinlicker",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1536,
+    "plays": 1331,
     "heat": 0.92,
     "market": "IT"
+  },
+  {
+    "title": "Yoshiko",
+    "artist": "Hard Techno",
+    "label": "Independent",
+    "plays": 1611,
+    "heat": 0.92,
+    "market": "DE"
+  },
+  {
+    "title": "Lost Frequencies",
+    "artist": "Deep House",
+    "label": "Independent",
+    "plays": 1652,
+    "heat": 0.92,
+    "market": "US"
+  },
+  {
+    "title": "HNTR",
+    "artist": "Melodic Techno",
+    "label": "Independent",
+    "plays": 1215,
+    "heat": 0.9,
+    "market": "IT"
+  },
+  {
+    "title": "Pierce Fulton",
+    "artist": "House",
+    "label": "Independent",
+    "plays": 1471,
+    "heat": 0.9,
+    "market": "US"
   }
 ]
