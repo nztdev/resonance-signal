@@ -1,25 +1,25 @@
 [
   {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
+    "title": "Psyk",
+    "artist": "Techno",
     "label": "Independent",
-    "plays": 1621,
+    "plays": 1446,
     "heat": 0.95,
     "market": "DE"
   },
   {
-    "title": "Psyk",
-    "artist": "Techno",
+    "title": "The Prophet",
+    "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1648,
-    "heat": 0.94,
+    "plays": 1496,
+    "heat": 0.95,
     "market": "DE"
   },
   {
     "title": "Mobi Dixon",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1502,
+    "plays": 1389,
     "heat": 0.94,
     "market": "ZA"
   },
@@ -27,7 +27,7 @@
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1544,
+    "plays": 1703,
     "heat": 0.94,
     "market": "US"
   },
@@ -35,15 +35,31 @@
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1449,
+    "plays": 1484,
     "heat": 0.94,
     "market": "NL"
+  },
+  {
+    "title": "Lost Frequencies",
+    "artist": "Deep House",
+    "label": "Independent",
+    "plays": 1535,
+    "heat": 0.93,
+    "market": "US"
+  },
+  {
+    "title": "Morbe",
+    "artist": "Techno",
+    "label": "Independent",
+    "plays": 1273,
+    "heat": 0.92,
+    "market": "DE"
   },
   {
     "title": "Tinlicker",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1331,
+    "plays": 1583,
     "heat": 0.92,
     "market": "IT"
   },
@@ -51,32 +67,16 @@
     "title": "Yoshiko",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1611,
+    "plays": 1581,
     "heat": 0.92,
     "market": "DE"
-  },
-  {
-    "title": "Lost Frequencies",
-    "artist": "Deep House",
-    "label": "Independent",
-    "plays": 1652,
-    "heat": 0.92,
-    "market": "US"
   },
   {
     "title": "HNTR",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1215,
+    "plays": 1237,
     "heat": 0.9,
     "market": "IT"
-  },
-  {
-    "title": "Pierce Fulton",
-    "artist": "House",
-    "label": "Independent",
-    "plays": 1471,
-    "heat": 0.9,
-    "market": "US"
   }
 ]

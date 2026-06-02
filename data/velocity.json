@@ -1,27 +1,14 @@
 [
   {
-    "genre": "Melodic Techno",
+    "genre": "Tech House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 84,
+    "buyPct": 87,
     "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Front"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 84,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Surbahar"
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones",
+      "Harper Lee"
     ],
     "delta": "Strong momentum"
   },
@@ -29,12 +16,25 @@
     "genre": "Afro House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 63,
+    "buyPct": 88,
     "leaders": [
       "Mobi Dixon",
       "RAFFA GUIDO",
       "Maesic",
-      "Alabanza Musical"
+      "El Roka Y Su Grupo La Sombra De Tierra Caliente"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 80,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Abstrak"
     ],
     "delta": "Strong momentum"
   },
@@ -42,25 +42,12 @@
     "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 85,
+    "buyPct": 69,
     "leaders": [
       "Sara Landry",
       "Anna",
       "Max Cooper",
-      "Rkyv"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "Christian Belt"
+      "Big Bunny"
     ],
     "delta": "Strong momentum"
   },
@@ -73,7 +60,46 @@
       "Angelo Ferreri",
       "Jansons",
       "Pierce Fulton",
-      "Onra S"
+      "Alieas Icon"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Alex Baker"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Puddle EcoSystem"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Caural"
     ],
     "delta": "Strong momentum"
   },
@@ -98,33 +124,7 @@
       "Psyk",
       "Morbe",
       "Avant.OCS",
-      "DJ Freakuency"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Tigris Mind"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Caural"
+      "KI-CK-AI Music"
     ],
     "delta": "Strong momentum"
   }

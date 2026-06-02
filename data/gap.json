@@ -1,58 +1,58 @@
 [
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 3,
-    "buyRank": 192,
+    "buyRank": 357,
     "signal": "dj-play"
   },
   {
     "artist": "Sara Landry",
     "genre": "Minimal / Deep Tech",
     "playRank": 6,
-    "buyRank": 192,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
-    "playRank": 7,
-    "buyRank": 192,
+    "buyRank": 357,
     "signal": "dj-play"
   },
   {
     "artist": "Angelo Ferreri",
     "genre": "House",
+    "playRank": 7,
+    "buyRank": 357,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 8,
-    "buyRank": 192,
+    "buyRank": 357,
     "signal": "dj-play"
   },
   {
     "artist": "Midland",
-    "genre": "Deep House",
+    "genre": "Tech House",
     "playRank": 12,
-    "buyRank": 192,
+    "buyRank": 357,
     "signal": "dj-play"
   },
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
     "playRank": 14,
-    "buyRank": 192,
+    "buyRank": 357,
     "signal": "dj-play"
   },
   {
     "artist": "Jansons",
     "genre": "House",
     "playRank": 15,
-    "buyRank": 192,
+    "buyRank": 357,
     "signal": "dj-play"
   },
   {
-    "artist": "Morbe",
-    "genre": "Techno",
-    "playRank": 17,
-    "buyRank": 330,
+    "artist": "Armin van Buuren",
+    "genre": "Trance",
+    "playRank": 16,
+    "buyRank": 357,
     "signal": "dj-play"
   },
   {
@@ -70,71 +70,71 @@
     "signal": "underground"
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 9,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 10,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "ARSANIT Tech",
+    "artist": "Cafe De Anatolia",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Front",
-    "genre": "Melodic Techno",
+    "artist": "Big Bunny",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Surbahar",
-    "genre": "Deep House",
+    "artist": "Harper Lee",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "Alabanza Musical",
+    "artist": "El Roka Y Su Grupo La Sombra De Tierra Caliente",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "Rkyv",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Abstrak",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Christian Belt",
-    "genre": "Tech House",
+    "artist": "Alieas Icon",
+    "genre": "House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"
