@@ -1,11 +1,6 @@
 [
   {
-    "text": "Tech House",
-    "sub": "Strong momentum",
-    "c": "#6bcb77"
-  },
-  {
-    "text": "Afro House",
+    "text": "House",
     "sub": "Strong momentum",
     "c": "#6bcb77"
   },
@@ -15,7 +10,12 @@
     "c": "#6bcb77"
   },
   {
-    "text": "Minimal / Deep Tech",
+    "text": "Tech House",
+    "sub": "Strong momentum",
+    "c": "#6bcb77"
+  },
+  {
+    "text": "Organic / Downtempo",
     "sub": "Strong momentum",
     "c": "#6bcb77"
   }

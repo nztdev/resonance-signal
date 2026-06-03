@@ -1,17 +1,9 @@
 [
   {
-    "title": "Psyk",
-    "artist": "Techno",
-    "label": "Independent",
-    "plays": 1446,
-    "heat": 0.95,
-    "market": "DE"
-  },
-  {
     "title": "The Prophet",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1496,
+    "plays": 1701,
     "heat": 0.95,
     "market": "DE"
   },
@@ -19,64 +11,72 @@
     "title": "Mobi Dixon",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1389,
-    "heat": 0.94,
+    "plays": 1360,
+    "heat": 0.95,
     "market": "ZA"
+  },
+  {
+    "title": "Angelo Ferreri",
+    "artist": "House",
+    "label": "Independent",
+    "plays": 1380,
+    "heat": 0.95,
+    "market": "US"
+  },
+  {
+    "title": "Psyk",
+    "artist": "Techno",
+    "label": "Independent",
+    "plays": 1693,
+    "heat": 0.94,
+    "market": "DE"
+  },
+  {
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "label": "Independent",
+    "plays": 1637,
+    "heat": 0.94,
+    "market": "GB"
+  },
+  {
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
+    "label": "Independent",
+    "plays": 1682,
+    "heat": 0.94,
+    "market": "IT"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1703,
+    "plays": 1393,
     "heat": 0.94,
     "market": "US"
+  },
+  {
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "label": "Independent",
+    "plays": 1434,
+    "heat": 0.94,
+    "market": "NL"
   },
   {
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1484,
+    "plays": 1707,
     "heat": 0.94,
     "market": "NL"
   },
   {
-    "title": "Lost Frequencies",
-    "artist": "Deep House",
+    "title": "Stavroz",
+    "artist": "Organic / Downtempo",
     "label": "Independent",
-    "plays": 1535,
+    "plays": 1590,
     "heat": 0.93,
-    "market": "US"
-  },
-  {
-    "title": "Morbe",
-    "artist": "Techno",
-    "label": "Independent",
-    "plays": 1273,
-    "heat": 0.92,
-    "market": "DE"
-  },
-  {
-    "title": "Tinlicker",
-    "artist": "Melodic Techno",
-    "label": "Independent",
-    "plays": 1583,
-    "heat": 0.92,
-    "market": "IT"
-  },
-  {
-    "title": "Yoshiko",
-    "artist": "Hard Techno",
-    "label": "Independent",
-    "plays": 1581,
-    "heat": 0.92,
-    "market": "DE"
-  },
-  {
-    "title": "HNTR",
-    "artist": "Melodic Techno",
-    "label": "Independent",
-    "plays": 1237,
-    "heat": 0.9,
-    "market": "IT"
+    "market": "CO"
   }
 ]
