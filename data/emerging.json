@@ -1,65 +1,65 @@
 [
   {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
-    "label": "Independent",
-    "plays": 1701,
-    "heat": 0.95,
-    "market": "DE"
-  },
-  {
-    "title": "Mobi Dixon",
-    "artist": "Afro House",
-    "label": "Independent",
-    "plays": 1360,
-    "heat": 0.95,
-    "market": "ZA"
-  },
-  {
-    "title": "Angelo Ferreri",
-    "artist": "House",
-    "label": "Independent",
-    "plays": 1380,
-    "heat": 0.95,
-    "market": "US"
-  },
-  {
     "title": "Psyk",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1693,
-    "heat": 0.94,
+    "plays": 1501,
+    "heat": 0.95,
     "market": "DE"
-  },
-  {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "label": "Independent",
-    "plays": 1637,
-    "heat": 0.94,
-    "market": "GB"
   },
   {
     "title": "Kasablanca",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1682,
-    "heat": 0.94,
+    "plays": 1731,
+    "heat": 0.95,
     "market": "IT"
+  },
+  {
+    "title": "Mobi Dixon",
+    "artist": "Afro House",
+    "label": "Independent",
+    "plays": 1361,
+    "heat": 0.95,
+    "market": "ZA"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1393,
-    "heat": 0.94,
+    "plays": 1371,
+    "heat": 0.95,
     "market": "US"
+  },
+  {
+    "title": "Angelo Ferreri",
+    "artist": "House",
+    "label": "Independent",
+    "plays": 1360,
+    "heat": 0.95,
+    "market": "US"
+  },
+  {
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "label": "Independent",
+    "plays": 1374,
+    "heat": 0.94,
+    "market": "GB"
+  },
+  {
+    "title": "The Prophet",
+    "artist": "Hard Techno",
+    "label": "Independent",
+    "plays": 1389,
+    "heat": 0.94,
+    "market": "DE"
   },
   {
     "title": "Sara Landry",
     "artist": "Minimal / Deep Tech",
     "label": "Independent",
-    "plays": 1434,
+    "plays": 1429,
     "heat": 0.94,
     "market": "NL"
   },
@@ -67,7 +67,7 @@
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1707,
+    "plays": 1517,
     "heat": 0.94,
     "market": "NL"
   },
@@ -75,7 +75,7 @@
     "title": "Stavroz",
     "artist": "Organic / Downtempo",
     "label": "Independent",
-    "plays": 1590,
+    "plays": 1330,
     "heat": 0.93,
     "market": "CO"
   }

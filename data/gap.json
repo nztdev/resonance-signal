@@ -1,23 +1,16 @@
 [
   {
-    "artist": "Goom Gum",
-    "genre": "Melodic Techno",
-    "playRank": 34,
-    "buyRank": 34,
-    "signal": "aligned"
-  },
-  {
-    "artist": "RAFFA GUIDO",
-    "genre": "Afro House",
-    "playRank": 71,
-    "buyRank": 34,
+    "artist": "Slow Nomaden",
+    "genre": "Organic / Downtempo",
+    "playRank": 42,
+    "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 49,
-    "buyRank": 312,
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 19,
+    "buyRank": 142,
     "signal": "dj-play"
   },
   {
@@ -63,45 +56,45 @@
     "signal": "dj-play"
   },
   {
-    "artist": "A503X",
-    "genre": "Tech House",
+    "artist": "Dan Soden",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Organic / Downtempo",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Bellows",
-    "genre": "House",
+    "artist": "Projektor",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "Domineeky",
-    "genre": "House",
+    "artist": "Origen Tostado",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "Oziriz",
-    "genre": "House",
+    "artist": "Stoned Entertainment",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Abstrak",
-    "genre": "Deep House",
+    "artist": "KENTT",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 6,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Format Groove",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 7,
     "signal": "fan-buy"
   }
 ]
