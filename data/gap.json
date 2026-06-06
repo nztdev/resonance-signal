@@ -1,28 +1,21 @@
 [
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 9,
-    "buyRank": 287,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 16,
-    "buyRank": 45,
+    "artist": "ATB",
+    "genre": "Trance",
+    "playRank": 43,
+    "buyRank": 271,
     "signal": "dj-play"
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 45,
-    "buyRank": 96,
+    "playRank": 47,
+    "buyRank": 100,
     "signal": "dj-play"
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -35,70 +28,70 @@
     "signal": "underground"
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Midland",
-    "genre": "Deep House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Astraglide",
+    "artist": "Jason Rivas",
     "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Nash La Musica",
-    "genre": "Afro House",
+    "artist": "Nomad Bloom",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "John Franklin",
-    "genre": "Melodic Techno",
+    "artist": "Format Groove",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "Christopher Ardra",
-    "genre": "Deep House",
+    "artist": "Gökhan Günes Music",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "Lilith And The Sinnersaints",
-    "genre": "House",
+    "artist": "Bakahira",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Farang Zoo",
+    "artist": "Freddy Spin",
     "genre": "Trance",
     "playRank": null,
     "buyRank": 6,

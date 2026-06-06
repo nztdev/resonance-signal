@@ -1,57 +1,65 @@
 [
   {
-    "title": "Psyk",
-    "artist": "Techno",
-    "label": "Independent",
-    "plays": 1741,
-    "heat": 0.95,
-    "market": "DE"
-  },
-  {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
-    "label": "Independent",
-    "plays": 1720,
-    "heat": 0.95,
-    "market": "IT"
-  },
-  {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "label": "Independent",
-    "plays": 1510,
-    "heat": 0.95,
-    "market": "NL"
-  },
-  {
     "title": "Alan Fitzpatrick",
     "artist": "Tech House",
     "label": "Independent",
-    "plays": 1563,
-    "heat": 0.94,
+    "plays": 1461,
+    "heat": 0.95,
     "market": "GB"
   },
   {
     "title": "The Prophet",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1652,
-    "heat": 0.94,
+    "plays": 1496,
+    "heat": 0.95,
     "market": "DE"
   },
   {
     "title": "Mobi Dixon",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1608,
-    "heat": 0.94,
+    "plays": 1740,
+    "heat": 0.95,
     "market": "ZA"
+  },
+  {
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "label": "Independent",
+    "plays": 1560,
+    "heat": 0.95,
+    "market": "NL"
+  },
+  {
+    "title": "Tiësto",
+    "artist": "Trance",
+    "label": "Independent",
+    "plays": 1370,
+    "heat": 0.95,
+    "market": "NL"
+  },
+  {
+    "title": "Psyk",
+    "artist": "Techno",
+    "label": "Independent",
+    "plays": 1462,
+    "heat": 0.94,
+    "market": "DE"
+  },
+  {
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
+    "label": "Independent",
+    "plays": 1433,
+    "heat": 0.94,
+    "market": "IT"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1638,
+    "plays": 1672,
     "heat": 0.94,
     "market": "US"
   },
@@ -59,24 +67,16 @@
     "title": "Angelo Ferreri",
     "artist": "House",
     "label": "Independent",
-    "plays": 1514,
+    "plays": 1589,
     "heat": 0.94,
     "market": "US"
   },
   {
-    "title": "Jansons",
-    "artist": "House",
+    "title": "Morbe",
+    "artist": "Techno",
     "label": "Independent",
-    "plays": 1400,
+    "plays": 1610,
     "heat": 0.93,
-    "market": "US"
-  },
-  {
-    "title": "Tinlicker",
-    "artist": "Melodic Techno",
-    "label": "Independent",
-    "plays": 1368,
-    "heat": 0.92,
-    "market": "IT"
+    "market": "DE"
   }
 ]
