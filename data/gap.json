@@ -2,36 +2,36 @@
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 17,
-    "buyRank": 301,
+    "playRank": 14,
+    "buyRank": 282,
     "signal": "dj-play"
   },
   {
     "artist": "Stavroz",
     "genre": "Organic / Downtempo",
-    "playRank": 19,
-    "buyRank": 107,
+    "playRank": 17,
+    "buyRank": 108,
     "signal": "dj-play"
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 41,
+    "playRank": 39,
     "buyRank": 173,
     "signal": "dj-play"
   },
   {
     "artist": "Steve Aoki",
     "genre": "Tech House",
-    "playRank": 59,
-    "buyRank": 124,
+    "playRank": 63,
+    "buyRank": 138,
     "signal": "dj-play"
   },
   {
     "artist": "The Field",
     "genre": "Minimal / Deep Tech",
-    "playRank": 74,
-    "buyRank": 230,
+    "playRank": 71,
+    "buyRank": 231,
     "signal": "dj-play"
   },
   {
@@ -49,43 +49,43 @@
     "signal": "underground"
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 3,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Midland",
-    "genre": "Deep House",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
-    "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "Psyk",
     "genre": "Techno",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
     "artist": "Q-Green",
-    "genre": "Tech House",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Bakahira",
-    "genre": "Deep House",
+    "artist": "Mason Blue",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
@@ -98,22 +98,22 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "Mason Blue",
-    "genre": "Afro House",
+    "artist": "Format Groove",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "轻松哄睡",
-    "genre": "House",
+    "artist": "Alex Beam",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Benjo",
-    "genre": "Trance",
+    "artist": "Bakahira",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"
