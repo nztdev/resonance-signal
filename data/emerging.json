@@ -1,17 +1,33 @@
 [
   {
+    "title": "Psyk",
+    "artist": "Techno",
+    "label": "Independent",
+    "plays": 1445,
+    "heat": 0.95,
+    "market": "DE"
+  },
+  {
     "title": "Alan Fitzpatrick",
     "artist": "Tech House",
     "label": "Independent",
-    "plays": 1461,
+    "plays": 1621,
     "heat": 0.95,
     "market": "GB"
+  },
+  {
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
+    "label": "Independent",
+    "plays": 1520,
+    "heat": 0.95,
+    "market": "IT"
   },
   {
     "title": "The Prophet",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1496,
+    "plays": 1596,
     "heat": 0.95,
     "market": "DE"
   },
@@ -19,63 +35,47 @@
     "title": "Mobi Dixon",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1740,
+    "plays": 1561,
     "heat": 0.95,
     "market": "ZA"
-  },
-  {
-    "title": "Sara Landry",
-    "artist": "Minimal / Deep Tech",
-    "label": "Independent",
-    "plays": 1560,
-    "heat": 0.95,
-    "market": "NL"
-  },
-  {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "label": "Independent",
-    "plays": 1370,
-    "heat": 0.95,
-    "market": "NL"
-  },
-  {
-    "title": "Psyk",
-    "artist": "Techno",
-    "label": "Independent",
-    "plays": 1462,
-    "heat": 0.94,
-    "market": "DE"
-  },
-  {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
-    "label": "Independent",
-    "plays": 1433,
-    "heat": 0.94,
-    "market": "IT"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1672,
+    "plays": 1644,
     "heat": 0.94,
     "market": "US"
+  },
+  {
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "label": "Independent",
+    "plays": 1604,
+    "heat": 0.94,
+    "market": "NL"
   },
   {
     "title": "Angelo Ferreri",
     "artist": "House",
     "label": "Independent",
-    "plays": 1589,
+    "plays": 1563,
     "heat": 0.94,
     "market": "US"
+  },
+  {
+    "title": "Tiësto",
+    "artist": "Trance",
+    "label": "Independent",
+    "plays": 1712,
+    "heat": 0.94,
+    "market": "NL"
   },
   {
     "title": "Morbe",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1610,
+    "plays": 1415,
     "heat": 0.93,
     "market": "DE"
   }

@@ -1,21 +1,42 @@
 [
   {
-    "artist": "ATB",
-    "genre": "Trance",
-    "playRank": 43,
-    "buyRank": 271,
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 17,
+    "buyRank": 301,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
+    "playRank": 19,
+    "buyRank": 107,
     "signal": "dj-play"
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 47,
-    "buyRank": 100,
+    "playRank": 41,
+    "buyRank": 173,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Steve Aoki",
+    "genre": "Tech House",
+    "playRank": 59,
+    "buyRank": 124,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "The Field",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 74,
+    "buyRank": 230,
     "signal": "dj-play"
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
@@ -28,70 +49,70 @@
     "signal": "underground"
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Midland",
+    "genre": "Deep House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Jason Rivas",
-    "genre": "House",
+    "artist": "Q-Green",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Nomad Bloom",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Format Groove",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 3,
-    "signal": "fan-buy"
-  },
-  {
-    "artist": "Gökhan Günes Music",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 4,
     "signal": "fan-buy"
   },
   {
     "artist": "Bakahira",
     "genre": "Deep House",
     "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Nina Spritz",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "Mason Blue",
+    "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy"
+  },
+  {
+    "artist": "轻松哄睡",
+    "genre": "House",
+    "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Freddy Spin",
+    "artist": "Benjo",
     "genre": "Trance",
     "playRank": null,
     "buyRank": 6,
