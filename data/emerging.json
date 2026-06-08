@@ -3,39 +3,31 @@
     "title": "Psyk",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1605,
+    "plays": 1690,
     "heat": 0.95,
     "market": "DE"
   },
   {
-    "title": "Sara Landry",
-    "artist": "Minimal / Deep Tech",
+    "title": "Mobi Dixon",
+    "artist": "Afro House",
     "label": "Independent",
-    "plays": 1635,
+    "plays": 1376,
     "heat": 0.95,
-    "market": "NL"
+    "market": "ZA"
   },
   {
     "title": "Angelo Ferreri",
     "artist": "House",
     "label": "Independent",
-    "plays": 1421,
+    "plays": 1465,
     "heat": 0.95,
     "market": "US"
-  },
-  {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "label": "Independent",
-    "plays": 1485,
-    "heat": 0.95,
-    "market": "NL"
   },
   {
     "title": "Alan Fitzpatrick",
     "artist": "Tech House",
     "label": "Independent",
-    "plays": 1693,
+    "plays": 1527,
     "heat": 0.94,
     "market": "GB"
   },
@@ -43,7 +35,7 @@
     "title": "Kasablanca",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1623,
+    "plays": 1738,
     "heat": 0.94,
     "market": "IT"
   },
@@ -51,32 +43,40 @@
     "title": "The Prophet",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1429,
+    "plays": 1669,
     "heat": 0.94,
     "market": "DE"
-  },
-  {
-    "title": "Mobi Dixon",
-    "artist": "Afro House",
-    "label": "Independent",
-    "plays": 1483,
-    "heat": 0.94,
-    "market": "ZA"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1683,
+    "plays": 1748,
     "heat": 0.94,
     "market": "US"
   },
   {
-    "title": "Lost Frequencies",
-    "artist": "Deep House",
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
     "label": "Independent",
-    "plays": 1430,
+    "plays": 1589,
+    "heat": 0.94,
+    "market": "NL"
+  },
+  {
+    "title": "Tiësto",
+    "artist": "Trance",
+    "label": "Independent",
+    "plays": 1662,
+    "heat": 0.94,
+    "market": "NL"
+  },
+  {
+    "title": "Adriatique",
+    "artist": "Tech House",
+    "label": "Independent",
+    "plays": 1625,
     "heat": 0.93,
-    "market": "US"
+    "market": "GB"
   }
 ]

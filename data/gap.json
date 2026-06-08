@@ -1,119 +1,105 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 14,
-    "buyRank": 282,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 17,
-    "buyRank": 108,
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 20,
+    "buyRank": 148,
     "signal": "dj-play"
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 39,
-    "buyRank": 173,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "Steve Aoki",
-    "genre": "Tech House",
-    "playRank": 63,
-    "buyRank": 138,
+    "playRank": 42,
+    "buyRank": 179,
     "signal": "dj-play"
   },
   {
     "artist": "The Field",
     "genre": "Minimal / Deep Tech",
-    "playRank": 71,
-    "buyRank": 231,
+    "playRank": 74,
+    "buyRank": 256,
     "signal": "dj-play"
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 3,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Midland",
+    "genre": "Tech House",
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "Psyk",
     "genre": "Techno",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Q-Green",
-    "genre": "Minimal / Deep Tech",
+    "artist": "ARSANIT Tech",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Mason Blue",
-    "genre": "Afro House",
+    "artist": "Sandro Van Thun",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Nina Spritz",
-    "genre": "Techno",
+    "artist": "Alonso",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "Format Groove",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Uone",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "Alex Beam",
-    "genre": "Melodic Techno",
+    "artist": "Bryce Marlo",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Bakahira",
-    "genre": "Deep House",
+    "artist": "Alex Beam",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"
