@@ -1,31 +1,5 @@
 [
   {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Sandro Van Thun"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "Alonso"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 56,
@@ -39,41 +13,41 @@
     "delta": "Strong momentum"
   },
   {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 63,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Goma"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
     "genre": "Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 62,
     "leaders": [
       "Psyk",
       "Morbe",
       "Unklevon",
-      "Bryce Marlo"
+      "Hannah Leyla"
     ],
     "delta": "Strong momentum"
   },
   {
-    "genre": "Melodic Techno",
+    "genre": "Trance",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Alex Beam"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 73,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Ignacio Le Bert"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "PalasRaven"
     ],
     "delta": "Strong momentum"
   },
@@ -86,20 +60,7 @@
       "Mobi Dixon",
       "RAFFA GUIDO",
       "Maesic",
-      "Ipanov"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Midorii"
+      "Cafe De Anatolia"
     ],
     "delta": "Strong momentum"
   },
@@ -119,12 +80,51 @@
     "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 67,
+    "buyPct": 77,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
       "Kerri Chandler",
       "Bakahira"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 77,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Jason Still"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 73,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Dzik"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 74,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones",
+      "Sayanorca"
     ],
     "delta": "Strong momentum"
   }

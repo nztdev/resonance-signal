@@ -1,23 +1,23 @@
 [
   {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 20,
-    "buyRank": 148,
-    "signal": "dj-play"
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 19,
+    "buyRank": 6,
+    "signal": "fan-buy"
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 42,
-    "buyRank": 179,
+    "playRank": 41,
+    "buyRank": 220,
     "signal": "dj-play"
   },
   {
     "artist": "The Field",
     "genre": "Minimal / Deep Tech",
-    "playRank": 74,
-    "buyRank": 256,
+    "playRank": 77,
+    "buyRank": 309,
     "signal": "dj-play"
   },
   {
@@ -35,50 +35,50 @@
     "signal": "underground"
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 3,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Midland",
-    "genre": "Tech House",
-    "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "Psyk",
     "genre": "Techno",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "Tech House",
+    "artist": "Big Bunny",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Sandro Van Thun",
-    "genre": "Trance",
+    "artist": "Cafe De Anatolia",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Alonso",
-    "genre": "Tech House",
+    "artist": "Dzik",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
@@ -91,17 +91,17 @@
     "signal": "fan-buy"
   },
   {
-    "artist": "Bryce Marlo",
-    "genre": "Techno",
+    "artist": "Goma",
+    "genre": "House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Alex Beam",
-    "genre": "Melodic Techno",
+    "artist": "PalasRaven",
+    "genre": "Trance",
     "playRank": null,
-    "buyRank": 6,
+    "buyRank": 7,
     "signal": "fan-buy"
   }
 ]
