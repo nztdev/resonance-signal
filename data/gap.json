@@ -2,106 +2,120 @@
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 19,
-    "buyRank": 6,
-    "signal": "fan-buy"
+    "playRank": 11,
+    "buyRank": 163,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Midland",
+    "genre": "Tech House",
+    "playRank": 13,
+    "buyRank": 141,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 28,
+    "buyRank": 136,
+    "signal": "dj-play"
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 41,
-    "buyRank": 220,
+    "playRank": 40,
+    "buyRank": 366,
     "signal": "dj-play"
   },
   {
     "artist": "The Field",
     "genre": "Minimal / Deep Tech",
-    "playRank": 77,
-    "buyRank": 309,
+    "playRank": 57,
+    "buyRank": 351,
     "signal": "dj-play"
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 3,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "Psyk",
     "genre": "Techno",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Big Bunny",
-    "genre": "House",
+    "artist": "Tech Mama",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
     "artist": "Cafe De Anatolia",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "Dzik",
-    "genre": "Techno",
+    "artist": "A503X",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "Uone",
-    "genre": "Organic / Downtempo",
+    "artist": "Domineeky",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "Goma",
-    "genre": "House",
+    "artist": "Serbann",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "PalasRaven",
-    "genre": "Trance",
+    "artist": "Pont",
+    "genre": "Techno",
     "playRank": null,
-    "buyRank": 7,
+    "buyRank": 6,
     "signal": "fan-buy"
   }
 ]
