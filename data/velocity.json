@@ -1,78 +1,14 @@
 [
   {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Jhana"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Serbann"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 77,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Pont"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Tech House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 74,
     "leaders": [
       "Alan Fitzpatrick",
       "Adriatique",
       "Jamie Jones",
-      "Tech Mama"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 25,
-    "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "The Bucketheads"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Bun Xapa",
-      "MD DJ"
+      "TRIPPYLAND"
     ],
     "delta": "Strong momentum"
   },
@@ -80,12 +16,12 @@
     "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 80,
     "leaders": [
       "thds",
       "Stavroz",
       "Tinlicker",
-      "Uone"
+      "Cafe De Anatolia"
     ],
     "delta": "Strong momentum"
   },
@@ -98,7 +34,7 @@
       "Angelo Ferreri",
       "Jansons",
       "Pierce Fulton",
-      "Goma"
+      "sfagnym"
     ],
     "delta": "Strong momentum"
   },
@@ -106,7 +42,7 @@
     "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 84,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
@@ -116,15 +52,79 @@
     "delta": "Strong momentum"
   },
   {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Cafe De Anatolia"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
     "genre": "Trance",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 69,
+    "buyPct": 88,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "RAYDON JULUMA."
+      "Andy Malex"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 71,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "A Body Without"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 55,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Bun Xapa",
+      "Los Pegues De La Huasteca"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 70,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Ricardo Aya"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "The Bucketheads"
     ],
     "delta": "Strong momentum"
   }

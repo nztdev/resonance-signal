@@ -1,119 +1,105 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 11,
-    "buyRank": 163,
-    "signal": "dj-play"
-  },
-  {
     "artist": "Midland",
     "genre": "Tech House",
-    "playRank": 13,
-    "buyRank": 141,
+    "playRank": 11,
+    "buyRank": 276,
     "signal": "dj-play"
   },
   {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 28,
-    "buyRank": 136,
+    "artist": "Lost Frequencies",
+    "genre": "Deep House",
+    "playRank": 14,
+    "buyRank": 330,
     "signal": "dj-play"
   },
   {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 40,
-    "buyRank": 366,
-    "signal": "dj-play"
-  },
-  {
-    "artist": "The Field",
+    "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 57,
-    "buyRank": 351,
+    "playRank": 18,
+    "buyRank": 329,
     "signal": "dj-play"
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 3,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 5,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "Alan Fitzpatrick",
     "genre": "Tech House",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Tech Mama",
-    "genre": "Techno",
+    "artist": "Dan Soden",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
     "artist": "Cafe De Anatolia",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "A503X",
-    "genre": "Minimal / Deep Tech",
+    "artist": "ARSANIT Tech",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "Domineeky",
-    "genre": "Afro House",
+    "artist": "TRIPPYLAND",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "Serbann",
-    "genre": "Minimal / Deep Tech",
+    "artist": "sfagnym",
+    "genre": "House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Pont",
-    "genre": "Techno",
+    "artist": "Kadiac",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"
