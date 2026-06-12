@@ -1,105 +1,112 @@
 [
   {
-    "artist": "Midland",
-    "genre": "Tech House",
-    "playRank": 11,
-    "buyRank": 276,
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 6,
+    "buyRank": 82,
     "signal": "dj-play"
   },
   {
-    "artist": "Lost Frequencies",
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 9,
+    "buyRank": 152,
+    "signal": "dj-play"
+  },
+  {
+    "artist": "Tini",
     "genre": "Deep House",
-    "playRank": 14,
-    "buyRank": 330,
+    "playRank": 56,
+    "buyRank": 359,
     "signal": "dj-play"
   },
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 18,
-    "buyRank": 329,
+    "artist": "Narciss",
+    "genre": "Techno",
+    "playRank": 63,
+    "buyRank": 174,
     "signal": "dj-play"
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
-    "playRank": 3,
-    "buyRank": null,
-    "signal": "underground"
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 4,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "nbsplv",
     "genre": "Deep House",
-    "playRank": 5,
+    "playRank": 3,
     "buyRank": null,
     "signal": "underground"
   },
   {
     "artist": "Kasablanca",
     "genre": "Melodic Techno",
-    "playRank": 6,
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground"
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 7,
     "buyRank": null,
     "signal": "dj-play"
   },
   {
-    "artist": "Dan Soden",
-    "genre": "Tech House",
+    "artist": "Rainforest Project",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy"
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Organic / Downtempo",
+    "artist": "Jaques Le Noir",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy"
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "Tech House",
+    "artist": "Qwik",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy"
   },
   {
-    "artist": "TRIPPYLAND",
-    "genre": "Tech House",
+    "artist": "Nau Leone",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy"
   },
   {
-    "artist": "sfagnym",
-    "genre": "House",
+    "artist": "Mamou Jindah",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy"
   },
   {
-    "artist": "Kadiac",
-    "genre": "Deep House",
+    "artist": "DRIZE",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy"

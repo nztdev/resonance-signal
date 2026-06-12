@@ -3,80 +3,80 @@
     "title": "Alan Fitzpatrick",
     "artist": "Tech House",
     "label": "Independent",
-    "plays": 1351,
+    "plays": 1575,
     "heat": 0.95,
     "market": "GB"
   },
   {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
+    "title": "nbsplv",
+    "artist": "Deep House",
     "label": "Independent",
-    "plays": 1655,
+    "plays": 1476,
     "heat": 0.95,
-    "market": "DE"
+    "market": "US"
+  },
+  {
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
+    "label": "Independent",
+    "plays": 1423,
+    "heat": 0.94,
+    "market": "IT"
   },
   {
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1516,
-    "heat": 0.95,
+    "plays": 1427,
+    "heat": 0.94,
     "market": "ZA"
   },
   {
     "title": "Sara Landry",
     "artist": "Minimal / Deep Tech",
     "label": "Independent",
-    "plays": 1665,
-    "heat": 0.95,
+    "plays": 1387,
+    "heat": 0.94,
     "market": "NL"
   },
   {
     "title": "Angelo Ferreri",
     "artist": "House",
     "label": "Independent",
-    "plays": 1660,
-    "heat": 0.95,
+    "plays": 1728,
+    "heat": 0.94,
     "market": "US"
   },
   {
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1545,
-    "heat": 0.95,
+    "plays": 1672,
+    "heat": 0.94,
     "market": "NL"
   },
   {
-    "title": "Psyk",
-    "artist": "Techno",
-    "label": "Independent",
-    "plays": 1372,
-    "heat": 0.94,
-    "market": "DE"
-  },
-  {
-    "title": "Kasablanca",
+    "title": "Tinlicker",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1442,
-    "heat": 0.94,
+    "plays": 1550,
+    "heat": 0.93,
     "market": "IT"
-  },
-  {
-    "title": "nbsplv",
-    "artist": "Deep House",
-    "label": "Independent",
-    "plays": 1512,
-    "heat": 0.94,
-    "market": "US"
   },
   {
     "title": "Mobi Dixon",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1345,
+    "plays": 1465,
     "heat": 0.93,
     "market": "ZA"
+  },
+  {
+    "title": "Lost Frequencies",
+    "artist": "Deep House",
+    "label": "Independent",
+    "plays": 1620,
+    "heat": 0.93,
+    "market": "US"
   }
 ]
