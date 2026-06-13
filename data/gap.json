@@ -1,57 +1,63 @@
 [
   {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 6,
-    "buyRank": 209,
-    "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": -57
-  },
-  {
     "artist": "The Prophet",
     "genre": "Hard Techno",
+    "playRank": 5,
+    "buyRank": 119,
+    "signal": "dj-play",
+    "playDelta": 4,
+    "buyDelta": 2
+  },
+  {
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 9,
-    "buyRank": 121,
+    "buyRank": 206,
     "signal": "dj-play",
     "playDelta": -3,
-    "buyDelta": -39
+    "buyDelta": 3
   },
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 12,
-    "buyRank": 153,
+    "playRank": 11,
+    "buyRank": 152,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": 1,
+    "buyDelta": 1
   },
   {
     "artist": "Stavroz",
     "genre": "Organic / Downtempo",
     "playRank": 18,
-    "buyRank": 67,
+    "buyRank": 65,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": 0,
+    "buyDelta": 2
   },
   {
     "artist": "Avant.OCS",
     "genre": "Techno",
-    "playRank": 23,
-    "buyRank": 67,
+    "playRank": 27,
+    "buyRank": 65,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": -4,
+    "buyDelta": 2
   },
   {
     "artist": "Hava",
     "genre": "Hard Techno",
-    "playRank": 45,
-    "buyRank": 67,
+    "playRank": 41,
+    "buyRank": 65,
+    "signal": "dj-play",
+    "playDelta": 4,
+    "buyDelta": 2
+  },
+  {
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 61,
+    "buyRank": 371,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -60,21 +66,11 @@
   {
     "artist": "Narciss",
     "genre": "Techno",
-    "playRank": 59,
-    "buyRank": 184,
+    "playRank": 64,
+    "buyRank": 183,
     "signal": "dj-play",
-    "playDelta": 4,
-    "buyDelta": -10
-  },
-  {
-    "artist": "Darude",
-    "genre": "Trance",
-    "playRank": 78,
-    "buyRank": 60,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": -5,
+    "buyDelta": 1
   },
   {
     "artist": "Tinlicker",
@@ -95,47 +91,83 @@
     "buyDelta": null
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": 1,
     "buyDelta": null
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
   },
   {
     "artist": "Angelo Ferreri",
     "genre": "House",
-    "playRank": 5,
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": 1,
     "buyDelta": null
   },
   {
     "artist": "Kasablanca",
     "genre": "Melodic Techno",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": 1,
+    "buyDelta": null
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 7,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -3,
-    "buyDelta": null
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
   },
   {
     "artist": "Chief Man",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 0
+  },
+  {
+    "artist": "Arlow Lfz",
+    "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 3
+  },
+  {
+    "artist": "Dzik",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 0
+  },
+  {
+    "artist": "Nau Leone",
+    "genre": "Melodic Techno",
+    "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 2
+  },
+  {
+    "artist": "Freiweiler",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -145,48 +177,9 @@
     "artist": "DRIZE",
     "genre": "Trance",
     "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": 4
-  },
-  {
-    "artist": "Dzik",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
-  },
-  {
-    "artist": "Shemesh Vibes",
-    "genre": "Techno",
-    "playRank": null,
-    "buyRank": 4,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
-  },
-  {
-    "artist": "Arlow Lfz",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 5,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
-  },
-  {
-    "artist": "Nau Leone",
-    "genre": "Melodic Techno",
-    "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -2
+    "buyDelta": -4
   }
 ]
