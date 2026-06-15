@@ -1,81 +1,81 @@
 [
   {
+    "title": "RAFFA GUIDO",
+    "artist": "Afro House",
+    "label": "Independent",
+    "plays": 1716,
+    "heat": 0.95,
+    "market": "ZA"
+  },
+  {
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "label": "Independent",
+    "plays": 1380,
+    "heat": 0.95,
+    "market": "NL"
+  },
+  {
+    "title": "Psyk",
+    "artist": "Techno",
+    "label": "Independent",
+    "plays": 1392,
+    "heat": 0.94,
+    "market": "DE"
+  },
+  {
     "title": "Alan Fitzpatrick",
     "artist": "Tech House",
     "label": "Independent",
-    "plays": 1535,
-    "heat": 0.95,
+    "plays": 1647,
+    "heat": 0.94,
     "market": "GB"
   },
   {
     "title": "Kasablanca",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1431,
-    "heat": 0.95,
+    "plays": 1554,
+    "heat": 0.94,
     "market": "IT"
+  },
+  {
+    "title": "The Prophet",
+    "artist": "Hard Techno",
+    "label": "Independent",
+    "plays": 1677,
+    "heat": 0.94,
+    "market": "DE"
   },
   {
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1700,
-    "heat": 0.95,
+    "plays": 1383,
+    "heat": 0.94,
     "market": "US"
   },
   {
     "title": "Angelo Ferreri",
     "artist": "House",
     "label": "Independent",
-    "plays": 1485,
-    "heat": 0.95,
+    "plays": 1552,
+    "heat": 0.94,
     "market": "US"
   },
   {
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1686,
-    "heat": 0.95,
-    "market": "NL"
-  },
-  {
-    "title": "RAFFA GUIDO",
-    "artist": "Afro House",
-    "label": "Independent",
-    "plays": 1362,
+    "plays": 1443,
     "heat": 0.94,
-    "market": "ZA"
-  },
-  {
-    "title": "Mobi Dixon",
-    "artist": "Afro House",
-    "label": "Independent",
-    "plays": 1655,
-    "heat": 0.93,
-    "market": "ZA"
+    "market": "NL"
   },
   {
     "title": "Morbe",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1351,
-    "heat": 0.92,
-    "market": "DE"
-  },
-  {
-    "title": "Tinlicker",
-    "artist": "Melodic Techno",
-    "label": "Independent",
-    "plays": 1277,
-    "heat": 0.92,
-    "market": "IT"
-  },
-  {
-    "title": "Yoshiko",
-    "artist": "Hard Techno",
-    "label": "Independent",
-    "plays": 1303,
+    "plays": 1587,
     "heat": 0.92,
     "market": "DE"
   }

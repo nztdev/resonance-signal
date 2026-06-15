@@ -1,76 +1,61 @@
 [
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 3,
-    "buyRank": 125,
-    "signal": "dj-play",
-    "playDelta": 2,
-    "buyDelta": -6
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 4,
-    "buyRank": 277,
-    "signal": "dj-play",
-    "playDelta": -1,
-    "buyDelta": null
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 5,
-    "buyRank": 252,
-    "signal": "dj-play",
-    "playDelta": 4,
-    "buyDelta": -46
-  },
-  {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 12,
-    "buyRank": 269,
+    "playRank": 11,
+    "buyRank": 364,
     "signal": "dj-play",
-    "playDelta": -1,
-    "buyDelta": -117
+    "playDelta": 1,
+    "buyDelta": -95
   },
   {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 16,
-    "buyRank": 76,
-    "signal": "dj-play",
-    "playDelta": 2,
-    "buyDelta": -11
-  },
-  {
-    "artist": "Avant.OCS",
-    "genre": "Techno",
-    "playRank": 22,
-    "buyRank": 76,
-    "signal": "dj-play",
-    "playDelta": 5,
-    "buyDelta": -11
+    "artist": "Adriatique",
+    "genre": "Melodic Techno",
+    "playRank": 44,
+    "buyRank": 15,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
   },
   {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 23,
-    "buyRank": 120,
+    "playRank": 24,
+    "buyRank": 202,
+    "signal": "dj-play",
+    "playDelta": -1,
+    "buyDelta": -82
+  },
+  {
+    "artist": "Robert Miles",
+    "genre": "Trance",
+    "playRank": 51,
+    "buyRank": 377,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true
   },
   {
-    "artist": "Hava",
-    "genre": "Hard Techno",
-    "playRank": 38,
-    "buyRank": 76,
+    "artist": "Narciss",
+    "genre": "Techno",
+    "playRank": 57,
+    "buyRank": 345,
     "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": -11
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
+  },
+  {
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 64,
+    "buyRank": 331,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
   },
   {
     "artist": "Tinlicker",
@@ -83,7 +68,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -91,44 +76,43 @@
     "buyDelta": null
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 6,
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 3,
     "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "signal": "underground",
+    "playDelta": 1,
+    "buyDelta": null
+  },
+  {
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 1,
+    "buyDelta": null
+  },
+  {
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -2,
+    "buyDelta": null
   },
   {
     "artist": "Angelo Ferreri",
     "genre": "House",
-    "playRank": 7,
+    "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -3,
+    "playDelta": 1,
     "buyDelta": null
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 8,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": -1,
-    "buyDelta": null
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 9,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": -3,
-    "buyDelta": null
-  },
-  {
-    "artist": "Q-Green",
+    "artist": "Fracktion",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
@@ -138,8 +122,8 @@
     "isNew": true
   },
   {
-    "artist": "John Foster",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Patient",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -148,8 +132,8 @@
     "isNew": true
   },
   {
-    "artist": "Kaalassic",
-    "genre": "Techno",
+    "artist": "Play House",
+    "genre": "House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -158,8 +142,8 @@
     "isNew": true
   },
   {
-    "artist": "Nyilo_D",
-    "genre": "Techno",
+    "artist": "Freddy Spin",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -168,8 +152,8 @@
     "isNew": true
   },
   {
-    "artist": "Abeber Project",
-    "genre": "Trance",
+    "artist": "randomPLAY",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -178,8 +162,8 @@
     "isNew": true
   },
   {
-    "artist": "Cumbias Tropicales",
-    "genre": "Afro House",
+    "artist": "Timucin",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
