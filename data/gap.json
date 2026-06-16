@@ -1,37 +1,28 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 11,
-    "buyRank": 364,
+    "artist": "Midland",
+    "genre": "Deep House",
+    "playRank": 14,
+    "buyRank": 355,
     "signal": "dj-play",
-    "playDelta": 1,
-    "buyDelta": -95
-  },
-  {
-    "artist": "Adriatique",
-    "genre": "Melodic Techno",
-    "playRank": 44,
-    "buyRank": 15,
-    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true
   },
   {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 24,
-    "buyRank": 202,
+    "artist": "Adriatique",
+    "genre": "Deep House",
+    "playRank": 41,
+    "buyRank": 153,
     "signal": "dj-play",
-    "playDelta": -1,
-    "buyDelta": -82
+    "playDelta": 3,
+    "buyDelta": -138
   },
   {
-    "artist": "Robert Miles",
-    "genre": "Trance",
-    "playRank": 51,
-    "buyRank": 377,
+    "artist": "Christian Löffler",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 42,
+    "buyRank": 48,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -40,22 +31,11 @@
   {
     "artist": "Narciss",
     "genre": "Techno",
-    "playRank": 57,
-    "buyRank": 345,
+    "playRank": 65,
+    "buyRank": 379,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
-  },
-  {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 64,
-    "buyRank": 331,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": -8,
+    "buyDelta": -34
   },
   {
     "artist": "Tinlicker",
@@ -76,31 +56,33 @@
     "buyDelta": null
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
-    "buyDelta": null
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": -1,
     "buyDelta": null
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -2,
-    "buyDelta": null
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
   },
   {
     "artist": "Angelo Ferreri",
@@ -108,12 +90,12 @@
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 1,
+    "playDelta": 0,
     "buyDelta": null
   },
   {
-    "artist": "Fracktion",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Cafe De Anatolia",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -122,8 +104,8 @@
     "isNew": true
   },
   {
-    "artist": "Patient",
-    "genre": "Techno",
+    "artist": "Christo Slim",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -132,8 +114,8 @@
     "isNew": true
   },
   {
-    "artist": "Play House",
-    "genre": "House",
+    "artist": "Majnoon",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -142,8 +124,8 @@
     "isNew": true
   },
   {
-    "artist": "Freddy Spin",
-    "genre": "Trance",
+    "artist": "Dj Cumbias",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -152,8 +134,8 @@
     "isNew": true
   },
   {
-    "artist": "randomPLAY",
-    "genre": "Organic / Downtempo",
+    "artist": "Monaks",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -162,8 +144,8 @@
     "isNew": true
   },
   {
-    "artist": "Timucin",
-    "genre": "Melodic Techno",
+    "artist": "Techno Red",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
