@@ -1,5 +1,56 @@
 [
   {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 81,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Pierce Fulton",
+      "Midorii"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones",
+      "Harper Lee"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 81,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Onda Skillet"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "The Bucketheads"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
     "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 56,
@@ -16,12 +67,12 @@
     "genre": "Afro House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 49,
+    "buyPct": 42,
     "leaders": [
       "RAFFA GUIDO",
       "Mobi Dixon",
-      "Bun Xapa",
-      "Dj Cumbias"
+      "Maesic",
+      "Cumbia Mix"
     ],
     "delta": "Strong momentum"
   },
@@ -39,53 +90,15 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Minimal / Deep Tech",
+    "genre": "Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 71,
     "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Monaks"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "Techno Red"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Pierce Fulton",
-      "Y星人儿歌"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 25,
-    "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "The Bucketheads"
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Steve Bicknell"
     ],
     "delta": "Strong momentum"
   },
@@ -98,7 +111,7 @@
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "Niko Savrin"
+      "Joseph Brittanni"
     ],
     "delta": "Strong momentum"
   },
@@ -111,20 +124,7 @@
       "Kasablanca",
       "Tinlicker",
       "HNTR",
-      "Edo Sarkis"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 77,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Astroconductor"
+      "Aria Vision Project"
     ],
     "delta": "Strong momentum"
   }

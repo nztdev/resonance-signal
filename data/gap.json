@@ -1,41 +1,13 @@
 [
   {
-    "artist": "Midland",
-    "genre": "Deep House",
-    "playRank": 14,
-    "buyRank": 355,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
-  },
-  {
-    "artist": "Adriatique",
-    "genre": "Deep House",
-    "playRank": 41,
-    "buyRank": 153,
-    "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": -138
-  },
-  {
-    "artist": "Christian Löffler",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 42,
-    "buyRank": 48,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
-  },
-  {
-    "artist": "Narciss",
+    "artist": "Teo",
     "genre": "Techno",
-    "playRank": 65,
-    "buyRank": 379,
+    "playRank": 35,
+    "buyRank": 177,
     "signal": "dj-play",
-    "playDelta": -8,
-    "buyDelta": -34
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
   },
   {
     "artist": "Tinlicker",
@@ -56,46 +28,45 @@
     "buyDelta": null
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": 3,
+    "buyDelta": null
+  },
+  {
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 1,
+    "buyDelta": null
   },
   {
     "artist": "Sara Landry",
     "genre": "Minimal / Deep Tech",
-    "playRank": 4,
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": -1,
     "buyDelta": null
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
-    "playRank": 5,
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 6,
     "buyRank": null,
-    "signal": "underground",
+    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true
   },
   {
-    "artist": "Angelo Ferreri",
+    "artist": "Kryphon",
     "genre": "House",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": null
-  },
-  {
-    "artist": "Cafe De Anatolia",
-    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -104,8 +75,8 @@
     "isNew": true
   },
   {
-    "artist": "Christo Slim",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Seumas Norv",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -114,8 +85,8 @@
     "isNew": true
   },
   {
-    "artist": "Majnoon",
-    "genre": "Organic / Downtempo",
+    "artist": "Midorii",
+    "genre": "House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -124,8 +95,8 @@
     "isNew": true
   },
   {
-    "artist": "Dj Cumbias",
-    "genre": "Afro House",
+    "artist": "Harper Lee",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -134,7 +105,7 @@
     "isNew": true
   },
   {
-    "artist": "Monaks",
+    "artist": "Onda Skillet",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
@@ -144,13 +115,12 @@
     "isNew": true
   },
   {
-    "artist": "Techno Red",
-    "genre": "Tech House",
+    "artist": "Majnoon",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "buyDelta": -3
   }
 ]
