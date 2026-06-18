@@ -1,82 +1,5 @@
 [
   {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 81,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Pierce Fulton",
-      "Midorii"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "Harper Lee"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 81,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Onda Skillet"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 25,
-    "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "The Bucketheads"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Majnoon"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 42,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Cumbia Mix"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
@@ -90,15 +13,15 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Techno",
+    "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 71,
+    "buyPct": 88,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Steve Bicknell"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Cafe De Anatolia"
     ],
     "delta": "Strong momentum"
   },
@@ -111,7 +34,33 @@
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "Joseph Brittanni"
+      "Brittanni"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Stoned Entertainment"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 71,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Isaya Neris"
     ],
     "delta": "Strong momentum"
   },
@@ -124,7 +73,58 @@
       "Kasablanca",
       "Tinlicker",
       "HNTR",
-      "Aria Vision Project"
+      "Ramsay"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Deemkeyne"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 84,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Pierce Fulton",
+      "Post Covid Music"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones",
+      "Dan Soden"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "The Bucketheads"
     ],
     "delta": "Strong momentum"
   }

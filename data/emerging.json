@@ -3,7 +3,7 @@
     "title": "Alan Fitzpatrick",
     "artist": "Tech House",
     "label": "Independent",
-    "plays": 1630,
+    "plays": 1691,
     "heat": 0.95,
     "market": "GB"
   },
@@ -11,7 +11,7 @@
     "title": "Psyk",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1433,
+    "plays": 1489,
     "heat": 0.94,
     "market": "DE"
   },
@@ -19,7 +19,7 @@
     "title": "Kasablanca",
     "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1458,
+    "plays": 1359,
     "heat": 0.94,
     "market": "IT"
   },
@@ -27,7 +27,7 @@
     "title": "The Prophet",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1694,
+    "plays": 1749,
     "heat": 0.94,
     "market": "DE"
   },
@@ -35,7 +35,7 @@
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1744,
+    "plays": 1462,
     "heat": 0.94,
     "market": "ZA"
   },
@@ -43,23 +43,15 @@
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1374,
+    "plays": 1663,
     "heat": 0.94,
     "market": "US"
-  },
-  {
-    "title": "Sara Landry",
-    "artist": "Minimal / Deep Tech",
-    "label": "Independent",
-    "plays": 1397,
-    "heat": 0.94,
-    "market": "NL"
   },
   {
     "title": "Angelo Ferreri",
     "artist": "House",
     "label": "Independent",
-    "plays": 1723,
+    "plays": 1637,
     "heat": 0.94,
     "market": "US"
   },
@@ -67,7 +59,7 @@
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1513,
+    "plays": 1499,
     "heat": 0.94,
     "market": "NL"
   },
@@ -75,8 +67,16 @@
     "title": "Morbe",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1275,
+    "plays": 1520,
     "heat": 0.93,
     "market": "DE"
+  },
+  {
+    "title": "Adriatique",
+    "artist": "Tech House",
+    "label": "Independent",
+    "plays": 1420,
+    "heat": 0.93,
+    "market": "GB"
   }
 ]
