@@ -2,15 +2,15 @@
   {
     "artist": "Birds Of Mind",
     "genre": "Organic / Downtempo",
-    "playRank": 36,
-    "buyRank": 221,
+    "playRank": 32,
+    "buyRank": 226,
     "signal": "dj-play",
-    "playDelta": -1,
-    "buyDelta": 1
+    "playDelta": 4,
+    "buyDelta": -5
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -19,7 +19,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -27,35 +27,37 @@
     "buyDelta": null
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": 1,
     "buyDelta": null
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
-    "buyDelta": null
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -2,
-    "buyDelta": null
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -74,7 +76,7 @@
   },
   {
     "artist": "Soundscape",
-    "genre": "Minimal / Deep Tech",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -82,39 +84,43 @@
     "buyDelta": 0
   },
   {
-    "artist": "Butane",
-    "genre": "Minimal / Deep Tech",
+    "artist": "SIXSENSE",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 2
+    "buyDelta": null,
+    "isNew": true
   },
   {
-    "artist": "Grimes77",
-    "genre": "Trance",
+    "artist": "Double Zero",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -1
+    "buyDelta": null,
+    "isNew": true
   },
   {
-    "artist": "Michael Cassette",
-    "genre": "Melodic Techno",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 1
+    "buyDelta": null,
+    "isNew": true
   },
   {
-    "artist": "Mean to You",
-    "genre": "Techno",
+    "artist": "Claudio Giordano",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -2
+    "buyDelta": null,
+    "isNew": true
   }
 ]
