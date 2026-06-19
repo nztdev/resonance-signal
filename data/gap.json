@@ -2,12 +2,11 @@
   {
     "artist": "Birds Of Mind",
     "genre": "Organic / Downtempo",
-    "playRank": 35,
-    "buyRank": 222,
+    "playRank": 36,
+    "buyRank": 221,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": -1,
+    "buyDelta": 1
   },
   {
     "artist": "Tinlicker",
@@ -20,7 +19,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -28,27 +27,9 @@
     "buyDelta": null
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 1,
-    "buyDelta": null
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 1,
-    "buyDelta": null
-  },
-  {
     "artist": "Sara Landry",
     "genre": "Minimal / Deep Tech",
-    "playRank": 5,
+    "playRank": 3,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 2,
@@ -57,6 +38,24 @@
   {
     "artist": "The Prophet",
     "genre": "Hard Techno",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 2,
+    "buyDelta": null
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -2,
+    "buyDelta": null
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -66,62 +65,56 @@
   },
   {
     "artist": "Seumas Norv",
-    "genre": "Tech House",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "buyDelta": 0
   },
   {
     "artist": "Soundscape",
-    "genre": "Techno",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
-  },
-  {
-    "artist": "Grimes77",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
-  },
-  {
-    "artist": "Mean to You",
-    "genre": "Techno",
-    "playRank": null,
-    "buyRank": 4,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "buyDelta": 0
   },
   {
     "artist": "Butane",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
-    "buyRank": 5,
+    "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "buyDelta": 2
+  },
+  {
+    "artist": "Grimes77",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": -1
   },
   {
     "artist": "Michael Cassette",
     "genre": "Melodic Techno",
     "playRank": null,
+    "buyRank": 5,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 1
+  },
+  {
+    "artist": "Mean to You",
+    "genre": "Techno",
+    "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "buyDelta": -2
   }
 ]

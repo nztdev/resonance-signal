@@ -1,31 +1,5 @@
 [
   {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 84,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Grimes77"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 85,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Mean to You"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 56,
@@ -51,15 +25,15 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Tech House",
+    "genre": "Trance",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 84,
     "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "Soundscape"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Grimes77"
     ],
     "delta": "Strong momentum"
   },
@@ -77,28 +51,28 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Deep House",
+    "genre": "Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 85,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "SIXSENSE"
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Mean to You"
     ],
     "delta": "Strong momentum"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 71,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Tibetania"
+      "Angelo Ferreri",
+      "Jansons",
+      "Pierce Fulton",
+      "Double Zero"
     ],
     "delta": "Strong momentum"
   },
@@ -116,15 +90,41 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "House",
+    "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 71,
+    "buyPct": 88,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Pierce Fulton",
-      "Double Zero"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Tibetania"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "SIXSENSE"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones",
+      "Soundscape"
     ],
     "delta": "Strong momentum"
   }
