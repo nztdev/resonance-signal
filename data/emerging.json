@@ -1,33 +1,33 @@
 [
   {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
     "label": "Independent",
-    "plays": 1691,
+    "plays": 1636,
     "heat": 0.95,
-    "market": "GB"
+    "market": "IT"
   },
   {
     "title": "Psyk",
     "artist": "Techno",
     "label": "Independent",
-    "plays": 1489,
+    "plays": 1647,
     "heat": 0.94,
     "market": "DE"
   },
   {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
     "label": "Independent",
-    "plays": 1359,
+    "plays": 1729,
     "heat": 0.94,
-    "market": "IT"
+    "market": "GB"
   },
   {
     "title": "The Prophet",
     "artist": "Hard Techno",
     "label": "Independent",
-    "plays": 1749,
+    "plays": 1463,
     "heat": 0.94,
     "market": "DE"
   },
@@ -35,7 +35,7 @@
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
     "label": "Independent",
-    "plays": 1462,
+    "plays": 1682,
     "heat": 0.94,
     "market": "ZA"
   },
@@ -43,15 +43,23 @@
     "title": "nbsplv",
     "artist": "Deep House",
     "label": "Independent",
-    "plays": 1663,
+    "plays": 1417,
     "heat": 0.94,
     "market": "US"
+  },
+  {
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "label": "Independent",
+    "plays": 1697,
+    "heat": 0.94,
+    "market": "NL"
   },
   {
     "title": "Angelo Ferreri",
     "artist": "House",
     "label": "Independent",
-    "plays": 1637,
+    "plays": 1363,
     "heat": 0.94,
     "market": "US"
   },
@@ -59,23 +67,15 @@
     "title": "Tiësto",
     "artist": "Trance",
     "label": "Independent",
-    "plays": 1499,
+    "plays": 1722,
     "heat": 0.94,
     "market": "NL"
-  },
-  {
-    "title": "Morbe",
-    "artist": "Techno",
-    "label": "Independent",
-    "plays": 1520,
-    "heat": 0.93,
-    "market": "DE"
   },
   {
     "title": "Adriatique",
     "artist": "Tech House",
     "label": "Independent",
-    "plays": 1420,
+    "plays": 1320,
     "heat": 0.93,
     "market": "GB"
   }
