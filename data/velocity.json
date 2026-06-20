@@ -1,52 +1,14 @@
 [
   {
-    "genre": "Hard Techno",
+    "genre": "Melodic Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 25,
+    "buyPct": 60,
     "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "The Bucketheads"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "SIXSENSE"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 71,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Pierce Fulton",
-      "Double Zero"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "Soundscape"
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Jason Still"
     ],
     "delta": "Strong momentum"
   },
@@ -64,6 +26,45 @@
     "delta": "Strong momentum"
   },
   {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 85,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Grimes77"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones",
+      "Solynne"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 77,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Pierce Fulton",
+      "CHY-Destiny"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
     "genre": "Afro House",
     "status": "rising",
     "playPct": 56,
@@ -72,20 +73,45 @@
       "RAFFA GUIDO",
       "Mobi Dixon",
       "Maesic",
-      "Claudio Giordano"
+      "Coster"
     ],
     "delta": "Strong momentum"
   },
   {
-    "genre": "Trance",
+    "genre": "Hard Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 84,
+    "buyPct": 25,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Grimes77"
+      "The Prophet",
+      "Yoshiko",
+      "The Bucketheads"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 69,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "BamBam2025"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 77,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "BamBam2025"
     ],
     "delta": "Strong momentum"
   },
@@ -98,33 +124,7 @@
       "Sara Landry",
       "Anna",
       "Max Cooper",
-      "Butane"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 85,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Mean to You"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 85,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Michael Cassette"
+      "No Reclaim"
     ],
     "delta": "Strong momentum"
   }

@@ -1,16 +1,7 @@
 [
   {
-    "artist": "Birds Of Mind",
-    "genre": "Organic / Downtempo",
-    "playRank": 32,
-    "buyRank": 226,
-    "signal": "dj-play",
-    "playDelta": 4,
-    "buyDelta": -5
-  },
-  {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -27,18 +18,9 @@
     "buyDelta": null
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 1,
-    "buyDelta": null
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -46,9 +28,9 @@
     "isNew": true
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 5,
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -58,46 +40,36 @@
   {
     "artist": "Alan Fitzpatrick",
     "genre": "Tech House",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 1,
+    "buyDelta": null
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": -1,
+    "buyDelta": null
   },
   {
-    "artist": "Seumas Norv",
-    "genre": "House",
+    "artist": "BamBam2025",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0
-  },
-  {
-    "artist": "Soundscape",
-    "genre": "Tech House",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": 0
-  },
-  {
-    "artist": "SIXSENSE",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
     "buyDelta": null,
     "isNew": true
   },
   {
-    "artist": "Double Zero",
-    "genre": "House",
+    "artist": "Jason Still",
+    "genre": "Melodic Techno",
     "playRank": null,
-    "buyRank": 4,
+    "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -107,6 +79,25 @@
     "artist": "Tibetania",
     "genre": "Organic / Downtempo",
     "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 2
+  },
+  {
+    "artist": "Grimes77",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
+  },
+  {
+    "artist": "Solynne",
+    "genre": "Tech House",
+    "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
@@ -114,8 +105,8 @@
     "isNew": true
   },
   {
-    "artist": "Claudio Giordano",
-    "genre": "Afro House",
+    "artist": "CHY-Destiny",
+    "genre": "House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
