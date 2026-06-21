@@ -2,155 +2,167 @@
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 17,
-    "buyRank": 136,
+    "playRank": 14,
+    "buyRank": 134,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": 3,
+    "buyDelta": 2,
+    "raBooked": true
   },
   {
     "artist": "Teo",
     "genre": "Techno",
     "playRank": 37,
-    "buyRank": 91,
+    "buyRank": 87,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": 0,
+    "buyDelta": 4,
+    "raBooked": true
   },
   {
     "artist": "Christian Löffler",
     "genre": "Minimal / Deep Tech",
-    "playRank": 44,
-    "buyRank": 243,
+    "playRank": 40,
+    "buyRank": 239,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": 4,
+    "buyDelta": 4,
+    "raBooked": false
   },
   {
     "artist": "Tini",
     "genre": "Deep House",
-    "playRank": 77,
-    "buyRank": 243,
+    "playRank": 68,
+    "buyRank": 239,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": 9,
+    "buyDelta": 4,
+    "raBooked": true
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 0,
-    "buyDelta": null
+    "buyDelta": null,
+    "raBooked": false
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 0,
-    "buyDelta": null
+    "buyDelta": null,
+    "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 3,
-    "buyDelta": null
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
-    "isNew": true
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
   },
   {
     "artist": "Kasablanca",
     "genre": "Melodic Techno",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": -2,
-    "buyDelta": null
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": null
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
   },
   {
     "artist": "Buben",
-    "genre": "Melodic Techno",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "buyDelta": 0,
+    "raBooked": false
   },
   {
     "artist": "Lel",
-    "genre": "House",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "buyDelta": 0,
+    "raBooked": false
   },
   {
-    "artist": "Tibetania",
-    "genre": "Organic / Downtempo",
+    "artist": "BamBam2025",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0
-  },
-  {
-    "artist": "JesseVentilateur",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 4,
-    "signal": "fan-buy",
-    "playDelta": null,
     "buyDelta": null,
-    "isNew": true
-  },
-  {
-    "artist": "Antony Well",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 5,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "isNew": true,
+    "raBooked": false
   },
   {
     "artist": "Armando Silva",
     "genre": "Afro House",
     "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 2,
+    "raBooked": false
+  },
+  {
+    "artist": "Uwe Wumpele",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 5,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Tech Mama",
+    "genre": "Tech House",
+    "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
-    "isNew": true
+    "isNew": true,
+    "raBooked": false
   }
 ]
