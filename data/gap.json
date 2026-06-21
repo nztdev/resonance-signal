@@ -1,7 +1,47 @@
 [
   {
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 17,
+    "buyRank": 136,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 37,
+    "buyRank": 91,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
+  },
+  {
+    "artist": "Christian Löffler",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 44,
+    "buyRank": 243,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
+  },
+  {
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 77,
+    "buyRank": 243,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true
+  },
+  {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -18,18 +58,17 @@
     "buyDelta": null
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true
+    "playDelta": 3,
+    "buyDelta": null
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -38,26 +77,26 @@
     "isNew": true
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": -2,
     "buyDelta": null
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -1,
+    "playDelta": -2,
     "buyDelta": null
   },
   {
-    "artist": "BamBam2025",
-    "genre": "Techno",
+    "artist": "Buben",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -66,8 +105,8 @@
     "isNew": true
   },
   {
-    "artist": "Jason Still",
-    "genre": "Melodic Techno",
+    "artist": "Lel",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -82,11 +121,11 @@
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 2
+    "buyDelta": 0
   },
   {
-    "artist": "Grimes77",
-    "genre": "Trance",
+    "artist": "JesseVentilateur",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -95,8 +134,8 @@
     "isNew": true
   },
   {
-    "artist": "Solynne",
-    "genre": "Tech House",
+    "artist": "Antony Well",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -105,8 +144,8 @@
     "isNew": true
   },
   {
-    "artist": "CHY-Destiny",
-    "genre": "House",
+    "artist": "Armando Silva",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
