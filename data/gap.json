@@ -1,43 +1,57 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 14,
-    "buyRank": 134,
-    "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": 2,
-    "raBooked": true
-  },
-  {
-    "artist": "Teo",
+    "artist": "Avant.OCS",
     "genre": "Techno",
-    "playRank": 37,
-    "buyRank": 87,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": 4,
-    "raBooked": true
-  },
-  {
-    "artist": "Christian Löffler",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 40,
-    "buyRank": 239,
-    "signal": "dj-play",
-    "playDelta": 4,
-    "buyDelta": 4,
+    "playRank": 20,
+    "buyRank": 12,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 68,
-    "buyRank": 239,
+    "artist": "Hava",
+    "genre": "Hard Techno",
+    "playRank": 47,
+    "buyRank": 12,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 18,
+    "buyRank": 263,
     "signal": "dj-play",
-    "playDelta": 9,
-    "buyDelta": 4,
+    "playDelta": -4,
+    "buyDelta": -129,
     "raBooked": true
+  },
+  {
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 23,
+    "buyRank": 234,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Robert Miles",
+    "genre": "Trance",
+    "playRank": 53,
+    "buyRank": 117,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
   },
   {
     "artist": "Tinlicker",
@@ -51,7 +65,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -60,8 +74,8 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -71,19 +85,18 @@
     "raBooked": false
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": -1,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -93,38 +106,41 @@
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Buben",
-    "genre": "Tech House",
+    "artist": "Underground Loop",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Lel",
-    "genre": "Afro House",
+    "artist": "ARSANIT Tech",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "BamBam2025",
-    "genre": "Deep House",
+    "artist": "Dzik",
+    "genre": "House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -134,18 +150,19 @@
     "raBooked": false
   },
   {
-    "artist": "Armando Silva",
-    "genre": "Afro House",
+    "artist": "Viking Trance",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 2,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Uwe Wumpele",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Sergey Kolyan",
+    "genre": "House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -155,8 +172,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tech Mama",
-    "genre": "Tech House",
+    "artist": "Freddy Spin",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",

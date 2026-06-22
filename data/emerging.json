@@ -1,72 +1,72 @@
 [
   {
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "plays": 1926,
+    "market": "GB",
+    "heat": 0.96
+  },
+  {
     "title": "nbsplv",
     "artist": "Deep House",
-    "plays": 1912,
+    "plays": 1917,
     "market": "US",
-    "heat": 0.96
+    "heat": 0.91
   },
   {
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
-    "plays": 1858,
+    "plays": 1868,
     "market": "ZA",
-    "heat": 0.91
+    "heat": 0.87
+  },
+  {
+    "title": "Psyk",
+    "artist": "Techno",
+    "plays": 1866,
+    "market": "DE",
+    "heat": 0.82
   },
   {
     "title": "Sara Landry",
     "artist": "Minimal / Deep Tech",
-    "plays": 1831,
-    "market": "NL",
-    "heat": 0.87
-  },
-  {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
-    "plays": 1772,
-    "market": "IT",
-    "heat": 0.82
-  },
-  {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "plays": 1727,
+    "plays": 1847,
     "market": "NL",
     "heat": 0.78
   },
   {
     "title": "Angelo Ferreri",
     "artist": "House",
-    "plays": 1718,
+    "plays": 1811,
     "market": "US",
     "heat": 0.73
   },
   {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "plays": 1703,
-    "market": "GB",
+    "title": "The Prophet",
+    "artist": "Hard Techno",
+    "plays": 1798,
+    "market": "DE",
     "heat": 0.69
   },
   {
-    "title": "Adriatique",
-    "artist": "Tech House",
-    "plays": 1665,
-    "market": "GB",
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
+    "plays": 1768,
+    "market": "IT",
     "heat": 0.64
+  },
+  {
+    "title": "thds",
+    "artist": "Organic / Downtempo",
+    "plays": 1764,
+    "market": "CO",
+    "heat": 0.6
   },
   {
     "title": "Midland",
     "artist": "Deep House",
-    "plays": 1653,
+    "plays": 1749,
     "market": "US",
-    "heat": 0.6
-  },
-  {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
-    "plays": 1653,
-    "market": "DE",
     "heat": 0.55
   }
 ]
