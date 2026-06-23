@@ -2,20 +2,29 @@
   {
     "artist": "Avant.OCS",
     "genre": "Techno",
-    "playRank": 20,
-    "buyRank": 12,
+    "playRank": 28,
+    "buyRank": 8,
     "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -8,
+    "buyDelta": 4,
     "raBooked": false
   },
   {
     "artist": "Hava",
     "genre": "Hard Techno",
-    "playRank": 47,
-    "buyRank": 12,
+    "playRank": 44,
+    "buyRank": 8,
     "signal": "fan-buy",
+    "playDelta": 3,
+    "buyDelta": 4,
+    "raBooked": false
+  },
+  {
+    "artist": "Midland",
+    "genre": "Deep House",
+    "playRank": 11,
+    "buyRank": 196,
+    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
@@ -24,29 +33,18 @@
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 18,
-    "buyRank": 263,
+    "playRank": 15,
+    "buyRank": 338,
     "signal": "dj-play",
-    "playDelta": -4,
-    "buyDelta": -129,
+    "playDelta": 3,
+    "buyDelta": -75,
     "raBooked": true
   },
   {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 23,
-    "buyRank": 234,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Robert Miles",
-    "genre": "Trance",
-    "playRank": 53,
-    "buyRank": 117,
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
+    "playRank": 16,
+    "buyRank": 287,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -55,7 +53,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -65,7 +63,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -74,14 +72,13 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 2,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
@@ -90,13 +87,13 @@
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -106,8 +103,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -117,8 +114,8 @@
     "raBooked": false
   },
   {
-    "artist": "Underground Loop",
-    "genre": "Techno",
+    "artist": "Cafe De Anatolia",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -128,8 +125,8 @@
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "Techno",
+    "artist": "No Reclaim",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -139,7 +136,7 @@
     "raBooked": false
   },
   {
-    "artist": "Dzik",
+    "artist": "Mc Cesar Brito",
     "genre": "House",
     "playRank": null,
     "buyRank": 3,
@@ -150,8 +147,8 @@
     "raBooked": false
   },
   {
-    "artist": "Viking Trance",
-    "genre": "Deep House",
+    "artist": "Ogenisuka",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -161,25 +158,24 @@
     "raBooked": false
   },
   {
-    "artist": "Sergey Kolyan",
-    "genre": "House",
+    "artist": "Viking Trance",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -1,
     "raBooked": false
   },
   {
-    "artist": "Freddy Spin",
-    "genre": "Trance",
+    "artist": "M-Sol DEEP",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   }
 ]
