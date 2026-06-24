@@ -1,72 +1,72 @@
 [
   {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "plays": 1924,
-    "market": "GB",
-    "heat": 0.96
-  },
-  {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
-    "plays": 1900,
-    "market": "IT",
-    "heat": 0.91
-  },
-  {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "plays": 1886,
-    "market": "NL",
-    "heat": 0.87
-  },
-  {
-    "title": "Adriatique",
-    "artist": "Tech House",
-    "plays": 1826,
-    "market": "GB",
-    "heat": 0.82
-  },
-  {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
-    "plays": 1813,
+    "title": "Psyk",
+    "artist": "Techno",
+    "plays": 1872,
     "market": "DE",
-    "heat": 0.78
+    "heat": 0.96
   },
   {
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
-    "plays": 1734,
+    "plays": 1839,
     "market": "ZA",
-    "heat": 0.73
+    "heat": 0.91
   },
   {
-    "title": "nbsplv",
-    "artist": "Deep House",
-    "plays": 1704,
-    "market": "US",
-    "heat": 0.69
-  },
-  {
-    "title": "Sara Landry",
-    "artist": "Minimal / Deep Tech",
-    "plays": 1690,
-    "market": "NL",
-    "heat": 0.64
+    "title": "Tinlicker",
+    "artist": "Melodic Techno",
+    "plays": 1789,
+    "market": "IT",
+    "heat": 0.87
   },
   {
     "title": "Angelo Ferreri",
     "artist": "House",
-    "plays": 1690,
+    "plays": 1788,
     "market": "US",
+    "heat": 0.82
+  },
+  {
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "plays": 1785,
+    "market": "GB",
+    "heat": 0.78
+  },
+  {
+    "title": "nbsplv",
+    "artist": "Deep House",
+    "plays": 1747,
+    "market": "US",
+    "heat": 0.73
+  },
+  {
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "plays": 1726,
+    "market": "NL",
+    "heat": 0.69
+  },
+  {
+    "title": "Adriatique",
+    "artist": "Tech House",
+    "plays": 1693,
+    "market": "GB",
+    "heat": 0.64
+  },
+  {
+    "title": "The Prophet",
+    "artist": "Hard Techno",
+    "plays": 1685,
+    "market": "DE",
     "heat": 0.6
   },
   {
-    "title": "thds",
-    "artist": "Organic / Downtempo",
-    "plays": 1688,
-    "market": "CO",
+    "title": "Tiësto",
+    "artist": "Trance",
+    "plays": 1681,
+    "market": "NL",
     "heat": 0.55
   }
 ]

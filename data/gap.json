@@ -1,50 +1,51 @@
 [
   {
-    "artist": "Avant.OCS",
-    "genre": "Techno",
-    "playRank": 28,
-    "buyRank": 8,
-    "signal": "fan-buy",
-    "playDelta": -8,
-    "buyDelta": 4,
-    "raBooked": false
-  },
-  {
-    "artist": "Hava",
-    "genre": "Hard Techno",
-    "playRank": 44,
-    "buyRank": 8,
-    "signal": "fan-buy",
-    "playDelta": 3,
-    "buyDelta": 4,
-    "raBooked": false
-  },
-  {
     "artist": "Midland",
-    "genre": "Deep House",
-    "playRank": 11,
-    "buyRank": 196,
+    "genre": "Tech House",
+    "playRank": 12,
+    "buyRank": 302,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -1,
+    "buyDelta": -106,
     "raBooked": false
   },
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 15,
-    "buyRank": 338,
+    "playRank": 13,
+    "buyRank": 398,
     "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": -75,
+    "playDelta": 2,
+    "buyDelta": -60,
     "raBooked": true
   },
   {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 16,
-    "buyRank": 287,
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 24,
+    "buyRank": 19,
+    "signal": "aligned",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 44,
+    "buyRank": 250,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Above & Beyond",
+    "genre": "Trance",
+    "playRank": 62,
+    "buyRank": 210,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -53,7 +54,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -72,29 +73,9 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -105,6 +86,26 @@
   {
     "artist": "Alan Fitzpatrick",
     "genre": "Tech House",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 2,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 0,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -114,8 +115,8 @@
     "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Afro House",
+    "artist": "Oziriz",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -125,30 +126,28 @@
     "raBooked": false
   },
   {
-    "artist": "No Reclaim",
+    "artist": "Cafe De Anatolia",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -1,
     "raBooked": false
   },
   {
-    "artist": "Mc Cesar Brito",
-    "genre": "House",
+    "artist": "No Reclaim",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -1,
     "raBooked": false
   },
   {
-    "artist": "Ogenisuka",
-    "genre": "Afro House",
+    "artist": "Jason Still",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -158,24 +157,25 @@
     "raBooked": false
   },
   {
-    "artist": "Viking Trance",
-    "genre": "Deep House",
+    "artist": "Lel",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -1,
-    "raBooked": false
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
   },
   {
-    "artist": "M-Sol DEEP",
-    "genre": "Organic / Downtempo",
+    "artist": "Domineeky",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   }
 ]
