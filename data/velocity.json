@@ -1,18 +1,5 @@
 [
   {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 66,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "HRSCH"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Tech House",
     "status": "rising",
     "playPct": 56,
@@ -26,15 +13,14 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Hard Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 25,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "White Leaf"
+      "The Prophet",
+      "Yoshiko",
+      "The Bucketheads"
     ],
     "delta": "Strong momentum"
   },
@@ -52,14 +38,15 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Hard Techno",
+    "genre": "Afro House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 25,
+    "buyPct": 88,
     "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "The Bucketheads"
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Dr Feel"
     ],
     "delta": "Strong momentum"
   },
@@ -77,15 +64,28 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Kasablanca",
+      "thds",
+      "Stavroz",
       "Tinlicker",
-      "HNTR",
-      "Sölus-Sun"
+      "White Leaf"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Pierce Fulton",
+      "Gold Panda"
     ],
     "delta": "Strong momentum"
   },
@@ -103,28 +103,28 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Afro House",
+    "genre": "Melodic Techno",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Dr Feel"
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Sölus-Sun"
     ],
     "delta": "Strong momentum"
   },
   {
-    "genre": "House",
+    "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 66,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Pierce Fulton",
-      "Gold Panda"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "HRSCH"
     ],
     "delta": "Strong momentum"
   }

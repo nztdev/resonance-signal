@@ -1,79 +1,72 @@
 [
   {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
+    "artist": "Avant.OCS",
+    "genre": "Techno",
     "playRank": 14,
-    "buyRank": 206,
+    "buyRank": 208,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 1,
+    "buyDelta": -2,
     "raBooked": false
   },
   {
-    "artist": "Avant.OCS",
-    "genre": "Techno",
-    "playRank": 15,
-    "buyRank": 206,
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
+    "playRank": 17,
+    "buyRank": 208,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -3,
+    "buyDelta": -2,
     "raBooked": false
   },
   {
     "artist": "Niki",
     "genre": "Trance",
     "playRank": 24,
-    "buyRank": 159,
+    "buyRank": 169,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 0,
+    "buyDelta": -10,
+    "raBooked": false
+  },
+  {
+    "artist": "Hava",
+    "genre": "Hard Techno",
+    "playRank": 40,
+    "buyRank": 208,
+    "signal": "dj-play",
+    "playDelta": 3,
+    "buyDelta": -2,
     "raBooked": false
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 42,
-    "buyRank": 41,
+    "playRank": 41,
+    "buyRank": 43,
     "signal": "aligned",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 1,
+    "buyDelta": -2,
     "raBooked": true
-  },
-  {
-    "artist": "Hava",
-    "genre": "Hard Techno",
-    "playRank": 43,
-    "buyRank": 206,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
   },
   {
     "artist": "Tini",
     "genre": "Deep House",
-    "playRank": 57,
-    "buyRank": 328,
+    "playRank": 67,
+    "buyRank": 324,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -10,
+    "buyDelta": 4,
     "raBooked": true
   },
   {
     "artist": "Cavi",
     "genre": "House",
-    "playRank": 77,
-    "buyRank": 206,
+    "playRank": 74,
+    "buyRank": 208,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 3,
+    "buyDelta": -2,
     "raBooked": false
   },
   {
@@ -88,7 +81,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -97,8 +90,8 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -107,14 +100,13 @@
     "raBooked": false
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 2,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
@@ -128,8 +120,8 @@
     "raBooked": false
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -145,37 +137,24 @@
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "HRSCH",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "White Leaf",
-    "genre": "Organic / Downtempo",
-    "playRank": null,
-    "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": 0,
     "raBooked": false
   },
   {
     "artist": "Isochron",
     "genre": "Techno",
     "playRank": null,
-    "buyRank": 4,
+    "buyRank": 2,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 2,
+    "raBooked": false
+  },
+  {
+    "artist": "Dr Feel",
+    "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -186,11 +165,20 @@
     "artist": "Ignited Soulz",
     "genre": "Trance",
     "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 1,
+    "raBooked": false
+  },
+  {
+    "artist": "White Leaf",
+    "genre": "Organic / Downtempo",
+    "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -2,
     "raBooked": false
   },
   {
@@ -200,8 +188,7 @@
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": 0,
     "raBooked": false
   }
 ]
