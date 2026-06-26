@@ -1,19 +1,9 @@
 [
   {
-    "artist": "Midland",
-    "genre": "Deep House",
-    "playRank": 12,
-    "buyRank": 64,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": 238,
-    "raBooked": false
-  },
-  {
-    "artist": "Maesic",
-    "genre": "Afro House",
-    "playRank": 25,
-    "buyRank": 373,
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
+    "playRank": 14,
+    "buyRank": 206,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -21,10 +11,65 @@
     "raBooked": false
   },
   {
-    "artist": "Saturn",
+    "artist": "Avant.OCS",
+    "genre": "Techno",
+    "playRank": 15,
+    "buyRank": 206,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 24,
+    "buyRank": 159,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 42,
+    "buyRank": 41,
+    "signal": "aligned",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Hava",
     "genre": "Hard Techno",
-    "playRank": 54,
-    "buyRank": 208,
+    "playRank": 43,
+    "buyRank": 206,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 57,
+    "buyRank": 328,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Cavi",
+    "genre": "House",
+    "playRank": 77,
+    "buyRank": 206,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -33,7 +78,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -43,18 +88,8 @@
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 3,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 0,
@@ -64,6 +99,16 @@
   {
     "artist": "nbsplv",
     "genre": "Deep House",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -78,14 +123,13 @@
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -95,7 +139,7 @@
     "raBooked": false
   },
   {
-    "artist": "Giampi Spinelli",
+    "artist": "Semsa Bilge",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
@@ -106,29 +150,30 @@
     "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Melodic Techno",
+    "artist": "HRSCH",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Dan Soden",
-    "genre": "Techno",
+    "artist": "White Leaf",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Sirgardino",
-    "genre": "Deep House",
+    "artist": "Isochron",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -138,8 +183,8 @@
     "raBooked": false
   },
   {
-    "artist": "Flo Monghy",
-    "genre": "Techno",
+    "artist": "Ignited Soulz",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -149,8 +194,8 @@
     "raBooked": false
   },
   {
-    "artist": "Jadasea",
-    "genre": "House",
+    "artist": "Sölus-Sun",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
