@@ -1,5 +1,31 @@
 [
   {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 80,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "No Reclaim"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Pierce Fulton",
+      "Dunnow"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
     "genre": "Tech House",
     "status": "rising",
     "playPct": 56,
@@ -8,7 +34,33 @@
       "Alan Fitzpatrick",
       "Jamie Jones",
       "Adriatique",
-      "Hardcopy"
+      "Trolls"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "White Leaf"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 48,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Flautas Magicas Y Religiosas"
     ],
     "delta": "Strong momentum"
   },
@@ -28,25 +80,12 @@
     "genre": "Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 80,
     "leaders": [
       "Psyk",
       "Avant.OCS",
       "Morbe",
-      "Isochron"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Dr Feel"
+      "Gforgodess"
     ],
     "delta": "Strong momentum"
   },
@@ -64,45 +103,6 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "White Leaf"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Pierce Fulton",
-      "Gold Panda"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "A503X"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Melodic Techno",
     "status": "rising",
     "playPct": 56,
@@ -111,7 +111,7 @@
       "Kasablanca",
       "Tinlicker",
       "HNTR",
-      "Sölus-Sun"
+      "Jason Still"
     ],
     "delta": "Strong momentum"
   },
@@ -119,7 +119,7 @@
     "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 66,
+    "buyPct": 87,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
