@@ -1,84 +1,56 @@
 [
   {
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 11,
+    "buyRank": 201,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 45,
+    "buyRank": 277,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Raxeller",
+    "genre": "Hard Techno",
+    "playRank": 64,
+    "buyRank": 271,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Rodriguez Jr.",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 79,
+    "buyRank": 236,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
     "artist": "Tinlicker",
     "genre": "Melodic Techno",
     "playRank": 1,
-    "buyRank": 87,
-    "signal": "dj-play",
+    "buyRank": null,
+    "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Avant.OCS",
-    "genre": "Techno",
-    "playRank": 16,
-    "buyRank": 362,
-    "signal": "dj-play",
-    "playDelta": 2,
-    "buyDelta": -77,
-    "raBooked": false
-  },
-  {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 17,
-    "buyRank": 362,
-    "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": -77,
-    "raBooked": false
-  },
-  {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 23,
-    "buyRank": 125,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Hava",
-    "genre": "Hard Techno",
-    "playRank": 40,
-    "buyRank": 134,
-    "signal": "dj-play",
-    "playDelta": 4,
-    "buyDelta": 151,
-    "raBooked": false
-  },
-  {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 61,
-    "buyRank": 379,
-    "signal": "dj-play",
-    "playDelta": 6,
-    "buyDelta": -27,
-    "raBooked": true
-  },
-  {
-    "artist": "Cavi",
-    "genre": "House",
-    "playRank": 77,
-    "buyRank": 362,
-    "signal": "dj-play",
-    "playDelta": -7,
-    "buyDelta": -77,
-    "raBooked": false
-  },
-  {
-    "artist": "Darude",
-    "genre": "Trance",
-    "playRank": 80,
-    "buyRank": 137,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
@@ -92,28 +64,28 @@
     "raBooked": false
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": 4,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": -1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -128,25 +100,13 @@
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
+    "artist": "Argiva",
     "genre": "Melodic Techno",
-    "playRank": 7,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Lel",
-    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -156,7 +116,7 @@
     "raBooked": false
   },
   {
-    "artist": "Tech Mama",
+    "artist": "Fracktion",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 2,
@@ -167,8 +127,8 @@
     "raBooked": false
   },
   {
-    "artist": "Freddy Spin",
-    "genre": "Trance",
+    "artist": "Garage Community",
+    "genre": "House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -178,8 +138,8 @@
     "raBooked": false
   },
   {
-    "artist": "HRSCH",
-    "genre": "Deep House",
+    "artist": "White Leaf",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -189,18 +149,19 @@
     "raBooked": false
   },
   {
-    "artist": "Jason Still",
-    "genre": "Melodic Techno",
+    "artist": "Rhythmic Wind",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 1,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "HD Substance",
-    "genre": "Techno",
+    "artist": "Ogenisuka",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
