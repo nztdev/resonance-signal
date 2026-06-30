@@ -2,8 +2,18 @@
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 11,
-    "buyRank": 201,
+    "playRank": 20,
+    "buyRank": 136,
+    "signal": "dj-play",
+    "playDelta": -9,
+    "buyDelta": 65,
+    "raBooked": false
+  },
+  {
+    "artist": "Morbe",
+    "genre": "Techno",
+    "playRank": 24,
+    "buyRank": 178,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -13,30 +23,18 @@
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 45,
-    "buyRank": 277,
+    "playRank": 41,
+    "buyRank": 78,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 4,
+    "buyDelta": 199,
     "raBooked": false
   },
   {
-    "artist": "Raxeller",
-    "genre": "Hard Techno",
-    "playRank": 64,
-    "buyRank": 271,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Rodriguez Jr.",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 79,
-    "buyRank": 236,
+    "artist": "Matt Lange",
+    "genre": "Tech House",
+    "playRank": 72,
+    "buyRank": 293,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -55,7 +53,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -69,23 +67,23 @@
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 4,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": -1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
     "artist": "Angelo Ferreri",
     "genre": "House",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -95,18 +93,19 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Argiva",
-    "genre": "Melodic Techno",
+    "artist": "Cafe De Anatolia",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -116,8 +115,8 @@
     "raBooked": false
   },
   {
-    "artist": "Fracktion",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Buben",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -127,8 +126,8 @@
     "raBooked": false
   },
   {
-    "artist": "Garage Community",
-    "genre": "House",
+    "artist": "No Reclaim",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -138,8 +137,8 @@
     "raBooked": false
   },
   {
-    "artist": "White Leaf",
-    "genre": "Organic / Downtempo",
+    "artist": "Jerem Maniaco",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -149,8 +148,8 @@
     "raBooked": false
   },
   {
-    "artist": "Rhythmic Wind",
-    "genre": "Deep House",
+    "artist": "Joezi Pape",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -160,8 +159,8 @@
     "raBooked": false
   },
   {
-    "artist": "Ogenisuka",
-    "genre": "Afro House",
+    "artist": "AGBER (ES)",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
