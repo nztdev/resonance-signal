@@ -1,6 +1,11 @@
 [
   {
-    "text": "Melodic Techno",
+    "text": "Techno",
+    "sub": "Strong momentum",
+    "c": "#6bcb77"
+  },
+  {
+    "text": "Trance",
     "sub": "Strong momentum",
     "c": "#6bcb77"
   },
@@ -10,12 +15,7 @@
     "c": "#6bcb77"
   },
   {
-    "text": "Afro House",
-    "sub": "Strong momentum",
-    "c": "#6bcb77"
-  },
-  {
-    "text": "Techno",
+    "text": "Tech House",
     "sub": "Strong momentum",
     "c": "#6bcb77"
   }
