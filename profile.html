@@ -155,7 +155,26 @@ async function loadSignals(userId) {
     .select('*').eq('user_id', userId).order('created_at', {ascending: false}).limit(50);
 
   const el = document.getElementById('signal-list');
-  if (!data?.length) { el.innerHTML = '<div class="empty-state">No signals logged yet. Head to the community to log your first signal.</div>'; return; }
+  if (!data?.length) {
+    el.innerHTML = '<div class="empty-state" style="text-align:left;padding:32px;background:var(--surface);border:1px solid var(--border);border-radius:8px">' +
+      '<div style="font-family:DM Mono,monospace;font-size:0.6rem;color:var(--accent);letter-spacing:0.1em;text-transform:uppercase;margin-bottom:12px">What your timeline will look like</div>' +
+      '<div style="opacity:0.4;pointer-events:none">' +
+        '<div style="padding:14px 0;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center">' +
+          '<div><div style="font-size:0.88rem;font-weight:600;color:var(--text)">Some Artist</div>' +
+          '<div style="font-family:DM Mono,monospace;font-size:0.6rem;color:var(--text-3)">Techno · Berghain · Berlin</div></div>' +
+          '<span style="font-family:DM Mono,monospace;font-size:0.55rem;padding:3px 8px;border-radius:20px;background:rgba(107,203,119,0.12);color:var(--accent-5);border:1px solid rgba(107,203,119,0.25)">Early call</span>' +
+        '</div>' +
+        '<div style="padding:14px 0;border-bottom:1px solid var(--border);display:flex;justify-content:space-between;align-items:center">' +
+          '<div><div style="font-size:0.88rem;font-weight:600;color:var(--text)">Another Artist</div>' +
+          '<div style="font-family:DM Mono,monospace;font-size:0.6rem;color:var(--text-3)">Deep House · fabric · London</div></div>' +
+          '<span style="font-family:DM Mono,monospace;font-size:0.55rem;padding:3px 8px;border-radius:20px;background:rgba(255,255,255,0.04);color:var(--text-3);border:1px solid var(--border)">Logged</span>' +
+        '</div>' +
+      '</div>' +
+      '<div style="margin-top:20px;font-family:DM Mono,monospace;font-size:0.68rem;color:var(--text-2);line-height:1.6">Log your first signal and start building your discovery record. When an artist you logged early charts on Beatport, your signal gets marked as an early call.</div>' +
+      '<a href="./community.html" style="display:inline-block;margin-top:16px;font-family:DM Mono,monospace;font-size:0.65rem;letter-spacing:0.1em;text-transform:uppercase;padding:10px 18px;background:var(--accent);color:#fff;border-radius:4px;text-decoration:none">Log your first signal →</a>' +
+    '</div>';
+    return;
+  }
 
   // Check for early calls
   const earlyCalls = data.filter(s => s.was_early_call);
