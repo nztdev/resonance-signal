@@ -1,8 +1,8 @@
 [
   {
-    "title": "nbsplv",
-    "artist": "Deep House",
-    "plays": 1893,
+    "title": "Angelo Ferreri",
+    "artist": "House",
+    "plays": 1933,
     "market": "US",
     "label": null,
     "heat": 0.96
@@ -10,72 +10,72 @@
   {
     "title": "RAFFA GUIDO",
     "artist": "Afro House",
-    "plays": 1873,
+    "plays": 1919,
     "market": "ZA",
     "label": null,
     "heat": 0.91
   },
   {
-    "title": "Psyk",
-    "artist": "Techno",
-    "plays": 1818,
-    "market": "DE",
+    "title": "Tiësto",
+    "artist": "Trance",
+    "plays": 1816,
+    "market": "NL",
     "label": null,
     "heat": 0.87
   },
   {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
-    "plays": 1799,
-    "market": "DE",
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
+    "plays": 1800,
+    "market": "IT",
     "label": null,
     "heat": 0.82
   },
   {
-    "title": "Adriatique",
-    "artist": "Tech House",
-    "plays": 1773,
-    "market": "GB",
+    "title": "Midland",
+    "artist": "Deep House",
+    "plays": 1778,
+    "market": "US",
     "label": null,
     "heat": 0.78
   },
   {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "plays": 1771,
-    "market": "GB",
+    "title": "thds",
+    "artist": "Organic / Downtempo",
+    "plays": 1762,
+    "market": "CO",
     "label": null,
     "heat": 0.73
   },
   {
-    "title": "Sara Landry",
-    "artist": "Minimal / Deep Tech",
-    "plays": 1762,
-    "market": "NL",
+    "title": "Tinlicker",
+    "artist": "Melodic Techno",
+    "plays": 1744,
+    "market": "IT",
     "label": null,
     "heat": 0.69
   },
   {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "plays": 1752,
-    "market": "NL",
+    "title": "nbsplv",
+    "artist": "Deep House",
+    "plays": 1737,
+    "market": "US",
     "label": null,
     "heat": 0.64
   },
   {
-    "title": "thds",
-    "artist": "Organic / Downtempo",
-    "plays": 1737,
-    "market": "CO",
+    "title": "Psyk",
+    "artist": "Techno",
+    "plays": 1702,
+    "market": "DE",
     "label": null,
     "heat": 0.6
   },
   {
-    "title": "Angelo Ferreri",
-    "artist": "House",
-    "plays": 1717,
-    "market": "US",
+    "title": "The Prophet",
+    "artist": "Hard Techno",
+    "plays": 1664,
+    "market": "DE",
     "label": null,
     "heat": 0.55
   }

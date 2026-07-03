@@ -2,19 +2,28 @@
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 13,
-    "buyRank": 210,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playRank": 12,
+    "buyRank": 7,
+    "signal": "aligned",
+    "playDelta": 1,
+    "buyDelta": 203,
     "raBooked": false
   },
   {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 25,
-    "buyRank": 163,
+    "playRank": 22,
+    "buyRank": 405,
+    "signal": "dj-play",
+    "playDelta": 3,
+    "buyDelta": -242,
+    "raBooked": false
+  },
+  {
+    "artist": "Robert Miles",
+    "genre": "Trance",
+    "playRank": 61,
+    "buyRank": 180,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -22,10 +31,10 @@
     "raBooked": false
   },
   {
-    "artist": "Franky Rizardo",
-    "genre": "Tech House",
-    "playRank": 45,
-    "buyRank": 285,
+    "artist": "Samantha Loveridge",
+    "genre": "Afro House",
+    "playRank": 73,
+    "buyRank": 142,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -53,19 +62,18 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 2,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Midland",
-    "genre": "Deep House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -75,8 +83,8 @@
     "raBooked": false
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -86,18 +94,19 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Underground Loop",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Michael Simon",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -107,8 +116,8 @@
     "raBooked": false
   },
   {
-    "artist": "Dan Soden",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Rain Forest Project",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -118,8 +127,8 @@
     "raBooked": false
   },
   {
-    "artist": "Shibangs Chakraborty",
-    "genre": "Deep House",
+    "artist": "Hats & Klaps",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -129,8 +138,8 @@
     "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Organic / Downtempo",
+    "artist": "Lowcree",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -140,8 +149,8 @@
     "raBooked": false
   },
   {
-    "artist": "Chitrangana",
-    "genre": "Deep House",
+    "artist": "Grimes77",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -151,8 +160,8 @@
     "raBooked": false
   },
   {
-    "artist": "Ben Chemex",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Di.Capa",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
