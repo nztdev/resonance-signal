@@ -2,48 +2,26 @@
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 12,
-    "buyRank": 7,
-    "signal": "aligned",
-    "playDelta": 1,
-    "buyDelta": 203,
-    "raBooked": false
-  },
-  {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 22,
-    "buyRank": 405,
+    "playRank": 13,
+    "buyRank": 279,
     "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": -242,
-    "raBooked": false
-  },
-  {
-    "artist": "Robert Miles",
-    "genre": "Trance",
-    "playRank": 61,
-    "buyRank": 180,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -1,
+    "buyDelta": -272,
     "raBooked": false
   },
   {
     "artist": "Samantha Loveridge",
     "genre": "Afro House",
-    "playRank": 73,
-    "buyRank": 142,
+    "playRank": 74,
+    "buyRank": 157,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
+    "playDelta": -1,
+    "buyDelta": -15,
+    "raBooked": true
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -62,13 +40,14 @@
     "raBooked": false
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
@@ -77,20 +56,18 @@
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": -2,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
@@ -99,25 +76,23 @@
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "Michael Simon",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": 0,
     "raBooked": false
   },
   {
-    "artist": "Rain Forest Project",
-    "genre": "Tech House",
+    "artist": "Serg Underground",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -127,8 +102,8 @@
     "raBooked": false
   },
   {
-    "artist": "Hats & Klaps",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Tektridium",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -138,8 +113,8 @@
     "raBooked": false
   },
   {
-    "artist": "Lowcree",
-    "genre": "Melodic Techno",
+    "artist": "Rogerio Vegas",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -149,8 +124,8 @@
     "raBooked": false
   },
   {
-    "artist": "Grimes77",
-    "genre": "Trance",
+    "artist": "Jason Still",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -160,8 +135,8 @@
     "raBooked": false
   },
   {
-    "artist": "Di.Capa",
-    "genre": "Techno",
+    "artist": "Behache",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
