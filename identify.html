@@ -155,11 +155,14 @@
 const sb = supabase.createClient('https://cbnewhtbkaohugrvorvq.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNibmV3aHRia2FvaHVncnZvcnZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgzNzAxNjksImV4cCI6MjA5Mzk0NjE2OX0.tIbzeBDa4huVoEi9W6wrTit59e2-Lgo2ZoPn9qukb3g');
 async function getUser() { const { data: { user } } = await sb.auth.getUser(); return user; }
 async function getProfile(id) { const { data } = await sb.from('profiles').select('*').eq('id', id).single(); return data; }
+function handleSignOut() {
+  sb.auth.signOut().then(function(){ window.location.href = './index.html'; });
+}
 function updateNavAuth(user, profile) {
   const el = document.getElementById('nav-auth'); if (!el) return;
   if (user) {
     el.innerHTML = '<a href="./profile.html" class="nav-link" style="color:var(--text-2)">' + (profile?.display_name || 'My signals') + '</a>' +
-      '<span class="nav-link" style="cursor:pointer;color:var(--text-3)" onclick="sb.auth.signOut().then(function(){location.href='./index.html'})">Sign out</span>';
+      '<span class="nav-link" style="cursor:pointer;color:var(--text-3)" onclick="handleSignOut()">Sign out</span>';
   } else {
     el.innerHTML = '<a href="./login.html" class="nav-link">Sign in</a>' +
       '<a href="./login.html#register" class="nav-link" style="color:var(--accent-5);border:1px solid rgba(107,203,119,0.3);padding:4px 10px;border-radius:3px">Join</a>';
