@@ -93,15 +93,9 @@
 
 <div class="submit-body">
 
-  <!-- Invite gate -->
-  <div class="invite-gate">
-    <div class="invite-gate-title">Invite code required</div>
-    <div class="invite-gate-sub">Resonance Signal community access is currently invite-only.<br>Enter your code to unlock the submission form.</div>
-    <div class="invite-input-row">
-      <input class="form-input" id="invite-input" placeholder="RS-XXXX-XXX" style="width:200px;text-transform:uppercase" maxlength="20">
-      <button class="submit-btn" id="invite-btn" style="width:auto;padding:12px 20px" onclick="validateInvite()">Validate</button>
-    </div>
-    <div class="form-hint" id="invite-status" style="margin-top:12px"></div>
+  <!-- Auth gate - managed by JS init() -->
+  <div class="invite-gate" id="auth-gate">
+    <div class="invite-gate-title">Checking access...</div>
   </div>
 
   <!-- Submission form (locked until invite validated) -->
