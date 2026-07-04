@@ -159,7 +159,7 @@ function updateNavAuth(user, profile) {
   const el = document.getElementById('nav-auth'); if (!el) return;
   if (user) {
     el.innerHTML = '<a href="./profile.html" class="nav-link" style="color:var(--text-2)">' + (profile?.display_name || 'My signals') + '</a>' +
-      '<span class="nav-link" style="cursor:pointer;color:var(--text-3)" onclick="sb.auth.signOut().then(()=>location.href='./index.html')">Sign out</span>';
+      '<span class="nav-link" style="cursor:pointer;color:var(--text-3)" onclick="sb.auth.signOut().then(function(){location.href='./index.html'})">Sign out</span>';
   } else {
     el.innerHTML = '<a href="./login.html" class="nav-link">Sign in</a>' +
       '<a href="./login.html#register" class="nav-link" style="color:var(--accent-5);border:1px solid rgba(107,203,119,0.3);padding:4px 10px;border-radius:3px">Join</a>';
