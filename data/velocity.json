@@ -1,34 +1,9 @@
 [
   {
-    "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 25,
-    "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "The Bucketheads"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Jason Still"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Minimal / Deep Tech",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 83,
+    "buyPct": 66,
     "leaders": [
       "Sara Landry",
       "Anna",
@@ -38,15 +13,15 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Techno",
+    "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Tektridium"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Mega brain"
     ],
     "delta": "Strong momentum"
   },
@@ -54,7 +29,7 @@
     "genre": "Trance",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 84,
+    "buyPct": 88,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
@@ -77,41 +52,53 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Maesic",
-      "Motivesoul"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 69,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
       "Midnight City",
-      "JT Donaldson"
+      "Shadowcircuits"
     ],
     "delta": "Strong momentum"
   },
   {
-    "genre": "Deep House",
+    "genre": "Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 80,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Mega brain"
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Ε.R.M.T"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "The Bucketheads"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 87,
+    "leaders": [
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Maesic",
+      "Rainha Musical"
     ],
     "delta": "Strong momentum"
   },
@@ -119,12 +106,25 @@
     "genre": "Tech House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 76,
+    "buyPct": 73,
     "leaders": [
       "Alan Fitzpatrick",
       "Adriatique",
       "Jamie Jones",
-      "Sergii Hertz"
+      "Carlos Santero"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 85,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Jason Still"
     ],
     "delta": "Strong momentum"
   }
