@@ -1,17 +1,94 @@
 [
   {
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 9,
+    "buyRank": 31,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 12,
-    "buyRank": 289,
+    "playRank": 17,
+    "buyRank": 319,
     "signal": "dj-play",
-    "playDelta": 1,
-    "buyDelta": -10,
+    "playDelta": -5,
+    "buyDelta": -30,
+    "raBooked": true
+  },
+  {
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 21,
+    "buyRank": 40,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "HNTR",
+    "genre": "Melodic Techno",
+    "playRank": 23,
+    "buyRank": 105,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Saturn",
+    "genre": "Hard Techno",
+    "playRank": 48,
+    "buyRank": 264,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Above & Beyond",
+    "genre": "Trance",
+    "playRank": 49,
+    "buyRank": 167,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 60,
+    "buyRank": 254,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "W&W",
+    "genre": "Trance",
+    "playRank": 68,
+    "buyRank": 182,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -30,30 +107,9 @@
     "raBooked": false
   },
   {
-    "artist": "Sara Landry",
-    "genre": "Minimal / Deep Tech",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Midland",
-    "genre": "Deep House",
-    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -64,17 +120,36 @@
   {
     "artist": "Tiësto",
     "genre": "Trance",
-    "playRank": 6,
+    "playRank": 4,
     "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": null,
+    "signal": "underground",
+    "playDelta": 2,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Q-Green",
-    "genre": "House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Midland",
+    "genre": "Deep House",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "ARSANIT Tech",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -84,8 +159,8 @@
     "raBooked": false
   },
   {
-    "artist": "Elegant Munito",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Underground Loop",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -95,19 +170,19 @@
     "raBooked": false
   },
   {
-    "artist": "Rick Brisant",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Kore-G",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Feio Borgatti",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Front",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -117,19 +192,19 @@
     "raBooked": false
   },
   {
-    "artist": "Norbert Nova",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Michael Simon",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Martin Regis",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Javish",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
