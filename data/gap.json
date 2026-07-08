@@ -1,31 +1,40 @@
 [
   {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 18,
-    "buyRank": 342,
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 6,
+    "buyRank": 274,
+    "signal": "dj-play",
+    "playDelta": -3,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 12,
+    "buyRank": 335,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 31,
-    "buyRank": 147,
+    "playRank": 42,
+    "buyRank": 220,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -11,
+    "buyDelta": -73,
     "raBooked": false
   },
   {
-    "artist": "ATB",
-    "genre": "Trance",
-    "playRank": 45,
-    "buyRank": 292,
+    "artist": "Narciss",
+    "genre": "Techno",
+    "playRank": 60,
+    "buyRank": 270,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -35,8 +44,29 @@
   {
     "artist": "Above & Beyond",
     "genre": "Trance",
-    "playRank": 54,
-    "buyRank": 234,
+    "playRank": 62,
+    "buyRank": 282,
+    "signal": "dj-play",
+    "playDelta": -8,
+    "buyDelta": -48,
+    "raBooked": false
+  },
+  {
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 63,
+    "buyRank": 355,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Cavi",
+    "genre": "House",
+    "playRank": 69,
+    "buyRank": 260,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -46,12 +76,11 @@
   {
     "artist": "W&W",
     "genre": "Trance",
-    "playRank": 74,
-    "buyRank": 251,
+    "playRank": 73,
+    "buyRank": 299,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 1,
+    "buyDelta": -48,
     "raBooked": false
   },
   {
@@ -75,19 +104,18 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Midland",
+    "genre": "Tech House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 3,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -97,29 +125,29 @@
     "raBooked": false
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Midland",
-    "genre": "Tech House",
-    "playRank": 6,
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 7,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -1,
+    "playDelta": -3,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "IRUKA",
-    "genre": "Afro House",
+    "artist": "Jaques Le Noir",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -129,8 +157,8 @@
     "raBooked": false
   },
   {
-    "artist": "AGBER (ES)",
-    "genre": "Techno",
+    "artist": "Adam Rosso",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -140,10 +168,32 @@
     "raBooked": false
   },
   {
-    "artist": "Cortex",
-    "genre": "Deep House",
+    "artist": "Tibetania",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Kaisser Bouzriba",
+    "genre": "Afro House",
+    "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Tech Mama",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -154,33 +204,10 @@
     "artist": "Behache",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
-    "buyRank": 4,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Normann",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 5,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "K&P Project",
-    "genre": "Trance",
-    "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -2,
     "raBooked": false
   }
 ]

@@ -1,16 +1,16 @@
 [
   {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "plays": 1909,
-    "market": "GB",
+    "title": "nbsplv",
+    "artist": "Deep House",
+    "plays": 1930,
+    "market": "US",
     "label": null,
     "heat": 0.96
   },
   {
-    "title": "RAFFA GUIDO",
+    "title": "Bun Xapa",
     "artist": "Afro House",
-    "plays": 1903,
+    "plays": 1801,
     "market": "ZA",
     "label": null,
     "heat": 0.91
@@ -18,64 +18,64 @@
   {
     "title": "Tinlicker",
     "artist": "Melodic Techno",
-    "plays": 1877,
+    "plays": 1764,
     "market": "IT",
     "label": null,
     "heat": 0.87
   },
   {
-    "title": "Psyk",
-    "artist": "Techno",
-    "plays": 1846,
-    "market": "DE",
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
+    "plays": 1728,
+    "market": "IT",
     "label": null,
     "heat": 0.82
   },
   {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
-    "plays": 1815,
-    "market": "IT",
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "plays": 1710,
+    "market": "GB",
     "label": null,
     "heat": 0.78
   },
   {
-    "title": "nbsplv",
-    "artist": "Deep House",
-    "plays": 1809,
-    "market": "US",
+    "title": "Tiësto",
+    "artist": "Trance",
+    "plays": 1671,
+    "market": "NL",
     "label": null,
     "heat": 0.73
   },
   {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "plays": 1770,
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "plays": 1663,
     "market": "NL",
     "label": null,
     "heat": 0.69
   },
   {
-    "title": "Angelo Ferreri",
-    "artist": "House",
-    "plays": 1721,
-    "market": "US",
+    "title": "The Prophet",
+    "artist": "Hard Techno",
+    "plays": 1662,
+    "market": "DE",
     "label": null,
     "heat": 0.64
   },
   {
-    "title": "The Prophet",
-    "artist": "Hard Techno",
-    "plays": 1701,
-    "market": "DE",
+    "title": "RAFFA GUIDO",
+    "artist": "Afro House",
+    "plays": 1636,
+    "market": "ZA",
     "label": null,
     "heat": 0.6
   },
   {
-    "title": "Adriatique",
-    "artist": "Tech House",
-    "plays": 1671,
-    "market": "GB",
+    "title": "Angelo Ferreri",
+    "artist": "House",
+    "plays": 1636,
+    "market": "US",
     "label": null,
     "heat": 0.55
   }
