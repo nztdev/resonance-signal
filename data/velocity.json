@@ -1,14 +1,14 @@
 [
   {
-    "genre": "Minimal / Deep Tech",
+    "genre": "Organic / Downtempo",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 85,
+    "buyPct": 88,
     "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Behache"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Cloudchord"
     ],
     "delta": "Strong momentum"
   },
@@ -16,25 +16,25 @@
     "genre": "Melodic Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 78,
+    "buyPct": 88,
     "leaders": [
       "Kasablanca",
       "Tinlicker",
       "HNTR",
-      "Adam Rosso"
+      "Emrah Balkan"
     ],
     "delta": "Strong momentum"
   },
   {
-    "genre": "House",
+    "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 80,
+    "buyPct": 88,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "JAZZ DELUXE"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Mizter Bonezz"
     ],
     "delta": "Strong momentum"
   },
@@ -47,7 +47,20 @@
       "Psyk",
       "Avant.OCS",
       "Morbe",
-      "JCH UP"
+      "DaShadow"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "MARKOTS"
     ],
     "delta": "Strong momentum"
   },
@@ -72,7 +85,7 @@
       "Bun Xapa",
       "RAFFA GUIDO",
       "Mobi Dixon",
-      "Tibetania"
+      "Daz Paget"
     ],
     "delta": "Strong momentum"
   },
@@ -80,12 +93,25 @@
     "genre": "Tech House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 87,
+    "buyPct": 80,
     "leaders": [
       "Alan Fitzpatrick",
       "Adriatique",
       "Jamie Jones",
-      "Tech Mama"
+      "Tony Thomas"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 77,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Eva Under Fire"
     ],
     "delta": "Strong momentum"
   },
@@ -93,38 +119,12 @@
     "genre": "Trance",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 76,
+    "buyPct": 88,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "DJMacJ"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Cortex"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 81,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "01-n"
+      "Master Beat Projekt"
     ],
     "delta": "Strong momentum"
   }
