@@ -1,48 +1,48 @@
 [
   {
+    "artist": "Florian Gasperini",
+    "genre": "Organic / Downtempo",
+    "playRank": 64,
+    "buyRank": 8,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 15,
-    "buyRank": 49,
+    "playRank": 14,
+    "buyRank": 180,
     "signal": "dj-play",
-    "playDelta": -3,
-    "buyDelta": 286,
+    "playDelta": 1,
+    "buyDelta": -131,
     "raBooked": true
   },
   {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 27,
-    "buyRank": 101,
+    "playRank": 20,
+    "buyRank": 50,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 42,
-    "buyRank": 258,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": -38,
+    "playDelta": 7,
+    "buyDelta": 51,
     "raBooked": true
   },
   {
     "artist": "Tini",
     "genre": "Deep House",
-    "playRank": 59,
-    "buyRank": 330,
+    "playRank": 62,
+    "buyRank": 254,
     "signal": "dj-play",
-    "playDelta": 4,
-    "buyDelta": 25,
+    "playDelta": -3,
+    "buyDelta": 76,
     "raBooked": true
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -52,7 +52,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -71,39 +71,41 @@
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
-    "raBooked": false
+    "isNew": true,
+    "raBooked": true
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
-    "raBooked": false
+    "isNew": true,
+    "raBooked": true
   },
   {
-    "artist": "Rain Forest Project",
-    "genre": "Tech House",
+    "artist": "No Reclaim",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -113,8 +115,8 @@
     "raBooked": true
   },
   {
-    "artist": "Emrah Balkan",
-    "genre": "Melodic Techno",
+    "artist": "Lennox",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -124,8 +126,8 @@
     "raBooked": false
   },
   {
-    "artist": "Mizter Bonezz",
-    "genre": "Deep House",
+    "artist": "PIANO AND NIGHT",
+    "genre": "House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -135,8 +137,8 @@
     "raBooked": true
   },
   {
-    "artist": "DaShadow",
-    "genre": "Techno",
+    "artist": "Andy Jaymz",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -146,25 +148,23 @@
     "raBooked": false
   },
   {
-    "artist": "MARKOTS",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Daz Paget",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": 1,
     "raBooked": true
   },
   {
-    "artist": "Daz Paget",
-    "genre": "Afro House",
+    "artist": "Mizter Bonezz",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -3,
     "raBooked": true
   }
 ]
