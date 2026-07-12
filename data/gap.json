@@ -1,54 +1,13 @@
 [
   {
-    "artist": "Florian Gasperini",
-    "genre": "Organic / Downtempo",
-    "playRank": 64,
-    "buyRank": 8,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 14,
-    "buyRank": 180,
-    "signal": "dj-play",
-    "playDelta": 1,
-    "buyDelta": -131,
-    "raBooked": true
-  },
-  {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 20,
-    "buyRank": 50,
-    "signal": "dj-play",
-    "playDelta": 7,
-    "buyDelta": 51,
-    "raBooked": true
-  },
-  {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 62,
-    "buyRank": 254,
-    "signal": "dj-play",
-    "playDelta": -3,
-    "buyDelta": 76,
-    "raBooked": true
-  },
-  {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": true
+    "raBooked": false
   },
   {
     "artist": "thds",
@@ -58,7 +17,7 @@
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": true
+    "raBooked": false
   },
   {
     "artist": "Midland",
@@ -68,103 +27,39 @@
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Bun Xapa",
+    "genre": "Afro House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "No Reclaim",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Lennox",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
     "raBooked": false
-  },
-  {
-    "artist": "PIANO AND NIGHT",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Andy Jaymz",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 4,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Daz Paget",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 5,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": 1,
-    "raBooked": true
-  },
-  {
-    "artist": "Mizter Bonezz",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 6,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": -3,
-    "raBooked": true
   }
 ]

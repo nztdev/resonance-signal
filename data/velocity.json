@@ -1,9 +1,105 @@
 [
   {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 56,
+    "leaders": [
+      "Bun Xapa",
+      "RAFFA GUIDO",
+      "Mobi Dixon"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 56,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 56,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 56,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 56,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 56,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 56,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 56,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
     "genre": "Hard Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 25,
+    "buyPct": 56,
     "leaders": [
       "The Prophet",
       "Yoshiko",
@@ -12,119 +108,14 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Lennox"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 76,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "No Reclaim"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "PIANO AND NIGHT"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 84,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Andy Jaymz"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Bun Xapa",
-      "RAFFA GUIDO",
-      "Mobi Dixon",
-      "Daz Paget"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Deep House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 78,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Mizter Bonezz"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 71,
+    "buyPct": 56,
     "leaders": [
       "Psyk",
       "Avant.OCS",
-      "Morbe",
-      "Phillip Klein"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Cloudchord"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 88,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "Florian Martin"
+      "Morbe"
     ],
     "delta": "Strong momentum"
   }
