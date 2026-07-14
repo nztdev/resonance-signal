@@ -1,97 +1,14 @@
 [
   {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Trance",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "The Prophet",
-      "Yoshiko",
-      "The Bucketheads"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Afro House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Bun Xapa",
-      "RAFFA GUIDO",
-      "Mobi Dixon"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 56,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 56,
+    "buyPct": 88,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
-      "Kerri Chandler"
+      "Kerri Chandler",
+      "Slow Boy"
     ],
     "delta": "Strong momentum"
   },
@@ -99,11 +16,77 @@
     "genre": "House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 56,
+    "buyPct": 80,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
-      "Midnight City"
+      "Midnight City",
+      "Garage Boys"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Farang Zoo"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Bun Xapa",
+      "RAFFA GUIDO",
+      "Mobi Dixon",
+      "Francis Mercier"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 87,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Tarr Records"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Kovlynx"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 83,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Anthon Toma"
     ],
     "delta": "Strong momentum"
   },
@@ -111,11 +94,37 @@
     "genre": "Techno",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 56,
+    "buyPct": 63,
     "leaders": [
       "Psyk",
       "Avant.OCS",
-      "Morbe"
+      "Morbe",
+      "LBRX"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Tech House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones",
+      "bruno costa"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 25,
+    "leaders": [
+      "The Prophet",
+      "Yoshiko",
+      "The Bucketheads"
     ],
     "delta": "Strong momentum"
   }

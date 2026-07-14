@@ -2,80 +2,80 @@
   {
     "title": "The Prophet",
     "artist": "Hard Techno",
-    "plays": 1929,
+    "plays": 1928,
     "market": "DE",
     "label": null,
     "heat": 0.96
   },
   {
-    "title": "Bun Xapa",
-    "artist": "Afro House",
-    "plays": 1902,
-    "market": "ZA",
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "plays": 1903,
+    "market": "GB",
     "label": null,
     "heat": 0.91
   },
   {
-    "title": "Psyk",
-    "artist": "Techno",
-    "plays": 1815,
-    "market": "DE",
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "plays": 1899,
+    "market": "NL",
     "label": null,
     "heat": 0.87
   },
   {
-    "title": "Tinlicker",
-    "artist": "Melodic Techno",
-    "plays": 1805,
-    "market": "IT",
+    "title": "thds",
+    "artist": "Organic / Downtempo",
+    "plays": 1896,
+    "market": "CO",
     "label": null,
     "heat": 0.82
   },
   {
     "title": "Kasablanca",
     "artist": "Melodic Techno",
-    "plays": 1778,
+    "plays": 1895,
     "market": "IT",
     "label": null,
     "heat": 0.78
   },
   {
-    "title": "Sara Landry",
-    "artist": "Minimal / Deep Tech",
-    "plays": 1777,
+    "title": "Tiësto",
+    "artist": "Trance",
+    "plays": 1878,
     "market": "NL",
     "label": null,
     "heat": 0.73
   },
   {
-    "title": "nbsplv",
-    "artist": "Deep House",
-    "plays": 1760,
-    "market": "US",
+    "title": "Psyk",
+    "artist": "Techno",
+    "plays": 1817,
+    "market": "DE",
     "label": null,
     "heat": 0.69
   },
   {
-    "title": "Angelo Ferreri",
-    "artist": "House",
-    "plays": 1734,
-    "market": "US",
+    "title": "RAFFA GUIDO",
+    "artist": "Afro House",
+    "plays": 1788,
+    "market": "ZA",
     "label": null,
     "heat": 0.64
   },
   {
-    "title": "Alan Fitzpatrick",
-    "artist": "Tech House",
-    "plays": 1728,
-    "market": "GB",
+    "title": "Bun Xapa",
+    "artist": "Afro House",
+    "plays": 1787,
+    "market": "ZA",
     "label": null,
     "heat": 0.6
   },
   {
-    "title": "RAFFA GUIDO",
-    "artist": "Afro House",
-    "plays": 1715,
-    "market": "ZA",
+    "title": "Midland",
+    "artist": "Deep House",
+    "plays": 1754,
+    "market": "US",
     "label": null,
     "heat": 0.55
   }
