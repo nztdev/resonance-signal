@@ -1,52 +1,51 @@
 [
   {
-    "artist": "Jamie Jones",
-    "genre": "Tech House",
-    "playRank": 12,
-    "buyRank": 315,
+    "artist": "Alice Deejay",
+    "genre": "Trance",
+    "playRank": 28,
+    "buyRank": 338,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Lost Frequencies",
-    "genre": "Deep House",
-    "playRank": 14,
-    "buyRank": 346,
-    "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": -200,
     "raBooked": false
   },
   {
     "artist": "ATB",
     "genre": "Trance",
-    "playRank": 46,
-    "buyRank": 232,
+    "playRank": 38,
+    "buyRank": 369,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Christian Löffler",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 47,
-    "buyRank": 406,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 8,
+    "buyDelta": -137,
     "raBooked": false
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 49,
-    "buyRank": 336,
+    "playRank": 52,
+    "buyRank": 181,
+    "signal": "dj-play",
+    "playDelta": -3,
+    "buyDelta": 155,
+    "raBooked": false
+  },
+  {
+    "artist": "Saturn",
+    "genre": "Hard Techno",
+    "playRank": 53,
+    "buyRank": 59,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Darude",
+    "genre": "Trance",
+    "playRank": 77,
+    "buyRank": 101,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -75,7 +74,7 @@
   },
   {
     "artist": "Midland",
-    "genre": "Tech House",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -84,8 +83,8 @@
     "raBooked": true
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -95,8 +94,8 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Bun Xapa",
+    "genre": "Afro House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -111,14 +110,13 @@
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Jaques Le Noir",
-    "genre": "Tech House",
+    "artist": "Dan Soden",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -128,8 +126,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tech Mama",
-    "genre": "Tech House",
+    "artist": "Cafe De Anatolia",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -139,8 +137,8 @@
     "raBooked": false
   },
   {
-    "artist": "Chief Man",
-    "genre": "Tech House",
+    "artist": "Saliva Commandos",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -150,8 +148,8 @@
     "raBooked": false
   },
   {
-    "artist": "Oziriz",
-    "genre": "Tech House",
+    "artist": "Dancing with Jesus",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -161,8 +159,8 @@
     "raBooked": false
   },
   {
-    "artist": "Dravexy",
-    "genre": "Techno",
+    "artist": "Seres Producoes",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -172,7 +170,7 @@
     "raBooked": false
   },
   {
-    "artist": "Galezard Project",
+    "artist": "Jason Heat",
     "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
