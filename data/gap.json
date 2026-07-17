@@ -1,40 +1,52 @@
 [
   {
-    "artist": "Alice Deejay",
-    "genre": "Trance",
-    "playRank": 28,
-    "buyRank": 338,
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 10,
+    "buyRank": 277,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "ATB",
-    "genre": "Trance",
-    "playRank": 38,
-    "buyRank": 369,
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 14,
+    "buyRank": 95,
     "signal": "dj-play",
-    "playDelta": 8,
-    "buyDelta": -137,
-    "raBooked": false
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 21,
+    "buyRank": 18,
+    "signal": "aligned",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 52,
-    "buyRank": 181,
+    "playRank": 56,
+    "buyRank": 116,
     "signal": "dj-play",
-    "playDelta": -3,
-    "buyDelta": 155,
+    "playDelta": -4,
+    "buyDelta": 65,
     "raBooked": false
   },
   {
-    "artist": "Saturn",
-    "genre": "Hard Techno",
-    "playRank": 53,
-    "buyRank": 59,
+    "artist": "Laszlo",
+    "genre": "Tech House",
+    "playRank": 61,
+    "buyRank": 297,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -42,10 +54,10 @@
     "raBooked": false
   },
   {
-    "artist": "Darude",
-    "genre": "Trance",
-    "playRank": 77,
-    "buyRank": 101,
+    "artist": "The Field",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 70,
+    "buyRank": 282,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -83,8 +95,8 @@
     "raBooked": true
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -94,39 +106,39 @@
     "raBooked": false
   },
   {
-    "artist": "Bun Xapa",
-    "genre": "Afro House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Dan Soden",
-    "genre": "House",
+    "artist": "Pato Shoucair",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Cafe De Anatolia",
+    "artist": "Block & Crown",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
@@ -137,8 +149,8 @@
     "raBooked": false
   },
   {
-    "artist": "Saliva Commandos",
-    "genre": "Afro House",
+    "artist": "Astronomical (JAPAN)",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -148,7 +160,7 @@
     "raBooked": false
   },
   {
-    "artist": "Dancing with Jesus",
+    "artist": "Grimes77",
     "genre": "Trance",
     "playRank": null,
     "buyRank": 4,
@@ -159,8 +171,8 @@
     "raBooked": false
   },
   {
-    "artist": "Seres Producoes",
-    "genre": "Afro House",
+    "artist": "Tobz",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -170,7 +182,7 @@
     "raBooked": false
   },
   {
-    "artist": "Jason Heat",
+    "artist": "German Brigante",
     "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
