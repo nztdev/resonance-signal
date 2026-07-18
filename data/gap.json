@@ -2,71 +2,58 @@
   {
     "artist": "Psyk",
     "genre": "Techno",
-    "playRank": 10,
-    "buyRank": 277,
+    "playRank": 7,
+    "buyRank": 305,
+    "signal": "dj-play",
+    "playDelta": 3,
+    "buyDelta": -28,
+    "raBooked": true
+  },
+  {
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
+    "playRank": 12,
+    "buyRank": 236,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
+  },
+  {
+    "artist": "Morbe",
+    "genre": "Techno",
+    "playRank": 16,
+    "buyRank": 254,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
   },
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 14,
-    "buyRank": 95,
+    "playRank": 19,
+    "buyRank": 213,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -5,
+    "buyDelta": -118,
     "raBooked": true
-  },
-  {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 21,
-    "buyRank": 18,
-    "signal": "aligned",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 56,
-    "buyRank": 116,
-    "signal": "dj-play",
-    "playDelta": -4,
-    "buyDelta": 65,
-    "raBooked": false
-  },
-  {
-    "artist": "Laszlo",
-    "genre": "Tech House",
-    "playRank": 61,
-    "buyRank": 297,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
   },
   {
     "artist": "The Field",
     "genre": "Minimal / Deep Tech",
-    "playRank": 70,
-    "buyRank": 282,
+    "playRank": 74,
+    "buyRank": 267,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -4,
+    "buyDelta": 15,
     "raBooked": false
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -76,7 +63,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -100,37 +87,46 @@
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": -1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
     "artist": "Alan Fitzpatrick",
     "genre": "Tech House",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Sergii Hertz",
+    "genre": "Tech House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Pato Shoucair",
-    "genre": "Deep House",
+    "artist": "Serg Underground",
+    "genre": "Tech House",
     "playRank": null,
-    "buyRank": 1,
+    "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -138,19 +134,8 @@
     "raBooked": true
   },
   {
-    "artist": "Block & Crown",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Astronomical (JAPAN)",
-    "genre": "Deep House",
+    "artist": "21 ROOM",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -160,8 +145,8 @@
     "raBooked": false
   },
   {
-    "artist": "Grimes77",
-    "genre": "Trance",
+    "artist": "Underground Loop",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -171,8 +156,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tobz",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Chief Man",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -182,8 +167,8 @@
     "raBooked": false
   },
   {
-    "artist": "German Brigante",
-    "genre": "Melodic Techno",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
