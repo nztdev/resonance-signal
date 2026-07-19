@@ -3,52 +3,41 @@
     "artist": "Psyk",
     "genre": "Techno",
     "playRank": 7,
-    "buyRank": 305,
+    "buyRank": 269,
     "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": -28,
-    "raBooked": true
-  },
-  {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 12,
-    "buyRank": 236,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Morbe",
-    "genre": "Techno",
-    "playRank": 16,
-    "buyRank": 254,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 0,
+    "buyDelta": 36,
     "raBooked": false
   },
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 19,
-    "buyRank": 213,
+    "playRank": 14,
+    "buyRank": 279,
     "signal": "dj-play",
-    "playDelta": -5,
-    "buyDelta": -118,
+    "playDelta": 5,
+    "buyDelta": -66,
+    "raBooked": true
+  },
+  {
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 24,
+    "buyRank": 158,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": true
   },
   {
     "artist": "The Field",
     "genre": "Minimal / Deep Tech",
-    "playRank": 74,
-    "buyRank": 267,
+    "playRank": 69,
+    "buyRank": 166,
     "signal": "dj-play",
-    "playDelta": -4,
-    "buyDelta": 15,
+    "playDelta": 5,
+    "buyDelta": 101,
     "raBooked": false
   },
   {
@@ -63,7 +52,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -73,7 +62,7 @@
   },
   {
     "artist": "Midland",
-    "genre": "Deep House",
+    "genre": "Tech House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -82,19 +71,9 @@
     "raBooked": true
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
     "artist": "Alan Fitzpatrick",
     "genre": "Tech House",
-    "playRank": 5,
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 1,
@@ -102,17 +81,29 @@
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 6,
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 5,
     "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": -1,
+    "signal": "underground",
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Sergii Hertz",
+    "artist": "Bun Xapa",
+    "genre": "Afro House",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Fire Man",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
@@ -123,7 +114,7 @@
     "raBooked": false
   },
   {
-    "artist": "Serg Underground",
+    "artist": "Tech Mama",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
@@ -131,10 +122,10 @@
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "21 ROOM",
+    "artist": "Buben",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
@@ -145,8 +136,8 @@
     "raBooked": false
   },
   {
-    "artist": "Underground Loop",
-    "genre": "Tech House",
+    "artist": "Rousing House",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -156,19 +147,19 @@
     "raBooked": false
   },
   {
-    "artist": "Chief Man",
-    "genre": "Tech House",
+    "artist": "Aig",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Tibetania",
-    "genre": "Organic / Downtempo",
+    "artist": "Coskot",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
