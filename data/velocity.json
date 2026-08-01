@@ -1,66 +1,14 @@
 [
   {
-    "genre": "Tech House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 84,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Jamie Jones",
-      "Adriatique",
-      "Coskot"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "House",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 49,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Degreezero"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 63,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Behache"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
     "genre": "Afro House",
     "status": "rising",
     "playPct": 56,
     "buyPct": 88,
     "leaders": [
-      "Bun Xapa",
       "RAFFA GUIDO",
       "Mobi Dixon",
-      "Ayda Noir"
-    ],
-    "delta": "Strong momentum"
-  },
-  {
-    "genre": "Techno",
-    "status": "rising",
-    "playPct": 56,
-    "buyPct": 67,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "Buben"
+      "Maesic",
+      "the YONA"
     ],
     "delta": "Strong momentum"
   },
@@ -68,7 +16,7 @@
     "genre": "Trance",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 78,
+    "buyPct": 84,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
@@ -78,15 +26,41 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Deep House",
+    "genre": "Tech House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 87,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Neurogenesys"
+      "Jamie Jones",
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "knightlab"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 81,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Dj_Bari"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 81,
+    "leaders": [
+      "Anna",
+      "Sara Landry",
+      "Boris Brejcha",
+      "minimalW4LKMAN"
     ],
     "delta": "Strong momentum"
   },
@@ -96,9 +70,22 @@
     "playPct": 56,
     "buyPct": 25,
     "leaders": [
-      "The Prophet",
       "Yoshiko",
+      "The Prophet",
       "The Bucketheads"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Christian Belt"
     ],
     "delta": "Strong momentum"
   },
@@ -116,15 +103,28 @@
     "delta": "Strong momentum"
   },
   {
-    "genre": "Melodic Techno",
+    "genre": "Deep House",
     "status": "rising",
     "playPct": 56,
-    "buyPct": 81,
+    "buyPct": 88,
     "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Madnak"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Jonny Joel"
+    ],
+    "delta": "Strong momentum"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Tristan Thomas"
     ],
     "delta": "Strong momentum"
   }

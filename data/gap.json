@@ -1,54 +1,44 @@
 [
   {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 7,
-    "buyRank": 269,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": 36,
-    "raBooked": false
-  },
-  {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 14,
-    "buyRank": 279,
+    "playRank": 8,
+    "buyRank": 404,
     "signal": "dj-play",
-    "playDelta": 5,
-    "buyDelta": -66,
+    "playDelta": 6,
+    "buyDelta": -125,
     "raBooked": true
   },
   {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 24,
-    "buyRank": 158,
+    "playRank": 22,
+    "buyRank": 101,
+    "signal": "dj-play",
+    "playDelta": 2,
+    "buyDelta": 57,
+    "raBooked": true
+  },
+  {
+    "artist": "Club Cab",
+    "genre": "House",
+    "playRank": 47,
+    "buyRank": 391,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "The Field",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 69,
-    "buyRank": 166,
-    "signal": "dj-play",
-    "playDelta": 5,
-    "buyDelta": 101,
     "raBooked": false
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": false
+    "raBooked": true
   },
   {
     "artist": "thds",
@@ -58,7 +48,7 @@
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": false
+    "raBooked": true
   },
   {
     "artist": "Midland",
@@ -68,32 +58,33 @@
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": true
-  },
-  {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 1,
-    "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Jamie Jones",
+    "genre": "Tech House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Bun Xapa",
-    "genre": "Afro House",
+    "artist": "Solomun",
+    "genre": "Tech House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -103,41 +94,41 @@
     "raBooked": false
   },
   {
-    "artist": "Fire Man",
-    "genre": "Tech House",
+    "artist": "Stardisco",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Tech Mama",
-    "genre": "Tech House",
+    "artist": "Ertan Koculu",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Buben",
-    "genre": "Tech House",
+    "artist": "the YONA",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Rousing House",
-    "genre": "House",
+    "artist": "Grimes77",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -147,8 +138,8 @@
     "raBooked": false
   },
   {
-    "artist": "Aig",
-    "genre": "Afro House",
+    "artist": "knightlab",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -158,8 +149,8 @@
     "raBooked": true
   },
   {
-    "artist": "Coskot",
-    "genre": "Tech House",
+    "artist": "Dj_Bari",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
