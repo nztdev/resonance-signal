@@ -1,36 +1,5 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 8,
-    "buyRank": 404,
-    "signal": "dj-play",
-    "playDelta": 6,
-    "buyDelta": -125,
-    "raBooked": true
-  },
-  {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 22,
-    "buyRank": 101,
-    "signal": "dj-play",
-    "playDelta": 2,
-    "buyDelta": 57,
-    "raBooked": true
-  },
-  {
-    "artist": "Club Cab",
-    "genre": "House",
-    "playRank": 47,
-    "buyRank": 391,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
     "artist": "Tinlicker",
     "genre": "Melodic Techno",
     "playRank": 1,
@@ -38,7 +7,7 @@
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": true
+    "raBooked": false
   },
   {
     "artist": "thds",
@@ -48,11 +17,11 @@
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": true
+    "raBooked": false
   },
   {
     "artist": "Midland",
-    "genre": "Tech House",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -61,30 +30,30 @@
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Jamie Jones",
-    "genre": "Tech House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Solomun",
-    "genre": "Tech House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -94,41 +63,41 @@
     "raBooked": false
   },
   {
-    "artist": "Stardisco",
-    "genre": "Afro House",
+    "artist": "ARSANIT Tech",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Ertan Koculu",
-    "genre": "Afro House",
+    "artist": "Fire Man",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "the YONA",
-    "genre": "Afro House",
+    "artist": "Happy Toy Box",
+    "genre": "House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Grimes77",
-    "genre": "Trance",
+    "artist": "Vicissu",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -138,8 +107,8 @@
     "raBooked": false
   },
   {
-    "artist": "knightlab",
-    "genre": "Tech House",
+    "artist": "Christian Belt",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -149,8 +118,8 @@
     "raBooked": true
   },
   {
-    "artist": "Dj_Bari",
-    "genre": "Techno",
+    "artist": "Jonny Joel",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
