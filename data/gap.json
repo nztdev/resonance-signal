@@ -1,62 +1,38 @@
 [
   {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 18,
-    "buyRank": 263,
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
+    "playRank": 17,
+    "buyRank": 318,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Stavroz",
+    "genre": "Organic / Downtempo",
+    "playRank": 20,
+    "buyRank": 26,
+    "signal": "dj-play",
+    "playDelta": -2,
+    "buyDelta": 237,
     "raBooked": false
   },
   {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 27,
-    "buyRank": 394,
+    "playRank": 22,
+    "buyRank": 311,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Adriatique",
-    "genre": "Tech House",
-    "playRank": 29,
-    "buyRank": 388,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 34,
-    "buyRank": 199,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Cavi",
-    "genre": "House",
-    "playRank": 73,
-    "buyRank": 55,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 5,
+    "buyDelta": 83,
     "raBooked": false
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -76,7 +52,7 @@
   },
   {
     "artist": "Midland",
-    "genre": "Tech House",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -85,29 +61,30 @@
     "raBooked": false
   },
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": -1,
-    "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Jamie Jones",
-    "genre": "Tech House",
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -117,7 +94,7 @@
     "raBooked": false
   },
   {
-    "artist": "Ivan Kay",
+    "artist": "Cafe De Anatolia",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
@@ -128,8 +105,8 @@
     "raBooked": false
   },
   {
-    "artist": "JCH UP",
-    "genre": "Techno",
+    "artist": "Q-Green",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -139,8 +116,8 @@
     "raBooked": false
   },
   {
-    "artist": "Format Groove",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Igor Pumphonia",
+    "genre": "House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -150,8 +127,8 @@
     "raBooked": false
   },
   {
-    "artist": "INOFF",
-    "genre": "Tech House",
+    "artist": "Mobile Mother",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -161,8 +138,8 @@
     "raBooked": false
   },
   {
-    "artist": "Epic Surpasser",
-    "genre": "Techno",
+    "artist": "Guy Sebbag",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
