@@ -1,81 +1,81 @@
 [
   {
-    "title": "nbsplv",
-    "artist": "Deep House",
-    "plays": 1940,
-    "market": "US",
+    "title": "Mobi Dixon",
+    "artist": "Afro House",
+    "plays": 1835,
+    "market": "ZA",
     "label": null,
     "heat": 0.96
   },
   {
     "title": "Angelo Ferreri",
     "artist": "House",
-    "plays": 1861,
+    "plays": 1826,
     "market": "US",
     "label": null,
     "heat": 0.91
   },
   {
-    "title": "RAFFA GUIDO",
-    "artist": "Afro House",
-    "plays": 1822,
-    "market": "ZA",
+    "title": "Alan Fitzpatrick",
+    "artist": "Tech House",
+    "plays": 1809,
+    "market": "GB",
     "label": null,
     "heat": 0.87
   },
   {
-    "title": "Jamie Jones",
-    "artist": "Tech House",
+    "title": "thds",
+    "artist": "Organic / Downtempo",
     "plays": 1794,
-    "market": "GB",
+    "market": "CO",
     "label": null,
     "heat": 0.82
   },
   {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "plays": 1720,
-    "market": "NL",
+    "title": "RAFFA GUIDO",
+    "artist": "Afro House",
+    "plays": 1782,
+    "market": "ZA",
     "label": null,
     "heat": 0.78
   },
   {
-    "title": "thds",
-    "artist": "Organic / Downtempo",
-    "plays": 1673,
-    "market": "CO",
+    "title": "Midland",
+    "artist": "Deep House",
+    "plays": 1766,
+    "market": "US",
     "label": null,
     "heat": 0.73
   },
   {
-    "title": "Anna",
-    "artist": "Minimal / Deep Tech",
-    "plays": 1671,
-    "market": "NL",
+    "title": "nbsplv",
+    "artist": "Deep House",
+    "plays": 1752,
+    "market": "US",
     "label": null,
     "heat": 0.69
   },
   {
-    "title": "Midland",
-    "artist": "Deep House",
-    "plays": 1663,
-    "market": "US",
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "plays": 1711,
+    "market": "NL",
     "label": null,
     "heat": 0.64
   },
   {
-    "title": "Psyk",
-    "artist": "Techno",
-    "plays": 1651,
-    "market": "DE",
+    "title": "Tinlicker",
+    "artist": "Melodic Techno",
+    "plays": 1692,
+    "market": "IT",
     "label": null,
     "heat": 0.6
   },
   {
-    "title": "Yoshiko",
-    "artist": "Hard Techno",
-    "plays": 1642,
-    "market": "DE",
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
+    "plays": 1665,
+    "market": "IT",
     "label": null,
     "heat": 0.55
   }
