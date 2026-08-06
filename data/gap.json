@@ -1,51 +1,52 @@
 [
   {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 12,
-    "buyRank": 209,
-    "signal": "dj-play",
-    "playDelta": 8,
-    "buyDelta": -183,
-    "raBooked": false
-  },
-  {
-    "artist": "Morbe",
-    "genre": "Techno",
-    "playRank": 15,
-    "buyRank": 166,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 16,
-    "buyRank": 97,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 20,
-    "buyRank": 336,
-    "signal": "dj-play",
-    "playDelta": 2,
-    "buyDelta": -25,
-    "raBooked": false
-  },
-  {
     "artist": "Adriatique",
     "genre": "Tech House",
     "playRank": 28,
-    "buyRank": 70,
+    "buyRank": 72,
+    "signal": "dj-play",
+    "playDelta": 0,
+    "buyDelta": -2,
+    "raBooked": false
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 40,
+    "buyRank": 321,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Badbwoy",
+    "genre": "Afro House",
+    "playRank": 53,
+    "buyRank": 164,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Saturn",
+    "genre": "Hard Techno",
+    "playRank": 55,
+    "buyRank": 111,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Steve Aoki",
+    "genre": "Tech House",
+    "playRank": 76,
+    "buyRank": 222,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -73,28 +74,29 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": 3,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Midland",
+    "genre": "Tech House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -104,17 +106,17 @@
     "raBooked": false
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 11,
+    "playDelta": -2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Tech Mama",
+    "artist": "Dan Soden",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
@@ -131,12 +133,12 @@
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -1,
+    "buyDelta": 0,
     "raBooked": false
   },
   {
-    "artist": "Midorii",
-    "genre": "House",
+    "artist": "Tony Thomas",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -146,18 +148,19 @@
     "raBooked": false
   },
   {
-    "artist": "Guy Sebbag",
-    "genre": "Trance",
+    "artist": "Luna",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 1,
-    "raBooked": false
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
   },
   {
-    "artist": "Ivan Industry",
-    "genre": "Techno",
+    "artist": "DJ Cooksta",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -167,14 +170,14 @@
     "raBooked": false
   },
   {
-    "artist": "Morris DJ",
-    "genre": "Minimal / Deep Tech",
+    "artist": "BROUWER",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   }
 ]
