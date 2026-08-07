@@ -1,59 +1,5 @@
 [
   {
-    "artist": "Adriatique",
-    "genre": "Tech House",
-    "playRank": 28,
-    "buyRank": 72,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": -2,
-    "raBooked": false
-  },
-  {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 40,
-    "buyRank": 321,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Badbwoy",
-    "genre": "Afro House",
-    "playRank": 53,
-    "buyRank": 164,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Saturn",
-    "genre": "Hard Techno",
-    "playRank": 55,
-    "buyRank": 111,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Steve Aoki",
-    "genre": "Tech House",
-    "playRank": 76,
-    "buyRank": 222,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
     "artist": "Tinlicker",
     "genre": "Organic / Downtempo",
     "playRank": 1,
@@ -74,30 +20,9 @@
     "raBooked": false
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 3,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Midland",
-    "genre": "Tech House",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -108,73 +33,30 @@
   {
     "artist": "Tiësto",
     "genre": "Trance",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 2,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Dan Soden",
-    "genre": "Tech House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Cafe De Anatolia",
-    "genre": "Organic / Downtempo",
-    "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": 0,
-    "raBooked": false
-  },
-  {
-    "artist": "Tony Thomas",
-    "genre": "Tech House",
-    "playRank": null,
-    "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Luna",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 4,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "DJ Cooksta",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 5,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "BROUWER",
-    "genre": "Techno",
-    "playRank": null,
-    "buyRank": 6,
-    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,

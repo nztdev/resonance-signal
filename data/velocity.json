@@ -1,65 +1,16 @@
 [
   {
-    "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Alan Fitzpatrick",
-      "Adriatique",
-      "Jamie Jones",
-      "Dan Soden"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Deep House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 7,
-    "isNew": false,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Luna"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "DJ Cooksta"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": 26,
+    "buyPctDelta": -32,
     "isNew": false,
     "leaders": [
       "Psyk",
       "Morbe",
-      "Unklevon",
-      "BROUWER"
+      "Unklevon"
     ],
     "delta": "Steady build"
   },
@@ -67,15 +18,29 @@
     "genre": "Organic / Downtempo",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": 12,
+    "buyPctDelta": -32,
     "isNew": false,
     "leaders": [
       "thds",
       "Stavroz",
-      "Tinlicker",
-      "Cafe De Anatolia"
+      "Tinlicker"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": -32,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki"
     ],
     "delta": "Steady build"
   },
@@ -83,15 +48,14 @@
     "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": 7,
+    "buyPctDelta": -32,
     "isNew": false,
     "leaders": [
       "Kasablanca",
       "Tinlicker",
-      "HNTR",
-      "Olivier Nioto"
+      "HNTR"
     ],
     "delta": "Steady build"
   },
@@ -99,31 +63,59 @@
     "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 70,
+    "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -17,
+    "buyPctDelta": -14,
     "isNew": false,
     "leaders": [
       "Mobi Dixon",
       "RAFFA GUIDO",
-      "Maesic",
-      "El Bucanero Y Sus Teclados"
+      "Maesic"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "House",
+    "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -32,
     "isNew": false,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Mak"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": -32,
+    "isNew": false,
+    "leaders": [
+      "Alan Fitzpatrick",
+      "Adriatique",
+      "Jamie Jones"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 1,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha"
     ],
     "delta": "Steady build"
   },
@@ -131,9 +123,9 @@
     "genre": "Hard Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 25,
+    "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": 31,
     "isNew": false,
     "leaders": [
       "The Prophet",
@@ -143,18 +135,17 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Minimal / Deep Tech",
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 55,
+    "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -25,
+    "buyPctDelta": -32,
     "isNew": false,
     "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Ricardo Aya"
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City"
     ],
     "delta": "Steady build"
   }
