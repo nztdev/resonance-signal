@@ -1,21 +1,21 @@
 [
   {
-    "text": "House",
+    "text": "Techno",
+    "sub": "Steady build",
+    "c": "#ffd93d"
+  },
+  {
+    "text": "Trance",
+    "sub": "Steady build",
+    "c": "#ffd93d"
+  },
+  {
+    "text": "Tech House",
     "sub": "Steady build",
     "c": "#ffd93d"
   },
   {
     "text": "Deep House",
-    "sub": "Steady build",
-    "c": "#ffd93d"
-  },
-  {
-    "text": "Afro House",
-    "sub": "Steady build",
-    "c": "#ffd93d"
-  },
-  {
-    "text": "Organic / Downtempo",
     "sub": "Steady build",
     "c": "#ffd93d"
   }
