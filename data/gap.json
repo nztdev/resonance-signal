@@ -1,92 +1,18 @@
 [
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
-    "playRank": 8,
-    "buyRank": 361,
-    "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 11,
-    "buyRank": 211,
-    "signal": "dj-play",
-    "playDelta": -8,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Morbe",
-    "genre": "Techno",
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
     "playRank": 12,
-    "buyRank": 66,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Darude",
-    "genre": "Trance",
-    "playRank": 77,
-    "buyRank": 21,
+    "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Boris Brejcha",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 27,
-    "buyRank": 66,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Alice Deejay",
-    "genre": "Trance",
-    "playRank": 30,
-    "buyRank": 295,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Forty Cats",
-    "genre": "Organic / Downtempo",
-    "playRank": 55,
-    "buyRank": 66,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Narciss",
-    "genre": "Techno",
-    "playRank": 57,
-    "buyRank": 269,
-    "signal": "dj-play",
-    "playDelta": 8,
-    "buyDelta": -70,
-    "raBooked": false
+    "raBooked": true
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -96,7 +22,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -105,30 +31,28 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Alan Fitzpatrick",
+    "genre": "Tech House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 2,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Midland",
+    "genre": "Tech House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 2,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -138,18 +62,18 @@
     "raBooked": false
   },
   {
-    "artist": "Midland",
-    "genre": "Tech House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -1,
+    "playDelta": -3,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Dzik",
-    "genre": "Afro House",
+    "artist": "Cafe De Anatolia",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -159,7 +83,7 @@
     "raBooked": false
   },
   {
-    "artist": "Mozart Techno Band",
+    "artist": "Q-Green",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 2,
@@ -170,8 +94,8 @@
     "raBooked": false
   },
   {
-    "artist": "WF Thompson",
-    "genre": "Trance",
+    "artist": "Sergii Hertz",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -181,10 +105,21 @@
     "raBooked": false
   },
   {
-    "artist": "Stereoimagery",
-    "genre": "Tech House",
+    "artist": "Behache",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
-    "buyRank": 4,
+    "buyRank": 5,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Music Atom",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -195,21 +130,10 @@
     "artist": "Blau Transition",
     "genre": "Deep House",
     "playRank": null,
-    "buyRank": 5,
+    "buyRank": 7,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -1,
-    "raBooked": false
-  },
-  {
-    "artist": "Krisbone Crow",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 6,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -2,
     "raBooked": false
   }
 ]

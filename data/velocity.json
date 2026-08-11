@@ -1,37 +1,5 @@
 [
   {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 80,
-    "playPctDelta": 0,
-    "buyPctDelta": -7,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "Mozart Techno Band"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "WF Thompson"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "Tech House",
     "status": "emerging",
     "playPct": 56,
@@ -43,7 +11,23 @@
       "Alan Fitzpatrick",
       "Adriatique",
       "Jamie Jones",
-      "Stereoimagery"
+      "domniconanna"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 67,
+    "playPctDelta": 0,
+    "buyPctDelta": -17,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Behache"
     ],
     "delta": "Steady build"
   },
@@ -51,9 +35,9 @@
     "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 78,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -10,
     "isNew": false,
     "leaders": [
       "nbsplv",
@@ -64,18 +48,50 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Afro House",
+    "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 73,
+    "buyPct": 80,
     "playPctDelta": 0,
-    "buyPctDelta": -8,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "Maesic",
-      "Krisbone Crow"
+      "Psyk",
+      "Morbe",
+      "Unklevon",
+      "Ellissir"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 78,
+    "playPctDelta": 0,
+    "buyPctDelta": -10,
+    "isNew": false,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Electronicoloko"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 4,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Tibetania"
     ],
     "delta": "Steady build"
   },
@@ -83,15 +99,31 @@
     "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 85,
     "playPctDelta": 0,
-    "buyPctDelta": 25,
+    "buyPctDelta": -3,
     "isNew": false,
     "leaders": [
       "Kasablanca",
       "Tinlicker",
       "HNTR",
-      "Turkish Airwaves"
+      "Cafe De Anatolia"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 77,
+    "playPctDelta": 0,
+    "buyPctDelta": 4,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "Maesic",
+      "Krisbone Crow"
     ],
     "delta": "Steady build"
   },
@@ -111,50 +143,18 @@
     "delta": "Steady build"
   },
   {
-    "genre": "House",
+    "genre": "Trance",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 12,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Coffee Music Machine"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 84,
-    "playPctDelta": 0,
-    "buyPctDelta": -4,
-    "isNew": false,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Tibetania"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 84,
-    "playPctDelta": 0,
-    "buyPctDelta": 18,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "White Steel DJ"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Mikaas"
     ],
     "delta": "Steady build"
   }
