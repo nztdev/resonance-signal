@@ -1,14 +1,69 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 12,
-    "buyRank": 4,
-    "signal": "fan-buy",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 5,
+    "buyRank": 254,
+    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
+  },
+  {
+    "artist": "Morbe",
+    "genre": "Techno",
+    "playRank": 18,
+    "buyRank": 78,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Boris Brejcha",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 21,
+    "buyRank": 78,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 45,
+    "buyRank": 344,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Forty Cats",
+    "genre": "Organic / Downtempo",
+    "playRank": 49,
+    "buyRank": 78,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Korolova",
+    "genre": "Melodic Techno",
+    "playRank": 74,
+    "buyRank": 78,
+    "signal": "aligned",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
   },
   {
     "artist": "Tinlicker",
@@ -31,29 +86,19 @@
     "raBooked": false
   },
   {
-    "artist": "Alan Fitzpatrick",
+    "artist": "Midland",
     "genre": "Tech House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": 1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Midland",
-    "genre": "Tech House",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -62,18 +107,29 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -3,
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 7,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": -2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Organic / Downtempo",
+    "artist": "Chief Man",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -83,8 +139,8 @@
     "raBooked": false
   },
   {
-    "artist": "Q-Green",
-    "genre": "Techno",
+    "artist": "No Reclaim",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -94,7 +150,7 @@
     "raBooked": false
   },
   {
-    "artist": "Sergii Hertz",
+    "artist": "Tech Mama",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
@@ -108,6 +164,16 @@
     "artist": "Behache",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 1,
+    "raBooked": false
+  },
+  {
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
+    "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
@@ -116,24 +182,14 @@
     "raBooked": false
   },
   {
-    "artist": "Music Atom",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Skeleton House Collective",
+    "genre": "House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Blau Transition",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 7,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": -2,
     "raBooked": false
   }
 ]
