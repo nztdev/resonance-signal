@@ -1,6 +1,22 @@
 [
   {
-    "genre": "Tech House",
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 19,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "Maesic",
+      "Cafe De Anatolia"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -8,10 +24,26 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Adriatique",
-      "Alan Fitzpatrick",
-      "Jamie Jones",
-      "Tech Mama"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Aig"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "MeshKick"
     ],
     "delta": "Steady build"
   },
@@ -31,50 +63,18 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 70,
-    "playPctDelta": 0,
-    "buyPctDelta": 3,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Behache"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": 3,
     "isNew": false,
     "leaders": [
-      "thds",
-      "Stavroz",
+      "Kasablanca",
       "Tinlicker",
-      "Tibetania"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 78,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Skeleton House Collective"
+      "HNTR",
+      "Monvak"
     ],
     "delta": "Steady build"
   },
@@ -82,9 +82,9 @@
     "genre": "Trance",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 87,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -1,
     "isNew": false,
     "leaders": [
       "Tiësto",
@@ -95,7 +95,55 @@
     "delta": "Steady build"
   },
   {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 78,
+    "playPctDelta": 0,
+    "buyPctDelta": 8,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Format Groove"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Adriatique",
+      "Alan Fitzpatrick",
+      "Jamie Jones",
+      "Dan Soden"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 81,
+    "playPctDelta": 0,
+    "buyPctDelta": -7,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Postrauma"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -103,58 +151,10 @@
     "buyPctDelta": 10,
     "isNew": false,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Elena Yagudaev"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 69,
-    "playPctDelta": 0,
-    "buyPctDelta": -8,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "Maesic",
-      "No Reclaim"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 8,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "lucid horizons"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 85,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Jhana"
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "TECHNOSICK"
     ],
     "delta": "Steady build"
   }
