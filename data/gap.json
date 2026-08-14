@@ -1,19 +1,29 @@
 [
   {
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 3,
+    "buyRank": 39,
+    "signal": "dj-play",
+    "playDelta": 2,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
     "artist": "Angelo Ferreri",
     "genre": "House",
-    "playRank": 10,
-    "buyRank": 239,
+    "playRank": 9,
+    "buyRank": 82,
     "signal": "dj-play",
-    "playDelta": -5,
-    "buyDelta": 15,
+    "playDelta": 1,
+    "buyDelta": 157,
     "raBooked": false
   },
   {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 23,
-    "buyRank": 143,
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 11,
+    "buyRank": 370,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -21,37 +31,15 @@
     "raBooked": true
   },
   {
-    "artist": "Jamie Jones",
-    "genre": "Tech House",
-    "playRank": 25,
-    "buyRank": 100,
+    "artist": "Max Cooper",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 28,
+    "buyRank": 292,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
-  },
-  {
-    "artist": "Slow Nomaden",
-    "genre": "Organic / Downtempo",
-    "playRank": 38,
-    "buyRank": 80,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Badbwoy",
-    "genre": "Afro House",
-    "playRank": 47,
-    "buyRank": 55,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
   },
   {
     "artist": "Tinlicker",
@@ -74,19 +62,8 @@
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
-    "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -96,18 +73,18 @@
     "raBooked": false
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": -2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -117,19 +94,30 @@
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "Afro House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy",
+    "artist": "Midland",
+    "genre": "Deep House",
+    "playRank": 7,
+    "buyRank": null,
+    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Afro House",
+    "artist": "Melt",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Rain Forest Project",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -139,7 +127,7 @@
     "raBooked": false
   },
   {
-    "artist": "Dan Soden",
+    "artist": "Chain Selector",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 3,
@@ -150,19 +138,19 @@
     "raBooked": false
   },
   {
-    "artist": "Aig",
-    "genre": "Organic / Downtempo",
+    "artist": "Grimes77",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "MeshKick",
-    "genre": "Techno",
+    "artist": "Celestial Mayan",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -172,8 +160,8 @@
     "raBooked": false
   },
   {
-    "artist": "Monvak",
-    "genre": "Melodic Techno",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
