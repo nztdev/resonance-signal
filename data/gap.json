@@ -1,29 +1,19 @@
 [
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 9,
-    "buyRank": 189,
-    "signal": "dj-play",
-    "playDelta": 1,
-    "buyDelta": -97,
-    "raBooked": false
-  },
-  {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 14,
-    "buyRank": 238,
+    "playRank": 13,
+    "buyRank": 230,
     "signal": "dj-play",
-    "playDelta": -3,
-    "buyDelta": -57,
+    "playDelta": 1,
+    "buyDelta": 8,
     "raBooked": true
   },
   {
-    "artist": "W&W",
+    "artist": "Niki",
     "genre": "Trance",
-    "playRank": 78,
-    "buyRank": 219,
+    "playRank": 26,
+    "buyRank": 185,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -31,8 +21,19 @@
     "raBooked": false
   },
   {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 46,
+    "buyRank": 49,
+    "signal": "aligned",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -51,18 +52,18 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": 3,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Midland",
-    "genre": "Tech House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -72,28 +73,30 @@
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -3,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "Techno",
+    "artist": "JCH UP",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -103,8 +106,8 @@
     "raBooked": false
   },
   {
-    "artist": "Buben",
-    "genre": "Techno",
+    "artist": "Thab De Soul",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -114,21 +117,10 @@
     "raBooked": false
   },
   {
-    "artist": "Gena",
-    "genre": "Trance",
+    "artist": "Alex Beam",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Uwe Wumpele",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -136,8 +128,19 @@
     "raBooked": false
   },
   {
-    "artist": "OAK Countryman",
-    "genre": "Afro House",
+    "artist": "Sweet World",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "DJ PEREZ AUS BERLIN",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -147,13 +150,14 @@
     "raBooked": false
   },
   {
-    "artist": "Tibetania",
-    "genre": "Organic / Downtempo",
+    "artist": "Rafael Paste",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -1,
-    "raBooked": false
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
   }
 ]

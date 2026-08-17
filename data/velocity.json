@@ -1,69 +1,5 @@
 [
   {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 12,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Buben"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Adriatique",
-      "Alan Fitzpatrick",
-      "Jamie Jones",
-      "Buben"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 81,
-    "playPctDelta": 0,
-    "buyPctDelta": 11,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Gena"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 83,
-    "playPctDelta": 0,
-    "buyPctDelta": 38,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Uwe Wumpele"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
@@ -75,23 +11,23 @@
       "Mobi Dixon",
       "RAFFA GUIDO",
       "Maesic",
-      "OAK Countryman"
+      "Thab De Soul"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": 1,
     "isNew": false,
     "leaders": [
-      "thds",
-      "Stavroz",
+      "Kasablanca",
       "Tinlicker",
-      "Tibetania"
+      "HNTR",
+      "Alex Beam"
     ],
     "delta": "Steady build"
   },
@@ -99,15 +35,15 @@
     "genre": "House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 71,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -17,
     "isNew": false,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
       "Midnight City",
-      "ARSANIT 2.0."
+      "Sweet World"
     ],
     "delta": "Steady build"
   },
@@ -128,6 +64,22 @@
     "delta": "Steady build"
   },
   {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 5,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Rafael Paste"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Hard Techno",
     "status": "emerging",
     "playPct": 56,
@@ -143,18 +95,66 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Melodic Techno",
+    "genre": "Tech House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 87,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -1,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Kasablanca",
+      "Adriatique",
+      "Alan Fitzpatrick",
+      "Jamie Jones",
+      "Vito Natoli"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 7,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Spaceplanet"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
       "Tinlicker",
-      "HNTR",
-      "JP Posada"
+      "Tibetania"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "JCH UP"
     ],
     "delta": "Steady build"
   }
