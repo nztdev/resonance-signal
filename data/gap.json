@@ -1,19 +1,40 @@
 [
   {
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 6,
+    "buyRank": 270,
+    "signal": "dj-play",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 12,
-    "buyRank": 307,
+    "playRank": 15,
+    "buyRank": 342,
     "signal": "dj-play",
-    "playDelta": 1,
-    "buyDelta": -77,
+    "playDelta": -3,
+    "buyDelta": -35,
     "raBooked": true
   },
   {
-    "artist": "Jamie Jones",
-    "genre": "Tech House",
-    "playRank": 27,
-    "buyRank": 137,
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 21,
+    "buyRank": 229,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Alice Deejay",
+    "genre": "Trance",
+    "playRank": 30,
+    "buyRank": 89,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -22,7 +43,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -32,7 +53,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -41,30 +62,9 @@
     "raBooked": false
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -75,27 +75,48 @@
   {
     "artist": "Angelo Ferreri",
     "genre": "House",
-    "playRank": 6,
+    "playRank": 4,
     "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": -1,
+    "signal": "underground",
+    "playDelta": 2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Jason Still",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy",
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Kovlynx",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
+    "playRank": 7,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Kadum",
+    "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 5,
+    "raBooked": false
+  },
+  {
+    "artist": "Kid Fresino",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -105,7 +126,7 @@
     "raBooked": false
   },
   {
-    "artist": "Synapse Overdrive",
+    "artist": "Koen Groeneveld",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 3,
@@ -116,8 +137,8 @@
     "raBooked": false
   },
   {
-    "artist": "Fran Garro Remix",
-    "genre": "House",
+    "artist": "Tobz",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -127,8 +148,8 @@
     "raBooked": false
   },
   {
-    "artist": "Iñigo Rave",
-    "genre": "Trance",
+    "artist": "DJ Alex Soul",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -138,14 +159,14 @@
     "raBooked": false
   },
   {
-    "artist": "Kadum",
-    "genre": "Deep House",
+    "artist": "DJ FO",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   }
 ]
