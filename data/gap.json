@@ -1,29 +1,19 @@
 [
   {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 6,
-    "buyRank": 270,
+    "artist": "Alice Deejay",
+    "genre": "Trance",
+    "playRank": 30,
+    "buyRank": 192,
     "signal": "dj-play",
-    "playDelta": -1,
-    "buyDelta": null,
+    "playDelta": 0,
+    "buyDelta": -103,
     "raBooked": false
   },
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 15,
-    "buyRank": 342,
-    "signal": "dj-play",
-    "playDelta": -3,
-    "buyDelta": -35,
-    "raBooked": true
-  },
-  {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 21,
-    "buyRank": 229,
+    "artist": "Maesic",
+    "genre": "Afro House",
+    "playRank": 32,
+    "buyRank": 350,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -31,10 +21,21 @@
     "raBooked": false
   },
   {
-    "artist": "Alice Deejay",
+    "artist": "ATB",
     "genre": "Trance",
-    "playRank": 30,
-    "buyRank": 89,
+    "playRank": 40,
+    "buyRank": 95,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 45,
+    "buyRank": 296,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -53,7 +54,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -62,23 +63,22 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 1,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": -1,
     "buyDelta": null,
     "raBooked": false
   },
@@ -88,34 +88,33 @@
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "Mobi Dixon",
     "genre": "Afro House",
-    "playRank": 7,
+    "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
+    "playDelta": 1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Dan Soden",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Kadum",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": 5,
-    "raBooked": false
-  },
-  {
-    "artist": "Kid Fresino",
+    "artist": "Sweet World",
     "genre": "House",
     "playRank": null,
     "buyRank": 2,
@@ -123,22 +122,21 @@
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Koen Groeneveld",
-    "genre": "Techno",
+    "artist": "Kadum",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -2,
     "raBooked": false
   },
   {
-    "artist": "Tobz",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Kuki´s Party",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -148,7 +146,7 @@
     "raBooked": false
   },
   {
-    "artist": "DJ Alex Soul",
+    "artist": "Brilha Som",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 5,
@@ -159,14 +157,13 @@
     "raBooked": false
   },
   {
-    "artist": "DJ FO",
-    "genre": "Tech House",
+    "artist": "Tobz",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
+    "buyDelta": -2,
+    "raBooked": false
   }
 ]
