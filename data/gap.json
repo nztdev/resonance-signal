@@ -1,41 +1,52 @@
 [
   {
-    "artist": "Alice Deejay",
-    "genre": "Trance",
-    "playRank": 30,
-    "buyRank": 192,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": -103,
-    "raBooked": false
-  },
-  {
-    "artist": "Maesic",
-    "genre": "Afro House",
-    "playRank": 32,
-    "buyRank": 350,
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 16,
+    "buyRank": 355,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "ATB",
-    "genre": "Trance",
-    "playRank": 40,
-    "buyRank": 95,
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 18,
+    "buyRank": 53,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 45,
-    "buyRank": 296,
+    "playRank": 40,
+    "buyRank": 228,
+    "signal": "dj-play",
+    "playDelta": 5,
+    "buyDelta": 68,
+    "raBooked": false
+  },
+  {
+    "artist": "Steve Aoki",
+    "genre": "Tech House",
+    "playRank": 41,
+    "buyRank": 267,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Hava",
+    "genre": "Hard Techno",
+    "playRank": 63,
+    "buyRank": 145,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -44,7 +55,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -63,8 +74,8 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -73,40 +84,53 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "Dan Soden",
-    "genre": "House",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 0,
+    "raBooked": false
+  },
+  {
+    "artist": "Apoplexy",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -114,10 +138,10 @@
     "raBooked": false
   },
   {
-    "artist": "Sweet World",
-    "genre": "House",
+    "artist": "Raz",
+    "genre": "Deep House",
     "playRank": null,
-    "buyRank": 2,
+    "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -125,18 +149,8 @@
     "raBooked": true
   },
   {
-    "artist": "Kadum",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": -2,
-    "raBooked": false
-  },
-  {
-    "artist": "Kuki´s Party",
-    "genre": "Trance",
+    "artist": "Amabilia",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -146,24 +160,25 @@
     "raBooked": false
   },
   {
-    "artist": "Brilha Som",
-    "genre": "Afro House",
+    "artist": "Schindergrimm",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Tobz",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Rain Forest Project",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -2,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   }
 ]
