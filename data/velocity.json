@@ -1,5 +1,21 @@
 [
   {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "Bun Xapa",
+      "House Toys"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
@@ -37,45 +53,29 @@
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 38,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Psyk",
       "Unklevon",
       "Avant.OCS",
-      "Schindergrimm"
+      "Elven Rider"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 84,
-    "playPctDelta": 0,
-    "buyPctDelta": -4,
-    "isNew": false,
-    "leaders": [
-      "Gesaffelstein",
-      "Laszlo",
-      "Adriatique",
-      "Dan Soden"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
+    "genre": "Minimal / Deep Tech",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 8,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "The Prestige"
+      "Sara Landry",
+      "Anna",
+      "Boris Brejcha",
+      "Tobias Beepling"
     ],
     "delta": "Steady build"
   },
@@ -96,34 +96,18 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Boris Brejcha",
-      "Francesco Tamburrano"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 78,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -10,
     "isNew": false,
     "leaders": [
       "Angelo Ferreri",
       "Midnight City",
       "Jansons",
-      "Tropa da W&S"
+      "David Saludes"
     ],
     "delta": "Steady build"
   },
@@ -143,7 +127,23 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Afro House",
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 81,
+    "playPctDelta": 0,
+    "buyPctDelta": -3,
+    "isNew": false,
+    "leaders": [
+      "Gesaffelstein",
+      "Laszlo",
+      "Adriatique",
+      "KIWS"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -151,10 +151,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "Bun Xapa",
-      "Ohne Klang"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "The Prestige"
     ],
     "delta": "Steady build"
   }
