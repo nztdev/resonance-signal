@@ -1,33 +1,67 @@
 [
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 14,
-    "buyRank": 149,
+    "artist": "Jansons",
+    "genre": "House",
+    "playRank": 21,
+    "buyRank": 390,
     "signal": "dj-play",
-    "playDelta": 2,
-    "buyDelta": -72,
-    "raBooked": true
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
   },
   {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 24,
-    "buyRank": 384,
+    "playRank": 22,
+    "buyRank": 294,
     "signal": "dj-play",
     "playDelta": 2,
-    "buyDelta": -47,
+    "buyDelta": 90,
+    "raBooked": true
+  },
+  {
+    "artist": "Nato Medrado",
+    "genre": "Melodic Techno",
+    "playRank": 44,
+    "buyRank": 325,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": true
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 39,
-    "buyRank": 285,
+    "playRank": 46,
+    "buyRank": 115,
     "signal": "dj-play",
-    "playDelta": 2,
-    "buyDelta": -25,
+    "playDelta": -7,
+    "buyDelta": 170,
     "raBooked": true
+  },
+  {
+    "artist": "defected radio",
+    "genre": "House",
+    "playRank": 48,
+    "buyRank": 325,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Ahmed Spins",
+    "genre": "Afro House",
+    "playRank": 67,
+    "buyRank": 325,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
   },
   {
     "artist": "Tinlicker",
@@ -41,7 +75,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -50,20 +84,9 @@
     "raBooked": true
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 2,
@@ -71,18 +94,29 @@
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
-    "playRank": 5,
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -2,
+    "playDelta": -1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -92,28 +126,30 @@
     "raBooked": false
   },
   {
-    "artist": "No Reclaim",
-    "genre": "House",
+    "artist": "JCH UP",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Techno Red",
-    "genre": "House",
+    "artist": "Jacob Ireng",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0,
-    "raBooked": true
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "House",
+    "artist": "Julian Collazos",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -123,30 +159,29 @@
     "raBooked": true
   },
   {
-    "artist": "Romain Laumaillé",
-    "genre": "House",
+    "artist": "Dzik",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Marcos Lazarte",
-    "genre": "Techno",
+    "artist": "Techno Red",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -3,
     "raBooked": true
   },
   {
-    "artist": "Trip Tease",
-    "genre": "Organic / Downtempo",
+    "artist": "Open Field Theory",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
