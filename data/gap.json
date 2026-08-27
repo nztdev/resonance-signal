@@ -1,93 +1,49 @@
 [
   {
-    "artist": "Tiësto",
+    "artist": "Armin van Buuren",
     "genre": "Trance",
-    "playRank": 4,
-    "buyRank": 245,
-    "signal": "dj-play",
-    "playDelta": 1,
-    "buyDelta": null,
-    "raBooked": true
-  },
-  {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 14,
-    "buyRank": 196,
+    "playRank": 17,
+    "buyRank": 161,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Saturn",
-    "genre": "Hard Techno",
-    "playRank": 35,
-    "buyRank": 74,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 41,
-    "buyRank": 258,
-    "signal": "dj-play",
-    "playDelta": 5,
-    "buyDelta": -143,
-    "raBooked": true
-  },
-  {
-    "artist": "Anyma",
-    "genre": "Melodic Techno",
-    "playRank": 43,
-    "buyRank": 339,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Slow Nomaden",
-    "genre": "Organic / Downtempo",
-    "playRank": 46,
-    "buyRank": 43,
-    "signal": "aligned",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Boris Brejcha",
-    "genre": "Minimal / Deep Tech",
     "playRank": 44,
-    "buyRank": 281,
+    "buyRank": 358,
+    "signal": "dj-play",
+    "playDelta": -3,
+    "buyDelta": -100,
+    "raBooked": true
+  },
+  {
+    "artist": "ATB",
+    "genre": "Trance",
+    "playRank": 47,
+    "buyRank": 393,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
     "artist": "Above & Beyond",
     "genre": "Trance",
-    "playRank": 57,
-    "buyRank": 281,
+    "playRank": 65,
+    "buyRank": 87,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -8,
+    "buyDelta": 194,
     "raBooked": false
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -106,20 +62,19 @@
     "raBooked": true
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 4,
     "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
     "artist": "nbsplv",
     "genre": "Deep House",
-    "playRank": 5,
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 1,
@@ -127,8 +82,18 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -2,
+    "buyDelta": null,
+    "raBooked": true
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -138,17 +103,7 @@
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
-    "playRank": 7,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": -4,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "No Reclaim",
+    "artist": "Cafe De Anatolia",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
@@ -156,21 +111,21 @@
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Tarr Records",
-    "genre": "Afro House",
+    "artist": "Dan Soden",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Viking Trance",
+    "artist": "DJ YAGI",
     "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
@@ -181,8 +136,8 @@
     "raBooked": true
   },
   {
-    "artist": "EØLAN",
-    "genre": "Techno",
+    "artist": "VOGER",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -192,25 +147,25 @@
     "raBooked": false
   },
   {
-    "artist": "Jason Still",
-    "genre": "Melodic Techno",
+    "artist": "Jonas Lurex",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Behache",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Ivan Terry",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   }
 ]
