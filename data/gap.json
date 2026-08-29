@@ -1,121 +1,74 @@
 [
   {
-    "artist": "Saturn",
-    "genre": "Hard Techno",
-    "playRank": 27,
-    "buyRank": 21,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Laszlo",
-    "genre": "Tech House",
-    "playRank": 25,
-    "buyRank": 336,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 41,
-    "buyRank": 271,
+    "playRank": 38,
+    "buyRank": 340,
     "signal": "dj-play",
     "playDelta": 3,
-    "buyDelta": 87,
+    "buyDelta": -69,
     "raBooked": true
-  },
-  {
-    "artist": "Hug",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 72,
-    "buyRank": 51,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
   },
   {
     "artist": "Narciss",
     "genre": "Techno",
-    "playRank": 59,
-    "buyRank": 157,
+    "playRank": 56,
+    "buyRank": 196,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 3,
+    "buyDelta": -39,
     "raBooked": false
   },
   {
-    "artist": "Darude",
-    "genre": "Trance",
-    "playRank": 67,
-    "buyRank": 110,
+    "artist": "Hug",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 68,
+    "buyRank": 232,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Monkey Safari",
-    "genre": "Tech House",
-    "playRank": 75,
-    "buyRank": 346,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 4,
+    "buyDelta": -181,
     "raBooked": false
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": true
+    "raBooked": false
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": true
-  },
-  {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
-    "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 3,
+    "buyDelta": null,
+    "raBooked": true
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
     "artist": "Angelo Ferreri",
@@ -123,47 +76,46 @@
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Tony Thomas",
-    "genre": "Techno",
+    "artist": "Jason Rivas",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "The Bongo Man",
-    "genre": "House",
+    "artist": "Music Atom",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Jacob Ireng",
-    "genre": "Trance",
+    "artist": "S.M.A.M.B.",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -173,8 +125,8 @@
     "raBooked": false
   },
   {
-    "artist": "Buben",
-    "genre": "Techno",
+    "artist": "Tookroom",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -184,25 +136,25 @@
     "raBooked": false
   },
   {
-    "artist": "Traxxtor",
-    "genre": "Trance",
+    "artist": "YUKA MORIKAWA",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Tropa da W&S",
-    "genre": "House",
+    "artist": "Emrah Balkan",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   }
 ]

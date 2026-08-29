@@ -1,22 +1,22 @@
 [
   {
-    "text": "Hard Techno",
-    "sub": "+31% this week",
-    "c": "#6bcb77"
-  },
-  {
-    "text": "Trance",
-    "sub": "-32% this week",
-    "c": "#7b6cff"
-  },
-  {
-    "text": "House",
-    "sub": "+31% this week",
-    "c": "#6bcb77"
-  },
-  {
     "text": "Techno",
-    "sub": "+31% this week",
-    "c": "#6bcb77"
+    "sub": "Steady build",
+    "c": "#ffd93d"
+  },
+  {
+    "text": "Minimal / Deep Tech",
+    "sub": "Steady build",
+    "c": "#ffd93d"
+  },
+  {
+    "text": "Melodic Techno",
+    "sub": "Steady build",
+    "c": "#ffd93d"
+  },
+  {
+    "text": "Organic / Downtempo",
+    "sub": "Steady build",
+    "c": "#ffd93d"
   }
 ]
