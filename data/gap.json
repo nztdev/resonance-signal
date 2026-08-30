@@ -1,42 +1,22 @@
 [
   {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 38,
-    "buyRank": 340,
+    "artist": "Tinlicker",
+    "genre": "Organic / Downtempo",
+    "playRank": 1,
+    "buyRank": 64,
     "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": -69,
-    "raBooked": true
+    "playDelta": 0,
+    "buyDelta": null,
+    "raBooked": false
   },
   {
     "artist": "Narciss",
     "genre": "Techno",
-    "playRank": 56,
-    "buyRank": 196,
+    "playRank": 64,
+    "buyRank": 299,
     "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": -39,
-    "raBooked": false
-  },
-  {
-    "artist": "Hug",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 68,
-    "buyRank": 232,
-    "signal": "dj-play",
-    "playDelta": 4,
-    "buyDelta": -181,
-    "raBooked": false
-  },
-  {
-    "artist": "Tinlicker",
-    "genre": "Melodic Techno",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
+    "playDelta": -8,
+    "buyDelta": -103,
     "raBooked": false
   },
   {
@@ -50,19 +30,9 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
     "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 3,
-    "buyDelta": null,
-    "raBooked": true
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -73,16 +43,26 @@
   {
     "artist": "Angelo Ferreri",
     "genre": "House",
-    "playRank": 5,
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": 1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -92,7 +72,17 @@
     "raBooked": false
   },
   {
-    "artist": "Jason Rivas",
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 7,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": ".wD",
     "genre": "House",
     "playRank": null,
     "buyRank": 1,
@@ -103,19 +93,19 @@
     "raBooked": false
   },
   {
-    "artist": "Music Atom",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Norbert Hinz",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "S.M.A.M.B.",
-    "genre": "Techno",
+    "artist": "Galezard Project",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -125,8 +115,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tookroom",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Ger Electronic",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -136,8 +126,8 @@
     "raBooked": false
   },
   {
-    "artist": "YUKA MORIKAWA",
-    "genre": "Techno",
+    "artist": "Mille Malthe",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -147,8 +137,8 @@
     "raBooked": false
   },
   {
-    "artist": "Emrah Balkan",
-    "genre": "Melodic Techno",
+    "artist": "Yohaku Stillness",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
