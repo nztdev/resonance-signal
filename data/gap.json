@@ -3,21 +3,33 @@
     "artist": "Tinlicker",
     "genre": "Organic / Downtempo",
     "playRank": 1,
-    "buyRank": 64,
+    "buyRank": 90,
     "signal": "dj-play",
     "playDelta": 0,
-    "buyDelta": null,
+    "buyDelta": -26,
     "raBooked": false
   },
   {
-    "artist": "Narciss",
-    "genre": "Techno",
-    "playRank": 64,
-    "buyRank": 299,
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 26,
+    "buyRank": 194,
     "signal": "dj-play",
-    "playDelta": -8,
-    "buyDelta": -103,
-    "raBooked": false
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Hug",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 68,
+    "buyRank": 223,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
   },
   {
     "artist": "thds",
@@ -30,9 +42,29 @@
     "raBooked": false
   },
   {
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 3,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
     "artist": "Yoshiko",
     "genre": "Hard Techno",
-    "playRank": 3,
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -43,32 +75,11 @@
   {
     "artist": "Angelo Ferreri",
     "genre": "House",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 1,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": -1,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": null,
+    "playDelta": -2,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
@@ -77,15 +88,59 @@
     "playRank": 7,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": ".wD",
-    "genre": "House",
+    "artist": "Jaques Le Noir",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Dzik",
+    "genre": "Tech House",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "JCH UP",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Dylan Debut",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "MATRYOSHKADOLL",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -96,55 +151,10 @@
     "artist": "Norbert Hinz",
     "genre": "Organic / Downtempo",
     "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Galezard Project",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Ger Electronic",
-    "genre": "Tech House",
-    "playRank": null,
-    "buyRank": 4,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Mille Malthe",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 5,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Yohaku Stillness",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -4,
     "raBooked": false
   }
 ]
