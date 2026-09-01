@@ -3,17 +3,17 @@
     "artist": "Tinlicker",
     "genre": "Organic / Downtempo",
     "playRank": 1,
-    "buyRank": 90,
+    "buyRank": 278,
     "signal": "dj-play",
     "playDelta": 0,
-    "buyDelta": -26,
+    "buyDelta": -188,
     "raBooked": false
   },
   {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 26,
-    "buyRank": 194,
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 16,
+    "buyRank": 238,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -21,14 +21,46 @@
     "raBooked": true
   },
   {
-    "artist": "Hug",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 68,
-    "buyRank": 223,
+    "artist": "Face",
+    "genre": "Hard Techno",
+    "playRank": 80,
+    "buyRank": 28,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 47,
+    "buyRank": 139,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Nicky Roland",
+    "genre": "House",
+    "playRank": 73,
+    "buyRank": 114,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Hug",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 75,
+    "buyRank": 351,
+    "signal": "dj-play",
+    "playDelta": -7,
+    "buyDelta": -128,
     "raBooked": true
   },
   {
@@ -42,12 +74,12 @@
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 3,
+    "playDelta": 4,
     "buyDelta": null,
     "raBooked": false
   },
@@ -57,44 +89,45 @@
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
+    "playDelta": -2,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 7,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Jaques Le Noir",
-    "genre": "Tech House",
+    "artist": "Cafe De Anatolia",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -104,8 +137,8 @@
     "raBooked": false
   },
   {
-    "artist": "Dzik",
-    "genre": "Tech House",
+    "artist": "Music Atom",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -115,8 +148,8 @@
     "raBooked": false
   },
   {
-    "artist": "JCH UP",
-    "genre": "Techno",
+    "artist": "Pablo Patch",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -126,8 +159,8 @@
     "raBooked": false
   },
   {
-    "artist": "Dylan Debut",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Oziriz",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -137,8 +170,8 @@
     "raBooked": false
   },
   {
-    "artist": "MATRYOSHKADOLL",
-    "genre": "Techno",
+    "artist": "Del Torto",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -154,7 +187,7 @@
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -4,
+    "buyDelta": 0,
     "raBooked": false
   }
 ]
