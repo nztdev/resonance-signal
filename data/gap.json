@@ -1,73 +1,19 @@
 [
   {
-    "artist": "Tinlicker",
-    "genre": "Melodic Techno",
-    "playRank": 2,
-    "buyRank": 235,
-    "signal": "dj-play",
-    "playDelta": -1,
-    "buyDelta": 43,
-    "raBooked": true
-  },
-  {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 13,
-    "buyRank": 315,
+    "playRank": 12,
+    "buyRank": 188,
     "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": -77,
+    "playDelta": 1,
+    "buyDelta": 127,
     "raBooked": true
   },
   {
-    "artist": "Niki",
+    "artist": "Above & Beyond",
     "genre": "Trance",
-    "playRank": 18,
-    "buyRank": 135,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Alice Deejay",
-    "genre": "Trance",
-    "playRank": 27,
-    "buyRank": 385,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Alan Fitzpatrick",
-    "genre": "Tech House",
-    "playRank": 28,
-    "buyRank": 235,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Goom Gum",
-    "genre": "Melodic Techno",
-    "playRank": 33,
-    "buyRank": 327,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Hava",
-    "genre": "Hard Techno",
-    "playRank": 72,
-    "buyRank": 41,
+    "playRank": 56,
+    "buyRank": 12,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -75,11 +21,22 @@
     "raBooked": false
   },
   {
-    "artist": "JohNick",
-    "genre": "House",
-    "playRank": 42,
-    "buyRank": 235,
+    "artist": "Birds Of Mind",
+    "genre": "Organic / Downtempo",
+    "playRank": 30,
+    "buyRank": 301,
     "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Face",
+    "genre": "Hard Techno",
+    "playRank": 77,
+    "buyRank": 37,
+    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
@@ -91,14 +48,34 @@
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
+    "playDelta": 0,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Tinlicker",
+    "genre": "Organic / Downtempo",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 0,
+    "buyDelta": null,
+    "raBooked": true
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
     "playDelta": 1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
-    "playRank": 3,
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 3,
@@ -106,19 +83,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -132,23 +98,12 @@
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
-    "playRank": 7,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": -3,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Jaques Le Noir",
+    "artist": "Cafe De Anatolia",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
@@ -156,11 +111,11 @@
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Igor Pumphonia",
-    "genre": "Melodic Techno",
+    "artist": "M.E.M.O.",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -170,21 +125,10 @@
     "raBooked": false
   },
   {
-    "artist": "CcoSscou",
-    "genre": "Afro House",
+    "artist": "Dan Soden",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Kate Ayelet",
-    "genre": "Trance",
-    "playRank": null,
-    "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -192,8 +136,19 @@
     "raBooked": true
   },
   {
-    "artist": "Mariochainsaw",
-    "genre": "Deep House",
+    "artist": "Mønölitio",
+    "genre": "Organic / Downtempo",
+    "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Nur Nur",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -203,8 +158,8 @@
     "raBooked": false
   },
   {
-    "artist": "Leo (BR)",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Jim Carson",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
