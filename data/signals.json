@@ -1,22 +1,22 @@
 [
   {
-    "text": "Trance",
-    "sub": "+32% this week",
+    "text": "Tech House",
+    "sub": "+63% this week",
     "c": "#6bcb77"
   },
   {
-    "text": "Hard Techno",
-    "sub": "-31% this week",
-    "c": "#7b6cff"
+    "text": "Organic / Downtempo",
+    "sub": "Steady build",
+    "c": "#ffd93d"
   },
   {
-    "text": "Minimal / Deep Tech",
-    "sub": "-31% this week",
-    "c": "#7b6cff"
+    "text": "Techno",
+    "sub": "Steady build",
+    "c": "#ffd93d"
   },
   {
-    "text": "Afro House",
-    "sub": "-31% this week",
-    "c": "#7b6cff"
+    "text": "Deep House",
+    "sub": "Steady build",
+    "c": "#ffd93d"
   }
 ]
