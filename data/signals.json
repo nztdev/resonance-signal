@@ -1,22 +1,22 @@
 [
   {
-    "text": "Tech House",
-    "sub": "+63% this week",
+    "text": "Melodic Techno",
+    "sub": "+31% this week",
     "c": "#6bcb77"
   },
   {
-    "text": "Organic / Downtempo",
-    "sub": "Steady build",
-    "c": "#ffd93d"
-  },
-  {
-    "text": "Techno",
-    "sub": "Steady build",
-    "c": "#ffd93d"
+    "text": "Tech House",
+    "sub": "-32% this week",
+    "c": "#7b6cff"
   },
   {
     "text": "Deep House",
-    "sub": "Steady build",
-    "c": "#ffd93d"
+    "sub": "+31% this week",
+    "c": "#6bcb77"
+  },
+  {
+    "text": "Minimal / Deep Tech",
+    "sub": "+31% this week",
+    "c": "#6bcb77"
   }
 ]

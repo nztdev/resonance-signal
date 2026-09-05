@@ -1,47 +1,24 @@
 [
   {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 3,
-    "buyRank": 88,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Narciss",
-    "genre": "Techno",
-    "playRank": 57,
-    "buyRank": 35,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 38,
-    "buyRank": 324,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 69,
-    "buyRank": 326,
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 25,
+    "buyRank": 119,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": true
+  },
+  {
+    "artist": "Narciss",
+    "genre": "Techno",
+    "playRank": 61,
+    "buyRank": 25,
+    "signal": "fan-buy",
+    "playDelta": -4,
+    "buyDelta": 10,
+    "raBooked": false
   },
   {
     "artist": "thds",
@@ -55,7 +32,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -64,60 +41,59 @@
     "raBooked": true
   },
   {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 3,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
     "artist": "nbsplv",
     "genre": "Deep House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": -2,
     "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "Yoshiko",
     "genre": "Hard Techno",
-    "playRank": 7,
+    "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -3,
+    "playDelta": 1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Dan Soden",
-    "genre": "Techno",
+    "artist": "JCH UP",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 2,
-    "raBooked": true
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
   },
   {
-    "artist": "Rainforest Project",
-    "genre": "Techno",
+    "artist": "dbasser",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -127,8 +103,8 @@
     "raBooked": false
   },
   {
-    "artist": "Amelie Lens",
-    "genre": "Techno",
+    "artist": "Jason Still",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -138,21 +114,10 @@
     "raBooked": false
   },
   {
-    "artist": "Arshakyan",
-    "genre": "Organic / Downtempo",
+    "artist": "Trolls",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Adam King (HU)",
-    "genre": "Techno",
-    "playRank": null,
-    "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -162,6 +127,16 @@
   {
     "artist": "SIXSENSE",
     "genre": "Deep House",
+    "playRank": null,
+    "buyRank": 5,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": 1,
+    "raBooked": false
+  },
+  {
+    "artist": "Tobz",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
