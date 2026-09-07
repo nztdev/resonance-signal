@@ -1,33 +1,33 @@
 [
   {
-    "genre": "Melodic Techno",
+    "genre": "Minimal / Deep Tech",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 83,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -2,
+    "buyPctDelta": 26,
     "isNew": false,
     "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Jason Still"
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Format Groove"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Afro House",
+    "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 34,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -54,
+    "buyPctDelta": 10,
     "isNew": false,
     "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "thds",
-      "El Cumbias Mx"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Atomic Pulse"
     ],
     "delta": "Steady build"
   },
@@ -43,55 +43,7 @@
       "Angelo Ferreri",
       "Jansons",
       "Midnight City",
-      "ARSANIT 2.0."
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 3,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Grimes77"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 62,
-    "playPctDelta": 0,
-    "buyPctDelta": -18,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Ricardo Aya"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 83,
-    "playPctDelta": 0,
-    "buyPctDelta": -2,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Unklevon",
-      "Morbe",
-      "Synapse Overdrive"
+      "Seumas Norv"
     ],
     "delta": "Steady build"
   },
@@ -99,47 +51,47 @@
     "genre": "Tech House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 74,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -14,
+    "buyPctDelta": 14,
     "isNew": false,
     "leaders": [
       "Adriatique",
       "Gesaffelstein",
       "Laszlo",
-      "Stereoimagery"
+      "Seumas Norv"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 85,
+    "buyPct": 73,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": 39,
     "isNew": false,
     "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
       "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Arshakyan"
+      "El Cumbias Mx"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Deep House",
+    "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 78,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -10,
+    "buyPctDelta": 5,
     "isNew": false,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Atomic Pulse"
+      "Psyk",
+      "Unklevon",
+      "Morbe",
+      "Israel Toledo"
     ],
     "delta": "Steady build"
   },
@@ -155,6 +107,54 @@
       "Yoshiko",
       "The Prophet",
       "Isyti"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 3,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Arshakyan"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Andres Selada"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 5,
+    "isNew": false,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Jason Still"
     ],
     "delta": "Steady build"
   }
