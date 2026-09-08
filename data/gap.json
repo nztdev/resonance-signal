@@ -1,50 +1,60 @@
 [
   {
-    "artist": "Jansons",
-    "genre": "House",
-    "playRank": 12,
-    "buyRank": 360,
-    "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": -200,
-    "raBooked": false
-  },
-  {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
     "playRank": 15,
-    "buyRank": 115,
+    "buyRank": 209,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Narciss",
-    "genre": "Techno",
-    "playRank": 62,
-    "buyRank": 23,
-    "signal": "fan-buy",
-    "playDelta": 0,
-    "buyDelta": 2,
+    "artist": "Jansons",
+    "genre": "House",
+    "playRank": 16,
+    "buyRank": 228,
+    "signal": "dj-play",
+    "playDelta": -4,
+    "buyDelta": 132,
     "raBooked": false
   },
   {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 24,
-    "buyRank": 85,
+    "playRank": 19,
+    "buyRank": 116,
     "signal": "dj-play",
-    "playDelta": -4,
-    "buyDelta": 209,
+    "playDelta": 5,
+    "buyDelta": -31,
     "raBooked": true
+  },
+  {
+    "artist": "Narciss",
+    "genre": "Techno",
+    "playRank": 56,
+    "buyRank": 27,
+    "signal": "fan-buy",
+    "playDelta": 6,
+    "buyDelta": -4,
+    "raBooked": false
   },
   {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 42,
-    "buyRank": 233,
+    "playRank": 37,
+    "buyRank": 333,
+    "signal": "dj-play",
+    "playDelta": 5,
+    "buyDelta": -100,
+    "raBooked": false
+  },
+  {
+    "artist": "tebra",
+    "genre": "Organic / Downtempo",
+    "playRank": 68,
+    "buyRank": 104,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -52,19 +62,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 68,
-    "buyRank": 237,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -83,9 +82,19 @@
     "raBooked": true
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 3,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -94,39 +103,29 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 4,
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "Mobi Dixon",
     "genre": "Afro House",
-    "playRank": 5,
+    "playRank": 6,
     "buyRank": null,
-    "signal": "underground",
+    "signal": "dj-play",
     "playDelta": -1,
     "buyDelta": null,
     "raBooked": true
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Seumas Norv",
-    "genre": "House",
+    "artist": "Music Atom",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -136,8 +135,8 @@
     "raBooked": false
   },
   {
-    "artist": "Dzik",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Tech Mama",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -147,8 +146,8 @@
     "raBooked": false
   },
   {
-    "artist": "JCH UP",
-    "genre": "House",
+    "artist": "Cafe De Anatolia",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -158,8 +157,8 @@
     "raBooked": false
   },
   {
-    "artist": "Format Groove",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Ibiza Son",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -169,8 +168,8 @@
     "raBooked": false
   },
   {
-    "artist": "Atomic Pulse",
-    "genre": "Deep House",
+    "artist": "Techno Lovers",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -180,13 +179,14 @@
     "raBooked": false
   },
   {
-    "artist": "El Cumbias Mx",
-    "genre": "Afro House",
+    "artist": "Arshakyan",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -2,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   }
 ]
