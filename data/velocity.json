@@ -1,96 +1,17 @@
 [
   {
-    "genre": "Techno",
+    "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 78,
-    "playPctDelta": 0,
-    "buyPctDelta": -10,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Unklevon",
-      "Morbe",
-      "Techno Lovers"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 87,
     "playPctDelta": 0,
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Arshakyan"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Andres Selada"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Alex Beam"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 53,
-    "playPctDelta": 0,
-    "buyPctDelta": -20,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "thds",
-      "Roman Donovan"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 25,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Yoshiko",
-      "The Prophet",
-      "Isyti"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Atomic Pulse"
     ],
     "delta": "Steady build"
   },
@@ -103,8 +24,8 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Adriatique",
       "Gesaffelstein",
+      "Adriatique",
       "Laszlo",
       "Seumas Norv"
     ],
@@ -127,34 +48,113 @@
     "delta": "Steady build"
   },
   {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Dream Travel"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Tibetania"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 76,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -12,
+    "buyPctDelta": 12,
     "isNew": false,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
       "Midnight City",
-      "No Reclaim"
+      "Seumas Norv"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Deep House",
+    "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 87,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -1,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Atomic Pulse"
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "w.ill"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 25,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Yoshiko",
+      "Isyti",
+      "The Prophet"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 10,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Teo",
+      "datasæt"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 84,
+    "playPctDelta": 0,
+    "buyPctDelta": 31,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "thds",
+      "No Reclaim"
     ],
     "delta": "Steady build"
   }
