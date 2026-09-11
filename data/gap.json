@@ -1,37 +1,62 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 17,
-    "buyRank": 163,
+    "artist": "Jansons",
+    "genre": "House",
+    "playRank": 11,
+    "buyRank": 81,
     "signal": "dj-play",
-    "playDelta": -4,
-    "buyDelta": 202,
-    "raBooked": true
-  },
-  {
-    "artist": "Narciss",
-    "genre": "Techno",
-    "playRank": 67,
-    "buyRank": 29,
-    "signal": "fan-buy",
-    "playDelta": 6,
-    "buyDelta": 0,
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Jamie Jones",
-    "genre": "Tech House",
-    "playRank": 30,
-    "buyRank": 36,
+    "artist": "HUGEL & SOLTO (FR)",
+    "genre": "Afro House",
+    "playRank": 51,
+    "buyRank": 12,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Saturn",
+    "genre": "Hard Techno",
+    "playRank": 45,
+    "buyRank": 240,
     "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": 348,
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Florian Gasperini",
+    "genre": "Organic / Downtempo",
+    "playRank": 49,
+    "buyRank": 109,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Steve Aoki",
+    "genre": "Tech House",
+    "playRank": 52,
+    "buyRank": 250,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -50,13 +75,14 @@
     "raBooked": true
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
@@ -65,46 +91,44 @@
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
     "playDelta": -2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Dan Soden",
-    "genre": "Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": true
+  },
+  {
+    "artist": "Vortex",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Afro House",
+    "artist": "Nae:Tek",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -114,8 +138,8 @@
     "raBooked": false
   },
   {
-    "artist": "Daimon Live",
-    "genre": "Deep House",
+    "artist": "Franky Carbon-e",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -125,8 +149,8 @@
     "raBooked": false
   },
   {
-    "artist": "a ray",
-    "genre": "Techno",
+    "artist": "Tropa da W&S",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -136,8 +160,8 @@
     "raBooked": false
   },
   {
-    "artist": "Everyone",
-    "genre": "House",
+    "artist": "Melt",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -147,8 +171,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tobz",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
