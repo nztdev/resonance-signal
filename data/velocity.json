@@ -1,6 +1,22 @@
 [
   {
-    "genre": "House",
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 87,
+    "playPctDelta": 0,
+    "buyPctDelta": -1,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Calvin O'Commor"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -8,10 +24,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Oziriz"
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "thds",
+      "MD DJ"
     ],
     "delta": "Steady build"
   },
@@ -27,7 +43,22 @@
       "Psyk",
       "Morbe",
       "Teo",
-      "Melt"
+      "DJ Robert Anthony"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 25,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Yoshiko",
+      "Isyti",
+      "The Prophet"
     ],
     "delta": "Steady build"
   },
@@ -48,27 +79,12 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Hard Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 25,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Yoshiko",
-      "Isyti",
-      "The Prophet"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 85,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -3,
     "isNew": false,
     "leaders": [
       "Kasablanca",
@@ -90,23 +106,7 @@
       "Sara Landry",
       "Anna",
       "Max Cooper",
-      "Nae:Tek"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "thds",
-      "La Surada"
+      "Erratic"
     ],
     "delta": "Steady build"
   },
@@ -127,18 +127,18 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Trance",
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 84,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -4,
     "isNew": false,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Calvin O'Commor"
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "zemizemisongsong"
     ],
     "delta": "Steady build"
   },
