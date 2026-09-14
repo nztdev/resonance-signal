@@ -1,53 +1,5 @@
 [
   {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 87,
-    "playPctDelta": 0,
-    "buyPctDelta": -1,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Calvin O'Commor"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "thds",
-      "MD DJ"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Teo",
-      "DJ Robert Anthony"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "Hard Techno",
     "status": "emerging",
     "playPct": 56,
@@ -79,18 +31,50 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Melodic Techno",
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 85,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -3,
+    "buyPctDelta": 4,
     "isNew": false,
     "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Traumfabrik"
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "G-Prod"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 57,
+    "playPctDelta": 0,
+    "buyPctDelta": -31,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "thds",
+      "Roman Donovan"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 1,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Robert B. (GT)"
     ],
     "delta": "Steady build"
   },
@@ -106,7 +90,7 @@
       "Sara Landry",
       "Anna",
       "Max Cooper",
-      "Erratic"
+      "Dave Brennan"
     ],
     "delta": "Steady build"
   },
@@ -122,23 +106,7 @@
       "nbsplv",
       "Lost Frequencies",
       "Kerri Chandler",
-      "風土策展人"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 84,
-    "playPctDelta": 0,
-    "buyPctDelta": -4,
-    "isNew": false,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "zemizemisongsong"
+      "Pillotti"
     ],
     "delta": "Steady build"
   },
@@ -154,7 +122,39 @@
       "Gesaffelstein",
       "Adriatique",
       "Laszlo",
-      "BRITHO"
+      "Dave Maorz"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Teo",
+      "Werner Fisherman"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 3,
+    "isNew": false,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Turkish Airwaves"
     ],
     "delta": "Steady build"
   }

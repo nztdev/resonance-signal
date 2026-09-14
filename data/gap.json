@@ -1,59 +1,38 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 15,
-    "buyRank": 368,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 19,
-    "buyRank": 227,
+    "playRank": 21,
+    "buyRank": 91,
     "signal": "dj-play",
-    "playDelta": 6,
-    "buyDelta": 93,
+    "playDelta": -2,
+    "buyDelta": 136,
     "raBooked": true
-  },
-  {
-    "artist": "Unklevon",
-    "genre": "Techno",
-    "playRank": 29,
-    "buyRank": 344,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Saturn",
-    "genre": "Hard Techno",
-    "playRank": 39,
-    "buyRank": 359,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": -79,
-    "raBooked": false
   },
   {
     "artist": "Florian Gasperini",
     "genre": "Organic / Downtempo",
-    "playRank": 50,
-    "buyRank": 107,
+    "playRank": 47,
+    "buyRank": 88,
     "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": -1,
+    "playDelta": 3,
+    "buyDelta": 19,
+    "raBooked": false
+  },
+  {
+    "artist": "Robert Miles",
+    "genre": "Trance",
+    "playRank": 50,
+    "buyRank": 127,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -72,9 +51,19 @@
     "raBooked": true
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
     "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 3,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -85,17 +74,6 @@
   {
     "artist": "Mobi Dixon",
     "genre": "Afro House",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -104,17 +82,17 @@
     "raBooked": false
   },
   {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -1,
+    "playDelta": -3,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Jose Sousa",
+    "artist": "Joe Le Blanc",
     "genre": "House",
     "playRank": null,
     "buyRank": 1,
@@ -125,8 +103,8 @@
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "Techno",
+    "artist": "Dzik",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -136,8 +114,8 @@
     "raBooked": false
   },
   {
-    "artist": "Calvin O'Commor",
-    "genre": "Trance",
+    "artist": "Gorillag",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -147,8 +125,8 @@
     "raBooked": false
   },
   {
-    "artist": "DJ Robert Anthony",
-    "genre": "Techno",
+    "artist": "Cassete Stereo",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -164,17 +142,18 @@
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -1,
+    "buyDelta": 0,
     "raBooked": false
   },
   {
-    "artist": "Traumfabrik",
-    "genre": "Melodic Techno",
+    "artist": "G-Prod",
+    "genre": "House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -1,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   }
 ]
