@@ -1,33 +1,54 @@
 [
   {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 21,
-    "buyRank": 91,
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 5,
+    "buyRank": 34,
     "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": 136,
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 12,
+    "buyRank": 215,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": true
   },
   {
-    "artist": "Florian Gasperini",
-    "genre": "Organic / Downtempo",
-    "playRank": 47,
-    "buyRank": 88,
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 23,
+    "buyRank": 342,
     "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": 19,
-    "raBooked": false
+    "playDelta": -2,
+    "buyDelta": -251,
+    "raBooked": true
   },
   {
     "artist": "Robert Miles",
     "genre": "Trance",
     "playRank": 50,
-    "buyRank": 127,
+    "buyRank": 241,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 0,
+    "buyDelta": -114,
+    "raBooked": false
+  },
+  {
+    "artist": "Florian Gasperini",
+    "genre": "Organic / Downtempo",
+    "playRank": 51,
+    "buyRank": 103,
+    "signal": "dj-play",
+    "playDelta": -4,
+    "buyDelta": -15,
     "raBooked": false
   },
   {
@@ -51,30 +72,19 @@
     "raBooked": true
   },
   {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 3,
+    "playDelta": 1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
     "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
-    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": -1,
@@ -87,12 +97,23 @@
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -3,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Joe Le Blanc",
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 7,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Cafe De Anatolia",
     "genre": "House",
     "playRank": null,
     "buyRank": 1,
@@ -103,8 +124,8 @@
     "raBooked": false
   },
   {
-    "artist": "Dzik",
-    "genre": "Afro House",
+    "artist": "Jesse James Ferrell",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -114,8 +135,8 @@
     "raBooked": false
   },
   {
-    "artist": "Gorillag",
-    "genre": "Afro House",
+    "artist": "Superboingo",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -125,8 +146,8 @@
     "raBooked": false
   },
   {
-    "artist": "Cassete Stereo",
-    "genre": "Tech House",
+    "artist": "Pillotti",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -136,24 +157,24 @@
     "raBooked": false
   },
   {
-    "artist": "Tibetania",
-    "genre": "Organic / Downtempo",
+    "artist": "Joseph Brittanni",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0,
-    "raBooked": false
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
   },
   {
-    "artist": "G-Prod",
-    "genre": "House",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -1,
     "raBooked": false
   }
 ]
