@@ -1,53 +1,53 @@
 [
   {
-    "title": "Gesaffelstein",
-    "artist": "Tech House",
-    "plays": 1927,
-    "market": "GB",
+    "title": "Psyk",
+    "artist": "Techno",
+    "plays": 1937,
+    "market": "DE",
     "label": null,
     "heat": 0.96,
     "rank": 1,
-    "rankDelta": null,
-    "isNew": true
+    "rankDelta": 7,
+    "isNew": false
   },
   {
-    "title": "Angelo Ferreri",
-    "artist": "House",
-    "plays": 1925,
-    "market": "US",
+    "title": "Yoshiko",
+    "artist": "Hard Techno",
+    "plays": 1826,
+    "market": "DE",
     "label": null,
     "heat": 0.91,
     "rank": 2,
-    "rankDelta": -1,
+    "rankDelta": 4,
+    "isNew": false
+  },
+  {
+    "title": "Tiësto",
+    "artist": "Trance",
+    "plays": 1816,
+    "market": "NL",
+    "label": null,
+    "heat": 0.87,
+    "rank": 3,
+    "rankDelta": 4,
+    "isNew": false
+  },
+  {
+    "title": "Sara Landry",
+    "artist": "Minimal / Deep Tech",
+    "plays": 1795,
+    "market": "NL",
+    "label": null,
+    "heat": 0.82,
+    "rank": 4,
+    "rankDelta": 1,
     "isNew": false
   },
   {
     "title": "Mobi Dixon",
     "artist": "Afro House",
-    "plays": 1915,
+    "plays": 1783,
     "market": "ZA",
-    "label": null,
-    "heat": 0.87,
-    "rank": 3,
-    "rankDelta": 1,
-    "isNew": false
-  },
-  {
-    "title": "Kasablanca",
-    "artist": "Melodic Techno",
-    "plays": 1889,
-    "market": "IT",
-    "label": null,
-    "heat": 0.82,
-    "rank": 4,
-    "rankDelta": null,
-    "isNew": true
-  },
-  {
-    "title": "Sara Landry",
-    "artist": "Minimal / Deep Tech",
-    "plays": 1784,
-    "market": "NL",
     "label": null,
     "heat": 0.78,
     "rank": 5,
@@ -55,58 +55,58 @@
     "isNew": false
   },
   {
-    "title": "Yoshiko",
-    "artist": "Hard Techno",
-    "plays": 1773,
-    "market": "DE",
+    "title": "Angelo Ferreri",
+    "artist": "House",
+    "plays": 1709,
+    "market": "US",
     "label": null,
     "heat": 0.73,
     "rank": 6,
-    "rankDelta": 4,
+    "rankDelta": -4,
     "isNew": false
-  },
-  {
-    "title": "Tiësto",
-    "artist": "Trance",
-    "plays": 1744,
-    "market": "NL",
-    "label": null,
-    "heat": 0.69,
-    "rank": 7,
-    "rankDelta": -5,
-    "isNew": false
-  },
-  {
-    "title": "Psyk",
-    "artist": "Techno",
-    "plays": 1716,
-    "market": "DE",
-    "label": null,
-    "heat": 0.64,
-    "rank": 8,
-    "rankDelta": 0,
-    "isNew": false
-  },
-  {
-    "title": "Adriatique",
-    "artist": "Tech House",
-    "plays": 1679,
-    "market": "GB",
-    "label": null,
-    "heat": 0.6,
-    "rank": 9,
-    "rankDelta": null,
-    "isNew": true
   },
   {
     "title": "thds",
     "artist": "Organic / Downtempo",
-    "plays": 1672,
+    "plays": 1679,
     "market": "CO",
+    "label": null,
+    "heat": 0.69,
+    "rank": 7,
+    "rankDelta": 3,
+    "isNew": false
+  },
+  {
+    "title": "Kasablanca",
+    "artist": "Melodic Techno",
+    "plays": 1678,
+    "market": "IT",
+    "label": null,
+    "heat": 0.64,
+    "rank": 8,
+    "rankDelta": -4,
+    "isNew": false
+  },
+  {
+    "title": "Gesaffelstein",
+    "artist": "Tech House",
+    "plays": 1603,
+    "market": "GB",
+    "label": null,
+    "heat": 0.6,
+    "rank": 9,
+    "rankDelta": -8,
+    "isNew": false
+  },
+  {
+    "title": "Tinlicker",
+    "artist": "Melodic Techno",
+    "plays": 1581,
+    "market": "IT",
     "label": null,
     "heat": 0.55,
     "rank": 10,
-    "rankDelta": -4,
-    "isNew": false
+    "rankDelta": null,
+    "isNew": true
   }
 ]
