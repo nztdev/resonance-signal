@@ -1,106 +1,138 @@
 [
   {
-    "genre": "Organic / Downtempo",
-    "status": "rising",
-    "playPct": 88,
-    "buyPct": 88,
-    "playPctDelta": 32,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Cafe De Anatolia"
-    ],
-    "delta": "+32% this week"
-  },
-  {
-    "genre": "Trance",
-    "status": "cooling",
-    "playPct": 25,
-    "buyPct": 88,
-    "playPctDelta": -31,
-    "buyPctDelta": 5,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Joseph Brittanni"
-    ],
-    "delta": "-31% this week"
-  },
-  {
-    "genre": "Deep House",
-    "status": "cooling",
-    "playPct": 25,
-    "buyPct": 88,
-    "playPctDelta": -31,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Chronos"
-    ],
-    "delta": "-31% this week"
-  },
-  {
-    "genre": "House",
-    "status": "cooling",
-    "playPct": 25,
-    "buyPct": 88,
-    "playPctDelta": -31,
-    "buyPctDelta": 5,
-    "isNew": false,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "mRio"
-    ],
-    "delta": "-31% this week"
-  },
-  {
     "genre": "Melodic Techno",
-    "status": "cooling",
-    "playPct": 25,
+    "status": "rising",
+    "playPct": 56,
     "buyPct": 88,
-    "playPctDelta": -31,
+    "playPctDelta": 31,
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Kasablanca",
       "Tinlicker",
       "Goom Gum",
-      "Alex Beam"
+      "6RAJ"
     ],
-    "delta": "-31% this week"
+    "delta": "+31% this week"
+  },
+  {
+    "genre": "Techno",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 31,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Unklevon",
+      "Mozzy Rekorder"
+    ],
+    "delta": "+31% this week"
+  },
+  {
+    "genre": "House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 31,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Capone-N-Noreaga"
+    ],
+    "delta": "+31% this week"
+  },
+  {
+    "genre": "Afro House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 31,
+    "buyPctDelta": 53,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "Maesic",
+      "Lebz4NIK"
+    ],
+    "delta": "+31% this week"
   },
   {
     "genre": "Tech House",
-    "status": "cooling",
-    "playPct": 25,
+    "status": "rising",
+    "playPct": 56,
     "buyPct": 88,
-    "playPctDelta": -31,
+    "playPctDelta": 31,
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Gesaffelstein",
       "Adriatique",
       "Laszlo",
-      "Sopp"
+      "Melt"
     ],
-    "delta": "-31% this week"
+    "delta": "+31% this week"
+  },
+  {
+    "genre": "Deep House",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 31,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Mou5ZyZZ"
+    ],
+    "delta": "+31% this week"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "rising",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 31,
+    "buyPctDelta": 5,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Erratic"
+    ],
+    "delta": "+31% this week"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "cooling",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": -32,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Tibetania"
+    ],
+    "delta": "-32% this week"
   },
   {
     "genre": "Hard Techno",
-    "status": "cooling",
-    "playPct": 25,
+    "status": "rising",
+    "playPct": 56,
     "buyPct": 25,
-    "playPctDelta": -31,
+    "playPctDelta": 31,
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
@@ -108,54 +140,22 @@
       "The Prophet",
       "Isyti"
     ],
-    "delta": "-31% this week"
+    "delta": "+31% this week"
   },
   {
-    "genre": "Minimal / Deep Tech",
-    "status": "cooling",
-    "playPct": 25,
-    "buyPct": 83,
-    "playPctDelta": -31,
-    "buyPctDelta": 2,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Format Groove"
-    ],
-    "delta": "-31% this week"
-  },
-  {
-    "genre": "Afro House",
-    "status": "cooling",
-    "playPct": 25,
-    "buyPct": 35,
-    "playPctDelta": -31,
-    "buyPctDelta": -53,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "Maesic",
-      "Alberto Y Sus Teclados"
-    ],
-    "delta": "-31% this week"
-  },
-  {
-    "genre": "Techno",
-    "status": "cooling",
-    "playPct": 25,
+    "genre": "Trance",
+    "status": "rising",
+    "playPct": 56,
     "buyPct": 88,
-    "playPctDelta": -31,
+    "playPctDelta": 31,
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "Shemesh Vibes"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Glut und Asche"
     ],
-    "delta": "-31% this week"
+    "delta": "+31% this week"
   }
 ]
