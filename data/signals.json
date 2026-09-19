@@ -1,22 +1,22 @@
 [
   {
-    "text": "Melodic Techno",
-    "sub": "+31% this week",
-    "c": "#6bcb77"
-  },
-  {
-    "text": "Techno",
-    "sub": "+31% this week",
-    "c": "#6bcb77"
+    "text": "Trance",
+    "sub": "Steady build",
+    "c": "#ffd93d"
   },
   {
     "text": "House",
-    "sub": "+31% this week",
-    "c": "#6bcb77"
+    "sub": "Steady build",
+    "c": "#ffd93d"
   },
   {
-    "text": "Afro House",
-    "sub": "+31% this week",
-    "c": "#6bcb77"
+    "text": "Organic / Downtempo",
+    "sub": "Steady build",
+    "c": "#ffd93d"
+  },
+  {
+    "text": "Techno",
+    "sub": "Steady build",
+    "c": "#ffd93d"
   }
 ]
