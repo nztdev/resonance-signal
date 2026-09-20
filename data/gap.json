@@ -1,79 +1,38 @@
 [
   {
-    "artist": "Psyk",
+    "artist": "Teo",
     "genre": "Techno",
-    "playRank": 5,
-    "buyRank": 398,
-    "signal": "dj-play",
-    "playDelta": -1,
-    "buyDelta": -22,
-    "raBooked": false
-  },
-  {
-    "artist": "Niki",
-    "genre": "Trance",
-    "playRank": 19,
-    "buyRank": 376,
-    "signal": "dj-play",
-    "playDelta": 9,
-    "buyDelta": 10,
-    "raBooked": false
-  },
-  {
-    "artist": "Laszlo",
-    "genre": "Tech House",
-    "playRank": 23,
-    "buyRank": 320,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": -181,
-    "raBooked": false
-  },
-  {
-    "artist": "Steve Aoki",
-    "genre": "Tech House",
-    "playRank": 64,
-    "buyRank": 112,
+    "playRank": 30,
+    "buyRank": 168,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
-  },
-  {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 73,
-    "buyRank": 210,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -83,39 +42,39 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
-    "playRank": 7,
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 5,
     "buyRank": null,
-    "signal": "dj-play",
+    "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "21 ROOM",
-    "genre": "House",
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": 1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "ARSANIT Tech",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -125,19 +84,18 @@
     "raBooked": false
   },
   {
-    "artist": "ネオノスタルジカ - NeoNostalgica -",
-    "genre": "Trance",
+    "artist": "21 ROOM",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -1,
     "raBooked": false
   },
   {
-    "artist": "Underground Sound Diffusion",
-    "genre": "House",
+    "artist": "Oziriz",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -147,10 +105,21 @@
     "raBooked": false
   },
   {
-    "artist": "Tibetania",
-    "genre": "Organic / Downtempo",
+    "artist": "Lebz4NIK",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Melodic House Lovers",
+    "genre": "Melodic Techno",
+    "playRank": null,
+    "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -161,22 +130,10 @@
     "artist": "Bayled",
     "genre": "Techno",
     "playRank": null,
-    "buyRank": 5,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Tech House Lovers",
-    "genre": "Tech House",
-    "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -1,
     "raBooked": false
   }
 ]
