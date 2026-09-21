@@ -1,9 +1,63 @@
 [
   {
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 12,
+    "buyRank": 343,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Jansons",
+    "genre": "House",
+    "playRank": 15,
+    "buyRank": 327,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 30,
-    "buyRank": 168,
+    "playRank": 32,
+    "buyRank": 281,
+    "signal": "dj-play",
+    "playDelta": -2,
+    "buyDelta": -113,
+    "raBooked": false
+  },
+  {
+    "artist": "Alice Deejay",
+    "genre": "Trance",
+    "playRank": 33,
+    "buyRank": 289,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Robert Miles",
+    "genre": "Trance",
+    "playRank": 54,
+    "buyRank": 399,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 71,
+    "buyRank": 365,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -22,7 +76,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -36,14 +90,13 @@
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Sara Landry",
+    "genre": "Minimal / Deep Tech",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -53,28 +106,30 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "Tech House",
+    "artist": "Rasti'sLove",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -84,18 +139,19 @@
     "raBooked": false
   },
   {
-    "artist": "21 ROOM",
+    "artist": "Tarr Records",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -1,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Oziriz",
-    "genre": "Tech House",
+    "artist": "Minimal Stories",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -105,8 +161,8 @@
     "raBooked": false
   },
   {
-    "artist": "Lebz4NIK",
-    "genre": "Afro House",
+    "artist": "Acidmath",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -116,8 +172,8 @@
     "raBooked": false
   },
   {
-    "artist": "Melodic House Lovers",
-    "genre": "Melodic Techno",
+    "artist": "Antoine Pete",
+    "genre": "House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -127,13 +183,14 @@
     "raBooked": false
   },
   {
-    "artist": "Bayled",
+    "artist": "Izan Cramer",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -1,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   }
 ]
