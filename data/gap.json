@@ -1,10 +1,10 @@
 [
   {
-    "artist": "Stavroz",
-    "genre": "Organic / Downtempo",
-    "playRank": 18,
-    "buyRank": 354,
-    "signal": "dj-play",
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 45,
+    "buyRank": 30,
+    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
@@ -13,16 +13,16 @@
   {
     "artist": "Robert Miles",
     "genre": "Trance",
-    "playRank": 52,
-    "buyRank": 417,
+    "playRank": 53,
+    "buyRank": 353,
     "signal": "dj-play",
-    "playDelta": 2,
-    "buyDelta": -18,
+    "playDelta": -1,
+    "buyDelta": 64,
     "raBooked": false
   },
   {
-    "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "artist": "thds",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -31,8 +31,8 @@
     "raBooked": false
   },
   {
-    "artist": "thds",
-    "genre": "Afro House",
+    "artist": "Tinlicker",
+    "genre": "Melodic Techno",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -41,30 +41,28 @@
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 1,
     "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
     "raBooked": true
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -85,18 +83,17 @@
   },
   {
     "artist": "Cafe De Anatolia",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": 0,
     "raBooked": false
   },
   {
-    "artist": "MZA",
-    "genre": "Techno",
+    "artist": "Alex Beam",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -106,8 +103,8 @@
     "raBooked": false
   },
   {
-    "artist": "Jesse James Ferrell",
-    "genre": "House",
+    "artist": "Last Digital Frontier",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -127,8 +124,8 @@
     "raBooked": false
   },
   {
-    "artist": "Niefelsen",
-    "genre": "Trance",
+    "artist": "Post Covid Music",
+    "genre": "House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -138,8 +135,8 @@
     "raBooked": false
   },
   {
-    "artist": "STEEL UR GIRL",
-    "genre": "Afro House",
+    "artist": "JGon",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",

@@ -1,5 +1,21 @@
 [
   {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Unklevon",
+      "Morbe",
+      "Koen Groeneveld"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
@@ -11,12 +27,12 @@
       "Kasablanca",
       "Tinlicker",
       "Goom Gum",
-      "Cafe De Anatolia"
+      "Alex Beam"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Techno",
+    "genre": "Tech House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -24,26 +40,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "MZA"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Jesse James Ferrell"
+      "Gesaffelstein",
+      "Adriatique",
+      "Laszlo",
+      "Last Digital Frontier"
     ],
     "delta": "Steady build"
   },
@@ -51,20 +51,20 @@
     "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 70,
+    "buyPct": 73,
     "playPctDelta": 0,
-    "buyPctDelta": -17,
+    "buyPctDelta": 3,
     "isNew": false,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
-      "Kerri Chandler",
+      "Youandewan",
       "Acidmath"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Trance",
+    "genre": "Organic / Downtempo",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -72,10 +72,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Niefelsen"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Cafe De Anatolia"
     ],
     "delta": "Steady build"
   },
@@ -95,7 +95,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Tech House",
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -103,15 +103,15 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Gesaffelstein",
-      "Adriatique",
-      "Laszlo",
-      "Tech Mama"
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "Post Covid Music"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Afro House",
+    "genre": "Trance",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -119,10 +119,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "Maesic",
-      "STEEL UR GIRL"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "JGon"
     ],
     "delta": "Steady build"
   },
@@ -143,7 +143,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -151,10 +151,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
       "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Jago Alejandro Pascua"
+      "DJ Alex Soul"
     ],
     "delta": "Steady build"
   }
