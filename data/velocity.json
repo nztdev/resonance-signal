@@ -1,21 +1,5 @@
 [
   {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Unklevon",
-      "Morbe",
-      "Koen Groeneveld"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
@@ -27,7 +11,7 @@
       "Kasablanca",
       "Tinlicker",
       "Goom Gum",
-      "Alex Beam"
+      "Der Hase"
     ],
     "delta": "Steady build"
   },
@@ -43,54 +27,7 @@
       "Gesaffelstein",
       "Adriatique",
       "Laszlo",
-      "Last Digital Frontier"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Deep House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 73,
-    "playPctDelta": 0,
-    "buyPctDelta": 3,
-    "isNew": false,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Youandewan",
-      "Acidmath"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Cafe De Anatolia"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 25,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Yoshiko",
-      "The Prophet",
-      "Isyti"
+      "Evgeny Otto"
     ],
     "delta": "Steady build"
   },
@@ -106,7 +43,7 @@
       "Angelo Ferreri",
       "Jansons",
       "Midnight City",
-      "Post Covid Music"
+      "Pana Boy"
     ],
     "delta": "Steady build"
   },
@@ -138,7 +75,70 @@
       "Sara Landry",
       "Anna",
       "Max Cooper",
-      "Tobz"
+      "Gofreeze"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 76,
+    "playPctDelta": 0,
+    "buyPctDelta": 3,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Youandewan",
+      "SIXSENSE"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 25,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Yoshiko",
+      "The Prophet",
+      "Isyti"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Unklevon",
+      "Morbe",
+      "Charlotte de Witte"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Cafe De Anatolia"
     ],
     "delta": "Steady build"
   },
@@ -154,7 +154,7 @@
       "Mobi Dixon",
       "RAFFA GUIDO",
       "thds",
-      "DJ Alex Soul"
+      "Henry Fonda"
     ],
     "delta": "Steady build"
   }

@@ -1,23 +1,45 @@
 [
   {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 45,
-    "buyRank": 30,
-    "signal": "fan-buy",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 5,
+    "buyRank": 330,
+    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 13,
+    "buyRank": 395,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
     "artist": "Robert Miles",
     "genre": "Trance",
-    "playRank": 53,
-    "buyRank": 353,
+    "playRank": 49,
+    "buyRank": 415,
     "signal": "dj-play",
-    "playDelta": -1,
-    "buyDelta": 64,
+    "playDelta": 4,
+    "buyDelta": -62,
+    "raBooked": false
+  },
+  {
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 62,
+    "buyRank": 276,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
@@ -26,7 +48,7 @@
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
@@ -36,13 +58,13 @@
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -51,21 +73,21 @@
     "raBooked": true
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": 1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
-    "playRank": 5,
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 6,
     "buyRank": null,
-    "signal": "underground",
+    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
@@ -74,16 +96,16 @@
   {
     "artist": "nbsplv",
     "genre": "Deep House",
-    "playRank": 6,
+    "playRank": 7,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 0,
+    "playDelta": -1,
     "buyDelta": null,
     "raBooked": false
   },
   {
     "artist": "Cafe De Anatolia",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -92,8 +114,8 @@
     "raBooked": false
   },
   {
-    "artist": "Alex Beam",
-    "genre": "Melodic Techno",
+    "artist": "ARSANIT Tech",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -103,7 +125,7 @@
     "raBooked": false
   },
   {
-    "artist": "Last Digital Frontier",
+    "artist": "Dan Soden",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
@@ -114,18 +136,19 @@
     "raBooked": false
   },
   {
-    "artist": "Acidmath",
-    "genre": "Deep House",
+    "artist": "Der Hase",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Post Covid Music",
-    "genre": "House",
+    "artist": "Evgeny Otto",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -135,8 +158,8 @@
     "raBooked": false
   },
   {
-    "artist": "JGon",
-    "genre": "Trance",
+    "artist": "Pana Boy",
+    "genre": "House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
