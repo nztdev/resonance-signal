@@ -273,5 +273,60 @@
         "raPct": 0
       }
     }
+  },
+  {
+    "date": "2026-09-25",
+    "genres": {
+      "Tech House": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Minimal / Deep Tech": {
+        "playPct": 56,
+        "buyPct": 87,
+        "raPct": 55
+      },
+      "Trance": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Melodic Techno": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 55
+      },
+      "Deep House": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 55
+      },
+      "House": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Techno": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Hard Techno": {
+        "playPct": 56,
+        "buyPct": 25,
+        "raPct": 0
+      },
+      "Afro House": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Organic / Downtempo": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      }
+    }
   }
 ]
