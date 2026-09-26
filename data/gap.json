@@ -1,19 +1,9 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 11,
-    "buyRank": 184,
-    "signal": "dj-play",
-    "playDelta": 2,
-    "buyDelta": 211,
-    "raBooked": true
-  },
-  {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 52,
-    "buyRank": 299,
+    "artist": "Darude",
+    "genre": "Trance",
+    "playRank": 76,
+    "buyRank": 121,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -21,14 +11,15 @@
     "raBooked": false
   },
   {
-    "artist": "Tini",
-    "genre": "Deep House",
-    "playRank": 61,
-    "buyRank": 53,
-    "signal": "fan-buy",
-    "playDelta": 1,
-    "buyDelta": 223,
-    "raBooked": true
+    "artist": "tebra",
+    "genre": "Organic / Downtempo",
+    "playRank": 78,
+    "buyRank": 406,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
   },
   {
     "artist": "thds",
@@ -42,22 +33,23 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 0,
     "buyDelta": null,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
@@ -66,43 +58,45 @@
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": 0,
     "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "Kasablanca",
     "genre": "Melodic Techno",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": -2,
-    "buyDelta": null,
-    "raBooked": true
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 1,
+    "playDelta": -1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Dan Soden",
-    "genre": "Tech House",
+    "artist": "JCH UP",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 2,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Tibetania",
-    "genre": "Afro House",
+    "artist": "21 ROOM",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -112,8 +106,8 @@
     "raBooked": false
   },
   {
-    "artist": "Rainforest Project",
-    "genre": "Tech House",
+    "artist": "Porca Veia",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -123,7 +117,7 @@
     "raBooked": false
   },
   {
-    "artist": "Andy Jaymz",
+    "artist": "Aurell'Hanar Beats",
     "genre": "Trance",
     "playRank": null,
     "buyRank": 4,
@@ -134,8 +128,8 @@
     "raBooked": false
   },
   {
-    "artist": "Daphni",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Takayuki Iwasawa",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -145,8 +139,8 @@
     "raBooked": false
   },
   {
-    "artist": "Paul Stevens",
-    "genre": "Trance",
+    "artist": "John Almenara",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
