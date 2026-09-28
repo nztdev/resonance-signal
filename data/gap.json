@@ -1,9 +1,20 @@
 [
   {
-    "artist": "Darude",
-    "genre": "Trance",
-    "playRank": 76,
-    "buyRank": 121,
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 12,
+    "buyRank": 127,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Matt Lange",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 28,
+    "buyRank": 196,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -11,10 +22,10 @@
     "raBooked": false
   },
   {
-    "artist": "tebra",
-    "genre": "Organic / Downtempo",
-    "playRank": 78,
-    "buyRank": 406,
+    "artist": "Robert Miles",
+    "genre": "Trance",
+    "playRank": 53,
+    "buyRank": 189,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -33,7 +44,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -42,50 +53,49 @@
     "raBooked": true
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Yoshiko",
+    "genre": "Hard Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 2,
     "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Yoshiko",
-    "genre": "Hard Techno",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "Kasablanca",
     "genre": "Melodic Techno",
-    "playRank": 6,
+    "playRank": 4,
     "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": -1,
+    "signal": "underground",
+    "playDelta": 2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "JCH UP",
-    "genre": "Trance",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -2,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Format Groove",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -95,8 +105,8 @@
     "raBooked": false
   },
   {
-    "artist": "21 ROOM",
-    "genre": "House",
+    "artist": "SOHRAB BAHAEI",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -106,7 +116,7 @@
     "raBooked": false
   },
   {
-    "artist": "Porca Veia",
+    "artist": "Marcus Wade",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
@@ -117,8 +127,8 @@
     "raBooked": false
   },
   {
-    "artist": "Aurell'Hanar Beats",
-    "genre": "Trance",
+    "artist": "Midorii",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -128,8 +138,8 @@
     "raBooked": false
   },
   {
-    "artist": "Takayuki Iwasawa",
-    "genre": "Organic / Downtempo",
+    "artist": "Biomix",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -139,8 +149,8 @@
     "raBooked": false
   },
   {
-    "artist": "John Almenara",
-    "genre": "Melodic Techno",
+    "artist": "Obscura Science Labs",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
