@@ -1,6 +1,11 @@
 [
   {
-    "text": "Minimal / Deep Tech",
+    "text": "Organic / Downtempo",
+    "sub": "Steady build",
+    "c": "#ffd93d"
+  },
+  {
+    "text": "Hard Techno",
     "sub": "Steady build",
     "c": "#ffd93d"
   },
@@ -10,12 +15,7 @@
     "c": "#ffd93d"
   },
   {
-    "text": "Organic / Downtempo",
-    "sub": "Steady build",
-    "c": "#ffd93d"
-  },
-  {
-    "text": "Trance",
+    "text": "Afro House",
     "sub": "Steady build",
     "c": "#ffd93d"
   }

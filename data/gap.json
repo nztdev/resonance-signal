@@ -1,23 +1,23 @@
 [
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
-    "playRank": 17,
-    "buyRank": 193,
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 7,
+    "buyRank": 173,
+    "signal": "dj-play",
+    "playDelta": -2,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Steve Aoki",
+    "genre": "Tech House",
+    "playRank": 57,
+    "buyRank": 94,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Robert Miles",
-    "genre": "Trance",
-    "playRank": 49,
-    "buyRank": 337,
-    "signal": "dj-play",
-    "playDelta": 4,
-    "buyDelta": -148,
     "raBooked": false
   },
   {
@@ -41,8 +41,8 @@
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "Isyti",
+    "genre": "Hard Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -52,19 +52,18 @@
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": -1,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -79,12 +78,12 @@
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -2,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
+    "artist": "Tony Kairom",
     "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
@@ -95,7 +94,7 @@
     "raBooked": false
   },
   {
-    "artist": "Sergii Hertz",
+    "artist": "Giancarlo Zara",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
@@ -106,8 +105,8 @@
     "raBooked": false
   },
   {
-    "artist": "Mellodramatic",
-    "genre": "Deep House",
+    "artist": "Jaguar Paw",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -117,18 +116,19 @@
     "raBooked": false
   },
   {
-    "artist": "Format Groove",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Alex Beam",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -3,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Tech Mama",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Abstract Human",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -138,8 +138,8 @@
     "raBooked": false
   },
   {
-    "artist": "Takayuki Iwasawa",
-    "genre": "Organic / Downtempo",
+    "artist": "Moonlight Drifter",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
