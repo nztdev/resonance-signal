@@ -284,21 +284,40 @@ function renderResonanceConstellation(){
   var anchorRA={x:130,y:360,color:'var(--hot)',label:'Booking'};
   var anchorLF={x:550,y:360,color:'var(--accent)',label:'Listening'};
 
-  function jitter(seed){var x=Math.sin(seed*12.9898)*43758.5453;return (x-Math.floor(x)-0.5)*26;}
-
-  var nodes=data.map(function(r,i){
+  // Group artists by exact source-combination — they'd otherwise all
+  // compute to the identical base position. Each group is then packed
+  // using golden-angle (sunflower) spiral placement so members spread
+  // out evenly and never sit exactly on top of one another, however
+  // many share that combination.
+  var groups={};
+  data.forEach(function(r){
     var wBP=r.buyRank?1:0, wRA=r.raBooked?1:0, wLF=r.playRank?1:0;
     var total=wBP+wRA+wLF;
-    if(total===0)return null;
-    var px=(wBP*anchorBP.x+wRA*anchorRA.x+wLF*anchorLF.x)/total;
-    var py=(wBP*anchorBP.y+wRA*anchorRA.y+wLF*anchorLF.y)/total;
-    var seed=(r.artist||'').length+i;
-    px+=jitter(seed); py+=jitter(seed+7.3);
-    var radius=total===3?11:total===2?7.5:4.5;
-    var opacity=total===3?1:total===2?0.75:0.5;
-    var color=total===3?'var(--accent-5)':wBP&&!wRA&&!wLF?anchorBP.color:wRA&&!wBP&&!wLF?anchorRA.color:wLF&&!wBP&&!wRA?anchorLF.color:'var(--text-2)';
-    return {r:r,px:px,py:py,radius:radius,opacity:opacity,color:color,sources:total};
-  }).filter(Boolean);
+    if(total===0)return;
+    var key=wBP+''+wRA+''+wLF;
+    if(!groups[key])groups[key]={wBP:wBP,wRA:wRA,wLF:wLF,total:total,items:[]};
+    groups[key].items.push(r);
+  });
+
+  var GOLDEN_ANGLE=137.50776;
+  var nodes=[];
+  Object.keys(groups).forEach(function(key){
+    var g=groups[key];
+    var baseX=(g.wBP*anchorBP.x+g.wRA*anchorRA.x+g.wLF*anchorLF.x)/g.total;
+    var baseY=(g.wBP*anchorBP.y+g.wRA*anchorRA.y+g.wLF*anchorLF.y)/g.total;
+    var spacing=g.total===3?9:11; // tighter spread at centre where space is shared by all triple-matches
+    g.items.forEach(function(r,j){
+      var radius=spacing*Math.sqrt(j+0.5);
+      var angle=j*GOLDEN_ANGLE*Math.PI/180;
+      var px=baseX+radius*Math.cos(angle);
+      var py=baseY+radius*Math.sin(angle);
+      var nodeRadius=g.total===3?10:g.total===2?7:5;
+      var opacity=g.total===3?1:g.total===2?0.8:0.6;
+      var color=g.total===3?'var(--accent-5)':(g.wBP&&!g.wRA&&!g.wLF)?anchorBP.color:(g.wRA&&!g.wBP&&!g.wLF)?anchorRA.color:(g.wLF&&!g.wBP&&!g.wRA)?anchorLF.color:'var(--text-2)';
+      var sourceNames=[g.wBP?'Purchase':null,g.wRA?'Booking':null,g.wLF?'Listening':null].filter(Boolean).join(' + ');
+      nodes.push({r:r,px:px,py:py,radius:nodeRadius,opacity:opacity,color:color,sources:g.total,sourceNames:sourceNames});
+    });
+  });
 
   var anchorHtml=[anchorBP,anchorRA,anchorLF].map(function(a){
     return '<circle cx="'+a.x+'" cy="'+a.y+'" r="6" fill="'+a.color+'"/>'+
@@ -311,28 +330,40 @@ function renderResonanceConstellation(){
     return '<line x1="'+pair[0].x+'" y1="'+pair[0].y+'" x2="'+pair[1].x+'" y2="'+pair[1].y+'" stroke="var(--border)" stroke-width="0.5"/>';
   }).join('');
 
+  // Tap-to-show works on both touch and desktop (click); a slightly
+  // larger invisible hit-circle sits under each visible node so small
+  // points stay easy to tap on mobile without changing their look.
   var nodesHtml=nodes.map(function(n,i){
-    var title=n.r.artist+' — '+n.sources+' source'+(n.sources===1?'':'s')+' ('+n.r.genre+')';
-    return '<circle class="constellation-node" cx="'+n.px.toFixed(1)+'" cy="'+n.py.toFixed(1)+'" r="'+n.radius+'" fill="'+n.color+'" opacity="'+n.opacity+'" data-i="'+i+'" onmouseenter="showConstellationTip(event,'+i+')" onmouseleave="hideConstellationTip()"><title>'+title+'</title></circle>';
+    return '<circle cx="'+n.px.toFixed(1)+'" cy="'+n.py.toFixed(1)+'" r="'+(n.radius+6)+'" fill="transparent" class="constellation-node" data-i="'+i+'" onclick="showConstellationTip(event,'+i+')"></circle>'+
+      '<circle cx="'+n.px.toFixed(1)+'" cy="'+n.py.toFixed(1)+'" r="'+n.radius+'" fill="'+n.color+'" opacity="'+n.opacity+'" pointer-events="none"></circle>';
   }).join('');
 
-  chartEl.innerHTML='<svg viewBox="0 0 '+w+' '+h+'" width="100%" height="420" role="img" aria-label="Resonance constellation">'+
+  chartEl.innerHTML='<svg viewBox="0 0 '+w+' '+h+'" width="100%" height="420" role="img" aria-label="Resonance constellation" onclick="dismissConstellationTipIfBackground(event)">'+
     glow+linesHtml+anchorHtml+nodesHtml+
-    '</svg><div class="constellation-tooltip" id="constellation-tooltip"></div>';
+    '</svg><div class="constellation-tooltip" id="constellation-tooltip"></div>'+
+    '<div style="position:absolute;bottom:10px;left:14px;font-family:\'DM Mono\',monospace;font-size:0.56rem;color:var(--text-3);letter-spacing:0.04em">'+nodes.length+' artists · tap a point</div>';
 
   window._constellationNodes=nodes;
 }
 
+function dismissConstellationTipIfBackground(evt){
+  if(evt.target===evt.currentTarget)hideConstellationTip();
+}
+
 function showConstellationTip(evt,i){
+  evt.stopPropagation();
   var n=window._constellationNodes&&window._constellationNodes[i];
   if(!n)return;
   var tip=document.getElementById('constellation-tooltip');
   if(!tip)return;
-  tip.innerHTML='<strong>'+n.r.artist+'</strong><br>'+n.r.genre+' · '+n.sources+' source'+(n.sources===1?'':'s')+' confirming';
+  tip.innerHTML='<strong>'+n.r.artist+'</strong><br>'+n.r.genre+'<br>'+n.sourceNames;
   var container=document.getElementById('resonance-constellation-chart');
   var rect=container.getBoundingClientRect();
-  tip.style.left=(evt.clientX-rect.left+12)+'px';
-  tip.style.top=(evt.clientY-rect.top+12)+'px';
+  var clickX=(evt.clientX||(evt.touches&&evt.touches[0].clientX)||rect.width/2)-rect.left;
+  var clickY=(evt.clientY||(evt.touches&&evt.touches[0].clientY)||rect.height/2)-rect.top;
+  var left=Math.min(clickX+12,rect.width-160);
+  tip.style.left=Math.max(4,left)+'px';
+  tip.style.top=(clickY+12)+'px';
   tip.style.display='block';
 }
 function hideConstellationTip(){var tip=document.getElementById('constellation-tooltip');if(tip)tip.style.display='none';}
