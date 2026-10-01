@@ -11,7 +11,7 @@
       "thds",
       "Stavroz",
       "Tinlicker",
-      "Tony Kairom"
+      "Cafe De Anatolia"
     ],
     "delta": "Steady build"
   },
@@ -34,79 +34,15 @@
     "genre": "Tech House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 81,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -7,
     "isNew": false,
     "leaders": [
       "Gesaffelstein",
       "Adriatique",
       "Laszlo",
-      "Giancarlo Zara"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "JOHN ELLE",
-      "thds",
-      "Jaguar Paw"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Goom Gum",
-      "Alex Beam"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 1,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "Abstract Human"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Moonlight Drifter"
+      "Tom Kenzler"
     ],
     "delta": "Steady build"
   },
@@ -122,7 +58,55 @@
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "Andrew Modens"
+      "Ween Greed"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "JOHN ELLE",
+      "thds",
+      "Djknator"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 78,
+    "playPctDelta": 0,
+    "buyPctDelta": -10,
+    "isNew": false,
+    "leaders": [
+      "Angelo Ferreri",
+      "Midnight City",
+      "Jansons",
+      "Jean Ferreira"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "Goom Gum",
+      "In'R'Voice"
     ],
     "delta": "Steady build"
   },
@@ -143,7 +127,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "House",
+    "genre": "Minimal / Deep Tech",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -151,10 +135,26 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Angelo Ferreri",
-      "Midnight City",
-      "Jansons",
-      "Thierry Cao"
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Gabriel Menezz"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Unklevon",
+      "Victor Andro"
     ],
     "delta": "Steady build"
   }

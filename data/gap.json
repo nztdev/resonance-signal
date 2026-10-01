@@ -2,18 +2,28 @@
   {
     "artist": "Psyk",
     "genre": "Techno",
-    "playRank": 7,
-    "buyRank": 173,
+    "playRank": 10,
+    "buyRank": 415,
     "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": null,
+    "playDelta": -3,
+    "buyDelta": -242,
     "raBooked": false
   },
   {
     "artist": "Steve Aoki",
     "genre": "Tech House",
     "playRank": 57,
-    "buyRank": 94,
+    "buyRank": 208,
+    "signal": "dj-play",
+    "playDelta": 0,
+    "buyDelta": -114,
+    "raBooked": false
+  },
+  {
+    "artist": "Andy Stott",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 73,
+    "buyRank": 279,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -46,9 +56,8 @@
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
@@ -57,13 +66,13 @@
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -73,18 +82,18 @@
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 0,
+    "playDelta": -1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Tony Kairom",
-    "genre": "Organic / Downtempo",
+    "artist": "ARSANIT Tech",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -94,7 +103,7 @@
     "raBooked": false
   },
   {
-    "artist": "Giancarlo Zara",
+    "artist": "Dan Soden",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
@@ -105,8 +114,8 @@
     "raBooked": false
   },
   {
-    "artist": "Jaguar Paw",
-    "genre": "Afro House",
+    "artist": "Tom Kenzler",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -116,8 +125,8 @@
     "raBooked": false
   },
   {
-    "artist": "Alex Beam",
-    "genre": "Melodic Techno",
+    "artist": "Ween Greed",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -127,8 +136,8 @@
     "raBooked": false
   },
   {
-    "artist": "Abstract Human",
-    "genre": "Techno",
+    "artist": "Djknator",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -138,8 +147,8 @@
     "raBooked": false
   },
   {
-    "artist": "Moonlight Drifter",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Jean Ferreira",
+    "genre": "House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
