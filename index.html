@@ -305,17 +305,27 @@ function renderResonanceConstellation(){
     var g=groups[key];
     var baseX=(g.wBP*anchorBP.x+g.wRA*anchorRA.x+g.wLF*anchorLF.x)/g.total;
     var baseY=(g.wBP*anchorBP.y+g.wRA*anchorRA.y+g.wLF*anchorLF.y)/g.total;
-    var spacing=g.total===3?9:11; // tighter spread at centre where space is shared by all triple-matches
+    // Bigger dots need more room between spiral steps so they stay
+    // visually distinct and easy to tap individually on a phone screen.
+    var spacing=g.total===3?24:g.total===2?20:17;
     g.items.forEach(function(r,j){
-      var radius=spacing*Math.sqrt(j+0.5);
+      var dist=spacing*Math.sqrt(j+0.5);
       var angle=j*GOLDEN_ANGLE*Math.PI/180;
-      var px=baseX+radius*Math.cos(angle);
-      var py=baseY+radius*Math.sin(angle);
-      var nodeRadius=g.total===3?10:g.total===2?7:5;
-      var opacity=g.total===3?1:g.total===2?0.8:0.6;
+      var px=baseX+dist*Math.cos(angle);
+      var py=baseY+dist*Math.sin(angle);
+      var nodeRadius=g.total===3?14:g.total===2?10:7;
+      var opacity=g.total===3?1:g.total===2?0.85:0.7;
       var color=g.total===3?'var(--accent-5)':(g.wBP&&!g.wRA&&!g.wLF)?anchorBP.color:(g.wRA&&!g.wBP&&!g.wLF)?anchorRA.color:(g.wLF&&!g.wBP&&!g.wRA)?anchorLF.color:'var(--text-2)';
       var sourceNames=[g.wBP?'Purchase':null,g.wRA?'Booking':null,g.wLF?'Listening':null].filter(Boolean).join(' + ');
-      nodes.push({r:r,px:px,py:py,radius:nodeRadius,opacity:opacity,color:color,sources:g.total,sourceNames:sourceNames});
+      // Orbit params: a small, slow circular drift around the resting
+      // spiral position — the visible motion itself communicates "this
+      // artist belongs in this zone" without drifting far enough to
+      // collide with neighbours. Duration/phase vary per node so the
+      // whole field feels alive rather than mechanically synchronized.
+      var orbitR=g.total===3?4:g.total===2?5:6;
+      var orbitDur=(18+((j*7+key.length*3)%14)).toFixed(1);
+      var orbitStart=((j*GOLDEN_ANGLE+key.charCodeAt(0)*11)%360).toFixed(1);
+      nodes.push({r:r,px:px,py:py,radius:nodeRadius,opacity:opacity,color:color,sources:g.total,sourceNames:sourceNames,orbitR:orbitR,orbitDur:orbitDur,orbitStart:orbitStart});
     });
   });
 
@@ -330,12 +340,21 @@ function renderResonanceConstellation(){
     return '<line x1="'+pair[0].x+'" y1="'+pair[0].y+'" x2="'+pair[1].x+'" y2="'+pair[1].y+'" stroke="var(--border)" stroke-width="0.5"/>';
   }).join('');
 
-  // Tap-to-show works on both touch and desktop (click); a slightly
-  // larger invisible hit-circle sits under each visible node so small
-  // points stay easy to tap on mobile without changing their look.
+  // Each node sits inside a static <g> translated to its resting spiral
+  // position, wrapping an inner <g> that continuously rotates via native
+  // SVG animation — no per-frame JS needed. The dot itself is drawn at
+  // (orbitR,0) inside that inner group, so rotating the group traces a
+  // small circle around the resting position. A larger transparent
+  // hit-circle shares the same motion so the tap target always lines up
+  // with the visible dot exactly, even mid-orbit.
   var nodesHtml=nodes.map(function(n,i){
-    return '<circle cx="'+n.px.toFixed(1)+'" cy="'+n.py.toFixed(1)+'" r="'+(n.radius+6)+'" fill="transparent" class="constellation-node" data-i="'+i+'" onclick="showConstellationTip(event,'+i+')"></circle>'+
-      '<circle cx="'+n.px.toFixed(1)+'" cy="'+n.py.toFixed(1)+'" r="'+n.radius+'" fill="'+n.color+'" opacity="'+n.opacity+'" pointer-events="none"></circle>';
+    return '<g transform="translate('+n.px.toFixed(1)+','+n.py.toFixed(1)+')">'+
+      '<g>'+
+        '<animateTransform attributeName="transform" type="rotate" from="'+n.orbitStart+' 0 0" to="'+(parseFloat(n.orbitStart)+360)+' 0 0" dur="'+n.orbitDur+'s" repeatCount="indefinite"/>'+
+        '<circle cx="'+n.orbitR+'" cy="0" r="'+(n.radius+9)+'" fill="transparent" class="constellation-node" data-i="'+i+'" onclick="showConstellationTip(event,'+i+')"></circle>'+
+        '<circle cx="'+n.orbitR+'" cy="0" r="'+n.radius+'" fill="'+n.color+'" opacity="'+n.opacity+'" pointer-events="none"></circle>'+
+      '</g>'+
+    '</g>';
   }).join('');
 
   chartEl.innerHTML='<svg viewBox="0 0 '+w+' '+h+'" width="100%" height="420" role="img" aria-label="Resonance constellation" onclick="dismissConstellationTipIfBackground(event)">'+
