@@ -1,29 +1,9 @@
 [
   {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 10,
-    "buyRank": 415,
-    "signal": "dj-play",
-    "playDelta": -3,
-    "buyDelta": -242,
-    "raBooked": false
-  },
-  {
-    "artist": "Steve Aoki",
-    "genre": "Tech House",
-    "playRank": 57,
-    "buyRank": 208,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": -114,
-    "raBooked": false
-  },
-  {
-    "artist": "Andy Stott",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 73,
-    "buyRank": 279,
+    "artist": "Niki",
+    "genre": "Trance",
+    "playRank": 22,
+    "buyRank": 116,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -31,8 +11,40 @@
     "raBooked": false
   },
   {
-    "artist": "thds",
+    "artist": "Jansons",
+    "genre": "House",
+    "playRank": 24,
+    "buyRank": 63,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Forty Cats",
     "genre": "Organic / Downtempo",
+    "playRank": 49,
+    "buyRank": 376,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Steve Aoki",
+    "genre": "Tech House",
+    "playRank": 56,
+    "buyRank": 56,
+    "signal": "aligned",
+    "playDelta": 1,
+    "buyDelta": 152,
+    "raBooked": false
+  },
+  {
+    "artist": "thds",
+    "genre": "Afro House",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -51,29 +63,19 @@
     "raBooked": false
   },
   {
-    "artist": "Isyti",
-    "genre": "Hard Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": 3,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -82,17 +84,27 @@
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
-    "playRank": 6,
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
+    "playRank": 5,
     "buyRank": null,
-    "signal": "dj-play",
+    "signal": "underground",
     "playDelta": -1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
+    "artist": "Isyti",
+    "genre": "Hard Techno",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": -3,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Soundscape",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
@@ -103,7 +115,7 @@
     "raBooked": false
   },
   {
-    "artist": "Dan Soden",
+    "artist": "Astraglide",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
@@ -114,8 +126,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tom Kenzler",
-    "genre": "Tech House",
+    "artist": "Anti-P.L.U.R",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -125,8 +137,8 @@
     "raBooked": false
   },
   {
-    "artist": "Ween Greed",
-    "genre": "Trance",
+    "artist": "Afreeka Mageba",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -136,8 +148,8 @@
     "raBooked": false
   },
   {
-    "artist": "Djknator",
-    "genre": "Afro House",
+    "artist": "Opix",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -147,8 +159,8 @@
     "raBooked": false
   },
   {
-    "artist": "Jean Ferreira",
-    "genre": "House",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
