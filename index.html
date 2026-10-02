@@ -351,7 +351,7 @@ function renderResonanceConstellation(){
     return '<g transform="translate('+n.px.toFixed(1)+','+n.py.toFixed(1)+')">'+
       '<g>'+
         '<animateTransform attributeName="transform" type="rotate" from="'+n.orbitStart+' 0 0" to="'+(parseFloat(n.orbitStart)+360)+' 0 0" dur="'+n.orbitDur+'s" repeatCount="indefinite"/>'+
-        '<circle cx="'+n.orbitR+'" cy="0" r="'+(n.radius+9)+'" fill="transparent" class="constellation-node" data-i="'+i+'" onclick="showConstellationTip(event,'+i+')"></circle>'+
+        '<circle cx="'+n.orbitR+'" cy="0" r="'+Math.max(n.radius+9,40)+'" fill="transparent" class="constellation-node" data-i="'+i+'" onclick="showConstellationTip(event,'+i+')"></circle>'+
         '<circle cx="'+n.orbitR+'" cy="0" r="'+n.radius+'" fill="'+n.color+'" opacity="'+n.opacity+'" pointer-events="none"></circle>'+
       '</g>'+
     '</g>';
