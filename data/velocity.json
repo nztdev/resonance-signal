@@ -11,7 +11,39 @@
       "Mobi Dixon",
       "JOHN ELLE",
       "thds",
-      "Afreeka Mageba"
+      "Porca Veia"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Unklevon",
+      "ARSANIT Techno"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "Goom Gum",
+      "Jason Still"
     ],
     "delta": "Steady build"
   },
@@ -19,47 +51,15 @@
     "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 87,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -1,
     "isNew": false,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
       "Youandewan",
       "Opix"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 85,
-    "playPctDelta": 0,
-    "buyPctDelta": 4,
-    "isNew": false,
-    "leaders": [
-      "Gesaffelstein",
-      "Adriatique",
-      "Laszlo",
-      "L.porsche"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Tibetania"
     ],
     "delta": "Steady build"
   },
@@ -79,23 +79,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 87,
-    "playPctDelta": 0,
-    "buyPctDelta": -1,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Grimes77"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -103,26 +87,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Goom Gum",
-      "Vidrio"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 10,
-    "isNew": false,
-    "leaders": [
       "Angelo Ferreri",
       "Midnight City",
       "Jansons",
-      "Tropa da W&S"
+      "Vince Magnata"
     ],
     "delta": "Steady build"
   },
@@ -143,7 +111,23 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Techno",
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 3,
+    "isNew": false,
+    "leaders": [
+      "Gesaffelstein",
+      "Adriatique",
+      "Laszlo",
+      "STAR BEAT"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -151,10 +135,26 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "Anti-P.L.U.R"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Motos"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 69,
+    "playPctDelta": 0,
+    "buyPctDelta": -18,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "ネオノスタルジカ - NeoNostalgica -"
     ],
     "delta": "Steady build"
   }
