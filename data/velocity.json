@@ -1,5 +1,21 @@
 [
   {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 78,
+    "playPctDelta": 0,
+    "buyPctDelta": -10,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Minimal Lovers"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
@@ -16,7 +32,23 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Techno",
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 70,
+    "playPctDelta": 0,
+    "buyPctDelta": 1,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "ネオノスタルジカ - NeoNostalgica -"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -24,10 +56,26 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "ARSANIT Techno"
+      "Angelo Ferreri",
+      "Midnight City",
+      "Jansons",
+      "DJ TEQUILASHOT"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Motos"
     ],
     "delta": "Steady build"
   },
@@ -48,12 +96,44 @@
     "delta": "Steady build"
   },
   {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Unklevon",
+      "Ilya Surovtsev"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Gesaffelstein",
+      "Adriatique",
+      "Laszlo",
+      "ARSANIT Tech"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 87,
+    "buyPct": 83,
     "playPctDelta": 0,
-    "buyPctDelta": -1,
+    "buyPctDelta": -4,
     "isNew": false,
     "leaders": [
       "nbsplv",
@@ -75,86 +155,6 @@
       "Isyti",
       "The Prophet",
       "Yoshiko"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Angelo Ferreri",
-      "Midnight City",
-      "Jansons",
-      "Vince Magnata"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Destro 187"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 3,
-    "isNew": false,
-    "leaders": [
-      "Gesaffelstein",
-      "Adriatique",
-      "Laszlo",
-      "STAR BEAT"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Motos"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 69,
-    "playPctDelta": 0,
-    "buyPctDelta": -18,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "ネオノスタルジカ - NeoNostalgica -"
     ],
     "delta": "Steady build"
   }
