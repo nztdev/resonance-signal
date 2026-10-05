@@ -2,22 +2,11 @@
   {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 20,
-    "buyRank": 136,
+    "playRank": 24,
+    "buyRank": 169,
     "signal": "dj-play",
-    "playDelta": 6,
-    "buyDelta": 65,
-    "raBooked": false
-  },
-  {
-    "artist": "Alex C",
-    "genre": "Trance",
-    "playRank": 77,
-    "buyRank": 346,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -4,
+    "buyDelta": -33,
     "raBooked": false
   },
   {
@@ -32,7 +21,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -41,18 +30,18 @@
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": 2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -62,8 +51,8 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -73,18 +62,19 @@
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Isyti",
+    "genre": "Hard Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "No Reclaim",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Olga Anato",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -94,8 +84,8 @@
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Paul Varjak",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -105,18 +95,19 @@
     "raBooked": false
   },
   {
-    "artist": "Kev Dot Kruz",
-    "genre": "Afro House",
+    "artist": "Opix",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -2,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Big Bunny",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Balistix",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -126,8 +117,8 @@
     "raBooked": false
   },
   {
-    "artist": "Minimal Lovers",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Semper T.",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -137,13 +128,14 @@
     "raBooked": false
   },
   {
-    "artist": "Porca Veia",
-    "genre": "Afro House",
+    "artist": "DJ Flash Ashley",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -4,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   }
 ]
