@@ -1,64 +1,17 @@
 [
   {
-    "genre": "House",
+    "genre": "Organic / Downtempo",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 85,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -3,
     "isNew": false,
     "leaders": [
-      "Angelo Ferreri",
-      "Midnight City",
-      "Jansons",
-      "Paul Varjak"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Gesaffelstein",
-      "Adriatique",
-      "Laszlo",
-      "Stereoimagery"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Deep House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 74,
-    "playPctDelta": 0,
-    "buyPctDelta": -9,
-    "isNew": false,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Youandewan",
-      "Opix"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 25,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Isyti",
-      "The Prophet",
-      "Yoshiko"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Motos"
     ],
     "delta": "Steady build"
   },
@@ -74,23 +27,39 @@
       "Kasablanca",
       "Tinlicker",
       "Goom Gum",
-      "Balistix"
+      "Cafe De Anatolia"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Trance",
+    "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 83,
     "playPctDelta": 0,
-    "buyPctDelta": 18,
+    "buyPctDelta": 9,
     "isNew": false,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Semper T."
+      "nbsplv",
+      "Lost Frequencies",
+      "Youandewan",
+      "SIXSENSE"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 81,
+    "playPctDelta": 0,
+    "buyPctDelta": -7,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Mauro Rodriguez"
     ],
     "delta": "Steady build"
   },
@@ -106,23 +75,7 @@
       "Psyk",
       "Morbe",
       "Unklevon",
-      "DJ Flash Ashley"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 10,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "DJChaser"
+      "Orange Sandal"
     ],
     "delta": "Steady build"
   },
@@ -138,12 +91,12 @@
       "Mobi Dixon",
       "JOHN ELLE",
       "thds",
-      "Lucian Oguguo"
+      "Dj Moshate"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -151,10 +104,57 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Motos"
+      "Angelo Ferreri",
+      "Midnight City",
+      "Jansons",
+      "Niroux"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Gesaffelstein",
+      "Adriatique",
+      "Laszlo",
+      "Roberth in da house"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Semper T."
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 25,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Isyti",
+      "The Prophet",
+      "Yoshiko"
     ],
     "delta": "Steady build"
   }

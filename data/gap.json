@@ -2,16 +2,27 @@
   {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 24,
-    "buyRank": 169,
+    "playRank": 25,
+    "buyRank": 248,
     "signal": "dj-play",
-    "playDelta": -4,
-    "buyDelta": -33,
+    "playDelta": -1,
+    "buyDelta": -79,
+    "raBooked": false
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 50,
+    "buyRank": 174,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -21,7 +32,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -30,19 +41,9 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
-    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -53,6 +54,16 @@
   {
     "artist": "nbsplv",
     "genre": "Deep House",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -62,8 +73,8 @@
     "raBooked": false
   },
   {
-    "artist": "Isyti",
-    "genre": "Hard Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -73,8 +84,8 @@
     "raBooked": false
   },
   {
-    "artist": "Olga Anato",
-    "genre": "Deep House",
+    "artist": "Cafe De Anatolia",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -84,18 +95,18 @@
     "raBooked": false
   },
   {
-    "artist": "Paul Varjak",
-    "genre": "House",
+    "artist": "Motos",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Opix",
+    "artist": "SIXSENSE",
     "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
@@ -106,8 +117,8 @@
     "raBooked": false
   },
   {
-    "artist": "Balistix",
-    "genre": "Melodic Techno",
+    "artist": "Mauro Rodriguez",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -117,8 +128,8 @@
     "raBooked": false
   },
   {
-    "artist": "Semper T.",
-    "genre": "Trance",
+    "artist": "Orange Sandal",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -128,8 +139,8 @@
     "raBooked": false
   },
   {
-    "artist": "DJ Flash Ashley",
-    "genre": "Techno",
+    "artist": "Dj Moshate",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
