@@ -2,59 +2,17 @@
   {
     "artist": "Niki",
     "genre": "Trance",
-    "playRank": 25,
-    "buyRank": 248,
+    "playRank": 21,
+    "buyRank": 349,
     "signal": "dj-play",
-    "playDelta": -1,
-    "buyDelta": -79,
-    "raBooked": false
-  },
-  {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 50,
-    "buyRank": 174,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
-    "playRank": 1,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
+    "playDelta": 4,
+    "buyDelta": -101,
     "raBooked": false
   },
   {
     "artist": "Tinlicker",
     "genre": "Organic / Downtempo",
-    "playRank": 2,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 3,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
-    "playRank": 4,
+    "playRank": 1,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 1,
@@ -62,8 +20,39 @@
     "raBooked": false
   },
   {
+    "artist": "thds",
+    "genre": "Organic / Downtempo",
+    "playRank": 2,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
     "artist": "Psyk",
     "genre": "Techno",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 2,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Isyti",
+    "genre": "Hard Techno",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -73,8 +62,8 @@
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -84,10 +73,54 @@
     "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Organic / Downtempo",
+    "artist": "Gem Lemon",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Jenevsky",
+    "genre": "Techno",
+    "playRank": null,
+    "buyRank": 2,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "EricFrancisCotting",
+    "genre": "Trance",
+    "playRank": null,
+    "buyRank": 3,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Sin Fang",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 4,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Jaques Le Noir",
+    "genre": "Tech House",
+    "playRank": null,
+    "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
@@ -98,55 +131,10 @@
     "artist": "Motos",
     "genre": "Organic / Downtempo",
     "playRank": null,
-    "buyRank": 2,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
-    "artist": "SIXSENSE",
-    "genre": "Deep House",
-    "playRank": null,
-    "buyRank": 3,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Mauro Rodriguez",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 4,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Orange Sandal",
-    "genre": "Techno",
-    "playRank": null,
-    "buyRank": 5,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Dj Moshate",
-    "genre": "Afro House",
-    "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
+    "buyDelta": -4,
+    "raBooked": true
   }
 ]
