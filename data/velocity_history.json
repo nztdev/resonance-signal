@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-10-01",
-    "genres": {
-      "Organic / Downtempo": {
-        "playPct": 56,
-        "buyPct": 88,
-        "raPct": 0
-      },
-      "Hard Techno": {
-        "playPct": 56,
-        "buyPct": 25,
-        "raPct": 0
-      },
-      "Tech House": {
-        "playPct": 56,
-        "buyPct": 81,
-        "raPct": 0
-      },
-      "Trance": {
-        "playPct": 56,
-        "buyPct": 88,
-        "raPct": 0
-      },
-      "Afro House": {
-        "playPct": 56,
-        "buyPct": 88,
-        "raPct": 0
-      },
-      "House": {
-        "playPct": 56,
-        "buyPct": 78,
-        "raPct": 0
-      },
-      "Melodic Techno": {
-        "playPct": 56,
-        "buyPct": 88,
-        "raPct": 0
-      },
-      "Deep House": {
-        "playPct": 56,
-        "buyPct": 88,
-        "raPct": 0
-      },
-      "Minimal / Deep Tech": {
-        "playPct": 56,
-        "buyPct": 88,
-        "raPct": 0
-      },
-      "Techno": {
-        "playPct": 56,
-        "buyPct": 88,
-        "raPct": 0
-      }
-    }
-  },
-  {
     "date": "2026-10-02",
     "genres": {
       "Afro House": {
@@ -380,6 +325,61 @@
       "Afro House": {
         "playPct": 56,
         "buyPct": 88,
+        "raPct": 0
+      }
+    }
+  },
+  {
+    "date": "2026-10-08",
+    "genres": {
+      "Deep House": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Afro House": {
+        "playPct": 56,
+        "buyPct": 78,
+        "raPct": 0
+      },
+      "Tech House": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Techno": {
+        "playPct": 56,
+        "buyPct": 78,
+        "raPct": 0
+      },
+      "Minimal / Deep Tech": {
+        "playPct": 56,
+        "buyPct": 70,
+        "raPct": 55
+      },
+      "Organic / Downtempo": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Trance": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Melodic Techno": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "House": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Hard Techno": {
+        "playPct": 56,
+        "buyPct": 25,
         "raPct": 0
       }
     }
