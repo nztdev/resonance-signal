@@ -1,33 +1,97 @@
 [
   {
-    "genre": "Deep House",
+    "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 4,
-    "isNew": false,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Youandewan",
-      "Mizter Bonezz"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 78,
-    "playPctDelta": 0,
-    "buyPctDelta": -10,
+    "buyPctDelta": 10,
     "isNew": false,
     "leaders": [
       "Mobi Dixon",
       "JOHN ELLE",
       "RAFFA GUIDO",
-      "No Reclaim"
+      "Electronicoloko"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Tibetania"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 60,
+    "playPctDelta": 0,
+    "buyPctDelta": -28,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Youandewan",
+      "風土策展人"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "Goom Gum",
+      "John Franklin"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 87,
+    "playPctDelta": 0,
+    "buyPctDelta": -1,
+    "isNew": false,
+    "leaders": [
+      "Angelo Ferreri",
+      "Midnight City",
+      "Jansons",
+      "Dieter Thomas Kuhn"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 18,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Levi Octa"
     ],
     "delta": "Steady build"
   },
@@ -43,7 +107,7 @@
       "Gesaffelstein",
       "Adriatique",
       "Laszlo",
-      "Dan Soden"
+      "The Bongo Man"
     ],
     "delta": "Steady build"
   },
@@ -51,47 +115,15 @@
     "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 78,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -10,
+    "buyPctDelta": 10,
     "isNew": false,
     "leaders": [
       "Psyk",
       "Morbe",
       "Unklevon",
-      "Techno Lovers"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 70,
-    "playPctDelta": 0,
-    "buyPctDelta": 6,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Cristina Bonanno"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 1,
-    "isNew": false,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Cafe De Anatolia"
+      "KOKSU Mk"
     ],
     "delta": "Steady build"
   },
@@ -107,39 +139,7 @@
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "Dean P"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 8,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Goom Gum",
-      "Bechermand"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Angelo Ferreri",
-      "Midnight City",
-      "Jansons",
-      "Violare Fobia"
+      "Dj Andy'K"
     ],
     "delta": "Steady build"
   },

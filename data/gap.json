@@ -1,20 +1,31 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 14,
-    "buyRank": 239,
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 6,
+    "buyRank": 267,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 39,
-    "buyRank": 200,
+    "artist": "Slow Nomaden",
+    "genre": "Organic / Downtempo",
+    "playRank": 48,
+    "buyRank": 202,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Steve Aoki",
+    "genre": "Tech House",
+    "playRank": 61,
+    "buyRank": 97,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -42,20 +53,29 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 1,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -66,27 +86,16 @@
   {
     "artist": "Gesaffelstein",
     "genre": "Tech House",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 6,
+    "playRank": 7,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -3,
+    "playDelta": -2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Dan Soden",
-    "genre": "Tech House",
+    "artist": "Rainforest Project",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -96,8 +105,8 @@
     "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Afro House",
+    "artist": "The Bongo Man",
+    "genre": "House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -107,7 +116,7 @@
     "raBooked": false
   },
   {
-    "artist": "No Reclaim",
+    "artist": "Electronicoloko",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
@@ -118,8 +127,8 @@
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "Afro House",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -129,7 +138,7 @@
     "raBooked": false
   },
   {
-    "artist": "Mizter Bonezz",
+    "artist": "風土策展人",
     "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
@@ -140,8 +149,8 @@
     "raBooked": false
   },
   {
-    "artist": "Techno Lovers",
-    "genre": "Techno",
+    "artist": "John Franklin",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
