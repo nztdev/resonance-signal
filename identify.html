@@ -152,6 +152,21 @@
 </footer>
 
 <script>
+// ── Output safety: every user-supplied or externally-sourced string must pass
+// through escapeHtml() before being placed into innerHTML, and every
+// user-supplied URL through safeUrl(). Never insert raw data into markup.
+function escapeHtml(s){
+  return String(s==null?'':s).replace(/[&<>"']/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+  });
+}
+function safeUrl(u){
+  try{
+    var x=new URL(String(u||''),window.location.href);
+    return (x.protocol==='http:'||x.protocol==='https:')?x.href:'';
+  }catch(e){return '';}
+}
+
 const sb = supabase.createClient('https://cbnewhtbkaohugrvorvq.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNibmV3aHRia2FvaHVncnZvcnZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgzNzAxNjksImV4cCI6MjA5Mzk0NjE2OX0.tIbzeBDa4huVoEi9W6wrTit59e2-Lgo2ZoPn9qukb3g');
 async function getUser() { const { data: { user } } = await sb.auth.getUser(); return user; }
 async function getProfile(id) { const { data } = await sb.from('profiles').select('*').eq('id', id).single(); return data; }
@@ -161,7 +176,7 @@ function handleSignOut() {
 function updateNavAuth(user, profile) {
   const el = document.getElementById('nav-auth'); if (!el) return;
   if (user) {
-    el.innerHTML = '<a href="./profile.html" class="nav-link" style="color:var(--text-2)">' + (profile?.display_name || 'My signals') + '</a>' +
+    el.innerHTML = '<a href="./profile.html" class="nav-link" style="color:var(--text-2)">' + escapeHtml(profile?.display_name || 'My signals') + '</a>' +
       '<span class="nav-link" style="cursor:pointer;color:var(--text-3)" onclick="handleSignOut()">Sign out</span>';
   } else {
     el.innerHTML = '<a href="./login.html" class="nav-link">Sign in</a>' +
@@ -198,12 +213,12 @@ function filterThreads(status) {
 function renderThreadList(threads) {
   const el = document.getElementById('threads-container');
   if (!threads.length) { el.innerHTML = '<div class="empty-state">No threads found.</div>'; return; }
-  el.innerHTML = threads.map(t => `<div class="thread-card" onclick="openThread('${t.id}')">
-    <div class="thread-desc">${t.description.slice(0,120)}${t.description.length>120?'...':''}
-      <span class="status-pill ${t.status}">${t.status.toUpperCase()}</span>
+  el.innerHTML = threads.map(t => `<div class="thread-card" onclick="openThread('${escapeHtml(t.id)}')">
+    <div class="thread-desc">${escapeHtml(t.description.slice(0,120))}${t.description.length>120?'...':''}
+      <span class="status-pill ${escapeHtml(t.status)}">${escapeHtml(String(t.status).toUpperCase())}</span>
     </div>
-    <div class="thread-meta">${t.genre_hint || 'Genre unknown'} · ${new Date(t.created_at).toLocaleDateString('en-GB')}
-      ${t.confirmed_artist ? ' · Identified as: <strong style="color:var(--accent-5)">' + t.confirmed_artist + '</strong>' : ''}
+    <div class="thread-meta">${escapeHtml(t.genre_hint || 'Genre unknown')} · ${new Date(t.created_at).toLocaleDateString('en-GB')}
+      ${t.confirmed_artist ? ' · Identified as: <strong style="color:var(--accent-5)">' + escapeHtml(t.confirmed_artist) + '</strong>' : ''}
     </div>
   </div>`).join('');
 }
@@ -219,10 +234,10 @@ async function openThread(id) {
 
   document.getElementById('thread-detail-content').innerHTML = `
     <div style="background:var(--surface);border:1px solid var(--border);border-radius:10px;padding:28px;margin-bottom:24px">
-      <div style="font-family:DM Mono,monospace;font-size:0.58rem;color:var(--text-3);margin-bottom:10px">UNKNOWN ID <span class="status-pill ${thread.status}">${thread.status.toUpperCase()}</span></div>
-      <div style="font-size:1.1rem;font-weight:700;color:var(--text);margin-bottom:10px">${thread.description}</div>
-      <div style="font-family:DM Mono,monospace;font-size:0.62rem;color:var(--text-3)">${[thread.genre_hint, thread.bpm_hint ? thread.bpm_hint + ' BPM' : null].filter(Boolean).join(' · ')}</div>
-      ${thread.confirmed_artist ? `<div style="margin-top:14px;padding:10px 14px;background:rgba(107,203,119,0.08);border:1px solid rgba(107,203,119,0.2);border-radius:4px;font-family:DM Mono,monospace;font-size:0.7rem;color:var(--accent-5)">✓ Community identified: <strong>${thread.confirmed_artist}</strong>${thread.confirmed_title ? ' — ' + thread.confirmed_title : ''}</div>` : ''}
+      <div style="font-family:DM Mono,monospace;font-size:0.58rem;color:var(--text-3);margin-bottom:10px">UNKNOWN ID <span class="status-pill ${escapeHtml(thread.status)}">${escapeHtml(String(thread.status).toUpperCase())}</span></div>
+      <div style="font-size:1.1rem;font-weight:700;color:var(--text);margin-bottom:10px">${escapeHtml(thread.description)}</div>
+      <div style="font-family:DM Mono,monospace;font-size:0.62rem;color:var(--text-3)">${escapeHtml([thread.genre_hint, thread.bpm_hint ? thread.bpm_hint + ' BPM' : null].filter(Boolean).join(' · '))}</div>
+      ${thread.confirmed_artist ? `<div style="margin-top:14px;padding:10px 14px;background:rgba(107,203,119,0.08);border:1px solid rgba(107,203,119,0.2);border-radius:4px;font-family:DM Mono,monospace;font-size:0.7rem;color:var(--accent-5)">✓ Community identified: <strong>${escapeHtml(thread.confirmed_artist)}</strong>${thread.confirmed_title ? ' — ' + escapeHtml(thread.confirmed_title) : ''}</div>` : ''}
     </div>
     <div style="font-family:DM Mono,monospace;font-size:0.6rem;letter-spacing:0.12em;color:var(--text-3);text-transform:uppercase;margin-bottom:16px">${contribs?.length || 0} identification${contribs?.length !== 1 ? 's' : ''} — vote for the best answer</div>`;
 
@@ -239,16 +254,16 @@ async function openThread(id) {
   listEl.innerHTML = contribs.map(c => {
     const myVote = userVotes[c.id];
     return `<div class="contribution-card">
-      <div class="contribution-artist">${c.artist_name}
-        <span class="confidence-badge ${c.confidence}">${c.confidence.toUpperCase()}</span>
+      <div class="contribution-artist">${escapeHtml(c.artist_name)}
+        <span class="confidence-badge ${escapeHtml(c.confidence)}">${escapeHtml(String(c.confidence).toUpperCase())}</span>
       </div>
-      ${c.track_title ? `<div class="contribution-track">${c.track_title}${c.label ? ' · ' + c.label : ''}</div>` : ''}
-      ${c.notes ? `<div class="contribution-meta">${c.notes}</div>` : ''}
-      ${c.evidence_url ? `<div class="contribution-meta"><a href="${c.evidence_url}" target="_blank" style="color:var(--accent)">View evidence →</a></div>` : ''}
+      ${c.track_title ? `<div class="contribution-track">${escapeHtml(c.track_title)}${c.label ? ' · ' + escapeHtml(c.label) : ''}</div>` : ''}
+      ${c.notes ? `<div class="contribution-meta">${escapeHtml(c.notes)}</div>` : ''}
+      ${safeUrl(c.evidence_url) ? `<div class="contribution-meta"><a href="${escapeHtml(safeUrl(c.evidence_url))}" target="_blank" rel="noopener noreferrer nofollow ugc" style="color:var(--accent)">View evidence →</a></div>` : ''}
       <div class="vote-row">
-        <button class="btn btn-vote ${myVote === 'up' ? 'voted-up' : ''}" onclick="vote('${c.id}', 'up', this)">▲ ${c.upvotes || 0}</button>
+        <button class="btn btn-vote ${myVote === 'up' ? 'voted-up' : ''}" onclick="vote('${escapeHtml(c.id)}', 'up', this)">▲ ${c.upvotes || 0}</button>
         <span class="vote-score">${c.net_score || 0}</span>
-        <button class="btn btn-vote ${myVote === 'down' ? 'voted-down' : ''}" onclick="vote('${c.id}', 'down', this)">▼ ${c.downvotes || 0}</button>
+        <button class="btn btn-vote ${myVote === 'down' ? 'voted-down' : ''}" onclick="vote('${escapeHtml(c.id)}', 'down', this)">▼ ${c.downvotes || 0}</button>
       </div>
     </div>`;
   }).join('');

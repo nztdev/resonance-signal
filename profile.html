@@ -117,6 +117,21 @@
 </footer>
 
 <script>
+// ── Output safety: every user-supplied or externally-sourced string must pass
+// through escapeHtml() before being placed into innerHTML, and every
+// user-supplied URL through safeUrl(). Never insert raw data into markup.
+function escapeHtml(s){
+  return String(s==null?'':s).replace(/[&<>"']/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+  });
+}
+function safeUrl(u){
+  try{
+    var x=new URL(String(u||''),window.location.href);
+    return (x.protocol==='http:'||x.protocol==='https:')?x.href:'';
+  }catch(e){return '';}
+}
+
 const sb = supabase.createClient('https://cbnewhtbkaohugrvorvq.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNibmV3aHRia2FvaHVncnZvcnZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgzNzAxNjksImV4cCI6MjA5Mzk0NjE2OX0.tIbzeBDa4huVoEi9W6wrTit59e2-Lgo2ZoPn9qukb3g');
 
 function showToast(msg, color) {
@@ -140,7 +155,7 @@ function handleSignOut() {
 function updateNavAuth(user, profile) {
   const el = document.getElementById('nav-auth'); if (!el) return;
   if (user) {
-    el.innerHTML = '<span class="nav-link" style="color:var(--text-2)">' + (profile?.display_name || 'Me') + '</span>' +
+    el.innerHTML = '<span class="nav-link" style="color:var(--text-2)">' + escapeHtml(profile?.display_name || 'Me') + '</span>' +
       '<span class="nav-link" style="cursor:pointer;color:var(--text-3)" onclick="handleSignOut()">Sign out</span>';
   } else {
     el.innerHTML = '<a href="./login.html" class="nav-link">Sign in</a>';
@@ -170,7 +185,7 @@ async function loadProfile(user) {
       btn.style.opacity = '0.4';
       btn.textContent = 'Request sent';
       status.style.display = 'block';
-      status.textContent = 'We\\'ll review your request and follow up by email.';
+      status.textContent = "We'll review your request and follow up by email.";
     }
   }
 
@@ -195,7 +210,7 @@ async function requestDjVerification() {
     btn.textContent = 'Request sent';
     btn.style.opacity = '0.4';
     status.style.display = 'block';
-    status.textContent = 'We\\'ll review your request and follow up by email.';
+    status.textContent = "We'll review your request and follow up by email.";
   }
 }
 
@@ -232,7 +247,7 @@ async function loadSignals(userId) {
     banner.classList.add('visible');
     document.getElementById('early-banner-text').innerHTML =
       'You logged <strong style="color:var(--accent-5)">' + earlyCalls.length + ' artist' + (earlyCalls.length>1?'s':'') + '</strong> before they appeared on Beatport charts: ' +
-      earlyCalls.map(s => '<strong>' + s.artist_name + '</strong>').join(', ') + '.';
+      earlyCalls.map(s => '<strong>' + escapeHtml(s.artist_name) + '</strong>').join(', ') + '.';
   }
 
   // Stats
@@ -251,9 +266,9 @@ async function loadSignals(userId) {
     return `<div class="signal-row">
       <div class="signal-date">${formatDate(s.heard_date || s.created_at)}</div>
       <div class="signal-info">
-        <div class="signal-artist-name">${s.is_unknown_id ? '<em style="color:var(--text-3)">Unknown ID</em>' : (s.artist_name || 'Unknown')}</div>
-        <div class="signal-detail">${[s.genre, s.heard_at_venue, s.heard_at_city].filter(Boolean).join(' · ')}</div>
-        ${s.notes && s.is_unknown_id ? `<div class="signal-detail" style="margin-top:2px;font-style:italic">${s.notes.slice(0,80)}</div>` : ''}
+        <div class="signal-artist-name">${s.is_unknown_id ? '<em style="color:var(--text-3)">Unknown ID</em>' : escapeHtml(s.artist_name || 'Unknown')}</div>
+        <div class="signal-detail">${escapeHtml([s.genre, s.heard_at_venue, s.heard_at_city].filter(Boolean).join(' · '))}</div>
+        ${s.notes && s.is_unknown_id ? `<div class="signal-detail" style="margin-top:2px;font-style:italic">${escapeHtml(s.notes.slice(0,80))}</div>` : ''}
       </div>
       ${badge}
     </div>`;
@@ -268,9 +283,9 @@ async function loadContribs(userId) {
   const el = document.getElementById('contrib-list');
   if (!data?.length) { el.innerHTML = '<div class="empty-state">No contributions yet. Help identify unknown tracks in the community.</div>'; return; }
   el.innerHTML = data.map(c => `<div style="padding:14px 0;border-bottom:1px solid rgba(255,255,255,0.03)">
-    <div style="font-size:0.85rem;font-weight:600;color:var(--text);margin-bottom:3px">${c.artist_name}${c.track_title ? ' — ' + c.track_title : ''}</div>
+    <div style="font-size:0.85rem;font-weight:600;color:var(--text);margin-bottom:3px">${escapeHtml(c.artist_name)}${c.track_title ? ' — ' + escapeHtml(c.track_title) : ''}</div>
     <div style="font-family:DM Mono,monospace;font-size:0.6rem;color:var(--text-3)">
-      Thread: "${c.track_id_threads?.description?.slice(0,60)}..." ·
+      Thread: "${escapeHtml(c.track_id_threads?.description?.slice(0,60))}..." ·
       Score: <strong style="color:var(--text)">${c.net_score || 0}</strong> · ${formatDate(c.created_at)}
     </div>
   </div>`).join('');

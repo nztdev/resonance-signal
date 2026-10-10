@@ -193,6 +193,21 @@ Don't know all the tracks? Submit what you know. Unknown IDs help the community 
 </footer>
 
 <script>
+// ── Output safety: every user-supplied or externally-sourced string must pass
+// through escapeHtml() before being placed into innerHTML, and every
+// user-supplied URL through safeUrl(). Never insert raw data into markup.
+function escapeHtml(s){
+  return String(s==null?'':s).replace(/[&<>"']/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+  });
+}
+function safeUrl(u){
+  try{
+    var x=new URL(String(u||''),window.location.href);
+    return (x.protocol==='http:'||x.protocol==='https:')?x.href:'';
+  }catch(e){return '';}
+}
+
 var sb = supabase.createClient('https://cbnewhtbkaohugrvorvq.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNibmV3aHRia2FvaHVncnZvcnZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgzNzAxNjksImV4cCI6MjA5Mzk0NjE2OX0.tIbzeBDa4huVoEi9W6wrTit59e2-Lgo2ZoPn9qukb3g');
 var currentUser = null;
 var currentProfile = null;
@@ -215,7 +230,7 @@ async function init() {
   var navAuth = document.getElementById('nav-auth');
   if (navAuth) {
     navAuth.innerHTML = '<a href="./profile.html" class="nav-link" style="color:var(--text-2)">' +
-      ((currentProfile && currentProfile.display_name) || user.email.split('@')[0]) + '</a>' +
+      escapeHtml((currentProfile && currentProfile.display_name) || user.email.split('@')[0]) + '</a>' +
       '<span class="nav-link" style="cursor:pointer;color:var(--text-3)" onclick="handleSignOut()">Sign out</span>';
   }
 
@@ -225,7 +240,7 @@ async function init() {
     var role = (currentProfile && currentProfile.role) || 'listener';
     if (gate) gate.innerHTML = '<div class="invite-gate-title">DJ verification required</div>' +
       '<div class="invite-gate-sub">Set submission is available to verified DJs only.<br>' +
-      'Your account is registered as a <strong>' + role + '</strong>.<br><br>' +
+      'Your account is registered as a <strong>' + escapeHtml(role) + '</strong>.<br><br>' +
       'To request DJ verification, contact us from your profile page.<br>' +
       'In the meantime, you can <a href="./community.html" style="color:var(--accent)">log signals</a> and ' +
       '<a href="./identify.html" style="color:var(--accent)">help identify tracks</a>.</div>';

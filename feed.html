@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Signal Feed - Resonance Signal</title>
+<title>Signal Feed — Resonance Signal</title>
 <meta name="description" content="What's moving in electronic music this week. Underground signals before they chart.">
-<meta property="og:title" content="Signal Feed - Resonance Signal">
+<meta property="og:title" content="Signal Feed — Resonance Signal">
 <meta property="og:description" content="What's moving in electronic music this week. Underground signals before they chart.">
 <meta property="og:type" content="website">
 <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:ital,wght@0,300;0,400;1,300&display=swap" rel="stylesheet">
@@ -189,6 +189,21 @@
 </footer>
 
 <script>
+// ── Output safety: every user-supplied or externally-sourced string must pass
+// through escapeHtml() before being placed into innerHTML, and every
+// user-supplied URL through safeUrl(). Never insert raw data into markup.
+function escapeHtml(s){
+  return String(s==null?'':s).replace(/[&<>"']/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+  });
+}
+function safeUrl(u){
+  try{
+    var x=new URL(String(u||''),window.location.href);
+    return (x.protocol==='http:'||x.protocol==='https:')?x.href:'';
+  }catch(e){return '';}
+}
+
 const BASE = './data/';
 let VELOCITY = [], EMERGING = [], GEO = [], GAP = [], SIGNALS = [];
 
@@ -246,16 +261,16 @@ function renderRising() {
     return `<div class="signal-card ${statusType}">
       <div class="signal-type ${statusType}">
         <div class="signal-type-dot"></div>
-        ${v.status.toUpperCase()}
+        ${escapeHtml(String(v.status).toUpperCase())}
       </div>
-      <div class="signal-headline">${v.genre} is ${v.status === 'peaking' ? 'at peak momentum' : v.status === 'rising' ? 'building fast' : v.status === 'cooling' ? 'cooling off' : 'an early signal'}</div>
-      <div class="signal-body">${gapText} ${v.delta}.</div>
+      <div class="signal-headline">${escapeHtml(v.genre)} is ${v.status === 'peaking' ? 'at peak momentum' : v.status === 'rising' ? 'building fast' : v.status === 'cooling' ? 'cooling off' : 'an early signal'}</div>
+      <div class="signal-body">${gapText} ${escapeHtml(v.delta)}.</div>
       <div class="signal-meta">
-        <span class="signal-tag">${v.genre}</span>
+        <span class="signal-tag">${escapeHtml(v.genre)}</span>
         <span class="signal-data">LISTENER ${v.playPct}% · COMMERCIAL ${v.buyPct}%</span>
       </div>
       <div class="signal-artists">
-        ${(v.leaders || []).map(l => `<span class="signal-artist">${l}</span>`).join('')}
+        ${(v.leaders || []).map(l => `<span class="signal-artist">${escapeHtml(l)}</span>`).join('')}
       </div>
     </div>`;
   }).join('');
@@ -272,8 +287,8 @@ function renderUnderground() {
     const heatColor = heatPct >= 90 ? 'var(--hot)' : heatPct >= 75 ? 'var(--accent)' : 'var(--cool)';
     return `<div class="mover-card">
       <div class="mover-rank">EMERGING #${i + 1}</div>
-      <div class="mover-name">${t.title}</div>
-      <div class="mover-genre">${t.artist}</div>
+      <div class="mover-name">${escapeHtml(t.title)}</div>
+      <div class="mover-genre">${escapeHtml(t.artist)}</div>
       <div class="mover-signal">
         <div class="mover-bar"><div class="mover-fill" style="width:${heatPct}%;background:${heatColor}"></div></div>
         <span style="font-family:DM Mono,monospace;font-size:0.6rem;color:var(--text-3)">${heatPct}</span>
@@ -294,12 +309,12 @@ function renderMarkets() {
     return `<div class="signal-card diverging">
       <div class="signal-type diverging">
         <div class="signal-type-dot"></div>
-        MARKET SIGNAL · ${g.flag} ${g.country.toUpperCase()}
+        MARKET SIGNAL · ${escapeHtml(g.flag)} ${escapeHtml(String(g.country).toUpperCase())}
       </div>
-      <div class="signal-headline">${g.country}: ${lead ? lead.n + ' rising' : dominant.n + ' dominant'}</div>
-      <div class="signal-body">${g.insight}</div>
+      <div class="signal-headline">${escapeHtml(g.country)}: ${escapeHtml(lead ? lead.n + ' rising' : dominant.n + ' dominant')}</div>
+      <div class="signal-body">${escapeHtml(g.insight)}</div>
       <div class="signal-meta">
-        ${g.genres.map(gr => `<span class="signal-tag">${gr.n}</span>`).join('')}
+        ${g.genres.map(gr => `<span class="signal-tag">${escapeHtml(gr.n)}</span>`).join('')}
       </div>
     </div>`;
   }).join('');
@@ -315,20 +330,20 @@ function renderGapFeed() {
   el.innerHTML = interesting.map(r => {
     const sc = SIGNAL_COPY[r.signal] || SIGNAL_COPY['dj-play'];
     const desc = r.signal === 'underground'
-      ? `${r.artist} has strong listener momentum in ${r.genre} (#${r.playRank} on listener charts) but no commercial chart presence yet. Classic pre-breakout pattern.`
+      ? `${escapeHtml(r.artist)} has strong listener momentum in ${escapeHtml(r.genre)} (#${r.playRank} on listener charts) but no commercial chart presence yet. Classic pre-breakout pattern.`
       : r.signal === 'aligned'
-      ? `${r.artist} is aligned — appearing at #${r.playRank} on listener charts and #${r.buyRank} commercially. Both signals confirming.`
-      : `${r.artist} is appearing at #${r.playRank} on listener charts in ${r.genre}. Watch this one.`;
+      ? `${escapeHtml(r.artist)} is aligned — appearing at #${r.playRank} on listener charts and #${r.buyRank} commercially. Both signals confirming.`
+      : `${escapeHtml(r.artist)} is appearing at #${r.playRank} on listener charts in ${escapeHtml(r.genre)}. Watch this one.`;
 
     return `<div class="signal-card ${sc.type}">
       <div class="signal-type ${sc.type}">
         <div class="signal-type-dot" style="background:${sc.dot}"></div>
         ${sc.label.toUpperCase()}
       </div>
-      <div class="signal-headline">${r.artist}</div>
+      <div class="signal-headline">${escapeHtml(r.artist)}</div>
       <div class="signal-body">${desc}</div>
       <div class="signal-meta">
-        <span class="signal-tag">${r.genre}</span>
+        <span class="signal-tag">${escapeHtml(r.genre)}</span>
         ${r.playRank ? `<span class="signal-data">LISTENER #${r.playRank}</span>` : ''}
         ${r.buyRank ? `<span class="signal-data">COMMERCIAL #${r.buyRank}</span>` : ''}
       </div>

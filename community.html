@@ -248,6 +248,21 @@
 </footer>
 
 <script>
+// ── Output safety: every user-supplied or externally-sourced string must pass
+// through escapeHtml() before being placed into innerHTML, and every
+// user-supplied URL through safeUrl(). Never insert raw data into markup.
+function escapeHtml(s){
+  return String(s==null?'':s).replace(/[&<>"']/g,function(c){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c];
+  });
+}
+function safeUrl(u){
+  try{
+    var x=new URL(String(u||''),window.location.href);
+    return (x.protocol==='http:'||x.protocol==='https:')?x.href:'';
+  }catch(e){return '';}
+}
+
 
 const sb = supabase.createClient('https://cbnewhtbkaohugrvorvq.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNibmV3aHRia2FvaHVncnZvcnZxIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgzNzAxNjksImV4cCI6MjA5Mzk0NjE2OX0.tIbzeBDa4huVoEi9W6wrTit59e2-Lgo2ZoPn9qukb3g');
 async function getUser() { const { data: { user } } = await sb.auth.getUser(); return user; }
@@ -260,7 +275,7 @@ function updateNavAuth(user, profile) {
   const el = document.getElementById('nav-auth');
   if (!el) return;
   if (user) {
-    el.innerHTML = '<a href="./profile.html" class="nav-link" style="color:var(--text-2)">' + (profile?.display_name || 'My signals') + '</a>' +
+    el.innerHTML = '<a href="./profile.html" class="nav-link" style="color:var(--text-2)">' + escapeHtml(profile?.display_name || 'My signals') + '</a>' +
       '<span class="nav-link" style="cursor:pointer;color:var(--text-3)" onclick="handleSignOut()">Sign out</span>';
   } else {
     el.innerHTML = '<a href="./login.html" class="nav-link">Sign in</a>' +
@@ -364,10 +379,10 @@ async function loadRecentSignals() {
   const el = document.getElementById('recent-signals');
   if (!data || !data.length) { el.innerHTML = '<div class="empty-state">No signals yet. Be the first.</div>'; return; }
   el.innerHTML = data.map(s => `<div class="signal-item">
-    <div class="signal-artist">${s.is_unknown_id ? '<em style="color:var(--text-3)">Unknown ID</em>' : (s.artist_name || 'Unknown')}</div>
-    <div class="signal-meta">${[s.heard_at_city, s.heard_date].filter(Boolean).join(' · ')}</div>
-    ${s.genre ? `<span class="signal-genre">${s.genre}</span>` : ''}
-    ${s.is_unknown_id && s.notes ? `<div style="font-family:DM Mono,monospace;font-size:0.6rem;color:var(--text-3);margin-top:4px">${s.notes.slice(0,80)}${s.notes.length>80?'...':''}</div>` : ''}
+    <div class="signal-artist">${s.is_unknown_id ? '<em style="color:var(--text-3)">Unknown ID</em>' : escapeHtml(s.artist_name || 'Unknown')}</div>
+    <div class="signal-meta">${escapeHtml([s.heard_at_city, s.heard_date].filter(Boolean).join(' · '))}</div>
+    ${s.genre ? `<span class="signal-genre">${escapeHtml(s.genre)}</span>` : ''}
+    ${s.is_unknown_id && s.notes ? `<div style="font-family:DM Mono,monospace;font-size:0.6rem;color:var(--text-3);margin-top:4px">${escapeHtml(s.notes.slice(0,80))}${s.notes.length>80?'...':''}</div>` : ''}
   </div>`).join('');
 }
 
@@ -377,11 +392,11 @@ async function loadOpenThreads() {
     .order('created_at',{ascending:false}).limit(8);
   const el = document.getElementById('open-threads');
   if (!data || !data.length) { el.innerHTML = '<div class="empty-state">No open threads. Log an unknown ID to start one.</div>'; return; }
-  el.innerHTML = data.map(t => `<div class="id-thread" style="cursor:pointer" onclick="window.location.href='./identify.html?thread=${t.id}'">
-    <div class="id-thread-desc">${t.description.slice(0,100)}${t.description.length>100?'...':''}
-      <span class="id-thread-status ${t.status}">${t.status.toUpperCase()}</span>
+  el.innerHTML = data.map(t => `<div class="id-thread" style="cursor:pointer" onclick="window.location.href='./identify.html?thread=${encodeURIComponent(t.id)}'">
+    <div class="id-thread-desc">${escapeHtml(t.description.slice(0,100))}${t.description.length>100?'...':''}
+      <span class="id-thread-status ${escapeHtml(t.status)}">${escapeHtml(String(t.status).toUpperCase())}</span>
     </div>
-    <div class="id-thread-meta">${t.genre_hint || 'Genre unknown'} · ${new Date(t.created_at).toLocaleDateString('en-GB')}</div>
+    <div class="id-thread-meta">${escapeHtml(t.genre_hint || 'Genre unknown')} · ${new Date(t.created_at).toLocaleDateString('en-GB')}</div>
   </div>`).join('');
 }
 
