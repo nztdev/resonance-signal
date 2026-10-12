@@ -1,23 +1,23 @@
 [
   {
-    "artist": "Slow Nomaden",
-    "genre": "Organic / Downtempo",
-    "playRank": 48,
-    "buyRank": 243,
-    "signal": "dj-play",
-    "playDelta": 5,
-    "buyDelta": -18,
-    "raBooked": false
-  },
-  {
-    "artist": "Alex C",
-    "genre": "Trance",
-    "playRank": 80,
-    "buyRank": 168,
+    "artist": "Saturn",
+    "genre": "Hard Techno",
+    "playRank": 45,
+    "buyRank": 266,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Slow Nomaden",
+    "genre": "Organic / Downtempo",
+    "playRank": 52,
+    "buyRank": 286,
+    "signal": "dj-play",
+    "playDelta": -4,
+    "buyDelta": -43,
     "raBooked": false
   },
   {
@@ -32,7 +32,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -41,8 +41,8 @@
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -52,9 +52,19 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -65,26 +75,16 @@
   {
     "artist": "nbsplv",
     "genre": "Deep House",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 0,
+    "playDelta": -1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "No Reclaim",
-    "genre": "Melodic Techno",
+    "artist": "JCH UP",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -94,8 +94,8 @@
     "raBooked": false
   },
   {
-    "artist": "Sergii Petrenko",
-    "genre": "Afro House",
+    "artist": "Damolh33",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -105,8 +105,8 @@
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "House",
+    "artist": "Turkish Airwaves",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -116,8 +116,8 @@
     "raBooked": false
   },
   {
-    "artist": "Domshe",
-    "genre": "Melodic Techno",
+    "artist": "Mateo Zoriel",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -127,8 +127,8 @@
     "raBooked": false
   },
   {
-    "artist": "El Retsof",
-    "genre": "Melodic Techno",
+    "artist": "Bezaar",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -138,8 +138,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tibetania",
-    "genre": "Organic / Downtempo",
+    "artist": "SouthDreamer",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
