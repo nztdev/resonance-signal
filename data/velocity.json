@@ -1,46 +1,16 @@
 [
   {
-    "genre": "Organic / Downtempo",
+    "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -32,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Deep House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": -32,
-    "isNew": false,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Youandewan"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": -32,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper"
+      "Psyk",
+      "Unklevon",
+      "Avant.OCS"
     ],
     "delta": "Steady build"
   },
@@ -50,7 +20,7 @@
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -32,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Kasablanca",
@@ -60,47 +30,32 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Tech House",
+    "genre": "Organic / Downtempo",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -32,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Gesaffelstein",
-      "Adriatique",
-      "Laszlo"
+      "thds",
+      "Stavroz",
+      "Tinlicker"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Trance",
+    "genre": "Minimal / Deep Tech",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -32,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": -32,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "JOHN ELLE",
-      "RAFFA GUIDO"
+      "Sara Landry",
+      "Anna",
+      "Max Cooper"
     ],
     "delta": "Steady build"
   },
@@ -110,27 +65,72 @@
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": 31,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Isyti",
-      "The Prophet",
-      "Yoshiko"
+      "Yoshiko",
+      "The Prophet"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Techno",
+    "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -14,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon"
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "JOHN ELLE"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Adriatique",
+      "Gesaffelstein",
+      "Laszlo"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Ben Böhmer"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki"
     ],
     "delta": "Steady build"
   },
@@ -140,12 +140,12 @@
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -32,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Angelo Ferreri",
-      "Midnight City",
-      "Jansons"
+      "Jansons",
+      "Midnight City"
     ],
     "delta": "Steady build"
   }
