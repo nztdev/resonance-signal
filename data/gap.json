@@ -1,9 +1,9 @@
 [
   {
-    "artist": "Jamie Jones",
-    "genre": "Tech House",
+    "artist": "Bun Xapa",
+    "genre": "Afro House",
     "playRank": 44,
-    "buyRank": 190,
+    "buyRank": 100,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -11,10 +11,21 @@
     "raBooked": false
   },
   {
-    "artist": "Above & Beyond",
-    "genre": "Trance",
-    "playRank": 56,
-    "buyRank": 188,
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 50,
+    "buyRank": 99,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Fluid",
+    "genre": "Hard Techno",
+    "playRank": 73,
+    "buyRank": 123,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -23,7 +34,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -47,24 +58,24 @@
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
+    "playDelta": 0,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Isyti",
-    "genre": "Hard Techno",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 1,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -74,29 +85,30 @@
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Dan Soden",
-    "genre": "House",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Spanless",
-    "genre": "Melodic Techno",
+    "artist": "Melt",
+    "genre": "Tech House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
+    "artist": "Soundscape",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -106,8 +118,8 @@
     "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Melodic Techno",
+    "artist": "Eximinds",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -117,8 +129,8 @@
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
-    "genre": "House",
+    "artist": "Oliver Lindberg",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -128,8 +140,8 @@
     "raBooked": false
   },
   {
-    "artist": "Hablift",
-    "genre": "Trance",
+    "artist": "Ananda Shake",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -139,8 +151,8 @@
     "raBooked": false
   },
   {
-    "artist": "Fabio Cerqueti",
-    "genre": "House",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",

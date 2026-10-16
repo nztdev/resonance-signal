@@ -5,13 +5,109 @@
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 32,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "Hablift"
+      "Eximinds"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 4,
+    "isNew": false,
+    "leaders": [
+      "Adriatique",
+      "Gesaffelstein",
+      "Laszlo",
+      "Soundscape"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 84,
+    "playPctDelta": 0,
+    "buyPctDelta": -4,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Unklevon",
+      "Avant.OCS",
+      "Oliver Lindberg"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Ben Böhmer",
+      "Ananda Shake"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 14,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Tibetania"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "JOHN ELLE",
+      "The Bongo Man"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Oscar Bermejo"
     ],
     "delta": "Steady build"
   },
@@ -21,7 +117,7 @@
     "playPct": 56,
     "buyPct": 25,
     "playPctDelta": 0,
-    "buyPctDelta": -31,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Isyti",
@@ -34,15 +130,15 @@
     "genre": "House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 67,
     "playPctDelta": 0,
-    "buyPctDelta": 32,
+    "buyPctDelta": -21,
     "isNew": false,
     "leaders": [
       "Angelo Ferreri",
       "Jansons",
       "Midnight City",
-      "Fabio Cerqueti"
+      "Skeleton House Collective"
     ],
     "delta": "Steady build"
   },
@@ -50,111 +146,15 @@
     "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 83,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 27,
+    "buyPctDelta": 5,
     "isNew": false,
     "leaders": [
       "Kasablanca",
       "Tinlicker",
       "Goom Gum",
-      "Melodic House Lovers"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 32,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Unklevon",
-      "Avant.OCS",
-      "Dr Chekill"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 32,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Tobz"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 74,
-    "playPctDelta": 0,
-    "buyPctDelta": 18,
-    "isNew": false,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Jack Essek"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 84,
-    "playPctDelta": 0,
-    "buyPctDelta": 28,
-    "isNew": false,
-    "leaders": [
-      "Adriatique",
-      "Gesaffelstein",
-      "Laszlo",
-      "Neon Drifter"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Deep House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 32,
-    "isNew": false,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Ben Böhmer",
-      "Out of Orbit (Eitan Reiter)"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 32,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "JOHN ELLE",
-      "Mpho.Wav"
+      "SYØGE"
     ],
     "delta": "Steady build"
   }
