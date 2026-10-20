@@ -2,48 +2,16 @@
   {
     "artist": "Anna",
     "genre": "Minimal / Deep Tech",
-    "playRank": 14,
-    "buyRank": 275,
+    "playRank": 10,
+    "buyRank": 364,
     "signal": "dj-play",
-    "playDelta": 3,
-    "buyDelta": -67,
-    "raBooked": false
-  },
-  {
-    "artist": "Robert Miles",
-    "genre": "Trance",
-    "playRank": 55,
-    "buyRank": 232,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Matt Lange",
-    "genre": "Tech House",
-    "playRank": 60,
-    "buyRank": 122,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Fluid",
-    "genre": "Hard Techno",
-    "playRank": 68,
-    "buyRank": 417,
-    "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": -60,
+    "playDelta": 4,
+    "buyDelta": -89,
     "raBooked": false
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -62,8 +30,8 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -72,38 +40,37 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "Isyti",
+    "genre": "Hard Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Isyti",
-    "genre": "Hard Techno",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": -2,
+    "playDelta": 1,
     "buyDelta": null,
     "raBooked": false
   },
   {
     "artist": "Kasablanca",
     "genre": "Melodic Techno",
-    "playRank": 6,
+    "playRank": 5,
     "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": -1,
+    "signal": "underground",
+    "playDelta": 1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "No Reclaim",
+    "artist": "Psyk",
+    "genre": "Techno",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": -3,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Cafe De Anatolia",
     "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
@@ -114,8 +81,8 @@
     "raBooked": false
   },
   {
-    "artist": "Jorge Sanders",
-    "genre": "Techno",
+    "artist": "Loukas",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -125,8 +92,8 @@
     "raBooked": false
   },
   {
-    "artist": "Coffee Music Machine",
-    "genre": "House",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -136,8 +103,8 @@
     "raBooked": false
   },
   {
-    "artist": "Minimal Lovers",
-    "genre": "Minimal / Deep Tech",
+    "artist": "M Dibby Love",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -147,7 +114,7 @@
     "raBooked": false
   },
   {
-    "artist": "Jay Cluss",
+    "artist": "LOOPHAUS",
     "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 5,
@@ -155,11 +122,11 @@
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Sangiornoo",
-    "genre": "Deep House",
+    "artist": "Luca Dravn",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
