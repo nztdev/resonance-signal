@@ -1,26 +1,5 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 12,
-    "buyRank": 385,
-    "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": -21,
-    "raBooked": false
-  },
-  {
-    "artist": "Darude",
-    "genre": "Trance",
-    "playRank": 75,
-    "buyRank": 158,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
     "artist": "Tinlicker",
     "genre": "Organic / Downtempo",
     "playRank": 1,
@@ -41,9 +20,19 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Isyti",
+    "genre": "Hard Techno",
     "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": 1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -52,28 +41,19 @@
     "raBooked": false
   },
   {
-    "artist": "Isyti",
-    "genre": "Hard Techno",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -82,8 +62,8 @@
     "raBooked": false
   },
   {
-    "artist": "Inshallah",
-    "genre": "Deep House",
+    "artist": "Dan Soden",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -93,7 +73,7 @@
     "raBooked": false
   },
   {
-    "artist": "Oziriz",
+    "artist": "ARSANIT Tech",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
@@ -104,8 +84,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tech Mama",
-    "genre": "Tech House",
+    "artist": "Adam Rosso",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -115,7 +95,7 @@
     "raBooked": false
   },
   {
-    "artist": "Backwoods Circuit",
+    "artist": "Cristina Bonanno",
     "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 4,
@@ -126,8 +106,8 @@
     "raBooked": false
   },
   {
-    "artist": "Amanda Harris",
-    "genre": "Techno",
+    "artist": "DigitalPR",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -137,13 +117,14 @@
     "raBooked": true
   },
   {
-    "artist": "Tibetania",
-    "genre": "Organic / Downtempo",
+    "artist": "Black MDMA",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -3,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   }
 ]
