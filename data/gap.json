@@ -1,5 +1,16 @@
 [
   {
+    "artist": "Florian Gasperini",
+    "genre": "Organic / Downtempo",
+    "playRank": 37,
+    "buyRank": 98,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
     "artist": "Tinlicker",
     "genre": "Organic / Downtempo",
     "playRank": 1,
@@ -11,7 +22,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -20,9 +31,30 @@
     "raBooked": false
   },
   {
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
+    "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
     "artist": "Isyti",
     "genre": "Hard Techno",
-    "playRank": 3,
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": -1,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 1,
@@ -32,37 +64,15 @@
   {
     "artist": "Kasablanca",
     "genre": "Melodic Techno",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Tiësto",
-    "genre": "Trance",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "nbsplv",
-    "genre": "Deep House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -3,
+    "playDelta": -2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Dan Soden",
+    "artist": "Astraglide",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
@@ -73,7 +83,7 @@
     "raBooked": false
   },
   {
-    "artist": "ARSANIT Tech",
+    "artist": "Melt",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
@@ -81,11 +91,11 @@
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
+    "raBooked": true
   },
   {
-    "artist": "Adam Rosso",
-    "genre": "Melodic Techno",
+    "artist": "Alvilianx",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -95,8 +105,8 @@
     "raBooked": false
   },
   {
-    "artist": "Cristina Bonanno",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -106,18 +116,18 @@
     "raBooked": false
   },
   {
-    "artist": "DigitalPR",
-    "genre": "Trance",
+    "artist": "Tony Thomas",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Black MDMA",
+    "artist": "Xed",
     "genre": "Deep House",
     "playRank": null,
     "buyRank": 6,
