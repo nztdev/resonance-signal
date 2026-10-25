@@ -2,23 +2,11 @@
   {
     "artist": "Lost Frequencies",
     "genre": "Deep House",
-    "playRank": 12,
-    "buyRank": 145,
+    "playRank": 14,
+    "buyRank": 170,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Alice Deejay",
-    "genre": "Trance",
-    "playRank": 36,
-    "buyRank": 278,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": -2,
+    "buyDelta": -25,
     "raBooked": false
   },
   {
@@ -42,9 +30,31 @@
     "raBooked": false
   },
   {
-    "artist": "Isyti",
-    "genre": "Hard Techno",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 3,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Tiësto",
+    "genre": "Trance",
+    "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 1,
@@ -54,35 +64,15 @@
   {
     "artist": "nbsplv",
     "genre": "Deep House",
-    "playRank": 4,
+    "playRank": 6,
     "buyRank": null,
-    "signal": "underground",
-    "playDelta": 1,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
+    "signal": "dj-play",
     "playDelta": -2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "21 ROOM",
+    "artist": "ARSANIT Tech",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
@@ -93,28 +83,30 @@
     "raBooked": false
   },
   {
-    "artist": "Xed",
-    "genre": "Deep House",
+    "artist": "Sergii Petrenko",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 4,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Alvilianx",
-    "genre": "Afro House",
+    "artist": "Tito Jara",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Loidis",
-    "genre": "Minimal / Deep Tech",
+    "artist": "DJ RAYDON JULUMA",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -124,8 +116,8 @@
     "raBooked": false
   },
   {
-    "artist": "Nebucadnesor",
-    "genre": "Melodic Techno",
+    "artist": "Koliseum",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -135,13 +127,14 @@
     "raBooked": false
   },
   {
-    "artist": "Tibetania",
-    "genre": "Organic / Downtempo",
+    "artist": "Electro Factory",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -2,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   }
 ]
