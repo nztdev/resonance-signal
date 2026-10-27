@@ -1,9 +1,9 @@
 [
   {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 51,
-    "buyRank": 79,
+    "artist": "MOKADO",
+    "genre": "Afro House",
+    "playRank": 68,
+    "buyRank": 209,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -22,7 +22,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -31,48 +31,49 @@
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Isyti",
+    "genre": "Hard Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": 3,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Psyk",
-    "genre": "Techno",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": -2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Isyti",
-    "genre": "Hard Techno",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "HWs",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "nbsplv",
+    "genre": "Deep House",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": -2,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Roberth in da house",
     "genre": "Tech House",
     "playRank": null,
     "buyRank": 1,
@@ -83,8 +84,8 @@
     "raBooked": false
   },
   {
-    "artist": "Betibwe",
-    "genre": "Trance",
+    "artist": "Ghost In The Metaverse",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -94,8 +95,8 @@
     "raBooked": false
   },
   {
-    "artist": "Dawdarka",
-    "genre": "Deep House",
+    "artist": "Dzik",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -111,13 +112,12 @@
     "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": 0,
     "raBooked": false
   },
   {
-    "artist": "NEBØR",
-    "genre": "Techno",
+    "artist": "Uwe Wumpele",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -127,8 +127,8 @@
     "raBooked": false
   },
   {
-    "artist": "Halloween Season",
-    "genre": "Melodic Techno",
+    "artist": "Rozo",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",

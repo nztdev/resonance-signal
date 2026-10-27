@@ -1,6 +1,21 @@
 [
   {
-    "genre": "Tech House",
+    "genre": "Hard Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 25,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Isyti",
+      "The Prophet",
+      "Yoshiko"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -8,42 +23,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Adriatique",
-      "Gesaffelstein",
-      "Laszlo",
-      "HWs"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 24,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Betibwe"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Deep House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Youandewan",
-      "Dawdarka"
+      "Mobi Dixon",
+      "RAFFA GUIDO",
+      "JOHN ELLE",
+      "Ghost In The Metaverse"
     ],
     "delta": "Steady build"
   },
@@ -64,7 +47,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Techno",
+    "genre": "Tech House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -72,25 +55,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Psyk",
-      "Unklevon",
-      "Morbe",
-      "NEBØR"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 25,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Isyti",
-      "The Prophet",
-      "Yoshiko"
+      "Adriatique",
+      "Gesaffelstein",
+      "Laszlo",
+      "Uwe Wumpele"
     ],
     "delta": "Steady build"
   },
@@ -111,12 +79,28 @@
     "delta": "Steady build"
   },
   {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 76,
+    "playPctDelta": 0,
+    "buyPctDelta": -12,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Youandewan",
+      "Future Prophecy"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Minimal / Deep Tech",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 85,
+    "buyPct": 73,
     "playPctDelta": 0,
-    "buyPctDelta": -3,
+    "buyPctDelta": -12,
     "isNew": false,
     "leaders": [
       "Sara Landry",
@@ -127,23 +111,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 12,
-    "isNew": false,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City",
-      "Antoine Pete"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
+    "genre": "Trance",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -151,10 +119,42 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Mobi Dixon",
-      "RAFFA GUIDO",
-      "JOHN ELLE",
-      "Kultureflex"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "ZyN!xTer"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 67,
+    "playPctDelta": 0,
+    "buyPctDelta": -21,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Unklevon",
+      "Morbe",
+      "DadBod United"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City",
+      "The Alpha"
     ],
     "delta": "Steady build"
   }
