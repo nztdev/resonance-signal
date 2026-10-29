@@ -1,60 +1,5 @@
 [
   {
-    "date": "2026-10-22",
-    "genres": {
-      "Organic / Downtempo": {
-        "playPct": 56,
-        "buyPct": 88,
-        "raPct": 0
-      },
-      "Tech House": {
-        "playPct": 56,
-        "buyPct": 88,
-        "raPct": 0
-      },
-      "Hard Techno": {
-        "playPct": 56,
-        "buyPct": 25,
-        "raPct": 0
-      },
-      "Minimal / Deep Tech": {
-        "playPct": 56,
-        "buyPct": 76,
-        "raPct": 0
-      },
-      "Melodic Techno": {
-        "playPct": 56,
-        "buyPct": 88,
-        "raPct": 0
-      },
-      "Trance": {
-        "playPct": 56,
-        "buyPct": 55,
-        "raPct": 55
-      },
-      "Deep House": {
-        "playPct": 56,
-        "buyPct": 80,
-        "raPct": 0
-      },
-      "Techno": {
-        "playPct": 56,
-        "buyPct": 76,
-        "raPct": 0
-      },
-      "Afro House": {
-        "playPct": 56,
-        "buyPct": 84,
-        "raPct": 0
-      },
-      "House": {
-        "playPct": 56,
-        "buyPct": 67,
-        "raPct": 0
-      }
-    }
-  },
-  {
     "date": "2026-10-23",
     "genres": {
       "Afro House": {
@@ -380,6 +325,61 @@
       "Deep House": {
         "playPct": 56,
         "buyPct": 64,
+        "raPct": 0
+      }
+    }
+  },
+  {
+    "date": "2026-10-29",
+    "genres": {
+      "Minimal / Deep Tech": {
+        "playPct": 56,
+        "buyPct": 81,
+        "raPct": 0
+      },
+      "Techno": {
+        "playPct": 56,
+        "buyPct": 87,
+        "raPct": 0
+      },
+      "Hard Techno": {
+        "playPct": 56,
+        "buyPct": 25,
+        "raPct": 0
+      },
+      "House": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Afro House": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Tech House": {
+        "playPct": 56,
+        "buyPct": 84,
+        "raPct": 0
+      },
+      "Deep House": {
+        "playPct": 56,
+        "buyPct": 87,
+        "raPct": 0
+      },
+      "Trance": {
+        "playPct": 56,
+        "buyPct": 63,
+        "raPct": 0
+      },
+      "Melodic Techno": {
+        "playPct": 56,
+        "buyPct": 88,
+        "raPct": 0
+      },
+      "Organic / Downtempo": {
+        "playPct": 56,
+        "buyPct": 88,
         "raPct": 0
       }
     }

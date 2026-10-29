@@ -1,9 +1,31 @@
 [
   {
-    "artist": "Darude",
-    "genre": "Trance",
-    "playRank": 71,
-    "buyRank": 368,
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 11,
+    "buyRank": 355,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 37,
+    "buyRank": 308,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "HNTR",
+    "genre": "Melodic Techno",
+    "playRank": 43,
+    "buyRank": 365,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -22,7 +44,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -36,14 +58,13 @@
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -52,8 +73,8 @@
     "raBooked": false
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Jansons",
+    "genre": "House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -63,8 +84,8 @@
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -74,7 +95,7 @@
     "raBooked": false
   },
   {
-    "artist": "SÜNDENBÖCK",
+    "artist": "Dan Soden",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 1,
@@ -85,8 +106,8 @@
     "raBooked": false
   },
   {
-    "artist": "Halloween Season",
-    "genre": "Melodic Techno",
+    "artist": "ARSANIT Tech",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -96,29 +117,30 @@
     "raBooked": false
   },
   {
-    "artist": "Joi",
-    "genre": "Tech House",
+    "artist": "Cafe De Anatolia",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Tibetania",
-    "genre": "Organic / Downtempo",
+    "artist": "He did",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 0,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "AXVYOD",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Tunecraft Project",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -128,8 +150,8 @@
     "raBooked": false
   },
   {
-    "artist": "ZyN!xTer",
-    "genre": "Trance",
+    "artist": "Sweet World",
+    "genre": "House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",

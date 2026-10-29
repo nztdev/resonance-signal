@@ -1,33 +1,33 @@
 [
   {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 81,
+    "playPctDelta": 0,
+    "buyPctDelta": 1,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "He did"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 87,
     "playPctDelta": 0,
-    "buyPctDelta": 21,
+    "buyPctDelta": -1,
     "isNew": false,
     "leaders": [
       "Psyk",
       "Morbe",
       "Unklevon",
-      "SÜNDENBÖCK"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 84,
-    "playPctDelta": 0,
-    "buyPctDelta": -4,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Goom Gum",
-      "Halloween Season"
+      "Tunecraft Project"
     ],
     "delta": "Steady build"
   },
@@ -47,7 +47,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Tech House",
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -55,58 +55,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Gesaffelstein",
-      "Adriatique",
-      "Laszlo",
-      "Joi"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Tibetania"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 80,
-    "playPctDelta": 0,
-    "buyPctDelta": 7,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "AXVYOD"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "ZyN!xTer"
+      "Jansons",
+      "Angelo Ferreri",
+      "Midnight City",
+      "Sweet World"
     ],
     "delta": "Steady build"
   },
@@ -127,18 +79,18 @@
     "delta": "Steady build"
   },
   {
-    "genre": "House",
+    "genre": "Tech House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 84,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -4,
     "isNew": false,
     "leaders": [
-      "Jansons",
-      "Angelo Ferreri",
-      "Midnight City",
-      "Midorii"
+      "Gesaffelstein",
+      "Adriatique",
+      "Laszlo",
+      "Vortex"
     ],
     "delta": "Steady build"
   },
@@ -146,15 +98,63 @@
     "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 64,
+    "buyPct": 87,
     "playPctDelta": 0,
-    "buyPctDelta": -12,
+    "buyPctDelta": 23,
     "isNew": false,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
       "Youandewan",
-      "Future Prophecy"
+      "Andrea Scarsi"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 63,
+    "playPctDelta": 0,
+    "buyPctDelta": -25,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Bleachedgoat"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 4,
+    "isNew": false,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "Goom Gum",
+      "Halloween Season"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Kaya"
     ],
     "delta": "Steady build"
   }
