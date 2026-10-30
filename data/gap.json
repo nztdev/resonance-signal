@@ -1,31 +1,20 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 11,
-    "buyRank": 355,
-    "signal": "dj-play",
+    "artist": "Monkey Safari",
+    "genre": "Tech House",
+    "playRank": 70,
+    "buyRank": 1,
+    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Teo",
-    "genre": "Techno",
-    "playRank": 37,
-    "buyRank": 308,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "HNTR",
-    "genre": "Melodic Techno",
-    "playRank": 43,
-    "buyRank": 365,
+    "artist": "Tini",
+    "genre": "Deep House",
+    "playRank": 75,
+    "buyRank": 157,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -34,7 +23,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -44,7 +33,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -53,28 +42,30 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Jansons",
-    "genre": "House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -84,8 +75,8 @@
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
@@ -95,19 +86,8 @@
     "raBooked": false
   },
   {
-    "artist": "Dan Soden",
-    "genre": "Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "ARSANIT Tech",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Rain Forest Project",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -117,8 +97,8 @@
     "raBooked": false
   },
   {
-    "artist": "Cafe De Anatolia",
-    "genre": "Afro House",
+    "artist": "Tibetania",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -128,8 +108,8 @@
     "raBooked": false
   },
   {
-    "artist": "He did",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Tony Thomas",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -139,8 +119,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tunecraft Project",
-    "genre": "Techno",
+    "artist": "Jaques Le Noir",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -150,10 +130,21 @@
     "raBooked": false
   },
   {
-    "artist": "Sweet World",
-    "genre": "House",
+    "artist": "Jeff Alford",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 6,
+    "signal": "fan-buy",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "DJ Real Madrid",
+    "genre": "Minimal / Deep Tech",
+    "playRank": null,
+    "buyRank": 7,
     "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
