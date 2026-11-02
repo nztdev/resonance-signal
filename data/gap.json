@@ -1,12 +1,34 @@
 [
   {
+    "artist": "Anna",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 15,
+    "buyRank": 186,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Teo",
+    "genre": "Techno",
+    "playRank": 40,
+    "buyRank": 142,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
+  },
+  {
     "artist": "Monkey Safari",
     "genre": "Tech House",
-    "playRank": 73,
-    "buyRank": 222,
+    "playRank": 67,
+    "buyRank": 226,
     "signal": "dj-play",
-    "playDelta": 1,
-    "buyDelta": 6,
+    "playDelta": 6,
+    "buyDelta": -4,
     "raBooked": false
   },
   {
@@ -21,7 +43,7 @@
   },
   {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -30,8 +52,8 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -41,23 +63,24 @@
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 4,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": -1,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
     "artist": "The Prophet",
     "genre": "Hard Techno",
-    "playRank": 5,
+    "playRank": 4,
     "buyRank": null,
     "signal": "underground",
     "playDelta": 1,
     "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
+    "playRank": 5,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
@@ -66,24 +89,24 @@
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
+    "playDelta": 0,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "JCH UP",
+    "genre": "Tech House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "No Reclaim",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": 2,
-    "raBooked": false
-  },
-  {
-    "artist": "Nils Engine",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Cramp",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -93,8 +116,8 @@
     "raBooked": false
   },
   {
-    "artist": "Behache",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Mirco Costa",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -104,8 +127,8 @@
     "raBooked": false
   },
   {
-    "artist": "DJ Flash Ashley",
-    "genre": "Techno",
+    "artist": "Coffee Music Machine",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -115,8 +138,8 @@
     "raBooked": false
   },
   {
-    "artist": "SH.AH",
-    "genre": "Melodic Techno",
+    "artist": "I.A.M.",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -126,8 +149,8 @@
     "raBooked": false
   },
   {
-    "artist": "The Mark Kraver Project",
-    "genre": "House",
+    "artist": "Royal Muzzy",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",

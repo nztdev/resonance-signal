@@ -1,49 +1,17 @@
 [
   {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 64,
-    "playPctDelta": 0,
-    "buyPctDelta": -24,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Behache"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
+    "genre": "Trance",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 8,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon",
-      "DJ Flash Ashley"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 4,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Goom Gum",
-      "SH.AH"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Cramp"
     ],
     "delta": "Steady build"
   },
@@ -63,39 +31,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 76,
-    "playPctDelta": 0,
-    "buyPctDelta": -12,
-    "isNew": false,
-    "leaders": [
-      "Jansons",
-      "Angelo Ferreri",
-      "Midnight City",
-      "The Mark Kraver Project"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "Bun Xapa",
-      "JOHN ELLE",
-      "Paul Varjak"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
+    "genre": "Tech House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -103,15 +39,31 @@
     "buyPctDelta": 8,
     "isNew": false,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "ネオノスタルジカ - NeoNostalgica -"
+      "Gesaffelstein",
+      "Adriatique",
+      "Laszlo",
+      "Mirco Costa"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Deep House",
+    "genre": "House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 12,
+    "isNew": false,
+    "leaders": [
+      "Jansons",
+      "Angelo Ferreri",
+      "Midnight City",
+      "Coffee Music Machine"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -119,26 +71,42 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Youandewan",
-      "HRSCH"
+      "Psyk",
+      "Morbe",
+      "Unklevon",
+      "I.A.M."
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Tech House",
+    "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 80,
+    "buyPct": 70,
     "playPctDelta": 0,
-    "buyPctDelta": -8,
+    "buyPctDelta": -18,
     "isNew": false,
     "leaders": [
-      "Gesaffelstein",
-      "Adriatique",
-      "Laszlo",
-      "GAAL"
+      "Kasablanca",
+      "Tinlicker",
+      "Goom Gum",
+      "Royal Muzzy"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 85,
+    "playPctDelta": 0,
+    "buyPctDelta": 21,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Itrema"
     ],
     "delta": "Steady build"
   },
@@ -155,6 +123,38 @@
       "Stavroz",
       "Tinlicker",
       "No Reclaim"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 83,
+    "playPctDelta": 0,
+    "buyPctDelta": -5,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Youandewan",
+      "HRSCH"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "Bun Xapa",
+      "JOHN ELLE",
+      "Paul Varjak"
     ],
     "delta": "Steady build"
   }
