@@ -1,6 +1,6 @@
 [
   {
-    "genre": "Trance",
+    "genre": "Organic / Downtempo",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -8,10 +8,26 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Cramp"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "No Reclaim"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Jansons",
+      "Angelo Ferreri",
+      "Midnight City",
+      "NetBeat"
     ],
     "delta": "Steady build"
   },
@@ -31,87 +47,23 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 8,
-    "isNew": false,
-    "leaders": [
-      "Gesaffelstein",
-      "Adriatique",
-      "Laszlo",
-      "Mirco Costa"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 12,
-    "isNew": false,
-    "leaders": [
-      "Jansons",
-      "Angelo Ferreri",
-      "Midnight City",
-      "Coffee Music Machine"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 73,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -15,
     "isNew": false,
     "leaders": [
       "Psyk",
       "Morbe",
       "Unklevon",
-      "I.A.M."
+      "Blanda"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 70,
-    "playPctDelta": 0,
-    "buyPctDelta": -18,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Goom Gum",
-      "Royal Muzzy"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 85,
-    "playPctDelta": 0,
-    "buyPctDelta": 21,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Itrema"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
+    "genre": "Trance",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -119,10 +71,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "No Reclaim"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "GameChops"
     ],
     "delta": "Steady build"
   },
@@ -130,15 +82,63 @@
     "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 83,
+    "buyPct": 71,
     "playPctDelta": 0,
-    "buyPctDelta": -5,
+    "buyPctDelta": -12,
     "isNew": false,
     "leaders": [
       "nbsplv",
       "Lost Frequencies",
       "Youandewan",
-      "HRSCH"
+      "Fault Based Solution"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 80,
+    "playPctDelta": 0,
+    "buyPctDelta": -8,
+    "isNew": false,
+    "leaders": [
+      "Gesaffelstein",
+      "Adriatique",
+      "Laszlo",
+      "Tech Mama"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 83,
+    "playPctDelta": 0,
+    "buyPctDelta": -2,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "21 ROOM"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 77,
+    "playPctDelta": 0,
+    "buyPctDelta": 7,
+    "isNew": false,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "Goom Gum",
+      "DannyMack"
     ],
     "delta": "Steady build"
   },
@@ -154,7 +154,7 @@
       "Mobi Dixon",
       "Bun Xapa",
       "JOHN ELLE",
-      "Paul Varjak"
+      "Sergio Pardo"
     ],
     "delta": "Steady build"
   }

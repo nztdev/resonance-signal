@@ -1,39 +1,27 @@
 [
   {
-    "artist": "Anna",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 15,
-    "buyRank": 186,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
     "artist": "Teo",
     "genre": "Techno",
-    "playRank": 40,
-    "buyRank": 142,
+    "playRank": 39,
+    "buyRank": 116,
     "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 1,
+    "buyDelta": 26,
     "raBooked": true
   },
   {
     "artist": "Monkey Safari",
     "genre": "Tech House",
-    "playRank": 67,
-    "buyRank": 226,
+    "playRank": 71,
+    "buyRank": 277,
     "signal": "dj-play",
-    "playDelta": 6,
-    "buyDelta": -4,
+    "playDelta": -4,
+    "buyDelta": -51,
     "raBooked": false
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -52,14 +40,13 @@
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Jansons",
+    "genre": "House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 3,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
@@ -68,13 +55,13 @@
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -84,18 +71,18 @@
     "raBooked": false
   },
   {
-    "artist": "Jansons",
-    "genre": "House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 0,
+    "playDelta": -3,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "JCH UP",
-    "genre": "Tech House",
+    "artist": "21 ROOM",
+    "genre": "House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -105,8 +92,8 @@
     "raBooked": false
   },
   {
-    "artist": "Cramp",
-    "genre": "Trance",
+    "artist": "Sergio Pardo",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -116,8 +103,8 @@
     "raBooked": false
   },
   {
-    "artist": "Mirco Costa",
-    "genre": "Tech House",
+    "artist": "NetBeat",
+    "genre": "House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -127,7 +114,7 @@
     "raBooked": false
   },
   {
-    "artist": "Coffee Music Machine",
+    "artist": "Mr. Laz",
     "genre": "House",
     "playRank": null,
     "buyRank": 4,
@@ -138,7 +125,7 @@
     "raBooked": false
   },
   {
-    "artist": "I.A.M.",
+    "artist": "Blanda",
     "genre": "Techno",
     "playRank": null,
     "buyRank": 5,
@@ -149,8 +136,8 @@
     "raBooked": false
   },
   {
-    "artist": "Royal Muzzy",
-    "genre": "Melodic Techno",
+    "artist": "GameChops",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
