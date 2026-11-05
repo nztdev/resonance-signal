@@ -1,5 +1,53 @@
 [
   {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 84,
+    "playPctDelta": 0,
+    "buyPctDelta": -3,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Atligummi"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Alan Aroven"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "HNTR",
+      "Front"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Hard Techno",
     "status": "emerging",
     "playPct": 56,
@@ -20,50 +68,18 @@
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 8,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Gesaffelstein",
       "Laszlo",
       "Adriatique",
-      "Microvibez"
+      "Dan Soden"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 70,
-    "playPctDelta": 0,
-    "buyPctDelta": -13,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Aran Gobik"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 78,
-    "playPctDelta": 0,
-    "buyPctDelta": -10,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "Bun Xapa",
-      "thds",
-      "No Reclaim"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Trance",
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -71,26 +87,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "GameChops"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 11,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "HNTR",
-      "Ilya Polo"
+      "Midnight City",
+      "Jansons",
+      "Angelo Ferreri",
+      "Steal Tapes"
     ],
     "delta": "Steady build"
   },
@@ -98,9 +98,9 @@
     "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 76,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 5,
+    "buyPctDelta": 12,
     "isNew": false,
     "leaders": [
       "nbsplv",
@@ -122,39 +122,39 @@
       "thds",
       "Stavroz",
       "Tinlicker",
-      "No Reclaim"
+      "Cafe De Anatolia"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 87,
-    "playPctDelta": 0,
-    "buyPctDelta": 14,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Abstrak"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
+    "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": 10,
     "isNew": false,
     "leaders": [
-      "Midnight City",
-      "Jansons",
-      "Angelo Ferreri",
-      "Garage Boys"
+      "Mobi Dixon",
+      "Bun Xapa",
+      "thds",
+      "Djknator"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 80,
+    "playPctDelta": 0,
+    "buyPctDelta": 10,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Copycat Department"
     ],
     "delta": "Steady build"
   }
