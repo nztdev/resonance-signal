@@ -1,22 +1,6 @@
 [
   {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Grimes77"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Tech House",
+    "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 84,
@@ -24,58 +8,10 @@
     "buyPctDelta": -4,
     "isNew": false,
     "leaders": [
-      "Gesaffelstein",
-      "Laszlo",
-      "Adriatique",
-      "Soundscape"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Midnight City",
-      "Jansons",
-      "Angelo Ferreri",
-      "Rain Forest Project"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "Bun Xapa",
-      "thds",
-      "Rex Stax"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
       "Kasablanca",
       "Tinlicker",
       "HNTR",
-      "Ultra Funkular Sound"
+      "Andy Syn"
     ],
     "delta": "Steady build"
   },
@@ -85,7 +21,7 @@
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 4,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Psyk",
@@ -96,18 +32,34 @@
     "delta": "Steady build"
   },
   {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 4,
+    "isNew": false,
+    "leaders": [
+      "Gesaffelstein",
+      "Laszlo",
+      "Adriatique",
+      "Makiato Music"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Minimal / Deep Tech",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 71,
+    "buyPct": 57,
     "playPctDelta": 0,
-    "buyPctDelta": -9,
+    "buyPctDelta": -14,
     "isNew": false,
     "leaders": [
       "Sara Landry",
       "Anna",
       "Max Cooper",
-      "Nae:Tek"
+      "No Reclaim"
     ],
     "delta": "Steady build"
   },
@@ -128,7 +80,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Organic / Downtempo",
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -136,10 +88,10 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "Tibetania"
+      "Midnight City",
+      "Jansons",
+      "Angelo Ferreri",
+      "Alessandro Cacco"
     ],
     "delta": "Steady build"
   },
@@ -155,6 +107,54 @@
       "The Prophet",
       "Isyti",
       "Yoshiko"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 76,
+    "playPctDelta": 0,
+    "buyPctDelta": -12,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "Bun Xapa",
+      "thds",
+      "Imperio De Tierra Caliente"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 77,
+    "playPctDelta": 0,
+    "buyPctDelta": -11,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "Grimes77"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "Tibetania"
     ],
     "delta": "Steady build"
   }
