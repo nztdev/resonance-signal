@@ -1,12 +1,45 @@
 [
   {
+    "artist": "Angelo Ferreri",
+    "genre": "House",
+    "playRank": 21,
+    "buyRank": 240,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
     "artist": "Florian Gasperini",
     "genre": "Organic / Downtempo",
-    "playRank": 49,
-    "buyRank": 101,
+    "playRank": 50,
+    "buyRank": 134,
     "signal": "dj-play",
-    "playDelta": 6,
-    "buyDelta": 12,
+    "playDelta": -1,
+    "buyDelta": -33,
+    "raBooked": false
+  },
+  {
+    "artist": "Robert Miles",
+    "genre": "Trance",
+    "playRank": 56,
+    "buyRank": 169,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "Alex C",
+    "genre": "Trance",
+    "playRank": 75,
+    "buyRank": 122,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
@@ -21,7 +54,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Melodic Techno",
+    "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -30,8 +63,8 @@
     "raBooked": false
   },
   {
-    "artist": "The Prophet",
-    "genre": "Hard Techno",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -41,13 +74,14 @@
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Midnight City",
+    "genre": "House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
@@ -61,29 +95,29 @@
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
+    "playDelta": -3,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "JCH UP",
+    "genre": "House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "No Reclaim",
-    "genre": "Melodic Techno",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": 1,
-    "raBooked": false
-  },
-  {
-    "artist": "Sergii Petrenko",
-    "genre": "Organic / Downtempo",
+    "artist": "Damolh33",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -93,18 +127,19 @@
     "raBooked": false
   },
   {
-    "artist": "21 ROOM",
-    "genre": "Minimal / Deep Tech",
+    "artist": "CITRON8",
+    "genre": "Trance",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": -2,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Nae:Tek",
-    "genre": "Organic / Downtempo",
+    "artist": "Nu Ground Foundation",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -114,8 +149,8 @@
     "raBooked": false
   },
   {
-    "artist": "Imperio De Tierra Caliente",
-    "genre": "Afro House",
+    "artist": "Lookahead",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -125,14 +160,13 @@
     "raBooked": false
   },
   {
-    "artist": "風土策展人",
-    "genre": "Deep House",
+    "artist": "Nae:Tek",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": -2,
     "raBooked": false
   }
 ]
