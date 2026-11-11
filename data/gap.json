@@ -1,55 +1,23 @@
 [
   {
-    "artist": "Max Cooper",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 20,
-    "buyRank": 291,
+    "artist": "JOHN ELLE",
+    "genre": "Afro House",
+    "playRank": 23,
+    "buyRank": 294,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "HNTR",
-    "genre": "Melodic Techno",
-    "playRank": 34,
-    "buyRank": 288,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": false
-  },
-  {
-    "artist": "Florian Gasperini",
-    "genre": "Organic / Downtempo",
-    "playRank": 42,
-    "buyRank": 144,
-    "signal": "dj-play",
-    "playDelta": 8,
-    "buyDelta": -10,
     "raBooked": false
   },
   {
     "artist": "Robert Miles",
     "genre": "Trance",
     "playRank": 60,
-    "buyRank": 285,
+    "buyRank": 352,
     "signal": "dj-play",
-    "playDelta": -4,
-    "buyDelta": -116,
-    "raBooked": false
-  },
-  {
-    "artist": "tebra",
-    "genre": "Organic / Downtempo",
-    "playRank": 78,
-    "buyRank": 86,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "playDelta": 0,
+    "buyDelta": -67,
     "raBooked": false
   },
   {
@@ -73,8 +41,8 @@
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "Isyti",
+    "genre": "Hard Techno",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -83,18 +51,19 @@
     "raBooked": false
   },
   {
-    "artist": "Midnight City",
-    "genre": "House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Isyti",
-    "genre": "Hard Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -104,18 +73,19 @@
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -3,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Oziriz",
-    "genre": "Tech House",
+    "artist": "No Reclaim",
+    "genre": "Afro House",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -125,8 +95,8 @@
     "raBooked": false
   },
   {
-    "artist": "Ghost In The Metaverse",
-    "genre": "Melodic Techno",
+    "artist": "Mazelo Nostra",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -136,8 +106,8 @@
     "raBooked": false
   },
   {
-    "artist": "Tech House Lovers",
-    "genre": "Tech House",
+    "artist": "Alexandro Korzh",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -147,8 +117,8 @@
     "raBooked": false
   },
   {
-    "artist": "Charly Ferrante",
-    "genre": "Minimal / Deep Tech",
+    "artist": "SynToBe",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -158,8 +128,8 @@
     "raBooked": false
   },
   {
-    "artist": "ARSANIT 2.0.",
-    "genre": "House",
+    "artist": "bruno costa",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -169,7 +139,7 @@
     "raBooked": false
   },
   {
-    "artist": "Urbane Pineapple",
+    "artist": "R3S3T MU5IC",
     "genre": "Trance",
     "playRank": null,
     "buyRank": 6,
