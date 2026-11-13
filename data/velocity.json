@@ -1,53 +1,5 @@
 [
   {
-    "genre": "Minimal / Deep Tech",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 76,
-    "playPctDelta": 0,
-    "buyPctDelta": -1,
-    "isNew": false,
-    "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "No Reclaim"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Goom Gum",
-      "Melodic House Lovers"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Midnight City",
-      "Angelo Ferreri",
-      "Jansons",
-      "Mike Risk"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "Hard Techno",
     "status": "emerging",
     "playPct": 56,
@@ -68,13 +20,13 @@
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 1,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Gesaffelstein",
       "Laszlo",
       "Adriatique",
-      "Dan Soden"
+      "Tony Thomas"
     ],
     "delta": "Steady build"
   },
@@ -82,31 +34,31 @@
     "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 85,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -3,
+    "buyPctDelta": 3,
     "isNew": false,
     "leaders": [
       "Psyk",
       "Morbe",
       "Avant.OCS",
-      "No Reclaim"
+      "Feel Blackside"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Afro House",
+    "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 84,
     "playPctDelta": 0,
-    "buyPctDelta": 21,
+    "buyPctDelta": -4,
     "isNew": false,
     "leaders": [
-      "Mobi Dixon",
-      "Bun Xapa",
-      "JOHN ELLE",
-      "Los Hermanos Flores"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Margrave"
     ],
     "delta": "Steady build"
   },
@@ -122,28 +74,12 @@
       "thds",
       "Stavroz",
       "Tinlicker",
-      "Mazelo Nostra"
+      "M-Sol DEEP"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Trance",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 81,
-    "playPctDelta": 0,
-    "buyPctDelta": 18,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "Statictrix"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Deep House",
+    "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -151,10 +87,74 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Synchro"
+      "Kasablanca",
+      "Tinlicker",
+      "Goom Gum",
+      "Antony Well"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Minimal / Deep Tech",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 12,
+    "isNew": false,
+    "leaders": [
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "Paul Was"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Midnight City",
+      "Angelo Ferreri",
+      "Jansons",
+      "GLOBALOX"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 7,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "DJ HEARTSTRING"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "Bun Xapa",
+      "JOHN ELLE",
+      "Killervybez"
     ],
     "delta": "Steady build"
   }
