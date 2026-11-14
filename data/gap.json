@@ -1,9 +1,9 @@
 [
   {
-    "artist": "Alice Deejay",
+    "artist": "Darude",
     "genre": "Trance",
-    "playRank": 36,
-    "buyRank": 157,
+    "playRank": 72,
+    "buyRank": 166,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -11,8 +11,8 @@
     "raBooked": false
   },
   {
-    "artist": "thds",
-    "genre": "Organic / Downtempo",
+    "artist": "Tinlicker",
+    "genre": "Melodic Techno",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -21,7 +21,7 @@
     "raBooked": false
   },
   {
-    "artist": "Tinlicker",
+    "artist": "thds",
     "genre": "Organic / Downtempo",
     "playRank": 2,
     "buyRank": null,
@@ -31,28 +31,29 @@
     "raBooked": false
   },
   {
-    "artist": "Isyti",
-    "genre": "Hard Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": 3,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -62,19 +63,18 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Isyti",
+    "genre": "Hard Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": null,
+    "playDelta": -3,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Rain Forest Project",
-    "genre": "Tech House",
+    "artist": "ZETA-9",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
@@ -84,8 +84,8 @@
     "raBooked": false
   },
   {
-    "artist": "Perfect Stranger",
-    "genre": "Techno",
+    "artist": "No Reclaim",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -95,18 +95,19 @@
     "raBooked": false
   },
   {
-    "artist": "Tony Thomas",
-    "genre": "Tech House",
+    "artist": "Oziriz",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": 1,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Feel Blackside",
-    "genre": "Techno",
+    "artist": "Vlad Brost",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -116,8 +117,8 @@
     "raBooked": false
   },
   {
-    "artist": "Sphera",
-    "genre": "Techno",
+    "artist": "Shay Meir Elyakim",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -127,8 +128,8 @@
     "raBooked": false
   },
   {
-    "artist": "Margrave",
-    "genre": "Deep House",
+    "artist": "Vicissu",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",

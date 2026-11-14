@@ -1,53 +1,22 @@
 [
   {
-    "genre": "Hard Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 25,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Isyti",
-      "The Prophet",
-      "SIKOTI"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Gesaffelstein",
-      "Laszlo",
-      "Adriatique",
-      "Tony Thomas"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 3,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Feel Blackside"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 78,
+    "playPctDelta": 0,
+    "buyPctDelta": -6,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Shay Meir Elyakim"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 84,
@@ -55,10 +24,10 @@
     "buyPctDelta": -4,
     "isNew": false,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Margrave"
+      "Kasablanca",
+      "Tinlicker",
+      "Goom Gum",
+      "Vicissu"
     ],
     "delta": "Steady build"
   },
@@ -79,7 +48,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Melodic Techno",
+    "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
@@ -87,10 +56,25 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Goom Gum",
-      "Antony Well"
+      "Mobi Dixon",
+      "Bun Xapa",
+      "JOHN ELLE",
+      "Tonga Boys"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Hard Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 25,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Isyti",
+      "The Prophet",
+      "SIKOTI"
     ],
     "delta": "Steady build"
   },
@@ -98,15 +82,31 @@
     "genre": "Minimal / Deep Tech",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 50,
     "playPctDelta": 0,
-    "buyPctDelta": 12,
+    "buyPctDelta": -38,
     "isNew": false,
     "leaders": [
       "Sara Landry",
       "Anna",
       "Max Cooper",
-      "Paul Was"
+      "Gael Santos Ortiz"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Gesaffelstein",
+      "Laszlo",
+      "Adriatique",
+      "Anthon Tranbel"
     ],
     "delta": "Steady build"
   },
@@ -122,7 +122,7 @@
       "Midnight City",
       "Angelo Ferreri",
       "Jansons",
-      "GLOBALOX"
+      "Dj FunattiQ"
     ],
     "delta": "Steady build"
   },
@@ -130,31 +130,31 @@
     "genre": "Trance",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 60,
     "playPctDelta": 0,
-    "buyPctDelta": 7,
+    "buyPctDelta": -28,
     "isNew": false,
     "leaders": [
       "Tiësto",
       "Armin van Buuren",
       "Niki",
-      "DJ HEARTSTRING"
+      "No Reclaim"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Afro House",
+    "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 78,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -10,
     "isNew": false,
     "leaders": [
-      "Mobi Dixon",
-      "Bun Xapa",
-      "JOHN ELLE",
-      "Killervybez"
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Gigi D'Amico"
     ],
     "delta": "Steady build"
   }
