@@ -1,49 +1,17 @@
 [
   {
-    "genre": "Deep House",
+    "genre": "Minimal / Deep Tech",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 78,
+    "buyPct": 63,
     "playPctDelta": 0,
-    "buyPctDelta": -6,
+    "buyPctDelta": 13,
     "isNew": false,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Shay Meir Elyakim"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 84,
-    "playPctDelta": 0,
-    "buyPctDelta": -4,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Goom Gum",
-      "Vicissu"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker",
-      "M-Sol DEEP"
+      "Sara Landry",
+      "Anna",
+      "Max Cooper",
+      "No Reclaim"
     ],
     "delta": "Steady build"
   },
@@ -59,38 +27,71 @@
       "Mobi Dixon",
       "Bun Xapa",
       "JOHN ELLE",
-      "Tonga Boys"
+      "Mpho.Wav"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Hard Techno",
+    "genre": "House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 25,
+    "buyPct": 80,
+    "playPctDelta": 0,
+    "buyPctDelta": -8,
+    "isNew": false,
+    "leaders": [
+      "Midnight City",
+      "Angelo Ferreri",
+      "Jansons",
+      "ASTRO KIRTIKA MUSIC"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 69,
+    "playPctDelta": 0,
+    "buyPctDelta": -9,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Avant.OCS",
+      "Pictuyu"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Organic / Downtempo",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
     "playPctDelta": 0,
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Isyti",
-      "The Prophet",
-      "SIKOTI"
+      "thds",
+      "Stavroz",
+      "Tinlicker",
+      "ZETA-9"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Minimal / Deep Tech",
+    "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 50,
+    "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": -38,
+    "buyPctDelta": 4,
     "isNew": false,
     "leaders": [
-      "Sara Landry",
-      "Anna",
-      "Max Cooper",
-      "Gael Santos Ortiz"
+      "Kasablanca",
+      "Tinlicker",
+      "Goom Gum",
+      "No Reclaim"
     ],
     "delta": "Steady build"
   },
@@ -106,23 +107,23 @@
       "Gesaffelstein",
       "Laszlo",
       "Adriatique",
-      "Anthon Tranbel"
+      "LinaBeats"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "House",
+    "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 76,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -2,
     "isNew": false,
     "leaders": [
-      "Midnight City",
-      "Angelo Ferreri",
-      "Jansons",
-      "Dj FunattiQ"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Shay Meir Elyakim"
     ],
     "delta": "Steady build"
   },
@@ -130,9 +131,9 @@
     "genre": "Trance",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 60,
+    "buyPct": 64,
     "playPctDelta": 0,
-    "buyPctDelta": -28,
+    "buyPctDelta": 4,
     "isNew": false,
     "leaders": [
       "Tiësto",
@@ -143,18 +144,17 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Techno",
+    "genre": "Hard Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 78,
+    "buyPct": 25,
     "playPctDelta": 0,
-    "buyPctDelta": -10,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Gigi D'Amico"
+      "Isyti",
+      "The Prophet",
+      "SIKOTI"
     ],
     "delta": "Steady build"
   }
