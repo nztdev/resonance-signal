@@ -1,6 +1,11 @@
 [
   {
-    "text": "Minimal / Deep Tech",
+    "text": "Tech House",
+    "sub": "Steady build",
+    "c": "#ffd93d"
+  },
+  {
+    "text": "Deep House",
     "sub": "Steady build",
     "c": "#ffd93d"
   },
@@ -10,12 +15,7 @@
     "c": "#ffd93d"
   },
   {
-    "text": "House",
-    "sub": "Steady build",
-    "c": "#ffd93d"
-  },
-  {
-    "text": "Techno",
+    "text": "Organic / Downtempo",
     "sub": "Steady build",
     "c": "#ffd93d"
   }

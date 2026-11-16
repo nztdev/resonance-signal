@@ -1,13 +1,25 @@
 [
   {
-    "artist": "Darude",
-    "genre": "Trance",
-    "playRank": 72,
-    "buyRank": 285,
+    "artist": "Christian Löffler",
+    "genre": "Minimal / Deep Tech",
+    "playRank": 33,
+    "buyRank": 129,
     "signal": "dj-play",
-    "playDelta": 0,
-    "buyDelta": -119,
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
     "raBooked": false
+  },
+  {
+    "artist": "Face",
+    "genre": "Hard Techno",
+    "playRank": 73,
+    "buyRank": 159,
+    "signal": "dj-play",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": true
   },
   {
     "artist": "thds",
@@ -15,7 +27,7 @@
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
@@ -25,23 +37,24 @@
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Mobi Dixon",
-    "genre": "Afro House",
+    "artist": "Gesaffelstein",
+    "genre": "Tech House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 2,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Midnight City",
-    "genre": "House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -51,39 +64,39 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "Mobi Dixon",
+    "genre": "Afro House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
+    "playDelta": -2,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Midnight City",
+    "genre": "House",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": -2,
+    "buyDelta": null,
+    "raBooked": false
+  },
+  {
+    "artist": "Oziriz",
+    "genre": "Tech House",
+    "playRank": null,
+    "buyRank": 1,
+    "signal": "fan-buy",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
-    "playDelta": -2,
-    "buyDelta": null,
-    "raBooked": true
-  },
-  {
-    "artist": "No Reclaim",
-    "genre": "Minimal / Deep Tech",
-    "playRank": null,
-    "buyRank": 1,
-    "signal": "fan-buy",
-    "playDelta": null,
-    "buyDelta": 1,
-    "raBooked": false
-  },
-  {
-    "artist": "Behache",
-    "genre": "Minimal / Deep Tech",
+    "artist": "Deibys Marquez",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -93,8 +106,8 @@
     "raBooked": false
   },
   {
-    "artist": "Big Bunny",
-    "genre": "Afro House",
+    "artist": "Shay Meir Elyakim",
+    "genre": "Deep House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -104,7 +117,7 @@
     "raBooked": false
   },
   {
-    "artist": "Mpho.Wav",
+    "artist": "Katlego",
     "genre": "Afro House",
     "playRank": null,
     "buyRank": 4,
@@ -115,8 +128,8 @@
     "raBooked": false
   },
   {
-    "artist": "ASTRO KIRTIKA MUSIC",
-    "genre": "House",
+    "artist": "ZETA-9",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -126,8 +139,8 @@
     "raBooked": false
   },
   {
-    "artist": "Pictuyu",
-    "genre": "Techno",
+    "artist": "Coffee Music Machine",
+    "genre": "House",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",
