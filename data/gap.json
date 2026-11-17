@@ -1,9 +1,19 @@
 [
   {
-    "artist": "Christian Löffler",
-    "genre": "Minimal / Deep Tech",
-    "playRank": 33,
-    "buyRank": 129,
+    "artist": "Face",
+    "genre": "Hard Techno",
+    "playRank": 69,
+    "buyRank": 298,
+    "signal": "dj-play",
+    "playDelta": 4,
+    "buyDelta": -139,
+    "raBooked": true
+  },
+  {
+    "artist": "Dusky",
+    "genre": "Deep House",
+    "playRank": 74,
+    "buyRank": 84,
     "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
@@ -11,19 +21,8 @@
     "raBooked": false
   },
   {
-    "artist": "Face",
-    "genre": "Hard Techno",
-    "playRank": 73,
-    "buyRank": 159,
-    "signal": "dj-play",
-    "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
-  },
-  {
     "artist": "thds",
-    "genre": "Afro House",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
@@ -42,8 +41,8 @@
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
@@ -53,9 +52,20 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 4,
+    "buyRank": null,
+    "signal": "underground",
+    "playDelta": null,
+    "buyDelta": null,
+    "isNew": true,
+    "raBooked": false
+  },
+  {
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
+    "playRank": 5,
     "buyRank": null,
     "signal": "underground",
     "playDelta": null,
@@ -66,37 +76,26 @@
   {
     "artist": "Mobi Dixon",
     "genre": "Afro House",
-    "playRank": 5,
-    "buyRank": null,
-    "signal": "underground",
-    "playDelta": -2,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Midnight City",
-    "genre": "House",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": -2,
+    "playDelta": -1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Oziriz",
-    "genre": "Tech House",
+    "artist": "ZETA-9",
+    "genre": "Organic / Downtempo",
     "playRank": null,
     "buyRank": 1,
     "signal": "fan-buy",
     "playDelta": null,
-    "buyDelta": null,
-    "isNew": true,
+    "buyDelta": 4,
     "raBooked": false
   },
   {
-    "artist": "Deibys Marquez",
-    "genre": "Tech House",
+    "artist": "Techno Lovers",
+    "genre": "Techno",
     "playRank": null,
     "buyRank": 2,
     "signal": "fan-buy",
@@ -106,8 +105,8 @@
     "raBooked": false
   },
   {
-    "artist": "Shay Meir Elyakim",
-    "genre": "Deep House",
+    "artist": "Woodrumma81 aka Phill-3",
+    "genre": "Tech House",
     "playRank": null,
     "buyRank": 3,
     "signal": "fan-buy",
@@ -117,8 +116,8 @@
     "raBooked": false
   },
   {
-    "artist": "Katlego",
-    "genre": "Afro House",
+    "artist": "Sukhan Music",
+    "genre": "House",
     "playRank": null,
     "buyRank": 4,
     "signal": "fan-buy",
@@ -128,8 +127,8 @@
     "raBooked": false
   },
   {
-    "artist": "ZETA-9",
-    "genre": "Organic / Downtempo",
+    "artist": "No Reclaim",
+    "genre": "Minimal / Deep Tech",
     "playRank": null,
     "buyRank": 5,
     "signal": "fan-buy",
@@ -139,8 +138,8 @@
     "raBooked": false
   },
   {
-    "artist": "Coffee Music Machine",
-    "genre": "House",
+    "artist": "Jason Still",
+    "genre": "Melodic Techno",
     "playRank": null,
     "buyRank": 6,
     "signal": "fan-buy",

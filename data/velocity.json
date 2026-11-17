@@ -1,49 +1,33 @@
 [
   {
-    "genre": "Tech House",
+    "genre": "Trance",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 77,
     "playPctDelta": 0,
-    "buyPctDelta": 0,
+    "buyPctDelta": -7,
     "isNew": false,
     "leaders": [
-      "Gesaffelstein",
-      "Laszlo",
-      "Adriatique",
-      "Deibys Marquez"
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki",
+      "JK Lloyd"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Deep House",
+    "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 70,
     "playPctDelta": 0,
-    "buyPctDelta": 12,
+    "buyPctDelta": -18,
     "isNew": false,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler",
-      "Shay Meir Elyakim"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Afro House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Mobi Dixon",
-      "Bun Xapa",
-      "JOHN ELLE",
-      "Katlego"
+      "Psyk",
+      "Morbe",
+      "Unklevon",
+      "Techno Lovers"
     ],
     "delta": "Steady build"
   },
@@ -64,34 +48,65 @@
     "delta": "Steady build"
   },
   {
+    "genre": "Hard Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 25,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "The Prophet",
+      "Isyti",
+      "Yoshiko"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Afro House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 88,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Mobi Dixon",
+      "thds",
+      "Bun Xapa",
+      "Cafe De Anatolia"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 76,
+    "playPctDelta": 0,
+    "buyPctDelta": -12,
+    "isNew": false,
+    "leaders": [
+      "Gesaffelstein",
+      "Adriatique",
+      "Laszlo",
+      "Woodrumma81 aka Phill-3"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 88,
     "playPctDelta": 0,
-    "buyPctDelta": 8,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Midnight City",
       "Angelo Ferreri",
       "Jansons",
-      "Coffee Music Machine"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 88,
-    "playPctDelta": 0,
-    "buyPctDelta": 19,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Avant.OCS",
-      "Break In Transmission"
+      "Midnight City",
+      "Sukhan Music"
     ],
     "delta": "Steady build"
   },
@@ -99,15 +114,15 @@
     "genre": "Minimal / Deep Tech",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 88,
+    "buyPct": 67,
     "playPctDelta": 0,
-    "buyPctDelta": 25,
+    "buyPctDelta": -21,
     "isNew": false,
     "leaders": [
       "Sara Landry",
       "Anna",
       "Max Cooper",
-      "Cottonmouthkillah"
+      "No Reclaim"
     ],
     "delta": "Steady build"
   },
@@ -122,39 +137,24 @@
     "leaders": [
       "Kasablanca",
       "Tinlicker",
-      "Goom Gum",
-      "Alessandro Papa"
+      "Nato Medrado",
+      "Jason Still"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Trance",
+    "genre": "Deep House",
     "status": "emerging",
     "playPct": 56,
-    "buyPct": 84,
-    "playPctDelta": 0,
-    "buyPctDelta": 20,
-    "isNew": false,
-    "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki",
-      "JARR Head"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 25,
+    "buyPct": 88,
     "playPctDelta": 0,
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Isyti",
-      "The Prophet",
-      "SIKOTI"
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler",
+      "Shay Meir Elyakim"
     ],
     "delta": "Steady build"
   }
