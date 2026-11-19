@@ -5,7 +5,7 @@
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -11,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Sara Landry",
@@ -15,72 +15,12 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Organic / Downtempo",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": -32,
-    "isNew": false,
-    "leaders": [
-      "thds",
-      "Stavroz",
-      "Tinlicker"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Melodic Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": -32,
-    "isNew": false,
-    "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Nato Medrado"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Tech House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": -20,
-    "isNew": false,
-    "leaders": [
-      "Gesaffelstein",
-      "Adriatique",
-      "Laszlo"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": -14,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon"
-    ],
-    "delta": "Steady build"
-  },
-  {
     "genre": "House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -32,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Angelo Ferreri",
@@ -90,32 +30,17 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Deep House",
+    "genre": "Organic / Downtempo",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -32,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Hard Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": 31,
-    "isNew": false,
-    "leaders": [
-      "The Prophet",
-      "Isyti",
-      "Yoshiko"
+      "thds",
+      "Stavroz",
+      "Tinlicker"
     ],
     "delta": "Steady build"
   },
@@ -125,7 +50,7 @@
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -21,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Tiësto",
@@ -135,17 +60,92 @@
     "delta": "Steady build"
   },
   {
+    "genre": "Hard Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "The Prophet",
+      "Isyti",
+      "Yoshiko"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Melodic Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Kasablanca",
+      "Tinlicker",
+      "Nato Medrado"
+    ],
+    "delta": "Steady build"
+  },
+  {
     "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
     "playPctDelta": 0,
-    "buyPctDelta": -32,
+    "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
       "Mobi Dixon",
       "thds",
       "Bun Xapa"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Techno",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Psyk",
+      "Morbe",
+      "Unklevon"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Tech House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Gesaffelstein",
+      "Adriatique",
+      "Laszlo"
     ],
     "delta": "Steady build"
   }

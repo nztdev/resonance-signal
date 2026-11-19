@@ -20,19 +20,18 @@
     "raBooked": false
   },
   {
-    "artist": "Kasablanca",
-    "genre": "Melodic Techno",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 3,
     "buyDelta": null,
-    "isNew": true,
-    "raBooked": true
+    "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -42,24 +41,24 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
-    "buyDelta": null,
-    "raBooked": false
-  },
-  {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
-    "playRank": 6,
-    "buyRank": null,
-    "signal": "dj-play",
     "playDelta": null,
     "buyDelta": null,
     "isNew": true,
     "raBooked": false
+  },
+  {
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
+    "playRank": 6,
+    "buyRank": null,
+    "signal": "dj-play",
+    "playDelta": -3,
+    "buyDelta": null,
+    "raBooked": true
   }
 ]
