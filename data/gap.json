@@ -11,7 +11,7 @@
   },
   {
     "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "genre": "Melodic Techno",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
@@ -20,19 +20,18 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 2,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Tiësto",
-    "genre": "Trance",
+    "artist": "Kasablanca",
+    "genre": "Melodic Techno",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -42,8 +41,8 @@
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Angelo Ferreri",
+    "genre": "House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
@@ -52,13 +51,14 @@
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   }
 ]
