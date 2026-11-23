@@ -1,6 +1,6 @@
 [
   {
-    "genre": "Deep House",
+    "genre": "Afro House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
@@ -8,14 +8,14 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler"
+      "Mobi Dixon",
+      "thds",
+      "Bun Xapa"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Melodic Techno",
+    "genre": "Tech House",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
@@ -23,9 +23,9 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Kasablanca",
-      "Tinlicker",
-      "Nato Medrado"
+      "Gesaffelstein",
+      "Adriatique",
+      "Laszlo"
     ],
     "delta": "Steady build"
   },
@@ -45,7 +45,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Hard Techno",
+    "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
@@ -53,9 +53,9 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "The Prophet",
-      "Isyti",
-      "Yoshiko"
+      "Psyk",
+      "Morbe",
+      "Unklevon"
     ],
     "delta": "Steady build"
   },
@@ -71,21 +71,6 @@
       "Sara Landry",
       "Anna",
       "Max Cooper"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon"
     ],
     "delta": "Steady build"
   },
@@ -120,7 +105,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Afro House",
+    "genre": "Hard Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
@@ -128,14 +113,14 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Mobi Dixon",
-      "thds",
-      "Bun Xapa"
+      "The Prophet",
+      "Isyti",
+      "Yoshiko"
     ],
     "delta": "Steady build"
   },
   {
-    "genre": "Tech House",
+    "genre": "Melodic Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
@@ -143,9 +128,24 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Gesaffelstein",
-      "Adriatique",
-      "Laszlo"
+      "Kasablanca",
+      "Tinlicker",
+      "Nato Medrado"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Kerri Chandler"
     ],
     "delta": "Steady build"
   }
