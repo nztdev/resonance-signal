@@ -9,8 +9,38 @@
     "isNew": false,
     "leaders": [
       "Mobi Dixon",
-      "thds",
-      "Bun Xapa"
+      "Bun Xapa",
+      "JOHN ELLE"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Trance",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Tiësto",
+      "Armin van Buuren",
+      "Niki"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "Deep House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "nbsplv",
+      "Lost Frequencies",
+      "Youandewan"
     ],
     "delta": "Steady build"
   },
@@ -23,39 +53,9 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Gesaffelstein",
       "Adriatique",
+      "Gesaffelstein",
       "Laszlo"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Angelo Ferreri",
-      "Jansons",
-      "Midnight City"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Techno",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "Psyk",
-      "Morbe",
-      "Unklevon"
     ],
     "delta": "Steady build"
   },
@@ -90,7 +90,7 @@
     "delta": "Steady build"
   },
   {
-    "genre": "Trance",
+    "genre": "Techno",
     "status": "emerging",
     "playPct": 56,
     "buyPct": 56,
@@ -98,9 +98,24 @@
     "buyPctDelta": 0,
     "isNew": false,
     "leaders": [
-      "Tiësto",
-      "Armin van Buuren",
-      "Niki"
+      "Psyk",
+      "Morbe",
+      "Unklevon"
+    ],
+    "delta": "Steady build"
+  },
+  {
+    "genre": "House",
+    "status": "emerging",
+    "playPct": 56,
+    "buyPct": 56,
+    "playPctDelta": 0,
+    "buyPctDelta": 0,
+    "isNew": false,
+    "leaders": [
+      "Angelo Ferreri",
+      "Jansons",
+      "Midnight City"
     ],
     "delta": "Steady build"
   },
@@ -131,21 +146,6 @@
       "Kasablanca",
       "Tinlicker",
       "Nato Medrado"
-    ],
-    "delta": "Steady build"
-  },
-  {
-    "genre": "Deep House",
-    "status": "emerging",
-    "playPct": 56,
-    "buyPct": 56,
-    "playPctDelta": 0,
-    "buyPctDelta": 0,
-    "isNew": false,
-    "leaders": [
-      "nbsplv",
-      "Lost Frequencies",
-      "Kerri Chandler"
     ],
     "delta": "Steady build"
   }

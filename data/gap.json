@@ -1,21 +1,21 @@
 [
   {
-    "artist": "thds",
-    "genre": "Afro House",
+    "artist": "Tinlicker",
+    "genre": "Organic / Downtempo",
     "playRank": 1,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": 1,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Tinlicker",
-    "genre": "Organic / Downtempo",
+    "artist": "thds",
+    "genre": "Afro House",
     "playRank": 2,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": -1,
     "buyDelta": null,
     "raBooked": false
   },
@@ -25,14 +25,13 @@
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
-    "artist": "Gesaffelstein",
-    "genre": "Tech House",
+    "artist": "Tiësto",
+    "genre": "Trance",
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
@@ -42,13 +41,14 @@
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": 0,
+    "playDelta": null,
     "buyDelta": null,
+    "isNew": true,
     "raBooked": false
   },
   {
@@ -57,9 +57,8 @@
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
-    "playDelta": null,
+    "playDelta": 0,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   }
 ]
