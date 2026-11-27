@@ -1,11 +1,6 @@
 [
   {
-    "text": "Techno",
-    "sub": "Steady build",
-    "c": "#ffd93d"
-  },
-  {
-    "text": "Tech House",
+    "text": "Deep House",
     "sub": "Steady build",
     "c": "#ffd93d"
   },
@@ -15,7 +10,12 @@
     "c": "#ffd93d"
   },
   {
-    "text": "Minimal / Deep Tech",
+    "text": "Techno",
+    "sub": "Steady build",
+    "c": "#ffd93d"
+  },
+  {
+    "text": "Tech House",
     "sub": "Steady build",
     "c": "#ffd93d"
   }

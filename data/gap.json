@@ -20,14 +20,13 @@
     "raBooked": false
   },
   {
-    "artist": "Psyk",
-    "genre": "Techno",
+    "artist": "nbsplv",
+    "genre": "Deep House",
     "playRank": 3,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": null,
+    "playDelta": 2,
     "buyDelta": null,
-    "isNew": true,
     "raBooked": false
   },
   {
@@ -36,23 +35,23 @@
     "playRank": 4,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": 0,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "nbsplv",
-    "genre": "Deep House",
+    "artist": "Psyk",
+    "genre": "Techno",
     "playRank": 5,
     "buyRank": null,
     "signal": "underground",
-    "playDelta": -1,
+    "playDelta": -2,
     "buyDelta": null,
     "raBooked": false
   },
   {
-    "artist": "Angelo Ferreri",
-    "genre": "House",
+    "artist": "The Prophet",
+    "genre": "Hard Techno",
     "playRank": 6,
     "buyRank": null,
     "signal": "dj-play",
